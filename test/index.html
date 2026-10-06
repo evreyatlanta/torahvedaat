@@ -15,35 +15,35 @@
     <link href="css/site.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Перейти к содержимому</a>
+    <div class="site-shell">
 
     <!-- Header Bar -->
-    <div class="header-bar">
-        <small>
-            <a href="index.html">Домашняя Страничка</a> |
+    <nav class="header-bar" aria-label="Основная навигация">
+        
+            <a href="index.html" aria-current="page">Домашняя Страничка</a> |
             <a href="aboutus.html">Связаться с нами</a>
-        </small>
-    </div>
+        </nav>
 
     <!-- Logo Section -->
-    <div class="logo-section clearfix">
+    <header class="logo-section">
         <img src="images/logo.png" alt="Тора ве-Даат">
-        <h2>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h2>
-        <h3>Jewish Russian Community "Torah ve-Daat"</h3>
-    </div>
+        <div class="brand-text"><h1>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h1>
+        <p lang="en">Jewish Russian Community "Torah ve-Daat"</p></div>
+    </header>
 
-    <!-- Main Content Table -->
-    <table class="main-table">
-        <tr>
+    <!-- Responsive layout: optional section navigation, main content, supporting panels -->
+    <div class="site-layout">
             <!-- Main Content -->
-            <td class="content-area">
+            <main id="main-content" class="content-area" tabindex="-1">
                 <div class="white-box">
-                    <div class="section-title">Добро пожаловать!</div>
+                    <h2 class="section-title">Добро пожаловать!</h2>
                     <p>Добро пожаловать на сайт Еврейской Русскоязычной Общины Атланты "Тора ве-Даат"!</p>
                     <p>Наша община объединяет русскоязычных евреев Атланты и её окрестностей. Мы проводим уроки Торы, отмечаем еврейские праздники и поддерживаем еврейские традиции.</p>
                 </div>
 
                 <div class="white-box">
-                    <div class="section-title">О нашей общине</div>
+                    <h2 class="section-title">О нашей общине</h2>
                     <p>Община "Тора ве-Даат" была основана для того, чтобы помочь русскоязычным евреям Атланты изучать Тору и соблюдать еврейские традиции.</p>
                     <p>Мы предлагаем:</p>
                     <ul>
@@ -54,10 +54,10 @@
                     </ul>
                 </div>
 
-            </td>
+            </main>
 
-            <!-- Right Sidebar -->
-            <td class="right-sidebar">
+            <!-- Supporting panels -->
+            <aside class="right-sidebar" aria-label="Информация общины">
                 <!-- Shabbat Times -->
                 <div class="white-box">
                     <script type="text/javascript" src="https://www.hebcal.com/shabbat/?geo=city;city=Atlanta;m=0;cfg=j"></script>
@@ -68,7 +68,7 @@
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="YDUEUDCMRU6TY">
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Пожертвовать через PayPal">
                     </form>
                 </div>
 
@@ -78,15 +78,14 @@
                     Атланта, Джорджия, США<br>
                     <a href="mailto:evreyatlanta@gmail.com">evreyatlanta@gmail.com</a>
                 </div>
-            </td>
-        </tr>
-    </table>
-
-    <!-- Footer -->
-    <div style="text-align: center; padding: 20px; color: #666; font-size: 12px;">
-        &copy; Еврейская Русскоязычная Община Атланты "Тора ве-Даат"
+            </aside>
     </div>
 
+    <!-- Footer -->
+    <footer class="site-footer">
+        &copy; Еврейская Русскоязычная Община Атланты "Тора ве-Даат"
+    </footer>
+    </div>
 
 </body>
 </html>

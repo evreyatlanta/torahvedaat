@@ -15,29 +15,29 @@
     <link href="css/site.css" rel="stylesheet" type="text/css">
 </head>
 <body>
+    <a class="skip-link" href="#main-content">Перейти к содержимому</a>
+    <div class="site-shell">
 
     <!-- Header Bar -->
-    <div class="header-bar">
-        <small>
+    <nav class="header-bar" aria-label="Основная навигация">
+        
             <a href="index.html">Домашняя Страничка</a> |
-            <a href="aboutus.html">Связаться с нами</a>
-        </small>
-    </div>
+            <a href="aboutus.html" aria-current="page">Связаться с нами</a>
+        </nav>
 
     <!-- Logo Section -->
-    <div class="logo-section clearfix">
+    <header class="logo-section">
         <img src="images/logo.png" alt="Тора ве-Даат">
-        <h2>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h2>
-        <h3>Jewish Russian Community "Torah ve-Daat"</h3>
-    </div>
+        <div class="brand-text"><h1>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h1>
+        <p lang="en">Jewish Russian Community "Torah ve-Daat"</p></div>
+    </header>
 
-    <!-- Main Content Table -->
-    <table class="main-table">
-        <tr>
+    <!-- Responsive layout: optional section navigation, main content, supporting panels -->
+    <div class="site-layout">
             <!-- Main Content -->
-            <td class="content-area">
+            <main id="main-content" class="content-area" tabindex="-1">
                 <div class="white-box">
-                    <div class="section-title">Контактная информация / Contact Information</div>
+                    <h2 class="section-title">Контактная информация / Contact Information</h2>
 
                     <h3>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h3>
                     <h4>Jewish Russian Community "Torah ve-Daat"</h4>
@@ -55,13 +55,13 @@
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="YDUEUDCMRU6TY">
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Пожертвовать через PayPal">
                     </form>
                 </div>
-            </td>
+            </main>
 
-            <!-- Right Sidebar -->
-            <td class="right-sidebar">
+            <!-- Supporting panels -->
+            <aside class="right-sidebar" aria-label="Информация общины">
                 <!-- Shabbat Times -->
                 <div class="white-box">
                     <script type="text/javascript" src="https://www.hebcal.com/shabbat/?geo=city;city=Atlanta;m=0;cfg=j"></script>
@@ -72,16 +72,16 @@
                     <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
                         <input type="hidden" name="cmd" value="_s-xclick">
                         <input type="hidden" name="hosted_button_id" value="YDUEUDCMRU6TY">
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Пожертвовать через PayPal">
                     </form>
                 </div>
-            </td>
-        </tr>
-    </table>
+            </aside>
+    </div>
 
     <!-- Footer -->
-    <div style="text-align: center; padding: 20px; color: #666; font-size: 12px;">
+    <footer class="site-footer">
         &copy; Еврейская Русскоязычная Община Атланты "Тора ве-Даат"
+    </footer>
     </div>
 
 </body>
