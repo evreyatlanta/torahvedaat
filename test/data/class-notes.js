@@ -5,7 +5,7 @@
     "expiration": null
   },
   {
-    "title": "Для подключения к онлайн-занятиям пишите на vbarayev@yahoo.com.",
+    "title": "Для подключения к онлайн-занятиям пишите Виктории Бараев на vbarayev@yahoo.com.",
     "classId": null,
     "expiration": null,
     "type": "instruction"

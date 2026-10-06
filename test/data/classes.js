@@ -1,6 +1,7 @@
 [
   {
     "id": "twelve-minor-prophets",
+    "type": "zoom",
     "title": "Двенадцать «малых пророков»",
     "days": "Воскресенье",
     "time": "19:00",
