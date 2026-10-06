@@ -1,5 +1,6 @@
 (() => {
     'use strict';
+    const SUMMARY_VISIBLE_COUNT = 2;
     const status = document.getElementById('schedule-status');
     const cards = document.getElementById('schedule-classes');
     const summary = document.getElementById('schedule-summary');
@@ -55,7 +56,7 @@
         summary.replaceChildren(...items.slice(start), ...items.slice(0, start));
     }
     function collapseSummary() {
-        const remaining = Array.from(summary.children).slice(2);
+        const remaining = Array.from(summary.children).slice(SUMMARY_VISIBLE_COUNT);
         if (!remaining.length) return;
         remaining.forEach(item => { item.hidden = true; });
         const count = remaining.length;
