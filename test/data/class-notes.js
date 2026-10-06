@@ -12,7 +12,7 @@
     "type": "instruction"
   },
   {
-    "title": "Продвинутый уровень",
+    "title": "Еженедельный online-урок, продвинутый уровень",
     "classId": "tikkunei-zohar",
     "expiration": null,
     "type": "note"
