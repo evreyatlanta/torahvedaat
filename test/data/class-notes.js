@@ -1,5 +1,17 @@
 [
   {
+    "title": "Для всех желающих",
+    "classId": "shabbat-weekly-portion-after-kiddush",
+    "expiration": null,
+    "type": "note"
+  },
+  {
+    "title": "Для всех желающих",
+    "classId": "shabbat-weekly-portion-before-mincha",
+    "expiration": null,
+    "type": "note"
+  },
+  {
     "title": "Еженедельный online-урок, продвинутый уровень",
     "classId": "mishlei",
     "expiration": null,

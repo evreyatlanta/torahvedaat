@@ -56,5 +56,29 @@
     "author": null,
     "location": null,
     "link": ""
+  },
+  {
+    "id": "shabbat-weekly-portion-after-kiddush",
+    "type": "in-person",
+    "title": "Урок по недельной главе",
+    "days": "Шабат",
+    "time": "После утреннего кидуша",
+    "description": null,
+    "author": "Рав Исроэль Зельман",
+    "short_author": "р. И. Зельман",
+    "location": "Синагога Ариэль",
+    "link": ""
+  },
+  {
+    "id": "shabbat-weekly-portion-before-mincha",
+    "type": "in-person",
+    "title": "Урок по недельной главе",
+    "days": "Шабат",
+    "time": "За час перед молитвой Минха",
+    "description": null,
+    "author": "Рав Исроэль Зельман",
+    "short_author": "р. И. Зельман",
+    "location": "Синагога Ариэль",
+    "link": ""
   }
 ]
