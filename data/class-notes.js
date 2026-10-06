@@ -1,5 +1,11 @@
 [
   {
+    "title": "Для всех желающих",
+    "classId": "shabbat-weekly-portion-eliyahu-bari",
+    "expiration": null,
+    "type": "note"
+  },
+  {
     "title": "Еженедельный online-урок",
     "classId": "weekly-portion-eliyahu-bari",
     "expiration": null,
