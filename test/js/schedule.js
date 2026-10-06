@@ -99,6 +99,8 @@
                 const link = element('a', lesson.title);
                 link.href = `/test/classes.html#${encodeURIComponent(card.id)}`;
                 item.append(link);
+                const summaryAuthor = lesson.short_author || lesson.author;
+                if (summaryAuthor) item.append(element('p', summaryAuthor, 'class-author'));
                 if (summary) summary.append(item);
             });
             if (status) status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';

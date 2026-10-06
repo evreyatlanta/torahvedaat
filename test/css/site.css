@@ -177,6 +177,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-instructions:empty { display: none; }
 .schedule-summary { font-size: 0.9rem; }
 .schedule-summary .section-title { font-size: 1rem; }
+.schedule-summary .class-author { margin: 6px 0 0; font-size: 0.8rem; }
 .summary-time { color: #555; font-size: 0.8rem; margin-bottom: 6px !important; }
 .schedule-more { display: inline-flex; align-items: center; min-height: 44px; margin-top: 12px; }
 @media (max-width: 1000px) {
