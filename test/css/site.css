@@ -168,6 +168,11 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-summary .class-format { display: block; margin-bottom: 6px; }
 .schedule-note { background: #fff8e8; border-left: 3px solid #bd4525; padding: 10px 12px; font-size: 0.9rem; }
 .schedule-notes:empty { display: none; }
+.schedule-note p, .schedule-instruction p { margin: 0; }
+.schedule-note { margin-bottom: 12px; }
+.schedule-instruction { background: #eaf2fc; color: #174d70; border-left: 3px solid #2467a8; padding: 10px 12px; margin-top: 12px; font-size: 0.9rem; }
+.schedule-instruction strong { display: block; margin-bottom: 4px; }
+.schedule-instructions:empty { display: none; }
 .schedule-summary { font-size: 0.9rem; }
 .schedule-summary .section-title { font-size: 1rem; }
 .summary-time { color: #555; font-size: 0.8rem; margin-bottom: 6px !important; }

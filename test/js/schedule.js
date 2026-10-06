@@ -4,6 +4,14 @@
     const cards = document.getElementById('schedule-classes');
     const summary = document.getElementById('schedule-summary');
     const generalNotes = document.getElementById('schedule-notes');
+    const generalInstructions = document.getElementById('schedule-instructions');
+    function noteElement(note) {
+        const instruction = note.type === 'instruction';
+        const block = element('div', null, instruction ? 'schedule-instruction' : 'schedule-note');
+        if (instruction) block.append(element('strong', 'Инструкция'));
+        block.append(element('p', note.title));
+        return block;
+    }
     const formats = { 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
     function formatBadge(lesson) {
         const label = lesson.type === 'in-person' ? lesson.location : formats[lesson.type];
@@ -39,8 +47,9 @@
             const today = todayInAtlanta();
             const activeNotes = notes.filter(note => note.expiration === null || note.expiration >= today);
             const notesFor = id => activeNotes.filter(note => note.classId === id);
-            for (const note of generalNotes ? notesFor(null) : []) {
-                generalNotes.append(element('p', note.title, 'schedule-note'));
+            for (const note of notesFor(null)) {
+                const target = note.type === 'instruction' ? generalInstructions : generalNotes;
+                if (target) target.append(noteElement(note));
             }
             if (summary) summary.replaceChildren();
             classes.forEach((lesson) => {
@@ -63,7 +72,9 @@
                 }
                 if (lesson.author) card.append(element('p', `Преподаватель: ${lesson.author}`, 'class-author'));
                 if (lesson.description) card.append(element('p', lesson.description));
-                for (const note of notesFor(lesson.id)) card.append(element('p', note.title, 'schedule-note'));
+                const lessonNotes = notesFor(lesson.id);
+                for (const note of lessonNotes.filter(note => note.type !== 'instruction')) card.append(noteElement(note));
+                for (const note of lessonNotes.filter(note => note.type === 'instruction')) card.append(noteElement(note));
                 if (cards) cards.append(card);
                 const item = element('li');
                 item.append(element('p', `${lesson.days} · ${lesson.time}`, 'summary-time'));
