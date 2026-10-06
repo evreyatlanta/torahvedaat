@@ -6,7 +6,7 @@
     <meta name="google-site-verification" content="Z3ZWfhh9VkAGJfZrWa8-6W3TNYWwhVwxZcW0_L-4qFA">
     <title>{{ page.title | escape }}</title>
     <meta name="description" content="{{ page.description | escape }}">
-    <link rel="canonical" href="https://evreyatlanta.org{{ page.canonical_path }}">
+    <link rel="canonical" href="https://evreyatlanta.org{{ page.canonical_path | default: page.url }}">
     <meta property="og:type" content="website">
     <meta property="og:locale" content="ru_RU">
     <meta property="og:site_name" content="Евреи Атланты">
@@ -28,15 +28,25 @@
     <div class="site-shell">
         {% include site/navigation.html %}
         {% include site/site-header.html %}
-        <div class="site-layout">
+        <div class="site-layout{% if page.schedule_summary %} has-section-nav{% endif %}">
+            {% if page.schedule_summary %}
+            <aside class="section-nav schedule-summary" aria-label="Краткое расписание уроков">
+                <section class="white-box">
+                    <h2 class="section-title">Уроки на неделе</h2>
+                    <ul id="schedule-summary" class="panel-list"><li data-loading>Загрузка расписания…</li></ul>
+                    <noscript>Откройте страницу уроков и включите JavaScript для просмотра расписания.</noscript>
+                    <a class="schedule-more" href="/classes.html">Подробнее обо всех уроках →</a>
+                </section>
+            </aside>
+            {% endif %}
             <main id="main-content" class="content-area" tabindex="-1">
                 {{ content }}
             </main>
             <aside class="right-sidebar" aria-label="Информация общины">
                 {% include site/weekly-times.html %}
-                {% if page.sidebar_donation %}
+                {% unless page.nav_key == 'contacts' %}
                     {% include site/donation.html panel=true %}
-                {% endif %}
+                {% endunless %}
                 {% if page.sidebar_contacts %}
                     {% include site/contact-panel.html %}
                 {% endif %}
@@ -44,5 +54,7 @@
         </div>
         {% include site/footer.html %}
     </div>
+    {% if page.schedule or page.schedule_summary %}<script type="module" src="/js/schedule.js"></script>{% endif %}
+    {% if page.community_intro %}<script type="module" src="/js/community-intro.js"></script>{% endif %}
 </body>
 </html>
