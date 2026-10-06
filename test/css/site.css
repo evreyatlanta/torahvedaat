@@ -179,8 +179,10 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-summary .section-title { font-size: 1rem; }
 .schedule-summary .class-author { margin: 6px 0 0; font-size: 0.8rem; }
 .summary-time { color: #555; font-size: 0.8rem; margin-bottom: 6px !important; }
-.schedule-more { display: inline-flex; align-items: center; min-height: 44px; margin-top: 12px; }
-.schedule-reveal { display: block; min-height: 44px; padding: 4px 0; border: 0; background: transparent; color: #00688B; font: inherit; text-decoration: underline; cursor: pointer; }
+.schedule-more { display: flex; align-items: center; justify-content: center; min-height: 44px; margin-top: 12px; padding: 8px 12px; border-radius: 5px; background: #00688B; color: #fff; font-weight: bold; text-align: center; text-decoration: none; box-sizing: border-box; }
+.schedule-more:hover { background: #004e69; color: #fff; text-decoration: none; }
+.schedule-reveal { display: block; width: 100%; min-height: 44px; margin-top: 12px; padding: 8px 12px; border: 1px solid #9bb9c5; border-radius: 5px; background: #edf5f8; color: #00688B; font: inherit; font-weight: bold; text-align: center; cursor: pointer; }
+.schedule-reveal:hover { background: #dcecf2; border-color: #00688B; }
 .schedule-summary li[hidden] { display: none; }
 @media (max-width: 1000px) {
     .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr) 260px; }

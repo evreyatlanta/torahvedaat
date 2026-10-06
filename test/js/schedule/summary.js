@@ -8,7 +8,7 @@ function collapseSummary(summary, visibleCount) {
     const count = remaining.length;
     const plural = count % 10 === 1 && count % 100 !== 11 ? 'урок'
         : count % 10 >= 2 && count % 10 <= 4 && (count % 100 < 12 || count % 100 > 14) ? 'урока' : 'уроков';
-    const reveal = element('button', `еще ${count} ${plural}`, 'schedule-reveal');
+    const reveal = element('button', `Показать еще ${count} ${plural}`, 'schedule-reveal');
     reveal.type = 'button';
     reveal.setAttribute('aria-controls', summary.id);
     reveal.setAttribute('aria-expanded', 'false');
