@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="Z3ZWfhh9VkAGJfZrWa8-6W3TNYWwhVwxZcW0_L-4qFA">
+    <title>{{ page.title | escape }}</title>
+    <meta name="description" content="{{ page.description | escape }}">
+    <link rel="canonical" href="https://evreyatlanta.org{{ page.canonical_path }}">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="ru_RU">
+    <meta property="og:site_name" content="Евреи Атланты">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    <meta property="og:url" content="https://evreyatlanta.org{{ page.url }}">
+    <meta property="og:image" content="https://evreyatlanta.org/images/logo.png">
+    <meta property="og:image:alt" content="Логотип общины Тора ве-Даат">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{{ page.title | escape }}">
+    <meta name="twitter:description" content="{{ page.description | escape }}">
+    <meta name="twitter:image" content="https://evreyatlanta.org/images/logo.png">
+    <link rel="shortcut icon" href="/images/icon2.ico">
+    <link href="/css/main.css" rel="stylesheet" type="text/css">
+    <link href="/css/site.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <a class="skip-link" href="#main-content">Перейти к содержимому</a>
+    <div class="site-shell">
+        {% include site/navigation.html %}
+        {% include site/site-header.html %}
+        <div class="site-layout">
+            <main id="main-content" class="content-area" tabindex="-1">
+                {{ content }}
+            </main>
+            <aside class="right-sidebar" aria-label="Информация общины">
+                {% include site/weekly-times.html %}
+                {% if page.sidebar_donation %}
+                    {% include site/donation.html panel=true %}
+                {% endif %}
+                {% if page.sidebar_contacts %}
+                    {% include site/contact-panel.html %}
+                {% endif %}
+            </aside>
+        </div>
+        {% include site/footer.html %}
+    </div>
+</body>
+</html>
