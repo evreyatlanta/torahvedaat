@@ -11,6 +11,7 @@
   },
   {
     "id": "shabbat-table-commentaries",
+    "type": "zoom",
     "title": "Комментарии для Субботнего стола",
     "days": "Среда",
     "time": "19:00",
