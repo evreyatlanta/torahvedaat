@@ -7,6 +7,7 @@
     "description": "Демонстрационная запись для проверки расписания. Это не реальный урок общины.",
     "author": "Тестовый преподаватель",
     "type": "in-person",
+    "location": "Атланта",
     "link": ""
   },
   {
@@ -17,6 +18,7 @@
     "description": null,
     "author": null,
     "type": "WhatsApp",
+    "location": null,
     "link": ""
   },
   {
@@ -27,6 +29,7 @@
     "description": "Демонстрационная запись онлайн-урока. Ссылка на встречу пока не добавлена.",
     "author": null,
     "type": "zoom",
+    "location": null,
     "link": ""
   }
 ]
