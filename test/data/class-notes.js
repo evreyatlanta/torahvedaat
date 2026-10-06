@@ -1,5 +1,17 @@
 [
   {
+    "title": "Еженедельный online-урок, продвинутый уровень",
+    "classId": "ramchal-adir-ba-marom",
+    "expiration": null,
+    "type": "note"
+  },
+  {
+    "title": "Для подключения к уроку пишите раву Зельману на jewcenter@mail.ru",
+    "classId": "ramchal-adir-ba-marom",
+    "expiration": null,
+    "type": "instruction"
+  },
+  {
     "title": "Для всех желающих",
     "classId": "shabbat-weekly-portion-after-kiddush",
     "expiration": null,
