@@ -114,5 +114,18 @@
     "location": "Синагога Ариэль",
     "link": "",
     "meetingUrl": null
+  },
+  {
+    "id": "shabbat-weekly-portion-eliyahu-bari",
+    "type": "in-person",
+    "title": "Недельная глава",
+    "days": "Шабат",
+    "time": "После молитвы Минха",
+    "description": null,
+    "author": "Рав Элиягу Бари",
+    "short_author": "р. Э. Бари",
+    "location": "Синагога Ариэль, колель",
+    "link": "",
+    "meetingUrl": null
   }
 ]
