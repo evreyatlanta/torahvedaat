@@ -1,6 +1,6 @@
 [
   {
-    "title": "Продвинутый уровень",
+    "title": "Еженедельный online-урок, продвинутый уровень",
     "classId": "mishlei",
     "expiration": null,
     "type": "note"
