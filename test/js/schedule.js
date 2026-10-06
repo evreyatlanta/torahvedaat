@@ -9,7 +9,18 @@
         const instruction = note.type === 'instruction';
         const block = element('div', null, instruction ? 'schedule-instruction' : 'schedule-note');
         if (instruction) block.append(element('strong', 'Инструкция'));
-        block.append(element('p', note.title));
+        const text = element('p');
+        const emails = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi;
+        let position = 0;
+        for (const match of note.title.matchAll(emails)) {
+            text.append(document.createTextNode(note.title.slice(position, match.index)));
+            const link = element('a', match[0]);
+            link.href = `mailto:${match[0]}`;
+            text.append(link);
+            position = match.index + match[0].length;
+        }
+        text.append(document.createTextNode(note.title.slice(position)));
+        block.append(text);
         return block;
     }
     const formats = { 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
