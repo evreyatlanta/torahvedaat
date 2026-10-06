@@ -77,6 +77,19 @@
     "meetingUrl": null
   },
   {
+    "id": "weekly-portion-eliyahu-bari",
+    "type": "Meet",
+    "title": "Недельная глава",
+    "days": "Четверг",
+    "time": "8 PM",
+    "description": null,
+    "author": "Рав Элиягу Бари",
+    "short_author": "р. Э. Бари",
+    "location": null,
+    "link": "",
+    "meetingUrl": "https://meet.google.com/aoy-awgy-xoc"
+  },
+  {
     "id": "shabbat-weekly-portion-after-kiddush",
     "type": "in-person",
     "title": "Урок по недельной главе",
