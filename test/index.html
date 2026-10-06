@@ -1,3 +1,6 @@
+---
+layout: null
+---
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -26,11 +29,7 @@
         </nav>
 
     <!-- Logo Section -->
-    <header class="logo-section">
-        <img src="images/logo.png" alt="Тора ве-Даат">
-        <div class="brand-text"><h1>Еврейская Русскоязычная Община Атланты "Тора ве-Даат"</h1>
-        <p lang="en">Jewish Russian Community "Torah ve-Daat"</p></div>
-    </header>
+    {% include_relative _includes/site-header.html %}
 
     <!-- Responsive layout: optional section navigation, main content, supporting panels -->
     <div class="site-layout">
@@ -59,21 +58,10 @@
             <!-- Supporting panels -->
             <aside class="right-sidebar" aria-label="Информация общины">
                 <!-- Shabbat Times -->
-                <div class="white-box">
-                    <h2 class="section-title" lang="en">This Week: Times &amp; Dates</h2>
-                    <script type="text/javascript" src="https://www.hebcal.com/shabbat/?geo=city;city=Atlanta;m=0;cfg=j"></script>
-                </div>
+                {% include_relative _includes/weekly-times.html %}
 
                 <!-- Donation -->
-                <div class="white-box">
-                    <h2 class="section-title">Сделать пожертвование</h2>
-                    <p>Вы можете поддержать нашу общину через PayPal или банковской картой.</p>
-                    <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
-                        <input type="hidden" name="cmd" value="_s-xclick">
-                        <input type="hidden" name="hosted_button_id" value="YDUEUDCMRU6TY">
-                        <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="Пожертвовать через PayPal">
-                    </form>
-                </div>
+                {% include_relative _includes/donation.html panel=true %}
 
                 <!-- Contact Info -->
                 <div class="white-box contact-info">
