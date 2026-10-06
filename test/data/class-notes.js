@@ -1,6 +1,18 @@
 [
   {
     "title": "Продвинутый уровень",
+    "classId": "mishlei",
+    "expiration": null,
+    "type": "note"
+  },
+  {
+    "title": "Для подключения к уроку пишите раву Зельману на jewcenter@mail.ru",
+    "classId": "mishlei",
+    "expiration": null,
+    "type": "instruction"
+  },
+  {
+    "title": "Продвинутый уровень",
     "classId": "tikkunei-zohar",
     "expiration": null,
     "type": "note"

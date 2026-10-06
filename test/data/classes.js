@@ -45,5 +45,16 @@
     "short_author": "р. И. Зельман",
     "location": null,
     "link": ""
+  },
+  {
+    "id": "mishlei",
+    "type": "zoom",
+    "title": "«Мишлей», притчи царя Соломона",
+    "days": "Четверг",
+    "time": "Сразу после вечерней молитвы",
+    "description": null,
+    "author": null,
+    "location": null,
+    "link": ""
   }
 ]
