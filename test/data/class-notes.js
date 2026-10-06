@@ -1,5 +1,11 @@
 [
   {
+    "title": "Еженедельный online-урок",
+    "classId": "weekly-portion-eliyahu-bari",
+    "expiration": null,
+    "type": "note"
+  },
+  {
     "title": "Еженедельный online-урок, продвинутый уровень",
     "classId": "ramchal-adir-ba-marom",
     "expiration": null,
