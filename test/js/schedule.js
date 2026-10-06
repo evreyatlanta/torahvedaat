@@ -4,6 +4,11 @@
     const cards = document.getElementById('schedule-classes');
     const summary = document.getElementById('schedule-summary');
     const generalNotes = document.getElementById('schedule-notes');
+    const formats = { 'in-person': 'Очно', 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
+    function formatBadge(type) {
+        if (!formats[type]) return null;
+        return element('span', formats[type], `class-format format-${type.toLowerCase()}`);
+    }
     function element(tag, text, className) {
         const node = document.createElement(tag);
         if (text != null) node.textContent = text;
@@ -43,8 +48,8 @@
                 card.tabIndex = -1;
                 card.append(element('p', `${lesson.days} · ${lesson.time}`, 'class-time'));
                 card.append(element('h3', lesson.title));
-                const formats = { 'in-person': 'Очно', 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
-                if (lesson.type) card.append(element('p', `Формат: ${formats[lesson.type] || lesson.type}`, 'class-format'));
+                const cardFormat = formatBadge(lesson.type);
+                if (cardFormat) card.append(cardFormat);
                 if (lesson.link) {
                     const url = new URL(lesson.link, location.href);
                     if (url.protocol === 'https:' || url.protocol === 'http:') {
@@ -61,6 +66,8 @@
                 if (cards) cards.append(card);
                 const item = element('li');
                 item.append(element('p', `${lesson.days} · ${lesson.time}`, 'summary-time'));
+                const summaryFormat = formatBadge(lesson.type);
+                if (summaryFormat) item.append(summaryFormat);
                 const link = element('a', lesson.title);
                 link.href = `/test/classes.html#${encodeURIComponent(card.id)}`;
                 item.append(link);
