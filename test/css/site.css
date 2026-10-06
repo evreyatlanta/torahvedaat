@@ -180,6 +180,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-summary .class-author { margin: 6px 0 0; font-size: 0.8rem; }
 .summary-time { color: #555; font-size: 0.8rem; margin-bottom: 6px !important; }
 .schedule-more { display: inline-flex; align-items: center; min-height: 44px; margin-top: 12px; }
+.schedule-reveal { display: block; min-height: 44px; padding: 4px 0; border: 0; background: transparent; color: #00688B; font: inherit; text-decoration: underline; cursor: pointer; }
+.schedule-summary li[hidden] { display: none; }
 @media (max-width: 1000px) {
     .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr) 260px; }
     .has-section-nav .section-nav { grid-column: 1 / -1; }

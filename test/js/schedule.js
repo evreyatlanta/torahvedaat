@@ -54,6 +54,26 @@
         const items = Array.from(summary.children);
         summary.replaceChildren(...items.slice(start), ...items.slice(0, start));
     }
+    function collapseSummary() {
+        const remaining = Array.from(summary.children).slice(2);
+        if (!remaining.length) return;
+        remaining.forEach(item => { item.hidden = true; });
+        const count = remaining.length;
+        const plural = count % 10 === 1 && count % 100 !== 11 ? 'урок'
+            : count % 10 >= 2 && count % 10 <= 4 && (count % 100 < 12 || count % 100 > 14) ? 'урока' : 'уроков';
+        const reveal = element('button', `еще ${count} ${plural}`, 'schedule-reveal');
+        reveal.type = 'button';
+        reveal.setAttribute('aria-controls', summary.id);
+        reveal.setAttribute('aria-expanded', 'false');
+        reveal.addEventListener('click', () => {
+            remaining.forEach(item => { item.hidden = false; });
+            reveal.setAttribute('aria-expanded', 'true');
+            const firstLink = remaining[0].querySelector('a');
+            if (firstLink) firstLink.focus({ preventScroll: true });
+            reveal.remove();
+        });
+        summary.after(reveal);
+    }
     async function readArray(path) {
         const response = await fetch(path);
         if (!response.ok) throw new Error('Schedule data unavailable');
@@ -115,7 +135,10 @@
                 if (summaryAuthor) item.append(element('p', summaryAuthor, 'class-author'));
                 if (summary) summary.append(item);
             });
-            if (summary) rotateSummary(classes, today);
+            if (summary) {
+                rotateSummary(classes, today);
+                collapseSummary();
+            }
             if (status) status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';
             if (status) status.hidden = classes.length > 0;
             if (cards && location.hash) {
