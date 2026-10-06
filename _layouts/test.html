@@ -44,9 +44,9 @@
             </main>
             <aside class="right-sidebar" aria-label="Информация общины">
                 {% include test/weekly-times.html %}
-                {% if page.sidebar_donation %}
+                {% unless page.nav_key == 'contacts' %}
                     {% include test/donation.html panel=true %}
-                {% endif %}
+                {% endunless %}
                 {% if page.sidebar_contacts %}
                     {% include test/contact-panel.html %}
                 {% endif %}
