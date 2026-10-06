@@ -45,7 +45,9 @@
                 readArray('/test/data/classes.js'), readArray('/test/data/class-notes.js')
             ]);
             const today = todayInAtlanta();
-            const activeNotes = notes.filter(note => note.expiration === null || note.expiration >= today);
+            const activeNotes = notes
+                .map(note => ({ ...note, type: note.type ?? 'note' }))
+                .filter(note => note.expiration === null || note.expiration >= today);
             const notesFor = id => activeNotes.filter(note => note.classId === id);
             for (const note of notesFor(null)) {
                 const target = note.type === 'instruction' ? generalInstructions : generalNotes;
