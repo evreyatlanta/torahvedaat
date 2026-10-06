@@ -8,7 +8,6 @@
     function noteElement(note) {
         const instruction = note.type === 'instruction';
         const block = element('div', null, instruction ? 'schedule-instruction' : 'schedule-note');
-        if (instruction) block.append(element('strong', 'Инструкция'));
         const text = element('p');
         const emails = /[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}/gi;
         let position = 0;
