@@ -42,6 +42,18 @@
         const part = name => parts.find(p => p.type === name).value;
         return `${part('year')}-${part('month')}-${part('day')}`;
     }
+    // Lessons are stored in weekly order; keep the order within each day.
+    function rotateSummary(classes, today) {
+        const weekdays = {
+            'Воскресенье': 0, 'Понедельник': 1, 'Вторник': 2,
+            'Среда': 3, 'Четверг': 4, 'Пятница': 5, 'Шабат': 6, 'Суббота': 6
+        };
+        const weekday = new Date(`${today}T00:00:00Z`).getUTCDay();
+        const start = classes.findIndex(lesson => weekdays[lesson.days] >= weekday);
+        if (start <= 0) return;
+        const items = Array.from(summary.children);
+        summary.replaceChildren(...items.slice(start), ...items.slice(0, start));
+    }
     async function readArray(path) {
         const response = await fetch(path);
         if (!response.ok) throw new Error('Schedule data unavailable');
@@ -103,6 +115,7 @@
                 if (summaryAuthor) item.append(element('p', summaryAuthor, 'class-author'));
                 if (summary) summary.append(item);
             });
+            if (summary) rotateSummary(classes, today);
             if (status) status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';
             if (status) status.hidden = classes.length > 0;
             if (cards && location.hash) {
