@@ -28,7 +28,16 @@
     <div class="site-shell">
         {% include test/navigation.html %}
         {% include test/site-header.html %}
-        <div class="site-layout">
+        <div class="site-layout{% if page.schedule %} has-section-nav{% endif %}">
+            {% if page.schedule %}
+            <aside class="section-nav schedule-summary" aria-label="Краткое расписание уроков">
+                <section class="white-box">
+                    <h2 class="section-title">Уроки на неделе</h2>
+                    <ul id="schedule-summary" class="panel-list"></ul>
+                    <a class="schedule-more" href="#schedule">Подробнее →</a>
+                </section>
+            </aside>
+            {% endif %}
             <main id="main-content" class="content-area" tabindex="-1">
                 {{ content }}
             </main>
@@ -44,5 +53,6 @@
         </div>
         {% include test/footer.html %}
     </div>
+    {% if page.schedule %}<script src="/test/js/schedule.js" defer></script>{% endif %}
 </body>
 </html>

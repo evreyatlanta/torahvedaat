@@ -155,6 +155,18 @@ img, video { height: auto; }
 a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visible { outline: 3px solid #bd4525; outline-offset: 3px; }
 .skip-link { position: absolute; top: 0; left: 16px; transform: translateY(-120%); padding: 10px 16px; background: white; z-index: 10; }
 .skip-link:focus { transform: translateY(0); }
+.schedule-demo { color: #666; font-size: 0.85rem; }
+.schedule-cards { display: grid; gap: 16px; }
+.class-card { border: 1px solid #d9e4e8; border-radius: 5px; padding: 16px; scroll-margin-top: 16px; }
+.class-card h3 { color: #00688B; font-size: 1.1rem; line-height: 1.4; margin: 0 0 12px; }
+.class-time { color: #00688B; font-weight: bold; }
+.class-author { color: #555; font-size: 0.9rem; }
+.schedule-note { background: #fff8e8; border-left: 3px solid #bd4525; padding: 10px 12px; font-size: 0.9rem; }
+.schedule-notes:empty { display: none; }
+.schedule-summary { font-size: 0.9rem; }
+.schedule-summary .section-title { font-size: 1rem; }
+.summary-time { color: #555; font-size: 0.8rem; margin-bottom: 6px !important; }
+.schedule-more { display: inline-flex; align-items: center; min-height: 44px; margin-top: 12px; }
 @media (max-width: 1000px) {
     .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr) 260px; }
     .has-section-nav .section-nav { grid-column: 1 / -1; }
@@ -166,6 +178,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
     .logo-section { align-items: flex-start; gap: 12px; }
     .logo-section img { height: 64px; }
     .brand-text p { font-size: 0.95rem; }
+    .schedule-summary { display: none; }
 }
 @media (max-width: 380px) {
     .logo-section { flex-direction: column; }
