@@ -30,7 +30,8 @@
     "days": "Вторник",
     "time": "Сразу после вечерней молитвы",
     "description": null,
-    "author": null,
+    "author": "Рав Исроэль Зельман",
+    "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
     "link": ""
   },
