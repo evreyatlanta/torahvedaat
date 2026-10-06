@@ -9,7 +9,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": null,
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "tikkunei-zohar",
@@ -21,7 +22,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": null,
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "tanakh-book-of-kings",
@@ -33,7 +35,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "ramchal-adir-ba-marom",
@@ -45,7 +48,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": null,
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "shabbat-table-commentaries",
@@ -57,7 +61,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": null,
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "mishlei",
@@ -68,7 +73,8 @@
     "description": null,
     "author": null,
     "location": null,
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "shabbat-weekly-portion-after-kiddush",
@@ -80,7 +86,8 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   },
   {
     "id": "shabbat-weekly-portion-before-mincha",
@@ -92,6 +99,7 @@
     "author": "Рав Исроэль Зельман",
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
-    "link": ""
+    "link": "",
+    "meetingUrl": null
   }
 ]

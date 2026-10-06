@@ -15,7 +15,7 @@ function noteElement(note) {
     block.append(text);
     return block;
 }
-const formats = { 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
+const formats = { 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom', 'Meet': 'Meet', 'meet': 'Meet' };
 function formatBadge(lesson) {
     const label = lesson.type === 'in-person' ? lesson.location : formats[lesson.type];
     if (!label) return null;
@@ -36,6 +36,20 @@ export function lessonCard(lesson, notes) {
     timeRow.append(element('span', `${lesson.days} · ${lesson.time}`, 'class-time'));
     const cardFormat = formatBadge(lesson);
     if (cardFormat) timeRow.append(cardFormat);
+    if (lesson.meetingUrl) {
+        try {
+            const url = new URL(lesson.meetingUrl);
+            if (url.protocol === 'https:' || url.protocol === 'http:') {
+                const join = element('a', 'Подключиться', 'class-meeting-link');
+                join.href = url.href;
+                join.target = '_blank';
+                join.rel = 'noopener noreferrer';
+                timeRow.append(join);
+            }
+        } catch {
+            // An invalid optional meeting URL must not hide the schedule.
+        }
+    }
     card.append(timeRow);
     card.append(element('h3', lesson.title));
     if (lesson.link) {
