@@ -54,6 +54,6 @@
         </div>
         {% include test/footer.html %}
     </div>
-    {% if page.schedule or page.schedule_summary %}<script src="/test/js/schedule.js" defer></script>{% endif %}
+    {% if page.schedule or page.schedule_summary %}<script type="module" src="/test/js/schedule.js"></script>{% endif %}
 </body>
 </html>
