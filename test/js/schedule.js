@@ -33,31 +33,48 @@
             const today = todayInAtlanta();
             const activeNotes = notes.filter(note => note.expiration === null || note.expiration >= today);
             const notesFor = id => activeNotes.filter(note => note.classId === id);
-            for (const note of notesFor(null)) {
+            for (const note of generalNotes ? notesFor(null) : []) {
                 generalNotes.append(element('p', note.title, 'schedule-note'));
             }
-            classes.forEach((lesson, index) => {
+            if (summary) summary.replaceChildren();
+            classes.forEach((lesson) => {
                 const card = element('article', null, 'class-card');
-                card.id = `lesson-${index + 1}`;
+                card.id = `lesson-${lesson.id}`;
                 card.tabIndex = -1;
                 card.append(element('p', `${lesson.days} · ${lesson.time}`, 'class-time'));
                 card.append(element('h3', lesson.title));
+                const formats = { 'in-person': 'Очно', 'WhatsApp': 'WhatsApp', 'zoom': 'Zoom' };
+                if (lesson.type) card.append(element('p', `Формат: ${formats[lesson.type] || lesson.type}`, 'class-format'));
+                if (lesson.link) {
+                    const url = new URL(lesson.link, location.href);
+                    if (url.protocol === 'https:' || url.protocol === 'http:') {
+                        const join = element('a', lesson.type === 'in-person' ? 'Место проведения' : 'Открыть ссылку на урок', 'class-link');
+                        join.href = url.href;
+                        join.target = '_blank';
+                        join.rel = 'noopener noreferrer';
+                        card.append(join);
+                    }
+                }
                 if (lesson.author) card.append(element('p', `Преподаватель: ${lesson.author}`, 'class-author'));
                 if (lesson.description) card.append(element('p', lesson.description));
                 for (const note of notesFor(lesson.id)) card.append(element('p', note.title, 'schedule-note'));
-                cards.append(card);
+                if (cards) cards.append(card);
                 const item = element('li');
                 item.append(element('p', `${lesson.days} · ${lesson.time}`, 'summary-time'));
                 const link = element('a', lesson.title);
-                link.href = `#${card.id}`;
+                link.href = `/test/classes.html#${encodeURIComponent(card.id)}`;
                 item.append(link);
-                summary.append(item);
+                if (summary) summary.append(item);
             });
-            status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';
-            status.hidden = classes.length > 0;
+            if (status) status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';
+            if (status) status.hidden = classes.length > 0;
+            if (cards && location.hash) {
+                const target = document.getElementById(decodeURIComponent(location.hash.slice(1)));
+                if (target && cards.contains(target)) { target.scrollIntoView(); target.focus({ preventScroll: true }); }
+            }
         } catch (error) {
-            status.textContent = 'Не удалось загрузить расписание. Попробуйте обновить страницу.';
-            summary.append(element('li', 'Расписание временно недоступно.'));
+            if (status) status.textContent = 'Не удалось загрузить расписание. Попробуйте обновить страницу.';
+            if (summary) summary.replaceChildren(element('li', 'Расписание временно недоступно.'));
         }
     }
     render();

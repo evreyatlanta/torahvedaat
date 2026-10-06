@@ -1,5 +1,7 @@
 <nav class="header-bar" aria-label="Основная навигация">
     <a href="/test/"{% if page.nav_key == 'home' %} aria-current="page"{% endif %}>Домашняя Страничка</a>
     <span aria-hidden="true">|</span>
+    <a href="/test/classes.html"{% if page.nav_key == 'classes' %} aria-current="page"{% endif %}>Уроки</a>
+    <span aria-hidden="true">|</span>
     <a href="/test/aboutus.html"{% if page.nav_key == 'contacts' %} aria-current="page"{% endif %}>Связаться с нами</a>
 </nav>

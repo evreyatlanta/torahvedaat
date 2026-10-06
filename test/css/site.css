@@ -178,7 +178,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
     .logo-section { align-items: flex-start; gap: 12px; }
     .logo-section img { height: 64px; }
     .brand-text p { font-size: 0.95rem; }
-    .schedule-summary { display: none; }
+    .schedule-summary { display: grid; }
 }
 @media (max-width: 380px) {
     .logo-section { flex-direction: column; }
