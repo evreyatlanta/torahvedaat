@@ -184,6 +184,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-reveal { display: block; width: 100%; min-height: 44px; margin-top: 12px; padding: 8px 12px; border: 1px solid #9bb9c5; border-radius: 5px; background: #edf5f8; color: #00688B; font: inherit; font-weight: bold; text-align: center; cursor: pointer; }
 .schedule-reveal:hover { background: #dcecf2; border-color: #00688B; }
 .schedule-summary li[hidden] { display: none; }
+.community-intro > summary { cursor: pointer; min-height: 44px; display: list-item; align-content: center; margin: 0; }
+.community-intro-content { padding-top: 12px; }
 @media (max-width: 1000px) {
     .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr) 260px; }
     .has-section-nav .section-nav { grid-column: 1 / -1; }
