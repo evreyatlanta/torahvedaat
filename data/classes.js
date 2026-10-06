@@ -36,6 +36,18 @@
     "link": ""
   },
   {
+    "id": "ramchal-adir-ba-marom",
+    "type": "zoom",
+    "title": "Рамхаль, «Адир ба-МАРОМ»",
+    "days": "Вторник",
+    "time": "9 PM",
+    "description": null,
+    "author": "Рав Исроэль Зельман",
+    "short_author": "р. И. Зельман",
+    "location": null,
+    "link": ""
+  },
+  {
     "id": "shabbat-table-commentaries",
     "type": "zoom",
     "title": "Комментарии для Субботнего стола",

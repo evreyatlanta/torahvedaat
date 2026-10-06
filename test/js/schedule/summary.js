@@ -23,6 +23,13 @@ function collapseSummary(summary, visibleCount) {
 }
 
 export function renderSummary(summary, classes, today, visibleCount) {
-    summary.replaceChildren(...lessonsFromToday(classes, today).map(summaryItem));
-    collapseSummary(summary, visibleCount);
+    const ordered = lessonsFromToday(classes, today);
+    let previewCount = Math.min(visibleCount, ordered.length);
+    // Keep every lesson of the last included day visible.
+    while (previewCount > 0 && previewCount < ordered.length
+        && ordered[previewCount].days === ordered[previewCount - 1].days) {
+        previewCount += 1;
+    }
+    summary.replaceChildren(...ordered.map(summaryItem));
+    collapseSummary(summary, previewCount);
 }
