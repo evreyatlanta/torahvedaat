@@ -1,0 +1,125 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 10px;
+            background-color: #f5f5f5;
+        }
+        .header-bar {
+            background-color: #00688B;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            text-align: right;
+        }
+        .header-bar a {
+            color: white;
+            text-decoration: none;
+            margin: 0 5px;
+        }
+        .header-bar a:hover {
+            text-decoration: underline;
+        }
+        .logo-section {
+            color: #00688B;
+            padding: 10px 0;
+        }
+        .logo-section img {
+            float: left;
+            height: 100px;
+            margin-right: 20px;
+        }
+        .logo-section h2, .logo-section h3 {
+            margin: 5px 0;
+        }
+        .main-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        .left-menu {
+            width: 200px;
+            vertical-align: top;
+            padding-right: 15px;
+        }
+        .content-area {
+            vertical-align: top;
+            padding: 0 15px;
+        }
+        .right-sidebar {
+            width: 180px;
+            vertical-align: top;
+            padding-left: 15px;
+        }
+        .menu-item {
+            background-color: #00688B;
+            border-radius: 5px;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .menu-item a {
+            display: block;
+            color: white;
+            text-decoration: none;
+            padding: 10px;
+            font-weight: bold;
+        }
+        .menu-item a:hover {
+            background-color: #005070;
+            border-radius: 5px;
+        }
+        .white-box {
+            background-color: white;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+        }
+        .white-box h5 {
+            margin: 10px 0;
+        }
+        .white-box h5 a {
+            color: #00688B;
+            text-decoration: none;
+        }
+        .white-box h5 a:hover {
+            text-decoration: underline;
+        }
+        .white-box h6 {
+            margin: 5px 0 5px 10px;
+        }
+        .white-box h6 a {
+            color: #00688B;
+            text-decoration: none;
+        }
+        .section-title {
+            background-color: #00688B;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px 5px 0 0;
+            margin: -15px -15px 15px -15px;
+            font-weight: bold;
+        }
+        .submenu {
+            padding-left: 15px;
+            display: none;
+        }
+        .android-app {
+            text-align: center;
+        }
+        .android-app img {
+            max-width: 150px;
+            border-radius: 10px;
+        }
+        .android-app h3 {
+            margin: 5px 0;
+            color: #00688B;
+        }
+        .clearfix::after {
+            content: "";
+            clear: both;
+            display: table;
+        }
+        .contact-info {
+            font-size: 14px;
+            line-height: 1.6;
+        }
