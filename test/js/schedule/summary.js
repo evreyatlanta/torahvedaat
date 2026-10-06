@@ -8,16 +8,17 @@ function collapseSummary(summary, visibleCount) {
     const count = remaining.length;
     const plural = count % 10 === 1 && count % 100 !== 11 ? 'урок'
         : count % 10 >= 2 && count % 10 <= 4 && (count % 100 < 12 || count % 100 > 14) ? 'урока' : 'уроков';
-    const reveal = element('button', `Показать еще ${count} ${plural}`, 'schedule-reveal');
+    const collapsedLabel = `Показать еще ${count} ${plural}`;
+    const reveal = element('button', collapsedLabel, 'schedule-reveal');
+    let expanded = false;
     reveal.type = 'button';
     reveal.setAttribute('aria-controls', summary.id);
     reveal.setAttribute('aria-expanded', 'false');
     reveal.addEventListener('click', () => {
-        remaining.forEach(item => { item.hidden = false; });
-        reveal.setAttribute('aria-expanded', 'true');
-        const firstLink = remaining[0].querySelector('a');
-        if (firstLink) firstLink.focus({ preventScroll: true });
-        reveal.remove();
+        expanded = !expanded;
+        remaining.forEach(item => { item.hidden = !expanded; });
+        reveal.setAttribute('aria-expanded', String(expanded));
+        reveal.textContent = expanded ? 'Оставить ближайшие уроки' : collapsedLabel;
     });
     summary.after(reveal);
 }
