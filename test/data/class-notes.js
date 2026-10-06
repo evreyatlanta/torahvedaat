@@ -1,25 +1,13 @@
 [
   {
-    "title": "Демонстрационное расписание: указанные уроки и время используются только для тестирования.",
+    "title": "На нашем ютюб-канале youtube.com/toravedaat смотрите записи уроков, песни и другие видео.",
     "classId": null,
     "expiration": null
   },
   {
-    "title": "Тестовое постоянное примечание к уроку о недельной главе Торы.",
-    "classId": "test-weekly-torah",
-    "type": "note",
-    "expiration": null
-  },
-  {
-    "title": "Тестовая общая инструкция: перед участием проверьте время и формат выбранного урока.",
+    "title": "Для подключения к онлайн-занятиям пишите на vbarayev@yahoo.com.",
     "classId": null,
-    "type": "instruction",
-    "expiration": "2026-12-31"
-  },
-  {
-    "title": "Тестовая инструкция к уроку о традициях: подготовьте вопросы для обсуждения.",
-    "classId": "test-traditions",
-    "type": "instruction",
-    "expiration": "2026-12-31"
+    "expiration": null,
+    "type": "instruction"
   }
 ]
