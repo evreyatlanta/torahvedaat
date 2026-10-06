@@ -166,6 +166,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .format-whatsapp { color: #146334; background: #e2f5e8; }
 .format-zoom { color: #174d98; background: #e6efff; }
 .schedule-summary .class-format { display: block; margin-bottom: 6px; }
+.class-time-row { display: flex; flex-wrap: wrap; align-items: center; gap: 4px 8px; margin-bottom: 12px; }
+.class-time-row .class-format { display: inline-block; margin-bottom: 0; }
 .schedule-note { background: #fff8e8; border-left: 3px solid #bd4525; padding: 10px 12px; font-size: 0.9rem; }
 .schedule-notes:empty { display: none; }
 .schedule-note p, .schedule-instruction p { margin: 0; }

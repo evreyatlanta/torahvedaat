@@ -69,10 +69,12 @@
                 const card = element('article', null, 'class-card');
                 card.id = `lesson-${lesson.id}`;
                 card.tabIndex = -1;
-                card.append(element('p', `${lesson.days} · ${lesson.time}`, 'class-time'));
-                card.append(element('h3', lesson.title));
+                const timeRow = element('div', null, 'class-time-row');
+                timeRow.append(element('span', `${lesson.days} · ${lesson.time}`, 'class-time'));
                 const cardFormat = formatBadge(lesson);
-                if (cardFormat) card.append(cardFormat);
+                if (cardFormat) timeRow.append(cardFormat);
+                card.append(timeRow);
+                card.append(element('h3', lesson.title));
                 if (lesson.link) {
                     const url = new URL(lesson.link, location.href);
                     if (url.protocol === 'https:' || url.protocol === 'http:') {
@@ -83,16 +85,18 @@
                         card.append(join);
                     }
                 }
-                if (lesson.author) card.append(element('p', `Преподаватель: ${lesson.author}`, 'class-author'));
+                if (lesson.author) card.append(element('p', lesson.author, 'class-author'));
                 if (lesson.description) card.append(element('p', lesson.description));
                 const lessonNotes = notesFor(lesson.id);
                 for (const note of lessonNotes.filter(note => note.type !== 'instruction')) card.append(noteElement(note));
                 for (const note of lessonNotes.filter(note => note.type === 'instruction')) card.append(noteElement(note));
                 if (cards) cards.append(card);
                 const item = element('li');
-                item.append(element('p', `${lesson.days} · ${lesson.time}`, 'summary-time'));
+                const summaryTimeRow = element('div', null, 'class-time-row summary-time');
+                summaryTimeRow.append(element('span', `${lesson.days} · ${lesson.time}`));
                 const summaryFormat = formatBadge(lesson);
-                if (summaryFormat) item.append(summaryFormat);
+                if (summaryFormat) summaryTimeRow.append(summaryFormat);
+                item.append(summaryTimeRow);
                 const link = element('a', lesson.title);
                 link.href = `/test/classes.html#${encodeURIComponent(card.id)}`;
                 item.append(link);
