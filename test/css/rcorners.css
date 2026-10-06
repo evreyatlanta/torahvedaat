@@ -1,0 +1,66 @@
+.r1 {
+	CLEAR: both;
+	BORDER-RIGHT: 1px solid;
+	DISPLAY: block;
+	FONT-SIZE: 1px;
+	OVERFLOW: hidden;
+	BORDER-LEFT: 1px solid;
+	BORDER-TOP: 1px solid;
+	HEIGHT: 0px;
+	MARGIN: 0px 5px;
+}
+
+.r2 {
+	CLEAR: both;
+	BORDER-RIGHT: 2px solid;
+	DISPLAY: block;
+	FONT-SIZE: 1px;
+	OVERFLOW: hidden;
+	BORDER-LEFT: 2px solid;
+	HEIGHT: 1px;
+	MARGIN: 0px 3px;
+}
+
+
+.r3 {
+	CLEAR: both;
+	BORDER-RIGHT: 1px solid;
+	DISPLAY: block;
+	FONT-SIZE: 1px;
+	OVERFLOW: hidden;
+	BORDER-LEFT: 1px solid;
+	HEIGHT: 1px;
+	MARGIN: 0px 2px
+}
+
+
+.r4 {
+	CLEAR: both;
+	BORDER-RIGHT: 1px solid;
+	DISPLAY: block;
+	FONT-SIZE: 1px;
+	OVERFLOW: hidden;
+	BORDER-LEFT: 1px solid;
+	MARGIN: 0px 1px;
+	HEIGHT: 2px
+}
+
+.rbody {
+	BORDER-RIGHT: 1px solid;
+	PADDING-RIGHT: 5px;
+	PADDING-LEFT: 5px;
+	PADDING-BOTTOM: 3px;
+	MARGIN: 0px;
+	BORDER-LEFT: 1px solid;
+	PADDING-TOP: 3px;
+}
+
+.rlabel {
+	PADDING-RIGHT: 5px;	
+	PADDING-LEFT: 5px;
+	PADDING-BOTTOM: 0px;
+	PADDING-TOP: 0px;	
+	LEFT: 15px;
+	BOTTOM: -8px;	
+	POSITION: relative;
+}

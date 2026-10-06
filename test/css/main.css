@@ -1,0 +1,123 @@
+body {
+	font-family:Arial;
+	font-size:14px;
+	margin-top:2px;
+	margin-left:0px;
+	margin-right:0px;
+	margin-bottom:2px;
+	background-image:url(/_images/bg.jpg)
+}
+
+.white {
+	BORDER-LEFT-COLOR: #dcdcdc;
+	BACKGROUND: #f8f7f4;
+	BORDER-BOTTOM-COLOR: #dcdcdc;
+	COLOR: black;
+	BORDER-TOP-COLOR: #dcdcdc;
+	BORDER-RIGHT-COLOR: #dcdcdc;
+}
+
+.blue {
+	BORDER-LEFT-COLOR: #388E8E;
+	BACKGROUND: #00688B;
+	BORDER-BOTTOM-COLOR: #388E8E;
+	COLOR: white;
+	BORDER-TOP-COLOR: #388E8E;
+	BORDER-RIGHT-COLOR: #388E8E;
+}
+
+.orange {
+	BORDER-LEFT-COLOR: #bd4525;
+	BACKGROUND: #bd4525;
+	BORDER-BOTTOM-COLOR: #bd4525;
+	COLOR: white;
+	BORDER-TOP-COLOR: #bd4525;
+	BORDER-RIGHT-COLOR: #bd4525;
+}
+
+.round .rlabel {
+	BACKGROUND: #f8f7f4;
+	padding: 2px;
+	BORDER: #388E8E 1px solid;
+	font-size:larger;
+}
+
+.blue a {
+	COLOR: white;
+}
+
+.orange a {
+	COLOR: white;
+}
+
+.title {
+	color:#bd4525;
+}
+
+.page {
+	min-height:500px;
+	font-size:15px;
+}
+
+.chapter {
+	margin:10px;
+	font-size:15px;
+}
+
+.paginator {
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+	vertical-align:middle;
+	height:50px;
+	width:100%;
+}
+
+a {
+    color:#00688B;
+}
+
+.keyboard { border:solid black 1px; float:left; background-color:white;z-index:99999; }
+.keyboard TD { text-align:center; }    
+.keyboard DIV { border:solid green 1px; }
+
+#history_body DIV { text-align:center;float:left;font-size:12px; }
+
+#hebcal H3 { display:none; }
+#hebcal .copyright { display:none; }
+
+p.MsoNormal{margin:.01pt;font-size:14px;color:Blue;font-style:italic;font-family:"Times New Roman","serif";font-weight:600;}
+
+i { color:#00688B; }
+small { color:#00688B; }
+
+#shadow-root {
+    display:none;
+}
+table.itemlist
+{
+    width:100%;    
+}
+
+table.itemlist td
+{
+    border: solid 1px black;
+    font-size:10px;
+    text-align:center;
+    white-space: nowrap;
+}
+
+table.itemtree td
+{
+    border: solid 1px black;
+    font-size:10px;
+    white-space: nowrap;
+}
+
+
+table.itemlist th, table.itemtree th
+{
+    font-size: 14px;
+    text-align:center;
+    vertical-align:middle;
+}
