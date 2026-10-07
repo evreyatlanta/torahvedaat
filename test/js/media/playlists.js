@@ -27,7 +27,8 @@ export function playlistItems(node, items) {
     return [...new Map(matching.map(item => [item.id ?? item.url, item])).values()];
 }
 
-export function renderPlaylistTree(target, nodes, categoryId, onSelect) {
+export function renderPlaylistTree(target, nodes, categoryId, counts, onSelect) {
+    const totals = new Map(counts.map(({ id, count }) => [id, count]));
     target.replaceChildren();
     target.closest('section').hidden = nodes.length === 0;
     if (!nodes.length) return;
@@ -35,7 +36,7 @@ export function renderPlaylistTree(target, nodes, categoryId, onSelect) {
         const ul = element('ul', null, 'media-playlist-tree');
         for (const node of branch) {
             const li = element('li');
-            const link = element('a', node.title, 'media-playlist-link');
+            const link = element('a', `${node.title} (${totals.get(node.id) ?? 0})`, 'media-playlist-link');
             link.href = `/test/media/?id=${encodeURIComponent(categoryId)}&playlist=${encodeURIComponent(node.id)}`;
             link.dataset.playlistId = node.id;
             link.addEventListener('click', event => {

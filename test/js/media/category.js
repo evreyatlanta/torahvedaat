@@ -40,7 +40,7 @@ try {
                     : 'Материалы этой рубрики пока не добавлены.';
             }
         }
-        renderPlaylistTree(playlistTarget, playlists, id, (node, url) => {
+        renderPlaylistTree(playlistTarget, playlists, id, library.counts.playlists, (node, url) => {
             history.pushState(null, '', url);
             showSelection();
         });
