@@ -38,7 +38,18 @@
       "rzelman"
     ],
     "items": [],
-    "children": []
+    "children": [
+      {
+        "id": "tanakh",
+        "title": "Танах",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": []
+      }
+    ]
   },
   {
     "id": "rkrelin",

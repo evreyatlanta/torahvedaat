@@ -338,51 +338,58 @@
       {
         "folder": "toravedaat",
         "name": "Танах, Пятикнижие, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Пятикнижие"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Йешаяhу, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Йешаяhу"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Притчи Царя Соломона"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Царей, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Царей"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Шмуэля, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Шмуэля"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Судей, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Судей"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Йегошуа, р. Зельман",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Йегошуа"
+        }
       },
       {
         "folder": "toravedaat",
@@ -415,9 +422,10 @@
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Йирмияу",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Йирмияу"
+        }
       },
       {
         "folder": "toravedaat",
