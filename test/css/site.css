@@ -209,6 +209,13 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-category-nav-link { gap: 10px; }
 .media-group-icon { width: 24px; height: 24px; flex: 0 0 24px; }
 .media-group-icon-wide { width: 48px; flex-basis: 48px; }
+.media-playlist-tree { list-style: none; margin: 0; padding: 0; }
+.media-playlist-tree .media-playlist-tree { margin-left: 12px; padding-left: 12px; border-left: 1px solid #dce7ec; }
+.media-playlist-tree summary { cursor: pointer; padding: 4px 0; }
+.media-playlist-link { display: inline-block; padding: 9px 6px; color: #00688b; text-decoration: none; overflow-wrap: anywhere; }
+.media-playlist-link:hover { text-decoration: underline; }
+.media-playlist-link[aria-current] { background: #edf5f8; border-radius: 4px; font-weight: bold; }
+.media-record h4 { margin: 0 0 10px; font-size: 1rem; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }
