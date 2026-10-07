@@ -7,7 +7,7 @@
   {
     "id": "show",
     "title": "Выступления",
-    "count": 0
+    "count": 50
   },
   {
     "id": "music",
@@ -17,6 +17,6 @@
   {
     "id": "other",
     "title": "Прочее",
-    "count": 309
+    "count": 259
   }
 ]

@@ -13377,7 +13377,7 @@
       "url": "https://www.youtube.com/watch?v=fhz32vNZv6E",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2018-02-28"
@@ -15124,7 +15124,7 @@
         "Шпионская Пуримская Комедия, премьера состоялась в Атланте, Джорджия, в Университете Эмори, 12 марта 2017 года, в Пурим.\n\nСценарий: Мордехай Гутерман, рав Исроэль Зельман\n\nВ ролях:\n\nАман, пророк Даниэль - рав Исроэль Зельман\nМордехай, царь Ахашверош, охранник тюрьмы - Мордехай Гутерман\n\nцарица Эстер - Шунамит Зельман\n\nоператор звука и освещения: Моше Зельман"
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-03-20"
@@ -15151,7 +15151,7 @@
       "url": "https://www.youtube.com/watch?v=XgyIgz6OYQg",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15164,7 +15164,7 @@
       "url": "https://www.youtube.com/watch?v=rm7I7Gv5vkw",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15177,7 +15177,7 @@
       "url": "https://www.youtube.com/watch?v=oTq_niYmtuY",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15190,7 +15190,7 @@
       "url": "https://www.youtube.com/watch?v=dsMp7gUin90",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15203,7 +15203,7 @@
       "url": "https://www.youtube.com/watch?v=bcmBcNmLk8M",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15216,7 +15216,7 @@
       "url": "https://www.youtube.com/watch?v=KvyPN9x_OxA",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15229,7 +15229,7 @@
       "url": "https://www.youtube.com/watch?v=ayfGhZoBYUw",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15242,7 +15242,7 @@
       "url": "https://www.youtube.com/watch?v=hyaWC1VJLSc",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15255,7 +15255,7 @@
       "url": "https://www.youtube.com/watch?v=wdrOhXqBHTI",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15268,7 +15268,7 @@
       "url": "https://www.youtube.com/watch?v=TwRMaQvf9Qo",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15281,7 +15281,7 @@
       "url": "https://www.youtube.com/watch?v=x2Mbw_48Gu8",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15294,7 +15294,7 @@
       "url": "https://www.youtube.com/watch?v=NROMGE5GeIQ",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15307,7 +15307,7 @@
       "url": "https://www.youtube.com/watch?v=hnuWzYFSXj4",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15320,7 +15320,7 @@
       "url": "https://www.youtube.com/watch?v=_i5sOITMmHM",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -15333,7 +15333,7 @@
       "url": "https://www.youtube.com/watch?v=TRVJwV3AaDY",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2017-02-28"
@@ -19190,7 +19190,7 @@
       "url": "https://www.youtube.com/watch?v=wwt75jFH4Hw",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-22"
@@ -19216,7 +19216,7 @@
       "url": "https://www.youtube.com/watch?v=RU-_yOr0FpQ",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-21"
@@ -19231,7 +19231,7 @@
         "исполняют р. Борух Левитан (альт) и р. Исроэль Зельман (\"фортепьяно\")"
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-21"
@@ -19244,7 +19244,7 @@
       "url": "https://www.youtube.com/watch?v=NixAqzQafPI",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-21"
@@ -19257,7 +19257,7 @@
       "url": "https://www.youtube.com/watch?v=so3UF3Bp6Lc",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-21"
@@ -19270,7 +19270,7 @@
       "url": "https://www.youtube.com/watch?v=VZ__VyJfRGI",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2016-03-21"
@@ -20537,7 +20537,7 @@
       "url": "https://www.youtube.com/watch?v=lZf57gxRR0A",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2015-03-10"
@@ -21720,7 +21720,7 @@
       "url": "https://www.youtube.com/watch?v=n51K_kO7rJ0",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-10-20"
@@ -21793,7 +21793,7 @@
         "Это выступление было неожиданным для всех, в том числе и для нашего оператора. Так что подождите немного, пока исполнители окажутся в кадре."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-10-20"
@@ -21823,7 +21823,7 @@
         "Ранним холодом веет с неба,\nно, уверен, подходит срок,\nи ещё до первого снега\nты напишешь мне пару строк.\n\nСтарит осень тела и души,\nсолнце низкое, как зимой,\nно ещё не замёрзнут лужи, \nкак придёт от тебя письмо,\n\nя сниму, приглашу эксперта, - \nпусть хранит их не только стих – \nотпечатки пальцев с конверта\nи разводы от слёз твоих. \n\nРанним холодом веет с неба, \nскоро ночь – в самый раз провыть \nвместо ветра о том, что с ней бы\nхоть полдня бы, хоть час пробыть."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-10-20"
@@ -21838,7 +21838,7 @@
         "Афиша концерта здесь:\nhttp://softhightech.net/ea/zzconcert.jpg"
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-10-20"
@@ -22012,7 +22012,7 @@
         "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\"."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-03-24"
@@ -22027,7 +22027,7 @@
         "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\"."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-03-24"
@@ -22042,7 +22042,7 @@
         "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\"."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-03-24"
@@ -22057,7 +22057,7 @@
         "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\"."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2014-03-24"
@@ -22474,7 +22474,7 @@
       "url": "https://www.youtube.com/watch?v=dP7bLMc84cg",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-05-20"
@@ -22533,7 +22533,7 @@
         "Моноспектакль в \"Театре На Таганке\"... 1998 г."
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22546,7 +22546,7 @@
       "url": "https://www.youtube.com/watch?v=FZXGM6sUH78",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22559,7 +22559,7 @@
       "url": "https://www.youtube.com/watch?v=VzLp48FVuVA",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22572,7 +22572,7 @@
       "url": "https://www.youtube.com/watch?v=mt14ewZVkfo",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22585,7 +22585,7 @@
       "url": "https://www.youtube.com/watch?v=A2wyftwqOTI",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22598,7 +22598,7 @@
       "url": "https://www.youtube.com/watch?v=SghiG0LsnGc",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22611,7 +22611,7 @@
       "url": "https://www.youtube.com/watch?v=4jaJKaGyvnc",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22624,7 +22624,7 @@
       "url": "https://www.youtube.com/watch?v=WYGqeNOSwLU",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22637,7 +22637,7 @@
       "url": "https://www.youtube.com/watch?v=dxot78FWs5s",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22650,7 +22650,7 @@
       "url": "https://www.youtube.com/watch?v=9g0ytTCMT8k",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22663,7 +22663,7 @@
       "url": "https://www.youtube.com/watch?v=0cnZRKQ0KpM",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22676,7 +22676,7 @@
       "url": "https://www.youtube.com/watch?v=qRLg6de1Omg",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22689,7 +22689,7 @@
       "url": "https://www.youtube.com/watch?v=nF11t3IlwHY",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22702,7 +22702,7 @@
       "url": "https://www.youtube.com/watch?v=pm60gKM7ipM",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22717,7 +22717,7 @@
         "Пуримский Концерт 5771/2012 - Арриго Бойто, ария Мефистофеля"
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22730,7 +22730,7 @@
       "url": "https://www.youtube.com/watch?v=EXaIQJpYw84",
       "description": [],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -22745,7 +22745,7 @@
         "Пуримский Концерт 5771/2011 \nОперные Арии с Классическими Пуримскими комментариями\nИсполнитель - раввин Исроэль Зельман"
       ],
       "tags": [
-        "other",
+        "show",
         "toravedaat"
       ],
       "date": "2013-01-28"
@@ -27842,7 +27842,7 @@
     },
     {
       "tag": "other",
-      "count": 309
+      "count": 259
     },
     {
       "tag": "rbari",
@@ -27851,6 +27851,10 @@
     {
       "tag": "rzelman",
       "count": 1155
+    },
+    {
+      "tag": "show",
+      "count": 50
     },
     {
       "tag": "torah",
