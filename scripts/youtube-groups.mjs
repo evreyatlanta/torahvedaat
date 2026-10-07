@@ -1,22 +1,24 @@
 import { matchesRule } from './build-youtube-media.mjs';
 
-// Bind source video/playlist IDs to existing nodes; never create tree nodes.
-export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folderMedia = new Map()) {
+function validDestination(rule) {
+  if (rule.create !== undefined) return rule.create && typeof rule.create.parentId === 'string' && !!rule.create.parentId;
+  return Array.isArray(rule.playlistIds) && rule.playlistIds.every(id => typeof id === 'string' && id);
+}
+
+export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folderMedia = new Map(), folderTitles = new Map()) {
   for (const name of ['records', 'items', 'playlists']) {
     const list = rules.groups?.[name] ?? [];
     if (!Array.isArray(list) || list.some(rule => {
       const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
       return (selectors.length ? selectors.some(field => typeof rule[field] !== 'string' || !rule[field].trim())
-        : typeof rule.id !== 'string' || !rule.id) || !Array.isArray(rule.playlistIds) ||
-        rule.playlistIds.some(id => typeof id !== 'string' || !id) ||
+        : typeof rule.id !== 'string' || !rule.id) || !validDestination(rule) ||
         (Object.hasOwn(rule, 'folder') && (typeof rule.folder !== 'string' || !rule.folder));
     })) {
       throw new Error(`Invalid rules.json groups.${name}`);
     }
   }
   if (!Array.isArray(rules.groups.folders ?? []) || (rules.groups.folders ?? []).some(rule =>
-    typeof rule.folder !== 'string' || !rule.folder || !Array.isArray(rule.playlistIds) ||
-    rule.playlistIds.some(id => typeof id !== 'string' || !id))) {
+    typeof rule.folder !== 'string' || !rule.folder || !validDestination(rule))) {
     throw new Error('Invalid rules.json groups.folders');
   }
   const result = structuredClone(tree);
@@ -53,8 +55,27 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
     for (const child of list.children || []) ids.push(...collect(child, next));
     return [...new Set(ids)];
   }
-  function assign(rule, ids) {
-    for (const id of rule.playlistIds) {
+  function assign(rule, ids, source) {
+    let destination = rule.playlistIds;
+    if (rule.create !== undefined) {
+      if (!source) return;
+      const parent = targets.get(rule.create.parentId);
+      if (!parent) throw new Error(`Unknown parent playlist: ${rule.create.parentId}`);
+      if (parent.id === source.id) throw new Error('Cannot create a playlist inside itself');
+      const existing = targets.get(source.id);
+      if (existing && !(parent.children || []).some(node => node.id === source.id)) {
+        throw new Error(`Playlist ${source.id} already exists under another parent`);
+      }
+      if (!existing) {
+        const mediaById = new Map(mediaItems.map(item => [item.id, item]));
+        const node = { id: source.id, title: source.title || source.id,
+          tags: [...new Set(ids.flatMap(id => mediaById.get(id)?.tags || []))], items: [], children: [] };
+        (parent.children ??= []).push(node);
+        targets.set(node.id, node);
+      }
+      destination = [source.id];
+    }
+    for (const id of destination) {
       const node = targets.get(id);
       if (!node) throw new Error(`Unknown target playlist: ${id}`);
       node.items = [...new Set([...(node.items || []), ...ids])];
@@ -66,17 +87,25 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
     const matching = candidates.filter(item => matchesRule(rule, item.id, {
       title: item.title, description: (item.description || []).join('\n')
     }));
-    assign(rule, matching.map(item => item.id));
+    if (rule.create !== undefined) {
+      for (const item of matching) assign(rule, [item.id], item);
+    } else assign(rule, matching.map(item => item.id));
   }
   for (const rule of rules.groups.playlists ?? []) {
     const matching = [...sources].filter(([id, source]) =>
       (rule.folder === undefined || rule.folder === source.folder) && matchesRule(rule, id,
       source.playlist?.snippet || { title: source.title,
         description: Array.isArray(source.description) ? source.description.join('\n') : source.description }));
-    assign(rule, matching.flatMap(([, source]) => collect(source)));
+    if (rule.create !== undefined) {
+      for (const [id, source] of matching) assign(rule, collect(source), {
+        id, title: source.playlist?.snippet?.title || source.title
+      });
+    } else assign(rule, matching.flatMap(([, source]) => collect(source)));
   }
   for (const rule of rules.groups.folders ?? []) {
-    assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id));
+    assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id), {
+      id: rule.folder, title: folderTitles.get(rule.folder) || rule.folder
+    });
   }
   // Rules define membership; upload order defines the final display order.
   const uploadOrder = new Map(mediaItems.map((item, index) => [item.id, index]));

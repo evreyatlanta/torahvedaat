@@ -45,7 +45,8 @@ export async function assembleYoutubeLibrary(root, dataDirectory) {
   const library = assembleLibrary(records, previous.playlists);
   const playlistsFile = path.join(dataDirectory, 'playlists.js');
   const bindings = applyGroupRules(await read(playlistsFile), sourcePlaylists,
-    await read(path.join(root, 'rules.json')), library.items, folderMedia);
+    await read(path.join(root, 'rules.json')), library.items, folderMedia,
+    new Map(channels.map(channel => [channel.folder, channel.title])));
   library.playlists = bindings.counts;
   const groupsFile = path.join(dataDirectory, 'media-groups.js');
   const totals = new Map(library.tags.map(({ tag, count }) => [tag, count]));

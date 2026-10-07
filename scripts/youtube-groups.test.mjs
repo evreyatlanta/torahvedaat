@@ -88,3 +88,28 @@ test('Optional folder limits record and playlist bindings to actual source folde
   const result = applyGroupRules(tree, lists, rules, [...bari, ...tvd], folders);
   assert.deepEqual(result.tree[0].items, ['bari']);
 });
+
+test('Create adds matching source playlists as children and reuses them on repeated builds', () => {
+  const tree = [{ id: 'root', items: [], tags: ['torah'], children: [] }];
+  const media = [{ id: 'video', title: 'Lesson', tags: ['torah', 'rbari'] }];
+  const lists = [{ folder: 'rbari', playlist: { id: 'source', snippet: { title: 'Weekly lessons' } },
+    items: ['video'] }];
+  const rules = { groups: { playlists: [{ name: 'lessons', create: { parentId: 'root' } }] } };
+  const result = applyGroupRules(tree, lists, rules, media);
+  assert.deepEqual(result.tree[0].children[0], {
+    id: 'source', title: 'Weekly lessons', tags: ['torah', 'rbari'], items: ['video'], children: []
+  });
+  assert.deepEqual(applyGroupRules(result.tree, lists, rules, media), result);
+});
+
+test('Folder create uses folder ID and channel title, without requiring playlistIds', () => {
+  const tree = [{ id: 'root', items: [], children: [] }];
+  const media = [{ id: 'video', tags: ['torah'] }];
+  const rules = { groups: { folders: [{ folder: 'rbari', create: { parentId: 'root' } }] } };
+  const result = applyGroupRules(tree, [], rules, media, new Map([['rbari', media]]),
+    new Map([['rbari', 'Rabbi Eliyahu Bari']]));
+  assert.equal(result.tree[0].children[0].id, 'rbari');
+  assert.equal(result.tree[0].children[0].title, 'Rabbi Eliyahu Bari');
+  assert.deepEqual(result.tree[0].children[0].items, ['video']);
+  assert.throws(() => applyGroupRules([], [], rules, media), /Unknown parent playlist/);
+});
