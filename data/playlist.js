@@ -1826,14 +1826,7 @@
       "torah",
       "rzelman"
     ],
-    "items": [
-      "OV5RruB-ZKQ",
-      "gAswpK4M_QA",
-      "wo1LoX0UFis",
-      "GXhxZ6IKVIM",
-      "BZKVI9J_lao",
-      "U6RGFObUIho"
-    ],
+    "items": [],
     "children": [
       {
         "id": "tanakh",
@@ -3178,7 +3171,7 @@
         ]
       },
       {
-        "id": "weekly-portion",
+        "id": "parsha",
         "title": "Недельная глава",
         "tags": [
           "torah",
@@ -3303,6 +3296,35 @@
               "s6Tvst388SM",
               "gf8gO4BMnsc",
               "nxP0YUqVy4k"
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "id": "halakha",
+        "title": "Законы",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": [
+          {
+            "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
+            "title": "Законы Обид и Оскорблений",
+            "tags": [
+              "torah",
+              "rzelman",
+              "toravedaat"
+            ],
+            "items": [
+              "OV5RruB-ZKQ",
+              "gAswpK4M_QA",
+              "wo1LoX0UFis",
+              "GXhxZ6IKVIM",
+              "BZKVI9J_lao",
+              "U6RGFObUIho"
             ],
             "children": []
           }

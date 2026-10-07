@@ -28279,8 +28279,16 @@
       "count": 47
     },
     {
-      "id": "weekly-portion",
+      "id": "parsha",
       "count": 83
+    },
+    {
+      "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
+      "count": 6
+    },
+    {
+      "id": "halakha",
+      "count": 6
     },
     {
       "id": "PLW28qGxPmmbrmRGgFd_7ka6HJeG9rrxxX",
