@@ -220,6 +220,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-heading h2 { margin: 0; font: inherit; color: inherit; }
 .media-heading #media-result-count { font-size: 0.85rem; font-weight: normal; margin-left: auto; white-space: nowrap; }
 .media-sidebar { display: grid; gap: 20px; align-content: start; }
+.site-layout.media-layout { grid-template-columns: 290px minmax(0, 1fr) 260px; }
+.media-rubrics-disclosure > summary { list-style: none; cursor: pointer; }
+.media-rubrics-disclosure > summary::-webkit-details-marker { display: none; }
 .media-playlist-tree summary { display: flex; align-items: flex-start; gap: 8px; margin: 0; padding: 0; list-style: none; }
 .media-playlist-tree summary::marker { content: ''; }
 .media-playlist-tree summary::-webkit-details-marker { display: none; }
@@ -242,6 +245,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .news-registration { padding-top: 12px; border-top: 1px solid #e2eaed; font-size: 0.85rem; }
 .news-registration p { margin-bottom: 8px; }
 @media (max-width: 1000px) {
+    .site-layout.media-layout { grid-template-columns: minmax(0, 1fr) 260px; }
     .news-card-with-image { grid-template-columns: minmax(0, 1fr); }
     .news-image { height: 180px; min-height: 0; object-fit: contain; background: #edf5f8; }
 }
@@ -250,6 +254,10 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
     .has-section-nav .section-nav { grid-column: 1 / -1; }
 }
 @media (max-width: 760px) {
+    .site-layout.media-layout { grid-template-columns: minmax(0, 1fr); }
+    .media-rubrics-disclosure > summary { display: flex; justify-content: space-between; align-items: center; }
+    .media-rubrics-disclosure > summary::after { content: '▸'; }
+    .media-rubrics-disclosure[open] > summary::after { content: '▾'; }
     body { padding: 12px; }
     .header-bar { justify-content: center; padding: 4px 12px; }
     .site-layout, .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr); gap: 16px; }

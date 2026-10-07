@@ -6,6 +6,13 @@ import { renderMediaRecords } from './records.js';
 
 const status = document.getElementById('media-status');
 const resultCount = document.getElementById('media-result-count');
+const rubricsDisclosure = document.getElementById('media-rubrics-disclosure');
+const mobileLayout = matchMedia('(max-width: 760px)');
+function updateRubricsLayout() {
+    rubricsDisclosure.open = !mobileLayout.matches;
+}
+updateRubricsLayout();
+mobileLayout.addEventListener('change', updateRubricsLayout);
 try {
     const id = new URLSearchParams(location.search).get('id');
     const [categories, library] = await Promise.all([
