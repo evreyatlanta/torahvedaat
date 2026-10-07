@@ -1,6 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
+import { applyGroupRules } from './youtube-groups.mjs';
 
 export function assembleLibrary(channelMedia, playlistCounts = []) {
   const unique = new Map();
@@ -29,18 +30,25 @@ export async function assembleYoutubeLibrary(root, dataDirectory) {
   const read = async file => JSON.parse(await readFile(file, 'utf8'));
   const channels = await read(path.join(root, 'channels.json'));
   const records = [];
+  const sourcePlaylists = [];
   for (const channel of channels) {
     if (!/^[a-zA-Z0-9_-]+$/.test(channel.folder || '')) throw new Error('Invalid channel folder');
     records.push(await read(path.join(root, channel.folder, 'media.json')));
+    sourcePlaylists.push(...await read(path.join(root, channel.folder, 'playlists.json')));
   }
   const output = path.join(dataDirectory, 'media.js');
   const previous = await read(output);
   const library = assembleLibrary(records, previous.playlists);
+  const playlistsFile = path.join(dataDirectory, 'playlists.js');
+  const bindings = applyGroupRules(await read(playlistsFile), sourcePlaylists,
+    await read(path.join(root, 'rules.json')), library.items);
+  library.playlists = bindings.counts;
   const groupsFile = path.join(dataDirectory, 'media-groups.js');
   const totals = new Map(library.tags.map(({ tag, count }) => [tag, count]));
   const groups = (await read(groupsFile)).map(group => ({ ...group, count: totals.get(group.id) || 0 }));
   await writeFile(output, JSON.stringify(library, null, 2) + '\n');
   await writeFile(groupsFile, JSON.stringify(groups, null, 2) + '\n');
+  await writeFile(playlistsFile, JSON.stringify(bindings.tree, null, 2) + '\n');
   console.log(`Assembled ${library.items.length} unique media records in ${output}`);
 }
 

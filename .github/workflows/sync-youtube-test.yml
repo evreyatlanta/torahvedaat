@@ -10,6 +10,8 @@ on:
       - 'scripts/build-youtube-media.test.mjs'
       - 'scripts/assemble-youtube-library.mjs'
       - 'scripts/assemble-youtube-library.test.mjs'
+      - 'scripts/youtube-groups.mjs'
+      - 'scripts/youtube-groups.test.mjs'
   workflow_dispatch:
 
 permissions:
@@ -33,7 +35,7 @@ jobs:
         with:
           node-version: '22'
       - name: Verify synchronization logic
-        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs scripts/assemble-youtube-library.test.mjs
+        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs scripts/assemble-youtube-library.test.mjs scripts/youtube-groups.test.mjs
       - name: Fetch raw test YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -44,7 +46,7 @@ jobs:
         run: node scripts/assemble-youtube-library.mjs test/youtube test/data
       - name: Commit test YouTube data
         run: |
-          git add test/youtube/ test/data/media.js test/data/media-groups.js
+          git add test/youtube/ test/data/media.js test/data/media-groups.js test/data/playlists.js
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

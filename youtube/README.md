@@ -44,6 +44,15 @@ Non-main tags are combined without duplicates. Missing main tags default to
 The generated media uses the actual `videoPublishedAt` date when available.
 Changing test rules also triggers the test workflow. Production has no tagging
 step yet. The test workflow assembles the channel media arrays into
-`test/data/media.js` and updates tag and media group counts. Existing
-`test/data/playlists.js` and playlist counts are preserved until the new playlist
-generation is specified; no old source playlist builder runs for test.
+`test/data/media.js` and updates tag and media group counts. No old source
+playlist builder runs for test.
+
+`rules.json` also defines `groups.records` and `groups.playlists`, each an array
+of `{ "id": "source ID", "playlistIds": ["existing tree node ID"] }`.
+Record IDs are video IDs; playlist IDs identify downloaded YouTube playlists
+(or existing tree nodes). Matching records are appended to the destination
+node's `items`, without duplicates. Matching playlists contribute their items
+in source order, recursively including children and playlist references.
+Existing tree nodes, labels, tags, children, and manual item IDs are retained.
+Unknown destination nodes fail the build instead of creating new nodes.
+Playlist counts are updated using unique media IDs, including descendants.
