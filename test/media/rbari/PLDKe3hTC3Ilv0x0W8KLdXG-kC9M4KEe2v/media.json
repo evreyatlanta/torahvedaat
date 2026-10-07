@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ilv0x0W8KLdXG-kC9M4KEe2v"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "rzD5aC-cBiU",
+      "title": "Зоар Шлах 1/5 – Страх потерять статус – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=rzD5aC-cBiU"
+    },
+    {
+      "id": "GOkbY7J_Fh0",
+      "title": "Зоар Шлах 2/5 – Древо Жизни и ошибка разведчиков – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=GOkbY7J_Fh0"
+    },
+    {
+      "id": "zeVH5dD0TEk",
+      "title": "Зоар Шлах 3/5 – Как посланник меняет целый народ – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=zeVH5dD0TEk"
+    },
+    {
+      "id": "7nK-H-Ou86s",
+      "title": "Зоар Шлах 4/5 – Источник слёз для будущих поколений – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=7nK-H-Ou86s"
+    },
+    {
+      "id": "OUpQ6mK0Bhk",
+      "title": "Зоар Шлах 5/5 – Почему Моше не вошёл в землю Израиля – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=OUpQ6mK0Bhk"
+    }
+  ]
+}

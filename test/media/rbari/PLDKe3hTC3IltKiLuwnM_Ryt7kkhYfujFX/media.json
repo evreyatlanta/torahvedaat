@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IltKiLuwnM_Ryt7kkhYfujFX"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "VPMh4sZHMng",
+      "title": "Ор аХаим глава Шмини: значение «перед Шехиной» и тайны зеха-довар. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=VPMh4sZHMng"
+    },
+    {
+      "id": "5Ta2ovDRoWo",
+      "title": "Ор аХаим глава Шмини: тайна тельца Аарона. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=5Ta2ovDRoWo"
+    },
+    {
+      "id": "wBhPloD57pU",
+      "title": "Ор аХаим глава Шмини: Сила речи Аарона и обрезание сердца. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=wBhPloD57pU"
+    }
+  ]
+}

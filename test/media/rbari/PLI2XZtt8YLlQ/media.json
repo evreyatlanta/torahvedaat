@@ -1,0 +1,49 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLI2XZtt8YLlQ"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "s-Ivei9MKuc",
+      "title": "Зоар Балак 1/7 – «Вижу его, но не теперь» – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=s-Ivei9MKuc"
+    },
+    {
+      "id": "f_PuTW3KXOw",
+      "title": "Зоар Балак 2/7 – Звезда над Римом и падение старой власти – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=f_PuTW3KXOw"
+    },
+    {
+      "id": "juZTnkAMUT8",
+      "title": "Зоар Балак 3/7 – Гордый правитель и война двух сторон – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=juZTnkAMUT8"
+    },
+    {
+      "id": "6aLHh7-W1fE",
+      "title": "Зоар Балак 4/7 – Пещера под Храмом и ветвь Машиаха – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=6aLHh7-W1fE"
+    },
+    {
+      "id": "sFnzMjyATr0",
+      "title": "Зоар Балак 5/7 – Дух Машиаха против Эдома – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=sFnzMjyATr0"
+    },
+    {
+      "id": "T0WmePFX0x0",
+      "title": "Зоар Балак 6/7 – Шхина выходит из изгнания вместе с Исраэлем – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=T0WmePFX0x0"
+    },
+    {
+      "id": "ngeegY5V3yY",
+      "title": "Зоар Балак 7/7 – Источники спасения и финал геулы – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=ngeegY5V3yY"
+    }
+  ]
+}

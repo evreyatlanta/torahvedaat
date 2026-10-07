@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlulFc_9UoXXvMIcYXjs0dK4"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "-n7aRYcwbwo",
+      "title": "Ор аХаим глава Ки Теце - о Яфат Тоар: почему Тора так подробно говорит о пленнице. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=-n7aRYcwbwo"
+    },
+    {
+      "id": "1II0w9FN8BU",
+      "title": "Ор аХаим – Ки Тейце – Как Сын Становится Бунтарём? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=1II0w9FN8BU"
+    },
+    {
+      "id": "vbHFR7hGGrU",
+      "title": "Ор аХаим – Ки Тейце – Ответственность Мудреца за Грехи Народа – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=vbHFR7hGGrU"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLTJ3isxOSZ6k"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "yBa4XH_rK1s",
+      "title": "Почему евреи едят рыбу в Шаббат? ч.1- Скрытый смысл традиции – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=yBa4XH_rK1s"
+    },
+    {
+      "id": "JtFSpCxgWic",
+      "title": "Почему евреи едят рыбу в Шаббат? ч.2- Скрытый смысл традиции – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=JtFSpCxgWic"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlvUfOhCqSBAzK7jf-oIZBQO"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "Rh_k1-dMmXE",
+      "title": "Ор аХаим о главе Балак: пророчество Белама и тайна Машиаха. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=Rh_k1-dMmXE"
+    },
+    {
+      "id": "5aZlVFVuBrY",
+      "title": "Ор аХаим глава Балак - Антисемиты всех стран объединяйтесь! Часть первая - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=5aZlVFVuBrY"
+    },
+    {
+      "id": "VeQK5RyogKY",
+      "title": "Ор аХаим глава Балак - Антисемиты всех стран объединяйтесь! Часть вторая - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=VeQK5RyogKY"
+    },
+    {
+      "id": "sNObQpGEtaY",
+      "title": "Ор аХаим глава Балак - Антисемиты всех стран объединяйтесь! Часть третья - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=sNObQpGEtaY"
+    }
+  ]
+}

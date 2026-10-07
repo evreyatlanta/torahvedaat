@@ -1,0 +1,34 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IltdVKnXNLd232C9sMS88DPY"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "sG7IFp4y0oo",
+      "title": "Ор аХаим Корах 1/4 – Почему Корах взял себя в оппозицию? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=sG7IFp4y0oo"
+    },
+    {
+      "id": "pl0Lu-N7BmE",
+      "title": "Ор аХаим Корах 2/4 – Почему Моше отправил за Датаном и Авирамом? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=pl0Lu-N7BmE"
+    },
+    {
+      "id": "2wDW1EFE0tU",
+      "title": "Ор аХаим Корах 3/4 – Почему Датан и Авирам отвергли Моше? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=2wDW1EFE0tU"
+    },
+    {
+      "id": "UjLZFXpSQN8",
+      "title": "Ор аХаим Корах 4/4 – Не принимай их подношения – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=UjLZFXpSQN8"
+    }
+  ]
+}

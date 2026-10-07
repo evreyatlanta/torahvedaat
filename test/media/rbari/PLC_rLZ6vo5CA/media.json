@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLC_rLZ6vo5CA"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "V4SaQLiPe_A",
+      "title": "«Размышляй о ней день и ночь» ч.2 : тайна жизни по Зоару – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=V4SaQLiPe_A"
+    },
+    {
+      "id": "shBULqYc6oo",
+      "title": "«Размышляй о ней день и ночь» ч.3 : тайна жизни по Зоару – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=shBULqYc6oo"
+    },
+    {
+      "id": "Im_ZLGUlbUg",
+      "title": "«Размышляй о ней день и ночь» ч.1 : тайна жизни по Зоару – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=Im_ZLGUlbUg"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlvwX-VzvbP2OAVnAQj46u0B"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "Vb51obLFEpw",
+      "title": "Beis Medrash Ramchal on the weekly parsha - introduction.",
+      "url": "https://www.youtube.com/watch?v=Vb51obLFEpw"
+    },
+    {
+      "id": "We2FtvMOy7c",
+      "title": "Ramad Vali | Why Moshe’s Life Ended in Vengeance: Mystical Secrets Unveiled - Rabbi Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=We2FtvMOy7c"
+    },
+    {
+      "id": "AGdvraeAzdw",
+      "title": "Ramad Vali - Devarim - Fighting the Seven Levels of Tumah in the Desert - Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=AGdvraeAzdw"
+    },
+    {
+      "id": "fCErmoG2udM",
+      "title": "Ramchal - Toldot - Chesed and Gevurah: Why Yitzchak Re-Dug Avraham’s Wells - Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=fCErmoG2udM"
+    },
+    {
+      "id": "fUY-h_f0Utg",
+      "title": "Ramad Vali - Toldot - The Deeper Meaning of “The Elder Shall Serve the Younger” - Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=fUY-h_f0Utg"
+    }
+  ]
+}

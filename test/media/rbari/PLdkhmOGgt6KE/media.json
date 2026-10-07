@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLdkhmOGgt6KE"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "AVQ0t_Ia3Dk",
+      "title": "Зоар Матот 1/5 – Тайна двух цветов в Зоаре – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=AVQ0t_Ia3Dk"
+    },
+    {
+      "id": "TpVPWpd0HLQ",
+      "title": "Зоар Матот 2/5 – Шерсть, лён и тайна равновесия – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=TpVPWpd0HLQ"
+    },
+    {
+      "id": "QBLK0xL6JEY",
+      "title": "Зоар Матот 3/5 – Женщина, огонь и милость – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=QBLK0xL6JEY"
+    },
+    {
+      "id": "M2a23RIBmL4",
+      "title": "Зоар Матот 4/5 – Брак и духовное равновесие – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=M2a23RIBmL4"
+    },
+    {
+      "id": "0aM02bVcTyk",
+      "title": "Зоар Матот 5/5 – Израиль, народы и духовное прилепление – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=0aM02bVcTyk"
+    }
+  ]
+}

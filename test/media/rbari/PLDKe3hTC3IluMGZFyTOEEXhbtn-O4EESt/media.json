@@ -1,0 +1,34 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IluMGZFyTOEEXhbtn-O4EESt"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "hpie9RNaonk",
+      "title": "Ор аХаим глава Лех Леха- Статус Агарь и Ишмаэля по Ор аХаим: рабыня или свободная женщина? Рав Бари",
+      "url": "https://www.youtube.com/watch?v=hpie9RNaonk"
+    },
+    {
+      "id": "t1HQBlmwQv8",
+      "title": "Ор аХаим - Лех Леха - Как Авраам стал истинным наследником земли? - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=t1HQBlmwQv8"
+    },
+    {
+      "id": "aQvMzArvd5c",
+      "title": "Ор аХаим - Лех Леха - Талмуд: как Авраам стал владельцем земли? - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=aQvMzArvd5c"
+    },
+    {
+      "id": "UhkrLNWtDxA",
+      "title": "Ор аХаим - Лех Леха - Кто такой Малки-Цедек и почему он потерял священство? - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=UhkrLNWtDxA"
+    }
+  ]
+}

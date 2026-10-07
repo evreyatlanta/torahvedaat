@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlsKQgD6x3bykGyIiTcuvLcq"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "vLaFRoJQowo",
+      "title": "Ор аХаим глава Толдот - Почему Исаак женился в 40? Ор аХаим о тайнах главы Толдот. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=vLaFRoJQowo"
+    },
+    {
+      "id": "Y73sM3Uwryg",
+      "title": "Ор аХаим - Толдот - Скрытые смыслы в словах \"и это порождения Ицхака\" - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=Y73sM3Uwryg"
+    },
+    {
+      "id": "G1inPocBlRk",
+      "title": "Ор аХаим - Толдот - Почему Ривка страдала от беременности? - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=G1inPocBlRk"
+    }
+  ]
+}

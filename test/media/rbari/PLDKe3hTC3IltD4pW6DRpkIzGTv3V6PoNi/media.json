@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IltD4pW6DRpkIzGTv3V6PoNi"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "mgqO7d-MdT4",
+      "title": "Tefillin on Chol HaMoed 1/5 – Why Most Jews Don’t Wear Tefillin – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=mgqO7d-MdT4"
+    },
+    {
+      "id": "XTVAiZg_CXk",
+      "title": "Tefillin on Chol HaMoed 2/5 – Why Kabbalah Forbids Tefillin – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=XTVAiZg_CXk"
+    },
+    {
+      "id": "8NnUX7ogaQg",
+      "title": "Tefillin on Chol HaMoed 3/5 – The King’s Seal in the Zohar – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=8NnUX7ogaQg"
+    },
+    {
+      "id": "uKgzeN5vIlQ",
+      "title": "Tefillin on Chol HaMoed 4/5 – Lurianic Kabbalah – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=uKgzeN5vIlQ"
+    },
+    {
+      "id": "GgcoRvpjJ-4",
+      "title": "Tefillin on Chol HaMoed 5/5 – The Final Answer – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=GgcoRvpjJ-4"
+    }
+  ]
+}

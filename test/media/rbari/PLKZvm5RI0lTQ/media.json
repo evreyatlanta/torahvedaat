@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLKZvm5RI0lTQ"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "wc6gJhr5j5Y",
+      "title": "Зоар Ки Теце 1/5: Тайна Самаэля и чужих служанок | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=wc6gJhr5j5Y"
+    },
+    {
+      "id": "dLlDz5FSCvo",
+      "title": "Зоар Ки Теце 2/5: Как служебные силы стали объектами поклонения | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=dLlDz5FSCvo"
+    },
+    {
+      "id": "hJgnu6UsAwM",
+      "title": "Зоар Ки Теце 3/5: Тайна духа нечистоты | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=hJgnu6UsAwM"
+    },
+    {
+      "id": "yu5x5PJfAzs",
+      "title": "Зоар Ки Теце 4/5: «Дух нечистоты Я удалю с земли» | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=yu5x5PJfAzs"
+    },
+    {
+      "id": "5zzd9TSID9w",
+      "title": "Зоар Ки Теце 5/5: Тайна Верного Пастыря | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=5zzd9TSID9w"
+    }
+  ]
+}

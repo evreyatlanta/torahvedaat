@@ -1,0 +1,39 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ilu-bDgvuQ13y2hdrToXqzF1"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "6odam9bQ9F0",
+      "title": "Ор аХаим Ваейце 1/5 – Кто преследовал Яакова и зачем? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=6odam9bQ9F0"
+    },
+    {
+      "id": "WVXz5FBVeJA",
+      "title": "Ор аХаим Ваейце 2/5 – Где именно Яаков увидел сон? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=WVXz5FBVeJA"
+    },
+    {
+      "id": "PpxbzRkJWoM",
+      "title": "Ор аХаим Ваейце 3/5 – Лестница Яакова: иллюзия или истина? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=PpxbzRkJWoM"
+    },
+    {
+      "id": "jd3N4a00w3Y",
+      "title": "Ор аХаим Ваейце 4/5 – Яаков единственный наследник Авраама? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=jd3N4a00w3Y"
+    },
+    {
+      "id": "mUHKE3zAPYs",
+      "title": "Ор аХаим Ваейце 5/5 – Секреты души и лестницы Яакова – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=mUHKE3zAPYs"
+    }
+  ]
+}

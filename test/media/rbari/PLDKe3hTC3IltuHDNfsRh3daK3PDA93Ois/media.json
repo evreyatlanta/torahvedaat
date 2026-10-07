@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IltuHDNfsRh3daK3PDA93Ois"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "d7J4yTuyq0g",
+      "title": "Ор аХаим глава Шмот: глубинный пшат и сод комментария. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=d7J4yTuyq0g"
+    },
+    {
+      "id": "qCVVo0ozIG0",
+      "title": "Ор аХаим – Шемот – Осознанное принятие изгнания Израилем – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=qCVVo0ozIG0"
+    },
+    {
+      "id": "0Za3spyy67w",
+      "title": "Ор аХаим – Шемот – Трагедия неосуществлённого величия Йосефа – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=0Za3spyy67w"
+    }
+  ]
+}

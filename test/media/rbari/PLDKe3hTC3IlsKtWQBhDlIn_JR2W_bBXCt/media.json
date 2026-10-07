@@ -1,0 +1,24 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlsKtWQBhDlIn_JR2W_bBXCt"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "z3tmC6dHY78",
+      "title": "Ор аХаим Трума 1/2 – Драгоценные камни Мишкана – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=z3tmC6dHY78"
+    },
+    {
+      "id": "deE0E8hxf_c",
+      "title": "Ор аХаим Трума 2/2 – Ковчег Завета: личная или общая миссия? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=deE0E8hxf_c"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlukBdzTnkyKEQHQNTL_mURS"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "Rv1Px9y2MHc",
+      "title": "Ор аХаим Эмор 1/4 – Структура души и четырёх миров – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=Rv1Px9y2MHc"
+    },
+    {
+      "id": "3E1vCPr9XWo",
+      "title": "Ор аХаим Эмор 2/4 – Как человек заслуживает свет души – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=3E1vCPr9XWo"
+    },
+    {
+      "id": "VO4BbkgoV1E",
+      "title": "Ор аХаим Эмор 3/4 – Как грех повреждает душу – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=VO4BbkgoV1E"
+    },
+    {
+      "id": "AEhI0FjCeZo",
+      "title": "Ор аХаим Эмор 4/4 – Дочь Коэна и душа – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=AEhI0FjCeZo"
+    }
+  ]
+}

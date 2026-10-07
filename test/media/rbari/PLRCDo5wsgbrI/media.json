@@ -1,0 +1,44 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLRCDo5wsgbrI"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "LlvkuB8XqBk",
+      "title": "Суккот по Аризалю: от Неилы до Симхат Торы — Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=LlvkuB8XqBk"
+    },
+    {
+      "id": "4_YavZo4Gno",
+      "title": "Почему Суккот следует за Йом-Кипуром? Тайна Аризаля | Часть 1 из 5 | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=4_YavZo4Gno"
+    },
+    {
+      "id": "wavPZgdnvak",
+      "title": "Сукка — свет, внутри которого мы живём | Аризаль о Суккот 2 | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=wavPZgdnvak"
+    },
+    {
+      "id": "zxXJ_8b_gRA",
+      "title": "Четыре вида растений: как приходит внутренний свет | Аризаль о Суккот 3 | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=zxXJ_8b_gRA"
+    },
+    {
+      "id": "FqS83LBWVrg",
+      "title": "Ошана Раба: вторая печать и пять ветвей ивы | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=FqS83LBWVrg"
+    },
+    {
+      "id": "KlPpmNo3830",
+      "title": "Шмини Ацерет: радость Торы | Аризаль о Суккот 5 | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=KlPpmNo3830"
+    }
+  ]
+}

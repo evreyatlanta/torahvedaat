@@ -1,0 +1,24 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ilv6WAezCB-Sy4ur_7mH52ck"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "vkv6v62XG38",
+      "title": "Ramad Vali – Chayei Sarah – Did Sarah Fix the Sin of Chava? – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=vkv6v62XG38"
+    },
+    {
+      "id": "DTm7X4Sp8-I",
+      "title": "Ramad Vali – Chayei Sarah – The Secret of the Cave of Machpela – Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=DTm7X4Sp8-I"
+    }
+  ]
+}

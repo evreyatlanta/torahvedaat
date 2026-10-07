@@ -1,0 +1,49 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IltPlysWnZuLOqA4OjpGokRV"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "UhGNcuojLUs",
+      "title": "Ор аХаим Беаалотха: Песах Шейни – Лама нигра и тайны Песах Шейни – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=UhGNcuojLUs"
+    },
+    {
+      "id": "4tHISwgzy_Q",
+      "title": "Ор аХаим Беаалотха: Песах Шейни – Геры, Песах и духовный корень – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=4tHISwgzy_Q"
+    },
+    {
+      "id": "8WE3BagAtK0",
+      "title": "Ор аХаим Беаалотха: Песах Шейни – Почему наказание за Песах появляется здесь – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=8WE3BagAtK0"
+    },
+    {
+      "id": "90S4wR1icuA",
+      "title": "Ор аХаим Беаалотха: Песах Шейни – Песах после золотого тельца – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=90S4wR1icuA"
+    },
+    {
+      "id": "kZ2XLQ49vbQ",
+      "title": "Ор аХаим Беаалотха: Итро 1/3 – Между светом и тьмой – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=kZ2XLQ49vbQ"
+    },
+    {
+      "id": "Y17d_crX4GA",
+      "title": "Ор аХаим Беаалотха: Итро 2/3 – Почему Израилю нужен Итро – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=Y17d_crX4GA"
+    },
+    {
+      "id": "lHm5EnQkcxo",
+      "title": "Ор аХаим Беаалотха: Итро 3/3 – Твой свет нужен Израилю – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=lHm5EnQkcxo"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3IlvJ__jDUOHGvjohA2ApIprq"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "lCYM0c-VlS4",
+      "title": "Ор аХаим Ваишлах 1/6 – Зачем Яаков посылал малахим к Эсаву? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=lCYM0c-VlS4"
+    },
+    {
+      "id": "ZrdEHfrlPVA",
+      "title": "Ор аХаим Ваишлах 2/6 – Встреча с Эсавом: любовь или ненависть? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=ZrdEHfrlPVA"
+    },
+    {
+      "id": "u7stgX16kwQ",
+      "title": "Ор аХаим Ваишлах 3/6 – Бояться убить или быть убитым? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=u7stgX16kwQ"
+    },
+    {
+      "id": "loyHT7d8DE4",
+      "title": "Ор аХаим Ваишлах 4/6 – Как Яаков готовился к встрече с Эсавом – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=loyHT7d8DE4"
+    },
+    {
+      "id": "oV-hjdhXXQQ",
+      "title": "Ор аХаим Ваишлах 5/6 – Почему Яаков упоминает חסדים перед אמת? – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=oV-hjdhXXQQ"
+    },
+    {
+      "id": "CukS3HQCgHA",
+      "title": "Ор аХаим Ваишлах 6/6 – Когда брат опаснее врага – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=CukS3HQCgHA"
+    }
+  ]
+}

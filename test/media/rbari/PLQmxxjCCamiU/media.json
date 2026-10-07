@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLQmxxjCCamiU"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "sUwKjKsn29I",
+      "title": "The Arizal’s Secret of Yom Kippur 1 of 3 | What Happens in the Spiritual Worlds? Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=sUwKjKsn29I"
+    },
+    {
+      "id": "tOJW2vynQ20",
+      "title": "Arizal - Yom Kippur 2/3: Sweetening Judgment & the Avodah | Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=tOJW2vynQ20"
+    },
+    {
+      "id": "ZIWL7UwJ9MU",
+      "title": "Arizal - Yom Kippur 3/3: Kapparah, Neilah & the Road to Sukkot | Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=ZIWL7UwJ9MU"
+    }
+  ]
+}

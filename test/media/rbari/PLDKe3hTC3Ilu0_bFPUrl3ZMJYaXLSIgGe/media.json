@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ilu0_bFPUrl3ZMJYaXLSIgGe"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "AtOjxd4lHGY",
+      "title": "Ор аХаим глава Ки Таво о Бикурим: аллегория души в Ки Таво. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=AtOjxd4lHGY"
+    },
+    {
+      "id": "ObUgZbuMII8",
+      "title": "Ор аХаим ‑ Ки Таво ‑ Что значит быть народом Сегула? ‑ Рабби Элияу Бари",
+      "url": "https://www.youtube.com/watch?v=ObUgZbuMII8"
+    },
+    {
+      "id": "ByoSOGoyBhc",
+      "title": "Ор аХаим ‑ Ки Таво ‑ Почему именно эта заповедь открывает вход в Землю ‑ Рабби Элияу Бари",
+      "url": "https://www.youtube.com/watch?v=ByoSOGoyBhc"
+    }
+  ]
+}

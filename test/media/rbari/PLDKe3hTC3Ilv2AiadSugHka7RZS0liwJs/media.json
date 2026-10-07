@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ilv2AiadSugHka7RZS0liwJs"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "LYflZcI8_Gs",
+      "title": "Ор аХаим о законах Торы и тайне Красной коровы. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=LYflZcI8_Gs"
+    },
+    {
+      "id": "1E-WJVT8pWY",
+      "title": "Ор аХаим глава Xукат - Изгнание в Египет: Не просто наказание, а \"выплата долга\" - Рав Элияgу Бари",
+      "url": "https://www.youtube.com/watch?v=1E-WJVT8pWY"
+    },
+    {
+      "id": "bO7HxdcDy8k",
+      "title": "Ор аХаим глава Xукат - От Мей Мерива до Арада: Уроки Ответственности по Ор аХаим - Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=bO7HxdcDy8k"
+    }
+  ]
+}

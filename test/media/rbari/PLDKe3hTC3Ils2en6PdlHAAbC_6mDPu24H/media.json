@@ -1,0 +1,29 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "rbari"
+  ],
+  "playlists": [
+    "PLDKe3hTC3Ils2en6PdlHAAbC_6mDPu24H"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "R_LZaCqkDqw",
+      "title": "Ор аХаим – Бехар 25-36 – Как вернуть душу чистой – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=R_LZaCqkDqw"
+    },
+    {
+      "id": "4FFMFXi9oic",
+      "title": "Ор аХаим – Беxар 25-35 – Брат, который намекает на душу – Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=4FFMFXi9oic"
+    },
+    {
+      "id": "i_sIsQwCPdQ",
+      "title": "Ор аХаим глава Бехар Тайны Изгнания и Искупления: Аллегория на Вайикра 25. Рав Элиягу Бари.",
+      "url": "https://www.youtube.com/watch?v=i_sIsQwCPdQ"
+    }
+  ]
+}
