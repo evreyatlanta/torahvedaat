@@ -1,0 +1,486 @@
+{
+  "mainTags": [
+    "torah",
+    "show",
+    "music",
+    "other"
+  ],
+  "tags": {
+    "records": [],
+    "playlists": [
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии для Субботнего Стола",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Двенадцать \"Малых\" Пророков",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Книга Даниэля",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йирмияу",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Шир hа-Ширим",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии Ор а-Хаим",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Теhилим",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Законы Обид и Оскорблений",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Коhелет - Полный цикл уроков",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Пятикнижие, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Царей, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Шмуэля, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Судей, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йегошуа, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Недельная глава по пятницам",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Весь Танах - с начала завоевания Святой Земли",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "р. Калев Крелин - Тора и научно-технический прогресс",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Открытые уроки р. Зельмана",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Ханукальные переделки",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Песни-переделки",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Клипы-переделки",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Песни про Песах",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Поёт Мордехай Гутерман",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Поёт Элиягу Бари",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Песни про Лаг-ба-Омер",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Дуэт: Элиягу Бари и Мордехай Гутерман",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Песни про Рош-а-Шана и Йом-Кипур",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Песни в Сукке",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримские Песни",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Поёт рав Исроэль Зельман",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Поёт Михаил Стрижевский",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Ханукальные песни",
+        "tags": [
+          "music"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримшпили",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримский концерт - 5776",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримский Концерт Оперной Классики - компакт-версия",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Мюзикл \"Пуримшпиль\" ли Концерт Пуримского романса",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "\"У Самовара\", Концерт и презентация календаря, 7 сентября, 2014",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримшпиль \"Маленькие Трагедии большого праздника Пурим\" 5775",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Моноспектакли рава Зельмана",
+        "tags": [
+          "show"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Пуримский Концерт 5771/2011",
+        "tags": [
+          "show"
+        ]
+      }
+    ],
+    "folders": [
+      {
+        "folder": "rbari",
+        "tags": [
+          "torah"
+        ]
+      }
+    ]
+  },
+  "groups": {
+    "records": [],
+    "playlists": [
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Пятикнижие, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Царей, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Шмуэля, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Судей, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йегошуа, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Открытые уроки р. Зельмана",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии для Субботнего Стола",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Двенадцать \"Малых\" Пророков",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Книга Даниэля",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йирмияу",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Шир hа-Ширим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии Ор а-Хаим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Теhилим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Законы Обид и Оскорблений",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Коhелет - Полный цикл уроков",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Недельная глава по пятницам",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Весь Танах - с начала завоевания Святой Земли",
+        "playlistIds": [
+          "rzelman"
+        ]
+      }
+    ],
+    "folders": [
+      {
+        "folder": "rbari",
+        "playlistIds": [
+          "rbari"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "playlistIds": [
+          "toravedaat"
+        ]
+      }
+    ]
+  }
+}

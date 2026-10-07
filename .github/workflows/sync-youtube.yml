@@ -5,12 +5,20 @@ on:
     branches: [main]
     paths:
       - 'youtube/channels.json'
+      - 'youtube/rules.json'
+      - 'scripts/build-youtube-media.mjs'
+      - 'scripts/build-youtube-media.test.mjs'
+      - 'scripts/assemble-youtube-library.mjs'
+      - 'scripts/assemble-youtube-library.test.mjs'
+      - 'scripts/youtube-groups.mjs'
+      - 'scripts/youtube-groups.test.mjs'
   schedule:
     - cron: '17 */2 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: sync-youtube
@@ -28,14 +36,18 @@ jobs:
         with:
           node-version: '22'
       - name: Verify synchronization logic
-        run: node --test scripts/sync-youtube.test.mjs
+        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs scripts/assemble-youtube-library.test.mjs scripts/youtube-groups.test.mjs
       - name: Fetch raw YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/sync-youtube.mjs youtube
+      - name: Apply production media rules
+        run: node scripts/build-youtube-media.mjs youtube
+      - name: Assemble production website media
+        run: node scripts/assemble-youtube-library.mjs youtube data
       - name: Commit YouTube data
         run: |
-          git add youtube/
+          git add youtube/ data/media.js data/media-groups.js data/playlists.js
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -43,3 +55,7 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Request Pages rebuild
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"

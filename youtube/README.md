@@ -29,7 +29,7 @@ No source fields are renamed, transformed, or removed. The API key and request
 URLs are never written to these files. Data is committed only after a successful
 workflow run. These files do not yet feed the website's media library.
 
-## Test tagging rules
+## Media rules
 
 After downloading test data, the test workflow runs
 `node scripts/build-youtube-media.mjs test/youtube` and creates a separate
@@ -51,10 +51,10 @@ Once a main tag exists, playlist rules cannot add another main tag.
 Non-main tags are combined without duplicates. Missing main tags default to
 `other`, and the channel's `folder` is always added as a tag.
 The generated media uses the actual `videoPublishedAt` date when available.
-Changing test rules also triggers the test workflow. Production has no tagging
-step yet. The test workflow assembles the channel media arrays into
-`test/data/media.js` and updates tag and media group counts. No old source
-playlist builder runs for test.
+Changing test rules also triggers the test workflow. Production uses its own `youtube/rules.json` and the same processing steps.
+The test workflow assembles the channel media arrays into
+`test/data/media.js` and updates tag and media group counts. Production writes the corresponding files in `data/`. The legacy media
+workflow is removed; both environments use the YouTube pipeline.
 
 `rules.json` also defines `groups.records` and `groups.playlists`, each an array
 of `{ "id": "source ID", "playlistIds": ["existing tree node ID"] }`.

@@ -27,6 +27,14 @@ try {
         document.title = `${category.title} — Евреи Атланты`;
         const playlists = playlistsForTag(library.playlists, id);
         const media = library.media.filter(item => (item.tags ?? []).includes(id));
+        const playlistCounts = [];
+        function countPlaylists(nodes) {
+            for (const node of nodes) {
+                playlistCounts.push({ id: node.id, count: playlistItems(node, media).length });
+                countPlaylists(node.children ?? []);
+            }
+        }
+        countPlaylists(playlists);
         const playlistTarget = document.getElementById('media-playlists');
         const records = document.getElementById('media-records');
         function showSelection() {
@@ -51,7 +59,7 @@ try {
             }
             resultCount.hidden = false;
         }
-        renderPlaylistTree(playlistTarget, playlists, id, library.counts.playlists, (node, url) => {
+        renderPlaylistTree(playlistTarget, playlists, id, playlistCounts, (node, url) => {
             history.pushState(null, '', url);
             showSelection();
             window.scrollTo({ top: 0, behavior: 'instant' });
@@ -62,4 +70,3 @@ try {
 } catch {
     status.textContent = 'Не удалось загрузить медиатеку. Попробуйте обновить страницу.';
 }
-
