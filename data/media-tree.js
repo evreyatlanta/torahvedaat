@@ -48,6 +48,16 @@
         ],
         "items": [],
         "children": []
+      },
+      {
+        "id": "weekly-portion",
+        "title": "Недельная глава",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": []
       }
     ]
   },

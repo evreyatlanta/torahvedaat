@@ -394,16 +394,17 @@
       {
         "folder": "toravedaat",
         "name": "Открытые уроки р. Зельмана",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "rzelman",
+          "name": "Открытые уроки"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Комментарии для Субботнего Стола",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "weekly-portion"
+        }
       },
       {
         "folder": "toravedaat",
@@ -440,9 +441,9 @@
       {
         "folder": "toravedaat",
         "name": "Комментарии Ор а-Хаим",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "weekly-portion"
+        }
       },
       {
         "folder": "toravedaat",
@@ -462,23 +463,25 @@
       {
         "folder": "toravedaat",
         "name": "Коhелет - Полный цикл уроков",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Коhелет"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Недельная глава по пятницам",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "weekly-portion"
+        }
       },
       {
         "folder": "toravedaat",
         "name": "Весь Танах - с начала завоевания Святой Земли",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "tanakh",
+          "name": "Весь Танах — с начала завоевания Святой Земли"
+        }
       },
       {
         "folder": "toravedaat",
