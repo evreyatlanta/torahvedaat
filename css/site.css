@@ -273,3 +273,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
  .media-rubrics-disclosure > summary::after { content: '▸'; }
  .media-rubrics-disclosure[open] > summary::after { content: '▾'; }
 }
+
+.media-description { margin: 12px 0; }
+.media-description > summary { cursor: pointer; color: #00688b; padding: 10px 0; }
+.media-description p { white-space: pre-line; overflow-wrap: anywhere; }

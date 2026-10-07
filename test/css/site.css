@@ -281,3 +281,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-youtube-play { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; background: rgb(0 0 0 / 20%); color: white; font: bold 1.2rem system-ui, sans-serif; text-shadow: 0 1px 4px black; cursor: pointer; }
 .media-youtube-play:hover { background: rgb(0 0 0 / 35%); }
 @media (max-width: 760px) { .media-youtube { grid-template-columns: minmax(0, 1fr); } }
+
+.media-description { margin: 12px 0; }
+.media-description > summary { cursor: pointer; color: #00688b; padding: 10px 0; }
+.media-description p { white-space: pre-line; overflow-wrap: anywhere; }
