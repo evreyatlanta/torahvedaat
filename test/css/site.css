@@ -188,6 +188,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-summary li[hidden] { display: none; }
 .community-intro > summary { cursor: pointer; min-height: 44px; display: list-item; align-content: center; margin: 0; }
 .community-intro-content { padding-top: 12px; }
+.profile-image { display: block; max-width: 240px; border-radius: 5px; margin: 16px 0; }
+.profile-description { white-space: pre-line; }
 .community-news, .news-list { display: grid; gap: 16px; min-width: 0; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }

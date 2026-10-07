@@ -28,6 +28,18 @@ function element(tag, text, className) {
     return node;
 }
 
+function authorElement(lesson, name) {
+    const line = element('p', null, 'class-author');
+    if (lesson.authorId) {
+        const link = element('a', name);
+        link.href = `/test/profile/?id=${encodeURIComponent(lesson.authorId)}`;
+        line.append(link);
+    } else {
+        line.textContent = name;
+    }
+    return line;
+}
+
 export function lessonCard(lesson, notes) {
     const card = element('article', null, 'class-card');
     card.id = `lesson-${lesson.id}`;
@@ -62,7 +74,7 @@ export function lessonCard(lesson, notes) {
             card.append(join);
         }
     }
-    if (lesson.author) card.append(element('p', lesson.author, 'class-author'));
+    if (lesson.author) card.append(authorElement(lesson, lesson.author));
     if (lesson.description) card.append(element('p', lesson.description));
     const lessonNotes = notes;
     for (const note of lessonNotes.filter(note => note.type !== 'instruction')) card.append(noteElement(note));
@@ -81,7 +93,7 @@ export function summaryItem(lesson) {
     link.href = `/test/classes.html#${encodeURIComponent(`lesson-${lesson.id}`)}`;
     item.append(link);
     const summaryAuthor = lesson.short_author || lesson.author;
-    if (summaryAuthor) item.append(element('p', summaryAuthor, 'class-author'));
+    if (summaryAuthor) item.append(authorElement(lesson, summaryAuthor));
     return item;
 }
 

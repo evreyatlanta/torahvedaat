@@ -30,9 +30,9 @@
         {% include test/site-header.html %}
         <div class="site-layout{% if page.schedule_summary %} has-section-nav{% endif %}">
             {% if page.schedule_summary %}
-            <aside class="section-nav schedule-summary" aria-label="Краткое расписание уроков">
+            <aside class="section-nav schedule-summary" aria-label="{% if page.profile %}Все уроки преподавателя{% else %}Краткое расписание уроков{% endif %}">
                 <section class="white-box">
-                    <h2 class="section-title">Ближайшие уроки</h2>
+                    <h2 class="section-title">{% if page.profile %}Уроки преподавателя{% else %}Ближайшие уроки{% endif %}</h2>
                     <ul id="schedule-summary" class="panel-list"><li data-loading>Загрузка расписания…</li></ul>
                     <noscript>Откройте страницу уроков и включите JavaScript для просмотра расписания.</noscript>
                     <a class="schedule-more" href="/test/classes.html">Подробнее обо всех уроках →</a>
@@ -54,7 +54,8 @@
         </div>
         {% include test/footer.html %}
     </div>
-    {% if page.schedule or page.schedule_summary %}<script type="module" src="/test/js/schedule.js"></script>{% endif %}
+    {% unless page.profile %}{% if page.schedule or page.schedule_summary %}<script type="module" src="/test/js/schedule.js"></script>{% endif %}{% endunless %}
+    {% if page.profile %}<script type="module" src="/test/js/profile.js"></script>{% endif %}
     {% if page.community_intro %}<script type="module" src="/test/js/community-intro.js"></script>{% endif %}
     {% if page.community_news %}<script type="module" src="/test/js/news.js"></script>{% endif %}
 </body>

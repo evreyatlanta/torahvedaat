@@ -9,6 +9,7 @@ export async function loadSchedule(today) {
         .map(note => ({ ...note, type: note.type ?? 'note' }))
         .filter(note => note.expiration === null || note.expiration >= today);
     return {
+        profiles,
         classes: resolveLessonAuthors(classes, profiles),
         notesFor: id => activeNotes.filter(note => note.classId === id)
     };
