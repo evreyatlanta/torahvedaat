@@ -217,7 +217,12 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-playlist-link[aria-current] { background: #edf5f8; border-radius: 4px; font-weight: bold; }
 .media-record h4 { margin: 0 0 10px; font-size: 1rem; }
 .media-sidebar { display: grid; gap: 20px; align-content: start; }
-.media-playlist-tree summary { display: list-item; margin-left: 16px; }
+.media-playlist-tree summary { display: flex; align-items: flex-start; gap: 8px; margin: 0; padding: 0; list-style: none; }
+.media-playlist-tree summary::marker { content: ''; }
+.media-playlist-tree summary::-webkit-details-marker { display: none; }
+.media-playlist-tree summary::before { content: '▸'; flex: 0 0 12px; margin-top: 9px; line-height: 1.6; color: #00688b; }
+.media-playlist-branch[open] > summary::before { content: '▾'; }
+.media-playlist-tree summary > .media-playlist-link { flex: 1; min-width: 0; padding-inline: 0; }
 .media-playlist-link { max-width: 100%; box-sizing: border-box; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
