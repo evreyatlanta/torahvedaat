@@ -12,11 +12,14 @@ export function renderMediaRecords(target, items, title) {
         if (player) card.append(player);
         const paragraphs = (item.description ?? []).filter(paragraph => paragraph?.trim());
         if (paragraphs.length) {
+            const preview = element('p', paragraphs[0], 'media-description-preview');
+            card.append(preview);
             const description = element('details', null, 'media-description');
             const summary = element('summary', 'Показать описание');
             description.append(summary);
             paragraphs.forEach(paragraph => description.append(element('p', paragraph)));
             description.addEventListener('toggle', () => {
+                preview.hidden = description.open;
                 summary.textContent = description.open ? 'Скрыть описание' : 'Показать описание';
             });
             card.append(description);
