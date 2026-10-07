@@ -478,16 +478,16 @@
       {
         "folder": "rbari",
         "name": "[RU]",
-        "playlistIds": [
-          "rbari-ru"
-        ]
+        "create": {
+          "parentId": "rbari-ru"
+        }
       },
       {
         "folder": "rbari",
         "name": "[EN]",
-        "playlistIds": [
-          "rbari-en"
-        ]
+        "create": {
+          "parentId": "rbari-en"
+        }
       }
     ],
     "folders": [
@@ -496,12 +496,6 @@
         "playlistIds": [
           "toravedaat"
         ]
-      },
-      {
-        "folder": "rbari",
-        "create": {
-          "parentId": "rbari"
-        }
       }
     ]
   }
