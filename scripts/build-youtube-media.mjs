@@ -4,15 +4,28 @@ import { pathToFileURL } from 'node:url';
 
 const videoId = record => record.contentDetails?.videoId || record.snippet?.resourceId?.videoId;
 
+export function matchesRule(rule, id, snippet = {}) {
+  const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
+  if (!selectors.length) return rule.id === id;
+  return selectors.every(field => {
+    const value = field === 'name' ? snippet.title : snippet.description;
+    return String(value || '').toLocaleLowerCase().includes(rule[field].toLocaleLowerCase());
+  });
+}
+
 export function validateRules(rules) {
   if (!Array.isArray(rules?.mainTags) || !rules.mainTags.includes('other') ||
       rules.mainTags.some(tag => typeof tag !== 'string' || !tag)) {
     throw new Error('rules.json requires mainTags including other');
   }
-  for (const name of ['records', 'playlists']) {
-    if (!Array.isArray(rules.tags?.[name]) || rules.tags[name].some(rule =>
-      typeof rule.id !== 'string' || !rule.id || !Array.isArray(rule.tags) ||
-      rule.tags.some(tag => typeof tag !== 'string' || !tag))) {
+  for (const name of ['records', 'items', 'playlists']) {
+    const list = rules.tags?.[name] ?? [];
+    if (!Array.isArray(list) || list.some(rule => {
+      const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
+      return (selectors.length ? selectors.some(field => typeof rule[field] !== 'string' || !rule[field].trim())
+        : typeof rule.id !== 'string' || !rule.id) || !Array.isArray(rule.tags) ||
+        rule.tags.some(tag => typeof tag !== 'string' || !tag);
+    })) {
       throw new Error(`Invalid rules.json tags.${name}`);
     }
   }
@@ -43,8 +56,8 @@ export function buildChannelMedia(records, playlists, channel, rules) {
     if (seen.has(id)) continue;
     seen.add(id);
     const tags = new Set();
-    for (const rule of rules.tags.records) {
-      if (rule.id === id) for (const tag of rule.tags) tags.add(tag);
+    for (const rule of [...(rules.tags.records ?? []), ...(rules.tags.items ?? [])]) {
+      if (matchesRule(rule, id, record.snippet)) for (const tag of rule.tags) tags.add(tag);
     }
     for (const rule of rules.tags.folders ?? []) {
       if (rule.folder !== channel.folder) continue;
@@ -53,8 +66,9 @@ export function buildChannelMedia(records, playlists, channel, rules) {
         tags.add(tag);
       }
     }
-    for (const rule of rules.tags.playlists) {
-      if (!memberships.get(id)?.has(rule.id)) continue;
+    for (const rule of rules.tags.playlists ?? []) {
+      if (!playlists.some(list => memberships.get(id)?.has(list.playlist.id) &&
+        matchesRule(rule, list.playlist.id, list.playlist.snippet))) continue;
       for (const tag of rule.tags) {
         if (mainTags.has(tag) && [...tags].some(value => mainTags.has(value))) continue;
         tags.add(tag);

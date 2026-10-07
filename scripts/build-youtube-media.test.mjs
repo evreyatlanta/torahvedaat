@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { buildChannelMedia } from './build-youtube-media.mjs';
+import { buildChannelMedia, matchesRule } from './build-youtube-media.mjs';
 
 const records = [{ id: 'upload-item-id', snippet: { title: 'Title', description: 'Text' },
   contentDetails: { videoId: 'video-id', videoPublishedAt: '2026-10-07T12:00:00Z' } }];
@@ -53,4 +53,24 @@ test('Specific video category wins over folder category, which wins over playlis
   assert.deepEqual(build(config).tags, ['music', 'topic', 'rbari']);
   config.tags.records = [];
   assert.deepEqual(build(config).tags, ['torah', 'topic', 'rbari']);
+});
+
+test('Name and description selectors replace ID, ignore case, and both must match', () => {
+  const snippet = { title: 'Уроки ТОРЫ', description: 'Для всех желающих' };
+  assert.equal(matchesRule({ id: 'wrong', name: 'торы' }, 'actual', snippet), true);
+  assert.equal(matchesRule({ description: 'ВСЕХ' }, 'actual', snippet), true);
+  assert.equal(matchesRule({ name: 'торы', description: 'всех' }, 'actual', snippet), true);
+  assert.equal(matchesRule({ name: 'торы', description: 'другой' }, 'actual', snippet), false);
+});
+
+test('Item and playlist text rules only match the current video and its own playlists', () => {
+  const config = rules([], [{ id: 'ignored', name: 'Torah', tags: ['torah'] }]);
+  config.tags.items = [{ id: 'ignored', description: 'TEXT', tags: ['topic'] }];
+  const lists = [{ playlist: { id: 'first', snippet: { title: 'Weekly TORAH class' } },
+    items: [{ contentDetails: { videoId: 'video-id' } }] }];
+  assert.deepEqual(buildChannelMedia(records, lists, { folder: 'rbari' }, config)[0].tags,
+    ['topic', 'torah', 'rbari']);
+  lists[0].items = [];
+  assert.deepEqual(buildChannelMedia(records, lists, { folder: 'rbari' }, config)[0].tags,
+    ['topic', 'other', 'rbari']);
 });

@@ -41,6 +41,12 @@ first, then `tags.folders` rules of `{ "folder": "rbari", "tags": ["torah"] }`,
 followed by matching playlist rules in their order in the rules file.
 Folder rules apply to all media in that channel folder. Main tags from explicit
 record rules have priority over folder rules, which have priority over playlists.
+Record rules may also be placed in `tags.items` (`tags.records` remains supported).
+Record and playlist tag rules accept optional `name` and `description` strings.
+When either is present, text matching replaces ID matching. `name` must be a
+substring of the source title, and `description` a substring of its description,
+ignoring case. When both are specified, both must match. Empty selectors are
+rejected. Playlist text rules apply only to videos belonging to matching playlists.
 Once a main tag exists, playlist rules cannot add another main tag.
 Non-main tags are combined without duplicates. Missing main tags default to
 `other`, and the channel's `folder` is always added as a tag.
