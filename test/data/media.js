@@ -28207,6 +28207,42 @@
       "count": 335
     },
     {
+      "id": "PLW28qGxPmmboQc5JYgXPQrz0qFsLrYa59",
+      "count": 116
+    },
+    {
+      "id": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
+      "count": 283
+    },
+    {
+      "id": "PLW28qGxPmmbr1KZIBfz_rS4g9Zp6HJyrG",
+      "count": 0
+    },
+    {
+      "id": "PLW28qGxPmmbor6GeOOxX4fEXpSvvx7INu",
+      "count": 80
+    },
+    {
+      "id": "PLW28qGxPmmbrYSnAD880NcgywBvLqMQ7b",
+      "count": 59
+    },
+    {
+      "id": "PLW28qGxPmmbqCXEpGVPJOmdwSfh2ZbpkD",
+      "count": 24
+    },
+    {
+      "id": "PLW28qGxPmmbrVadWGW1IaXKAUYKKB_Ct3",
+      "count": 16
+    },
+    {
+      "id": "PLW28qGxPmmbqpGGLHFTIek3W4oBIeDmcp",
+      "count": 87
+    },
+    {
+      "id": "tanakh",
+      "count": 665
+    },
+    {
       "id": "rzelman",
       "count": 1155
     },
