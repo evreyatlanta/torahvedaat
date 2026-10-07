@@ -54,6 +54,7 @@ try {
         renderPlaylistTree(playlistTarget, playlists, id, library.counts.playlists, (node, url) => {
             history.pushState(null, '', url);
             showSelection();
+            window.scrollTo({ top: 0, behavior: 'instant' });
         });
         window.addEventListener('popstate', showSelection);
         showSelection();
