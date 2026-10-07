@@ -21,5 +21,25 @@ export function profileContent(profile) {
         content.append(line);
     }
     if (profile.phone) content.append(element('p', `Телефон: ${profile.phone}`));
+    const socialLinks = [
+        { url: profile.youtubeUrl, title: profile.youtubeTitle || 'YouTube' },
+        { url: profile.facebookUrl, title: profile.facebookTitle || 'Facebook' }
+    ];
+    for (const social of socialLinks) {
+        if (!social.url) continue;
+        try {
+            const url = new URL(social.url);
+            if (url.protocol !== 'https:' && url.protocol !== 'http:') continue;
+            const line = element('p');
+            const link = element('a', social.title);
+            link.href = url.href;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            line.append(link);
+            content.append(line);
+        } catch {
+            // Skip a malformed optional link without hiding the profile.
+        }
+    }
     return content;
 }

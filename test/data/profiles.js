@@ -8,7 +8,11 @@
     "image": null,
     "imageAlt": null,
     "email": "jewcenter@mail.ru",
-    "phone": null
+    "phone": null,
+    "youtubeUrl": null,
+    "youtubeTitle": null,
+    "facebookUrl": null,
+    "facebookTitle": null
   },
   {
     "id": "rbari",
@@ -19,6 +23,10 @@
     "image": null,
     "imageAlt": null,
     "email": null,
-    "phone": null
+    "phone": null,
+    "youtubeUrl": null,
+    "youtubeTitle": null,
+    "facebookUrl": null,
+    "facebookTitle": null
   }
 ]
