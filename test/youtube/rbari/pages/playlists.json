@@ -2487,7 +2487,7 @@
   },
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "Cttu1wdff5GX2ehcxOrGO_DM_gw",
+    "etag": "fpMaCKEqnTprdKEIBLq0EOA4Cl0",
     "prevPageToken": "CDIQAQ",
     "pageInfo": {
       "totalResults": 93,
@@ -2496,7 +2496,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "GnwKnYLe7fc6Cz6Igme5x40V-tU",
+        "etag": "NHTGxu_HtjuBJPJWtT92HRNP3mY",
         "id": "PLDKe3hTC3Ilv6WAezCB-Sy4ur_7mH52ck",
         "snippet": {
           "publishedAt": "2025-11-14T03:35:18.502272Z",
@@ -2505,17 +2505,17 @@
           "description": "[EN] Ramad Vali | Chayei Sarah | Sarah, Machpela, and the Soul’s Journey | Rav Eliyahu Bari\n\nAn English series exploring the mystical teachings of Rabbi Moshe David Vali on Parashat Chayei Sarah. These classes examine Sarah’s spiritual life, the Cave of Machpela, the relationship between body and soul, and the hidden purpose of burial in the Holy Land.\n\nIn this series:\n\n• why the Torah records Sarah’s 127 years in such detail\n• how Sarah’s spiritual life is connected to the birth of Isaac\n• whether Sarah rectified the sin of Chava\n• why Avraham urgently sought the Cave of Machpela\n• the mystical connection between the soul and the place of burial\n• why Avraham insisted on purchasing the cave in full\n• the spiritual meaning of Sarah’s burial and Avraham’s inheritance\n• how Ramad Vali’s commentary reveals hidden dimensions of Genesis\n\nVideos:\n\n1. Ramad Vali — Chayei Sarah — Did Sarah Fix the Sin of Chava?\n   https://www.youtube.com/watch?v=vkv6v62XG38\n\n2. Ramad Vali — Chayei Sarah — The Secret of the Cave of Machpela\n   https://www.youtube.com/watch?v=DTm7X4Sp8-I\n\nSubscribe to Rabbi Eliyahu Bari for Torah, Kabbalah, Or HaChaim, and Jewish mystical commentary in English and Russian.\n\n#RamadVali #ChayeiSarah #Sarah #Avraham #Machpela #Zohar #TorahStudy",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/vkv6v62XG38/default.jpg",
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/vkv6v62XG38/mqdefault.jpg",
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/vkv6v62XG38/hqdefault.jpg",
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
               "width": 480,
               "height": 360
             }
@@ -2531,7 +2531,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 2
+          "itemCount": 0
         }
       },
       {

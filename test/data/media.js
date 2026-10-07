@@ -27956,7 +27956,7 @@
     },
     {
       "id": "PLDKe3hTC3Ilv6WAezCB-Sy4ur_7mH52ck",
-      "count": 2
+      "count": 0
     },
     {
       "id": "PLDKe3hTC3Iltki4AJ0FIYm3Z8muem_ebZ",
@@ -28120,7 +28120,7 @@
     },
     {
       "id": "rbari-ru",
-      "count": 257
+      "count": 255
     },
     {
       "id": "PLUtAxWyvdZ0Y",
@@ -28255,8 +28255,36 @@
       "count": 219
     },
     {
+      "id": "PLW28qGxPmmbpKcMzQMP4N16wej47MZm37",
+      "count": 27
+    },
+    {
+      "id": "PLW28qGxPmmbovQgKgT_IaDSzdrx6CaXX-",
+      "count": 112
+    },
+    {
       "id": "tanakh",
-      "count": 1026
+      "count": 1053
+    },
+    {
+      "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
+      "count": 36
+    },
+    {
+      "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
+      "count": 0
+    },
+    {
+      "id": "PLW28qGxPmmbohXJQ0Wv1Fc5dZmtw3mYR6",
+      "count": 47
+    },
+    {
+      "id": "weekly-portion",
+      "count": 83
+    },
+    {
+      "id": "PLW28qGxPmmbrmRGgFd_7ka6HJeG9rrxxX",
+      "count": 13
     },
     {
       "id": "rzelman",
