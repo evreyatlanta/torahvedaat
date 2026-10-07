@@ -24,7 +24,7 @@ try {
         document.getElementById('media-category-title').textContent = category.title;
         document.title = `${category.title} — Евреи Атланты`;
         const playlists = matchingPlaylists(library.playlists, id);
-        const media = library.media.filter(item => item.tags.includes(id));
+        const media = library.media.filter(item => (item.tags ?? []).includes(id));
         const playlistTarget = document.getElementById('media-playlists');
         if (playlists.length) {
             playlistTarget.append(element('h3', 'Плейлисты'));
@@ -37,7 +37,7 @@ try {
             const card = element('article', null, 'media-record');
             if (item.title) card.append(element('h3', item.title));
             if (item.date) card.append(element('p', item.date));
-            item.description.forEach(paragraph => card.append(element('p', paragraph)));
+            (item.description ?? []).forEach(paragraph => card.append(element('p', paragraph)));
             const url = new URL(item.url, location.href);
             if (url.protocol === 'https:' || url.protocol === 'http:') {
                 const link = element('a', 'Открыть материал');

@@ -1,0 +1,48 @@
+name: Generate media library
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'test/media/**'
+      - 'scripts/build-media.mjs'
+      - 'scripts/build-media.test.mjs'
+      - '.github/workflows/build-media.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: generate-media
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify builder
+        run: node --test scripts/build-media.test.mjs
+      - name: Generate media.js
+        run: node scripts/build-media.mjs
+      - name: Commit generated data
+        run: |
+          if ! git diff --quiet -- test/data/media.js; then
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git add test/data/media.js
+            git commit -m 'Regenerate test media library'
+            git push origin HEAD:main
+          fi
+      # Bot commits do not trigger the normal branch-based Pages build.
+      - name: Request Pages rebuild
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"
