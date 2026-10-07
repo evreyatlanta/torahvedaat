@@ -50,7 +50,7 @@
         "children": []
       },
       {
-        "id": "weekly-portion",
+        "id": "parsha",
         "title": "Недельная глава",
         "tags": [
           "torah",

@@ -403,7 +403,7 @@
         "folder": "toravedaat",
         "name": "Комментарии для Субботнего Стола",
         "create": {
-          "parentId": "weekly-portion"
+          "parentId": "parsha"
         }
       },
       {
@@ -442,7 +442,7 @@
         "folder": "toravedaat",
         "name": "Комментарии Ор а-Хаим",
         "create": {
-          "parentId": "weekly-portion"
+          "parentId": "parsha"
         }
       },
       {
@@ -472,7 +472,7 @@
         "folder": "toravedaat",
         "name": "Недельная глава по пятницам",
         "create": {
-          "parentId": "weekly-portion"
+          "parentId": "parsha"
         }
       },
       {
