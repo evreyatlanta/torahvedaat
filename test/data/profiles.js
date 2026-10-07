@@ -11,8 +11,8 @@
     "phone": null,
     "youtubeUrl": null,
     "youtubeTitle": null,
-    "facebookUrl": null,
-    "facebookTitle": null
+    "facebookUrl": "https://www.facebook.com/isroel.zelman",
+    "facebookTitle": "страница в Facebook"
   },
   {
     "id": "rbari",
