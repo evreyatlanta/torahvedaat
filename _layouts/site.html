@@ -28,9 +28,19 @@
     <div class="site-shell">
         {% include site/navigation.html %}
         {% include site/site-header.html %}
-        <div class="site-layout{% if page.schedule_summary %} has-section-nav{% endif %}">
+        <div class="site-layout{% if page.schedule_summary or page.media_category %} has-section-nav{% endif %}">
+            {% if page.media_category %}
+            <aside class="section-nav media-sidebar" aria-label="Рубрики медиатеки">
+                <section class="white-box">
+                    <h2 class="section-title">Медиатека</h2>
+                    <nav id="media-category-nav" class="media-category-nav" aria-label="Рубрики"></nav>
+                </section>
+                <!-- Future search filters belong below the categories. -->
+            </aside>
+            {% endif %}
             {% if page.schedule_summary %}
             <aside class="section-nav schedule-summary" aria-label="{% if page.profile %}Все уроки преподавателя{% else %}Краткое расписание уроков{% endif %}">
+                {% if page.media_categories %}{% include site/media-panel.html %}{% endif %}
                 <section class="white-box">
                     <h2 class="section-title">Ближайшие уроки</h2>
                     <ul id="schedule-summary" class="panel-list"><li data-loading>Загрузка расписания…</li></ul>
@@ -57,5 +67,7 @@
     {% unless page.profile %}{% if page.schedule or page.schedule_summary %}<script type="module" src="/js/schedule.js"></script>{% endif %}{% endunless %}
     {% if page.profile %}<script type="module" src="/js/profile.js"></script>{% endif %}
     {% if page.community_intro %}<script type="module" src="/js/community-intro.js"></script>{% endif %}
+    {% if page.media_categories %}<script type="module" src="/js/media/categories.js"></script>{% endif %}
+    {% if page.media_category %}<script type="module" src="/js/media/category.js"></script>{% endif %}
 </body>
 </html>

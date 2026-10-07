@@ -63,11 +63,11 @@ export function updateGroupCounts(groups, tags) {
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
     try {
-        const result = await buildMedia(process.argv[2] ?? 'test/media');
-        const groupsPath = process.argv[4] ?? 'test/data/media-groups.js';
+        const result = await buildMedia(process.argv[2] ?? 'media');
+        const groupsPath = process.argv[4] ?? 'data/media-groups.js';
         const groups = JSON.parse((await readFile(groupsPath, 'utf8')).replace(/^\uFEFF/, ''));
         const updatedGroups = updateGroupCounts(groups, result.tags);
-        await writeFile(process.argv[3] ?? 'test/data/media.js', `${JSON.stringify(result, null, 2)}\n`);
+        await writeFile(process.argv[3] ?? 'data/media.js', `${JSON.stringify(result, null, 2)}\n`);
         await writeFile(groupsPath, `${JSON.stringify(updatedGroups, null, 2)}\n`);
         console.log(`Generated media.js and media-groups.js: ${result.items.length} items`);
     } catch (error) {

@@ -21,7 +21,8 @@
 }
 ```
 
-После push в main GitHub Action собирает `test/data/media.js` и сохраняет результат в репозитории.
+GitHub Action теперь собирает основную папку `media/` в `data/media.js`.
+Тестовые примеры сохраняются здесь; для них можно запустить сборку вручную.
 В нём объект с `items`, `playlists: [{id, count}]`, `tags: [{tag, count}]`.
 Повтор одного тега или плейлиста внутри записи не увеличивает счётчик.
 Удаление исходного файла также обновляет результат. Ошибка JSON прерывает сборку.
@@ -32,5 +33,5 @@
 Локальная сборка из корня репозитория:
 
 ```sh
-node scripts/build-media.mjs
+node scripts/build-media.mjs test/media test/data/media.js test/data/media-groups.js
 ```
