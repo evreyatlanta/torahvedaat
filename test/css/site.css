@@ -288,3 +288,16 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 
 .media-description-preview { display: -webkit-box; -webkit-box-orient: vertical; -webkit-line-clamp: 2; line-clamp: 2; overflow: hidden; overflow-wrap: anywhere; margin-bottom: 0; }
 .media-description-preview[hidden] { display: none; }
+
+.site-header { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 20px; align-items: center; margin-bottom: 16px; }
+.site-header .logo-section { min-width: 0; }
+.header-donation { color: #333; font-size: 0.9rem; line-height: 1.5; }
+.header-donation p { margin: 0 0 10px; }
+.header-donation form { margin: 0; }
+.header-donation input[type="image"] { max-width: 100%; height: auto; }
+@media (max-width: 760px) {
+ .site-header { grid-template-columns: minmax(0, 1fr); gap: 0; }
+ .header-donation { margin-bottom: 12px; }
+}
+
+.site-header .brand-text { overflow-wrap: anywhere; }

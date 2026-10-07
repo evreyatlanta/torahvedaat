@@ -1,7 +1,7 @@
 {% if include.panel %}
 <div class="white-box">
     <h2 class="section-title">Сделать пожертвование</h2>
-{% else %}
+{% elsif include.bare != true %}
     <h3>Пожертвования / Donations</h3>
 {% endif %}
     <p>Вы можете поддержать нашу общину через PayPal или банковской картой.</p>
