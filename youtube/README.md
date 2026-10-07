@@ -75,3 +75,7 @@ All matching records or all contents of matching playlists are added to targets.
 After assigning membership, each node's items are sorted by the upload media
 order (newest first), independently of rule order and source playlist order.
 IDs missing from the upload library remain at the end in their existing order.
+Record/items and playlist rules in both `tags` and `groups` accept optional
+`folder`. When supplied, the rule only matches media/playlists loaded from that
+actual channel folder. This restriction applies to both ID and text selectors.
+When omitted, the rule applies across channels. Folder matching is exact.

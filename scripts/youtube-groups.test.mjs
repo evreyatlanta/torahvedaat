@@ -74,3 +74,17 @@ test('Upload order overrides rule order, playlist order, and previous generated 
   assert.deepEqual(result.tree[0].items, ['newest', 'middle', 'oldest']);
   assert.deepEqual(result.tree[0].children[0].items, ['newest', 'middle', 'oldest']);
 });
+
+test('Optional folder limits record and playlist bindings to actual source folder', () => {
+  const tree = [{ id: 'root', items: [], children: [] }];
+  const bari = [{ id: 'bari', title: 'Lesson', description: [] }];
+  const tvd = [{ id: 'tvd', title: 'Lesson', description: [] }];
+  const folders = new Map([['rbari', bari], ['toravedaat', tvd]]);
+  const lists = [{ folder: 'rbari', playlist: { id: 'bari-list', snippet: { title: 'Lesson' } }, items: ['bari'] },
+    { folder: 'toravedaat', playlist: { id: 'tvd-list', snippet: { title: 'Lesson' } }, items: ['tvd'] }];
+  const rules = { groups: { items: [{ name: 'Lesson', folder: 'rbari', playlistIds: ['root'] }],
+    playlists: [{ id: 'tvd-list', folder: 'rbari', playlistIds: ['root'] },
+      { name: 'Lesson', folder: 'rbari', playlistIds: ['root'] }] } };
+  const result = applyGroupRules(tree, lists, rules, [...bari, ...tvd], folders);
+  assert.deepEqual(result.tree[0].items, ['bari']);
+});

@@ -74,3 +74,13 @@ test('Item and playlist text rules only match the current video and its own play
   assert.deepEqual(buildChannelMedia(records, lists, { folder: 'rbari' }, config)[0].tags,
     ['topic', 'other', 'rbari']);
 });
+
+test('Optional folder restricts record and playlist tagging even with matching IDs or text', () => {
+  const config = rules([{ id: 'video-id', folder: 'toravedaat', tags: ['music'] }], [
+    { name: 'Lessons', folder: 'toravedaat', tags: ['show'] }
+  ]);
+  const lists = [{ playlist: { id: 'first', snippet: { title: 'Lessons' } },
+    items: [{ contentDetails: { videoId: 'video-id' } }] }];
+  assert.deepEqual(buildChannelMedia(records, lists, { folder: 'rbari' }, config)[0].tags, ['other', 'rbari']);
+  assert.deepEqual(buildChannelMedia(records, lists, { folder: 'toravedaat' }, config)[0].tags, ['music', 'toravedaat']);
+});

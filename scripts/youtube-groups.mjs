@@ -8,7 +8,8 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
       const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
       return (selectors.length ? selectors.some(field => typeof rule[field] !== 'string' || !rule[field].trim())
         : typeof rule.id !== 'string' || !rule.id) || !Array.isArray(rule.playlistIds) ||
-        rule.playlistIds.some(id => typeof id !== 'string' || !id);
+        rule.playlistIds.some(id => typeof id !== 'string' || !id) ||
+        (Object.hasOwn(rule, 'folder') && (typeof rule.folder !== 'string' || !rule.folder));
     })) {
       throw new Error(`Invalid rules.json groups.${name}`);
     }
@@ -29,10 +30,11 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
   }
   index(tree, sources);
   index(result, targets);
-  function indexSources(lists) {
+  function indexSources(lists, inheritedFolder) {
     for (const list of lists) {
-      sources.set(list.playlist?.id || list.id, list);
-      indexSources(list.children || []);
+      const folder = list.folder ?? inheritedFolder;
+      sources.set(list.playlist?.id || list.id, { ...list, folder });
+      indexSources(list.children || [], folder);
     }
   }
   indexSources(sourcePlaylists);
@@ -60,13 +62,15 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
   }
   const available = new Set(mediaItems.map(item => item.id));
   for (const rule of [...(rules.groups.records ?? []), ...(rules.groups.items ?? [])]) {
-    const matching = mediaItems.filter(item => matchesRule(rule, item.id, {
+    const candidates = rule.folder === undefined ? mediaItems : (folderMedia.get(rule.folder) || []);
+    const matching = candidates.filter(item => matchesRule(rule, item.id, {
       title: item.title, description: (item.description || []).join('\n')
     }));
     assign(rule, matching.map(item => item.id));
   }
   for (const rule of rules.groups.playlists ?? []) {
-    const matching = [...sources].filter(([id, source]) => matchesRule(rule, id,
+    const matching = [...sources].filter(([id, source]) =>
+      (rule.folder === undefined || rule.folder === source.folder) && matchesRule(rule, id,
       source.playlist?.snippet || { title: source.title,
         description: Array.isArray(source.description) ? source.description.join('\n') : source.description }));
     assign(rule, matching.flatMap(([, source]) => collect(source)));

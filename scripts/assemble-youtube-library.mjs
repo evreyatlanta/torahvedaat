@@ -37,7 +37,8 @@ export async function assembleYoutubeLibrary(root, dataDirectory) {
     const channelRecords = await read(path.join(root, channel.folder, 'media.json'));
     records.push(channelRecords);
     folderMedia.set(channel.folder, channelRecords);
-    sourcePlaylists.push(...await read(path.join(root, channel.folder, 'playlists.json')));
+    sourcePlaylists.push(...(await read(path.join(root, channel.folder, 'playlists.json')))
+      .map(list => ({ ...list, folder: channel.folder })));
   }
   const output = path.join(dataDirectory, 'media.js');
   const previous = await read(output);

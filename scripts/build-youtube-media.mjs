@@ -24,7 +24,8 @@ export function validateRules(rules) {
       const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
       return (selectors.length ? selectors.some(field => typeof rule[field] !== 'string' || !rule[field].trim())
         : typeof rule.id !== 'string' || !rule.id) || !Array.isArray(rule.tags) ||
-        rule.tags.some(tag => typeof tag !== 'string' || !tag);
+        rule.tags.some(tag => typeof tag !== 'string' || !tag) ||
+        (Object.hasOwn(rule, 'folder') && (typeof rule.folder !== 'string' || !rule.folder));
     })) {
       throw new Error(`Invalid rules.json tags.${name}`);
     }
@@ -57,6 +58,7 @@ export function buildChannelMedia(records, playlists, channel, rules) {
     seen.add(id);
     const tags = new Set();
     for (const rule of [...(rules.tags.records ?? []), ...(rules.tags.items ?? [])]) {
+      if (rule.folder !== undefined && rule.folder !== channel.folder) continue;
       if (matchesRule(rule, id, record.snippet)) for (const tag of rule.tags) tags.add(tag);
     }
     for (const rule of rules.tags.folders ?? []) {
@@ -67,6 +69,7 @@ export function buildChannelMedia(records, playlists, channel, rules) {
       }
     }
     for (const rule of rules.tags.playlists ?? []) {
+      if (rule.folder !== undefined && rule.folder !== channel.folder) continue;
       if (!playlists.some(list => memberships.get(id)?.has(list.playlist.id) &&
         matchesRule(rule, list.playlist.id, list.playlist.snippet))) continue;
       for (const tag of rule.tags) {
