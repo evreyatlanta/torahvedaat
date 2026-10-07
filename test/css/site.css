@@ -208,6 +208,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-category-nav-link[aria-current="page"] { background: #dcecf2; color: #004e69; font-weight: bold; }
 .media-category-nav-link { gap: 10px; }
 .media-group-icon { width: 24px; height: 24px; flex: 0 0 24px; }
+.media-group-icon-wide { width: 48px; flex-basis: 48px; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }

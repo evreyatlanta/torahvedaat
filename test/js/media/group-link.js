@@ -3,7 +3,7 @@ import { element } from '../schedule/elements.js';
 export function groupLink(group, selectedId = null) {
     const link = element('a', null, 'media-category-nav-link');
     link.href = `/test/media/?id=${encodeURIComponent(group.id)}`;
-    const icon = element('img', null, 'media-group-icon');
+    const icon = element('img', null, `media-group-icon${group.id === 'show' ? ' media-group-icon-wide' : ''}`);
     icon.src = `/test/images/icons/media-${group.id}.svg`;
     icon.alt = '';
     icon.setAttribute('aria-hidden', 'true');
