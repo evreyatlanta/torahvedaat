@@ -2,7 +2,7 @@
   {
     "id": "torah",
     "title": "Уроки Торы",
-    "count": 739
+    "count": 332
   },
   {
     "id": "show",
