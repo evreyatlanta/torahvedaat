@@ -1,9 +1,14 @@
 # Raw YouTube data
 
 `channels.json` defines monitored channels and their output folders.
-The **Sync YouTube channels** workflow runs when that file changes, every two
+The **Sync production YouTube channels** workflow runs when that file changes, every two
 hours (at minute 17, UTC), or manually. GitHub may delay scheduled runs.
 The API key is read from the repository secret `YOUTUBE_API_KEY`.
+
+Test data is independent in `test/youtube/`, with its own `channels.json`.
+**Sync test YouTube channels** runs only when that test file changes or manually,
+without a schedule. Both workflows use the same script with an explicit root
+directory and serialize their runs to avoid concurrent generated commits.
 
 Each channel folder contains:
 

@@ -109,6 +109,6 @@ export async function syncChannels(root, api) {
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
-  try { await syncChannels(path.resolve('youtube'), youtubeApi(process.env.YOUTUBE_API_KEY)); }
+  try { await syncChannels(path.resolve(process.argv[2] || 'youtube'), youtubeApi(process.env.YOUTUBE_API_KEY)); }
   catch (error) { console.error(error.message); process.exitCode = 1; }
 }

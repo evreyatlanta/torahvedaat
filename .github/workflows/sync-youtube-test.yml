@@ -1,17 +1,16 @@
-name: Sync production YouTube channels
+name: Sync test YouTube channels
 
 on:
   push:
     branches: [main]
     paths:
-      - 'youtube/channels.json'
-  schedule:
-    - cron: '17 */2 * * *'
+      - 'test/youtube/channels.json'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+# Serialize both environments so their generated commits do not race.
 concurrency:
   group: sync-youtube
   cancel-in-progress: false
@@ -29,17 +28,17 @@ jobs:
           node-version: '22'
       - name: Verify synchronization logic
         run: node --test scripts/sync-youtube.test.mjs
-      - name: Fetch raw YouTube data
+      - name: Fetch raw test YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/sync-youtube.mjs youtube
-      - name: Commit YouTube data
+        run: node scripts/sync-youtube.mjs test/youtube
+      - name: Commit test YouTube data
         run: |
-          git add youtube/
+          git add test/youtube/
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git commit -m 'Update raw YouTube channel data'
+            git commit -m 'Update raw test YouTube channel data'
             git pull --rebase origin main
             git push origin HEAD:main
           fi
