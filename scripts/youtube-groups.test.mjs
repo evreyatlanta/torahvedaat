@@ -102,16 +102,19 @@ test('Create adds matching source playlists as children and reuses them on repea
   assert.deepEqual(applyGroupRules(result.tree, lists, rules, media), result);
 });
 
-test('Folder create uses folder ID and channel title, without requiring playlistIds', () => {
+test('Folder create creates every source playlist inside its root without playlistIds', () => {
   const tree = [{ id: 'root', items: [], children: [] }];
   const media = [{ id: 'video', tags: ['torah'] }];
   const rules = { groups: { folders: [{ folder: 'rbari', create: { parentId: 'root' } }] } };
-  const result = applyGroupRules(tree, [], rules, media, new Map([['rbari', media]]),
-    new Map([['rbari', 'Rabbi Eliyahu Bari']]));
-  assert.equal(result.tree[0].children[0].id, 'rbari');
-  assert.equal(result.tree[0].children[0].title, 'Rabbi Eliyahu Bari');
+  const lists = [{ folder: 'rbari', playlist: { id: 'first', snippet: { title: 'First lessons' } }, items: ['video'] },
+    { folder: 'rbari', playlist: { id: 'second', snippet: { title: 'Second lessons' } }, items: ['video'] },
+    { folder: 'other', playlist: { id: 'ignored', snippet: { title: 'Ignored' } }, items: ['video'] }];
+  const result = applyGroupRules(tree, lists, rules, media, new Map([['rbari', media]]));
+  assert.deepEqual(result.tree[0].children.map(node => node.id), ['first', 'second']);
+  assert.equal(result.tree[0].children[0].title, 'First lessons');
   assert.deepEqual(result.tree[0].children[0].items, ['video']);
-  assert.throws(() => applyGroupRules([], [], rules, media), /Unknown parent playlist/);
+  assert.throws(() => applyGroupRules([], lists, rules, media), /Unknown parent playlist/);
+  assert.deepEqual(applyGroupRules(result.tree, lists, rules, media), result);
 });
 
 test('create.name sets and updates the display title while outer name remains a selector', () => {

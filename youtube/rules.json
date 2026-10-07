@@ -488,6 +488,12 @@
         "playlistIds": [
           "toravedaat"
         ]
+      },
+      {
+        "folder": "rbari",
+        "create": {
+          "parentId": "rbari"
+        }
       }
     ]
   }

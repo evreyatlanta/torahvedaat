@@ -83,7 +83,8 @@ When omitted, the rule applies across channels. Folder matching is exact.
 Group rules can use `"create": { "parentId": "existing-parent" }` instead of
 `playlistIds`. Each matching source creates a child playlist if not already
 present, then adds its records. For playlist rules the child uses the source
-YouTube playlist ID/title; for folders it uses the folder ID/channel title;
+YouTube playlist ID/title; folder rules create each downloaded playlist from that
+channel as a separate child, using its YouTube ID/title;
 for record rules it uses the video ID/title. New nodes inherit tags from their
 records. The parent must exist; repeated runs reuse children without duplicates.
 Existing nodes under a different parent are rejected instead of silently moved.

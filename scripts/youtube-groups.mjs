@@ -105,9 +105,12 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
     } else assign(rule, matching.flatMap(([, source]) => collect(source)));
   }
   for (const rule of rules.groups.folders ?? []) {
-    assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id), {
-      id: rule.folder, title: folderTitles.get(rule.folder) || rule.folder
-    });
+    if (rule.create !== undefined) {
+      for (const [id, source] of sources) {
+        if (source.folder !== rule.folder || !source.playlist) continue;
+        assign(rule, collect(source), { id, title: source.playlist.snippet?.title || id });
+      }
+    } else assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id));
   }
   // Rules define membership; upload order defines the final display order.
   const uploadOrder = new Map(mediaItems.map((item, index) => [item.id, index]));
