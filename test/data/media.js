@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/watch?v=kY3i4HIh-5A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-09-23"
@@ -34,7 +34,7 @@
       "url": "https://www.youtube.com/watch?v=GcASY6bJbjI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-09-09"
@@ -47,7 +47,7 @@
       "url": "https://www.youtube.com/watch?v=CY0h_gklyJI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-09-03"
@@ -60,7 +60,7 @@
       "url": "https://www.youtube.com/watch?v=FLLvAD2FUOI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-09-03"
@@ -73,7 +73,7 @@
       "url": "https://www.youtube.com/watch?v=3CTbe8fQx2k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-27"
@@ -86,7 +86,7 @@
       "url": "https://www.youtube.com/watch?v=k5NZ28nazos",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-27"
@@ -99,7 +99,7 @@
       "url": "https://www.youtube.com/watch?v=f4qxC1l0oEc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-20"
@@ -112,7 +112,7 @@
       "url": "https://www.youtube.com/watch?v=GKlOw0csuJw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-13"
@@ -125,7 +125,7 @@
       "url": "https://www.youtube.com/watch?v=vFitY9h-E9s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-13"
@@ -138,7 +138,7 @@
       "url": "https://www.youtube.com/watch?v=Bd-5nIpeM6k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-06"
@@ -151,7 +151,7 @@
       "url": "https://www.youtube.com/watch?v=9Svj9RWVgD0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-08-05"
@@ -164,7 +164,7 @@
       "url": "https://www.youtube.com/watch?v=Q0VVo1PQuIM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-30"
@@ -177,7 +177,7 @@
       "url": "https://www.youtube.com/watch?v=anx6sIgizX4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-30"
@@ -190,7 +190,7 @@
       "url": "https://www.youtube.com/watch?v=fgFg7jHUF3I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-23"
@@ -216,7 +216,7 @@
       "url": "https://www.youtube.com/watch?v=H1bTQdcQcTw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-16"
@@ -229,7 +229,7 @@
       "url": "https://www.youtube.com/watch?v=FHOezjkZHnk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-09"
@@ -242,7 +242,7 @@
       "url": "https://www.youtube.com/watch?v=zcIBZgM63oc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-09"
@@ -255,7 +255,7 @@
       "url": "https://www.youtube.com/watch?v=Xp8zIHUcvqo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-07-02"
@@ -268,7 +268,7 @@
       "url": "https://www.youtube.com/watch?v=M6GyfJgttJM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-25"
@@ -281,7 +281,7 @@
       "url": "https://www.youtube.com/watch?v=V0yOyanZ2OA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-25"
@@ -294,7 +294,7 @@
       "url": "https://www.youtube.com/watch?v=RRYwZsHIO8o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-18"
@@ -307,7 +307,7 @@
       "url": "https://www.youtube.com/watch?v=SeNv5WOA6FI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-18"
@@ -320,7 +320,7 @@
       "url": "https://www.youtube.com/watch?v=FQ_mZfCq5Hk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-11"
@@ -333,7 +333,7 @@
       "url": "https://www.youtube.com/watch?v=x80Qhic5w70",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-11"
@@ -359,7 +359,7 @@
       "url": "https://www.youtube.com/watch?v=pvU2uaeopm4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-06-04"
@@ -372,7 +372,7 @@
       "url": "https://www.youtube.com/watch?v=Z_RkpOixiG8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-28"
@@ -385,7 +385,7 @@
       "url": "https://www.youtube.com/watch?v=idpzHIKKD3k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-27"
@@ -398,7 +398,7 @@
       "url": "https://www.youtube.com/watch?v=3aSvX6xlHXw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-21"
@@ -411,7 +411,7 @@
       "url": "https://www.youtube.com/watch?v=MfwnImlYlOc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-21"
@@ -424,7 +424,7 @@
       "url": "https://www.youtube.com/watch?v=SrS14bgP2Eo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-14"
@@ -437,7 +437,7 @@
       "url": "https://www.youtube.com/watch?v=GS-qJoty6DM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-13"
@@ -450,7 +450,7 @@
       "url": "https://www.youtube.com/watch?v=zCk4g_4Yueg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-07"
@@ -463,7 +463,7 @@
       "url": "https://www.youtube.com/watch?v=LFJSboVa6jY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-05-06"
@@ -476,7 +476,7 @@
       "url": "https://www.youtube.com/watch?v=z3c1Dc2XcxU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-30"
@@ -489,7 +489,7 @@
       "url": "https://www.youtube.com/watch?v=DVGVHlfSsCw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-29"
@@ -502,7 +502,7 @@
       "url": "https://www.youtube.com/watch?v=s-F2eyIIhnU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-23"
@@ -515,7 +515,7 @@
       "url": "https://www.youtube.com/watch?v=5FbxxwOZ0qI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-22"
@@ -528,7 +528,7 @@
       "url": "https://www.youtube.com/watch?v=maf_-tKAF24",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-16"
@@ -541,7 +541,7 @@
       "url": "https://www.youtube.com/watch?v=_GR18p9jqcQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-16"
@@ -554,7 +554,7 @@
       "url": "https://www.youtube.com/watch?v=frLH53nl5KQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-04-10"
@@ -567,7 +567,7 @@
       "url": "https://www.youtube.com/watch?v=4AkGr0TC1Jk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-26"
@@ -580,7 +580,7 @@
       "url": "https://www.youtube.com/watch?v=aN4_4EerPpg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-25"
@@ -623,7 +623,7 @@
       "url": "https://www.youtube.com/watch?v=f5R7eOFctuw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-19"
@@ -636,7 +636,7 @@
       "url": "https://www.youtube.com/watch?v=6wLBXS5mUwg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-18"
@@ -664,7 +664,7 @@
       "url": "https://www.youtube.com/watch?v=a86HJ68qXOE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-12"
@@ -692,7 +692,7 @@
       "url": "https://www.youtube.com/watch?v=QQleeDZ4KW0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-03-05"
@@ -705,7 +705,7 @@
       "url": "https://www.youtube.com/watch?v=1KXb2f-r0wY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-19"
@@ -718,7 +718,7 @@
       "url": "https://www.youtube.com/watch?v=D7CoXve2_RA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-18"
@@ -731,7 +731,7 @@
       "url": "https://www.youtube.com/watch?v=zdzkH7aW6ZA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-12"
@@ -744,7 +744,7 @@
       "url": "https://www.youtube.com/watch?v=iHM75bEDuYc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-11"
@@ -757,7 +757,7 @@
       "url": "https://www.youtube.com/watch?v=LowybUUq7uM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-11"
@@ -770,7 +770,7 @@
       "url": "https://www.youtube.com/watch?v=sb3pneQ-tgk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-05"
@@ -783,7 +783,7 @@
       "url": "https://www.youtube.com/watch?v=w3y9kldIqIE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-02-04"
@@ -796,7 +796,7 @@
       "url": "https://www.youtube.com/watch?v=gV-LsDRGLTw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-29"
@@ -809,7 +809,7 @@
       "url": "https://www.youtube.com/watch?v=gHR9koh7EsU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-28"
@@ -822,7 +822,7 @@
       "url": "https://www.youtube.com/watch?v=AGadGVdy81c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-22"
@@ -835,7 +835,7 @@
       "url": "https://www.youtube.com/watch?v=OqyvQSKkbR0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-21"
@@ -848,7 +848,7 @@
       "url": "https://www.youtube.com/watch?v=CDH-5cHG3-o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-15"
@@ -861,7 +861,7 @@
       "url": "https://www.youtube.com/watch?v=WIp-rovt88I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-14"
@@ -874,7 +874,7 @@
       "url": "https://www.youtube.com/watch?v=iY2CMNRj58Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -887,7 +887,7 @@
       "url": "https://www.youtube.com/watch?v=lLJgM_dwqGs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -900,7 +900,7 @@
       "url": "https://www.youtube.com/watch?v=Cz5ddWwWLhA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -913,7 +913,7 @@
       "url": "https://www.youtube.com/watch?v=0-hf4-jR8pw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2026-01-01"
@@ -926,7 +926,7 @@
       "url": "https://www.youtube.com/watch?v=4IshEopKxdk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-30"
@@ -939,7 +939,7 @@
       "url": "https://www.youtube.com/watch?v=5CaMwBl647A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-30"
@@ -952,7 +952,7 @@
       "url": "https://www.youtube.com/watch?v=L9UU4dOTAeg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-25"
@@ -965,7 +965,7 @@
       "url": "https://www.youtube.com/watch?v=zBt67IHCm7A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-24"
@@ -978,7 +978,7 @@
       "url": "https://www.youtube.com/watch?v=7wcV7tcZazI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-24"
@@ -991,7 +991,7 @@
       "url": "https://www.youtube.com/watch?v=U6DghefINus",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1004,7 +1004,7 @@
       "url": "https://www.youtube.com/watch?v=CapDzAQT5yI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1017,7 +1017,7 @@
       "url": "https://www.youtube.com/watch?v=TwMKsDDWeTg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1043,7 +1043,7 @@
       "url": "https://www.youtube.com/watch?v=8fnQJaIkJ20",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-10"
@@ -1056,7 +1056,7 @@
       "url": "https://www.youtube.com/watch?v=g3eziYt6Brg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-10"
@@ -1069,7 +1069,7 @@
       "url": "https://www.youtube.com/watch?v=fq1nP26CydQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-05"
@@ -1082,7 +1082,7 @@
       "url": "https://www.youtube.com/watch?v=lVJu4MRTiEw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-04"
@@ -1095,7 +1095,7 @@
       "url": "https://www.youtube.com/watch?v=_PUgxYBAr4Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-12-04"
@@ -1108,7 +1108,7 @@
       "url": "https://www.youtube.com/watch?v=Ch_gSyO9ROo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-28"
@@ -1121,7 +1121,7 @@
       "url": "https://www.youtube.com/watch?v=m7AcN1AkHHs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1134,7 +1134,7 @@
       "url": "https://www.youtube.com/watch?v=dg4IYTYLz-E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1147,7 +1147,7 @@
       "url": "https://www.youtube.com/watch?v=Xw5TIO6BGnU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1160,7 +1160,7 @@
       "url": "https://www.youtube.com/watch?v=m1l89xc2SiE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-19"
@@ -1173,7 +1173,7 @@
       "url": "https://www.youtube.com/watch?v=RUqBtJrOmV4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-19"
@@ -1186,7 +1186,7 @@
       "url": "https://www.youtube.com/watch?v=KA7gI7ewb0Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-13"
@@ -1199,7 +1199,7 @@
       "url": "https://www.youtube.com/watch?v=_5gtQM27nsY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-13"
@@ -1227,7 +1227,7 @@
       "url": "https://www.youtube.com/watch?v=qWQotMQGgis",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-06"
@@ -1240,7 +1240,7 @@
       "url": "https://www.youtube.com/watch?v=9yfHCghbgAQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-11-06"
@@ -1253,7 +1253,7 @@
       "url": "https://www.youtube.com/watch?v=vbKnrNj-Dk8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-30"
@@ -1266,7 +1266,7 @@
       "url": "https://www.youtube.com/watch?v=C4JEdYi8nic",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-30"
@@ -1279,7 +1279,7 @@
       "url": "https://www.youtube.com/watch?v=oa2DmDzUoB8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-23"
@@ -1292,7 +1292,8 @@
       "url": "https://www.youtube.com/watch?v=WocF9UgZmrE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-20"
@@ -1305,7 +1306,7 @@
       "url": "https://www.youtube.com/watch?v=YMpmxKyEm48",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1318,7 +1319,7 @@
       "url": "https://www.youtube.com/watch?v=PPRTy70_qAg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1331,7 +1332,7 @@
       "url": "https://www.youtube.com/watch?v=aqN4n4j3YvI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1359,7 +1360,7 @@
       "url": "https://www.youtube.com/watch?v=dT5OnD2iReU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-29"
@@ -1372,7 +1373,8 @@
       "url": "https://www.youtube.com/watch?v=1xAOf6bZB5s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-29"
@@ -1385,7 +1387,7 @@
       "url": "https://www.youtube.com/watch?v=veGmBowNzoQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-28"
@@ -1398,7 +1400,7 @@
       "url": "https://www.youtube.com/watch?v=iRsxlhvGB8w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-28"
@@ -1411,7 +1413,7 @@
       "url": "https://www.youtube.com/watch?v=CM7Npi7nUD4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-17"
@@ -1424,7 +1426,7 @@
       "url": "https://www.youtube.com/watch?v=zB_cGLBuPDI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-10"
@@ -1437,7 +1439,7 @@
       "url": "https://www.youtube.com/watch?v=YJj4Ex4cyfg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-10"
@@ -1450,7 +1452,7 @@
       "url": "https://www.youtube.com/watch?v=KUu3xIXq71w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1463,7 +1465,7 @@
       "url": "https://www.youtube.com/watch?v=PyilVE9CF50",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1476,7 +1478,7 @@
       "url": "https://www.youtube.com/watch?v=r7gOpwxdbUE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1489,7 +1491,7 @@
       "url": "https://www.youtube.com/watch?v=fp1gYzIQ5zc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-27"
@@ -1502,7 +1504,7 @@
       "url": "https://www.youtube.com/watch?v=2eo50ah0_lk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-27"
@@ -1515,7 +1517,7 @@
       "url": "https://www.youtube.com/watch?v=gRON8ah8jjI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1528,7 +1530,7 @@
       "url": "https://www.youtube.com/watch?v=JxMZMcVCmTI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1541,7 +1543,7 @@
       "url": "https://www.youtube.com/watch?v=jZjXDaAVAWU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1554,7 +1556,7 @@
       "url": "https://www.youtube.com/watch?v=p62GyANHIvw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-13"
@@ -1567,7 +1569,7 @@
       "url": "https://www.youtube.com/watch?v=sRagJ-fZek0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-13"
@@ -1580,7 +1582,7 @@
       "url": "https://www.youtube.com/watch?v=pIEcAncFYPc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-08-06"
@@ -1593,7 +1595,7 @@
       "url": "https://www.youtube.com/watch?v=HmzLxjijsgo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-30"
@@ -1606,7 +1608,7 @@
       "url": "https://www.youtube.com/watch?v=XcE34bI_s_c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-30"
@@ -1619,7 +1621,7 @@
       "url": "https://www.youtube.com/watch?v=DqX7B5JxsZU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1632,7 +1634,7 @@
       "url": "https://www.youtube.com/watch?v=BTMFTeuXu_c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1645,7 +1647,7 @@
       "url": "https://www.youtube.com/watch?v=rEc497hNpNI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1658,7 +1660,7 @@
       "url": "https://www.youtube.com/watch?v=FTpp16zl_zg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-16"
@@ -1671,7 +1673,7 @@
       "url": "https://www.youtube.com/watch?v=hiseKdBIwJI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-16"
@@ -1684,7 +1686,7 @@
       "url": "https://www.youtube.com/watch?v=j7a3_Lqekj0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-14"
@@ -1697,7 +1699,7 @@
       "url": "https://www.youtube.com/watch?v=C-iEcI5Qan8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-07"
@@ -1710,7 +1712,7 @@
       "url": "https://www.youtube.com/watch?v=gP8hse8CTqA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-07"
@@ -1723,7 +1725,7 @@
       "url": "https://www.youtube.com/watch?v=qcE27CStkcY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-02"
@@ -1736,7 +1738,7 @@
       "url": "https://www.youtube.com/watch?v=LNsQ_ZkBUh4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-07-02"
@@ -1749,7 +1751,7 @@
       "url": "https://www.youtube.com/watch?v=DboM3B_cpDM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-29"
@@ -1762,7 +1764,7 @@
       "url": "https://www.youtube.com/watch?v=i_d2zLRlgvU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-29"
@@ -1775,7 +1777,7 @@
       "url": "https://www.youtube.com/watch?v=xb5YIP_-HxM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-23"
@@ -1788,7 +1790,7 @@
       "url": "https://www.youtube.com/watch?v=Pa-mPiUIpu0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-23"
@@ -1801,7 +1803,7 @@
       "url": "https://www.youtube.com/watch?v=-h2utxbvNwE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-17"
@@ -1814,7 +1816,7 @@
       "url": "https://www.youtube.com/watch?v=WEs04_Tpuxg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-17"
@@ -1827,7 +1829,7 @@
       "url": "https://www.youtube.com/watch?v=BFkaRVKrjN8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-12"
@@ -1840,7 +1842,7 @@
       "url": "https://www.youtube.com/watch?v=OKEFK7Qnj58",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-12"
@@ -1853,7 +1855,7 @@
       "url": "https://www.youtube.com/watch?v=cMu-xEDxifo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-09"
@@ -1866,7 +1868,7 @@
       "url": "https://www.youtube.com/watch?v=5WbrrEdbX7c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-06-04"
@@ -1879,7 +1881,7 @@
       "url": "https://www.youtube.com/watch?v=YDooOBjs9zI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-27"
@@ -1892,7 +1894,7 @@
       "url": "https://www.youtube.com/watch?v=ul-QRLGMMa8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-26"
@@ -1905,7 +1907,7 @@
       "url": "https://www.youtube.com/watch?v=2WTaHUsX1rE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-25"
@@ -1918,7 +1920,7 @@
       "url": "https://www.youtube.com/watch?v=AJIhP7f0mhY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-25"
@@ -1931,7 +1933,7 @@
       "url": "https://www.youtube.com/watch?v=3I7iFMSa2jY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-14"
@@ -1944,7 +1946,7 @@
       "url": "https://www.youtube.com/watch?v=CIIcBAzgWHI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-14"
@@ -1957,7 +1959,7 @@
       "url": "https://www.youtube.com/watch?v=E8FArWxT35A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-12"
@@ -1970,7 +1972,7 @@
       "url": "https://www.youtube.com/watch?v=QPwYybjyxWc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-11"
@@ -1983,7 +1985,7 @@
       "url": "https://www.youtube.com/watch?v=yEzuHm1HDgQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-07"
@@ -1996,7 +1998,7 @@
       "url": "https://www.youtube.com/watch?v=u3W-_o8QLVM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-05"
@@ -2009,7 +2011,7 @@
       "url": "https://www.youtube.com/watch?v=d1S-hi_2nG0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-05-05"
@@ -2022,7 +2024,7 @@
       "url": "https://www.youtube.com/watch?v=mA2NHEj-k-g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-29"
@@ -2035,7 +2037,7 @@
       "url": "https://www.youtube.com/watch?v=ecplXKdkxGo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-27"
@@ -2048,7 +2050,7 @@
       "url": "https://www.youtube.com/watch?v=bSNDpY2lVC4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-25"
@@ -2061,7 +2063,7 @@
       "url": "https://www.youtube.com/watch?v=XCUketNwc0I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-25"
@@ -2074,7 +2076,7 @@
       "url": "https://www.youtube.com/watch?v=cs_1GW5EAP8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-21"
@@ -2087,7 +2089,7 @@
       "url": "https://www.youtube.com/watch?v=reOCKTwLmws",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-07"
@@ -2100,7 +2102,7 @@
       "url": "https://www.youtube.com/watch?v=gXLfhj3w3-E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-07"
@@ -2113,7 +2115,7 @@
       "url": "https://www.youtube.com/watch?v=tFLIXf27u1A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-04-06"
@@ -2126,7 +2128,7 @@
       "url": "https://www.youtube.com/watch?v=rKp8XFQ4fME",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-31"
@@ -2139,7 +2141,7 @@
       "url": "https://www.youtube.com/watch?v=GCdWrt4fkpw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-31"
@@ -2152,7 +2154,7 @@
       "url": "https://www.youtube.com/watch?v=4lrJhm9R7jA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2165,7 +2167,7 @@
       "url": "https://www.youtube.com/watch?v=5ANbIwr-uBk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2178,7 +2180,7 @@
       "url": "https://www.youtube.com/watch?v=UCfCeXP0X34",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2191,7 +2193,7 @@
       "url": "https://www.youtube.com/watch?v=eprx2g1fVaU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-17"
@@ -2204,7 +2206,7 @@
       "url": "https://www.youtube.com/watch?v=33mH1DUGUqE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-11"
@@ -2217,7 +2219,7 @@
       "url": "https://www.youtube.com/watch?v=vhjJxYOzvq8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-11"
@@ -2230,7 +2232,7 @@
       "url": "https://www.youtube.com/watch?v=cce4Bbw284I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-06"
@@ -2243,7 +2245,7 @@
       "url": "https://www.youtube.com/watch?v=cGg1U8QEwHM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-06"
@@ -2256,7 +2258,7 @@
       "url": "https://www.youtube.com/watch?v=BjTt73twa8U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-03"
@@ -2269,7 +2271,7 @@
       "url": "https://www.youtube.com/watch?v=uMk2xowHoHI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-03-03"
@@ -2282,7 +2284,7 @@
       "url": "https://www.youtube.com/watch?v=mBayBDKrbko",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-24"
@@ -2295,7 +2297,7 @@
       "url": "https://www.youtube.com/watch?v=FPPGWxuBXT0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-24"
@@ -2308,7 +2310,7 @@
       "url": "https://www.youtube.com/watch?v=m5-iMbSKvdY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-17"
@@ -2336,7 +2338,7 @@
       "url": "https://www.youtube.com/watch?v=bRPDRGpUxS0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-05"
@@ -2349,7 +2351,7 @@
       "url": "https://www.youtube.com/watch?v=m_J6tCU62fM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-03"
@@ -2362,7 +2364,7 @@
       "url": "https://www.youtube.com/watch?v=AibOIhP0Jjk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-02-03"
@@ -2375,7 +2377,7 @@
       "url": "https://www.youtube.com/watch?v=AvKDkuhBjGY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-29"
@@ -2388,7 +2390,7 @@
       "url": "https://www.youtube.com/watch?v=aPiovwm_tNU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-28"
@@ -2401,7 +2403,7 @@
       "url": "https://www.youtube.com/watch?v=upMkRA_H_PQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-27"
@@ -2414,7 +2416,7 @@
       "url": "https://www.youtube.com/watch?v=2dG2tfz4NgI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-23"
@@ -2427,7 +2429,7 @@
       "url": "https://www.youtube.com/watch?v=UMhtohsaGmI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-22"
@@ -2440,7 +2442,7 @@
       "url": "https://www.youtube.com/watch?v=6nMeS5U4VgE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-22"
@@ -2453,7 +2455,7 @@
       "url": "https://www.youtube.com/watch?v=Ob0Q9Jxp2SY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-20"
@@ -2466,7 +2468,7 @@
       "url": "https://www.youtube.com/watch?v=VEG2-DJOldQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-19"
@@ -2479,7 +2481,7 @@
       "url": "https://www.youtube.com/watch?v=_2lv30aS4ok",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-16"
@@ -2492,7 +2494,7 @@
       "url": "https://www.youtube.com/watch?v=7eBeduBcStc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-13"
@@ -2505,7 +2507,7 @@
       "url": "https://www.youtube.com/watch?v=ezev8X7z1G4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-12"
@@ -2518,7 +2520,7 @@
       "url": "https://www.youtube.com/watch?v=ZO0NnO0P2EM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-09"
@@ -2531,7 +2533,7 @@
       "url": "https://www.youtube.com/watch?v=SOXV1n33bgY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2025-01-06"
@@ -2559,7 +2561,7 @@
       "url": "https://www.youtube.com/watch?v=hHpeNo8H6SY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-31"
@@ -2587,7 +2589,7 @@
       "url": "https://www.youtube.com/watch?v=SFQUYE_3g8o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-30"
@@ -2615,7 +2617,7 @@
       "url": "https://www.youtube.com/watch?v=kW5EKtRXC00",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-23"
@@ -2628,7 +2630,7 @@
       "url": "https://www.youtube.com/watch?v=xXRPw3ygDWY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-23"
@@ -2641,7 +2643,7 @@
       "url": "https://www.youtube.com/watch?v=cpGS-3TrK-s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-22"
@@ -2654,7 +2656,7 @@
       "url": "https://www.youtube.com/watch?v=s3SYTzOf9Rs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-22"
@@ -2667,7 +2669,7 @@
       "url": "https://www.youtube.com/watch?v=rVE_h7zEIoE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-19"
@@ -2680,7 +2682,7 @@
       "url": "https://www.youtube.com/watch?v=VOxdMvmT54c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-16"
@@ -2693,7 +2695,7 @@
       "url": "https://www.youtube.com/watch?v=jMWcvuhLKC0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-15"
@@ -2706,7 +2708,7 @@
       "url": "https://www.youtube.com/watch?v=t7jWFgDVnxk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-09"
@@ -2719,7 +2721,7 @@
       "url": "https://www.youtube.com/watch?v=UghrEwkZvoQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-08"
@@ -2732,7 +2734,7 @@
       "url": "https://www.youtube.com/watch?v=QZVR1s2CmxI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-05"
@@ -2745,7 +2747,7 @@
       "url": "https://www.youtube.com/watch?v=6yMX9hctgKk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-02"
@@ -2758,7 +2760,7 @@
       "url": "https://www.youtube.com/watch?v=MSpvUToqBR0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-12-01"
@@ -2771,7 +2773,7 @@
       "url": "https://www.youtube.com/watch?v=WobATSuf9OA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-25"
@@ -2784,7 +2786,7 @@
       "url": "https://www.youtube.com/watch?v=TXTiTffLuUc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-18"
@@ -2797,7 +2799,7 @@
       "url": "https://www.youtube.com/watch?v=TegsKlMANpY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-14"
@@ -2810,7 +2812,7 @@
       "url": "https://www.youtube.com/watch?v=h21hjp1_7JM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-14"
@@ -2823,7 +2825,7 @@
       "url": "https://www.youtube.com/watch?v=WwO33KpRRQ8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-10"
@@ -2851,7 +2853,7 @@
       "url": "https://www.youtube.com/watch?v=4d32sSbe7NI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-07"
@@ -2864,7 +2866,7 @@
       "url": "https://www.youtube.com/watch?v=2oE77s0D1fQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-04"
@@ -2877,7 +2879,7 @@
       "url": "https://www.youtube.com/watch?v=mx0CkJKMJnI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-11-03"
@@ -2890,7 +2892,7 @@
       "url": "https://www.youtube.com/watch?v=uFqudgUK-zA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-27"
@@ -2903,7 +2905,7 @@
       "url": "https://www.youtube.com/watch?v=RqgNeLH4f8w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-21"
@@ -2916,7 +2918,7 @@
       "url": "https://www.youtube.com/watch?v=z8hHB346Emk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-20"
@@ -2929,7 +2931,7 @@
       "url": "https://www.youtube.com/watch?v=IIbQzqvAmj0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-20"
@@ -2942,7 +2944,7 @@
       "url": "https://www.youtube.com/watch?v=5CcOSr87MhM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-14"
@@ -2955,7 +2957,7 @@
       "url": "https://www.youtube.com/watch?v=NrrIj2s9UyU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-13"
@@ -2968,7 +2970,7 @@
       "url": "https://www.youtube.com/watch?v=_ysTZCrP23Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-10"
@@ -2981,7 +2983,7 @@
       "url": "https://www.youtube.com/watch?v=LRJsXd6eRBY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-10-07"
@@ -2994,7 +2996,7 @@
       "url": "https://www.youtube.com/watch?v=HaJKWxmHYmA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-30"
@@ -3007,7 +3009,7 @@
       "url": "https://www.youtube.com/watch?v=CqJaY0xyss8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-29"
@@ -3020,7 +3022,7 @@
       "url": "https://www.youtube.com/watch?v=7TxFHJskrmM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-26"
@@ -3033,7 +3035,7 @@
       "url": "https://www.youtube.com/watch?v=zDhlYPdbl5Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-25"
@@ -3046,7 +3048,7 @@
       "url": "https://www.youtube.com/watch?v=e9ZSD_Whquk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-22"
@@ -3059,7 +3061,7 @@
       "url": "https://www.youtube.com/watch?v=QNx4FEvHFhY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-19"
@@ -3072,7 +3074,7 @@
       "url": "https://www.youtube.com/watch?v=hk_8RV8ZmBo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-16"
@@ -3085,7 +3087,7 @@
       "url": "https://www.youtube.com/watch?v=S63ErogurRo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-12"
@@ -3098,7 +3100,7 @@
       "url": "https://www.youtube.com/watch?v=qfe54GElXos",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-11"
@@ -3124,7 +3126,7 @@
       "url": "https://www.youtube.com/watch?v=ds0tkewJjEA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-09"
@@ -3137,7 +3139,7 @@
       "url": "https://www.youtube.com/watch?v=dFnb-u63VO4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-06"
@@ -3150,7 +3152,7 @@
       "url": "https://www.youtube.com/watch?v=J4J17Sa5nu4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-02"
@@ -3163,7 +3165,7 @@
       "url": "https://www.youtube.com/watch?v=5iyxLc-rMP8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-09-01"
@@ -3176,7 +3178,7 @@
       "url": "https://www.youtube.com/watch?v=AcI6iwiksaA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-26"
@@ -3189,7 +3191,7 @@
       "url": "https://www.youtube.com/watch?v=ER0LqCpyito",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-22"
@@ -3202,7 +3204,7 @@
       "url": "https://www.youtube.com/watch?v=QHBgOAi5nYI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-22"
@@ -3215,7 +3217,7 @@
       "url": "https://www.youtube.com/watch?v=BZi-Hzaq_ys",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-14"
@@ -3228,7 +3230,7 @@
       "url": "https://www.youtube.com/watch?v=vrvJZk0cK94",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-12"
@@ -3241,7 +3243,7 @@
       "url": "https://www.youtube.com/watch?v=RzLO1pe6y4U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-08"
@@ -3254,7 +3256,7 @@
       "url": "https://www.youtube.com/watch?v=Yh0fI9kFR4Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-05"
@@ -3267,7 +3269,7 @@
       "url": "https://www.youtube.com/watch?v=AT6Aw3vVc1Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-04"
@@ -3280,7 +3282,7 @@
       "url": "https://www.youtube.com/watch?v=9kQJ3yiG-9o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-08-01"
@@ -3293,7 +3295,7 @@
       "url": "https://www.youtube.com/watch?v=oABhHmWqegE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-29"
@@ -3306,7 +3308,7 @@
       "url": "https://www.youtube.com/watch?v=PFJjNGr8T9s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-28"
@@ -3319,7 +3321,7 @@
       "url": "https://www.youtube.com/watch?v=xtjMJU7EYzY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-22"
@@ -3332,7 +3334,7 @@
       "url": "https://www.youtube.com/watch?v=oPNimMUHwlE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-19"
@@ -3360,7 +3362,7 @@
       "url": "https://www.youtube.com/watch?v=vy6o-foyejE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-18"
@@ -3373,7 +3375,7 @@
       "url": "https://www.youtube.com/watch?v=pjz-dTHSb-M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-15"
@@ -3386,7 +3388,7 @@
       "url": "https://www.youtube.com/watch?v=01e_BVVtZVc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-12"
@@ -3399,7 +3401,7 @@
       "url": "https://www.youtube.com/watch?v=6H8lNmzo-sY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-11"
@@ -3412,7 +3414,7 @@
       "url": "https://www.youtube.com/watch?v=7kLNLc8onEs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-08"
@@ -3425,7 +3427,7 @@
       "url": "https://www.youtube.com/watch?v=gd8sF_h5rIk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-07"
@@ -3438,7 +3440,7 @@
       "url": "https://www.youtube.com/watch?v=E7IH3rdd440",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-04"
@@ -3451,7 +3453,7 @@
       "url": "https://www.youtube.com/watch?v=ry9syuDEfYM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-07-01"
@@ -3464,7 +3466,7 @@
       "url": "https://www.youtube.com/watch?v=9M20Ro65oE4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-28"
@@ -3477,7 +3479,7 @@
       "url": "https://www.youtube.com/watch?v=NtSox9u6nYg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-28"
@@ -3490,7 +3492,7 @@
       "url": "https://www.youtube.com/watch?v=9RKoDjYCc0A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-24"
@@ -3503,7 +3505,7 @@
       "url": "https://www.youtube.com/watch?v=VwML9gjd9tk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-23"
@@ -3516,7 +3518,7 @@
       "url": "https://www.youtube.com/watch?v=c49VZYRV4OY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-17"
@@ -3529,7 +3531,7 @@
       "url": "https://www.youtube.com/watch?v=Ths4qbyrqqc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-16"
@@ -3542,7 +3544,7 @@
       "url": "https://www.youtube.com/watch?v=SZpEj6Rhe7k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-10"
@@ -3555,7 +3557,7 @@
       "url": "https://www.youtube.com/watch?v=zSVLqqTvE1M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-09"
@@ -3568,7 +3570,7 @@
       "url": "https://www.youtube.com/watch?v=q-hXUVz5AIE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-06"
@@ -3581,7 +3583,7 @@
       "url": "https://www.youtube.com/watch?v=mJOJLCExW64",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-06-03"
@@ -3594,7 +3596,7 @@
       "url": "https://www.youtube.com/watch?v=iGhOpEfJ_Zk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-30"
@@ -3607,7 +3609,7 @@
       "url": "https://www.youtube.com/watch?v=WYwW_IWgFX0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-27"
@@ -3620,7 +3622,7 @@
       "url": "https://www.youtube.com/watch?v=SsaUvU-Ar-A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-24"
@@ -3633,7 +3635,7 @@
       "url": "https://www.youtube.com/watch?v=x6d-oAux7Yg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-22"
@@ -3646,7 +3648,7 @@
       "url": "https://www.youtube.com/watch?v=7w5IOG79Jb8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-16"
@@ -3659,7 +3661,7 @@
       "url": "https://www.youtube.com/watch?v=p2OkKmi_GhI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-15"
@@ -3672,7 +3674,7 @@
       "url": "https://www.youtube.com/watch?v=DJcUdFKJe0w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-08"
@@ -3685,7 +3687,7 @@
       "url": "https://www.youtube.com/watch?v=Ioep7OQB4cE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-05-08"
@@ -3698,7 +3700,7 @@
       "url": "https://www.youtube.com/watch?v=isp8CCZkr-c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-26"
@@ -3711,7 +3713,7 @@
       "url": "https://www.youtube.com/watch?v=ZGRQq9zLDO8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-18"
@@ -3724,7 +3726,7 @@
       "url": "https://www.youtube.com/watch?v=AqFA8jJIQXg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-18"
@@ -3737,7 +3739,7 @@
       "url": "https://www.youtube.com/watch?v=3moAReFFWzg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-16"
@@ -3750,7 +3752,7 @@
       "url": "https://www.youtube.com/watch?v=3Ldn4LLOx_U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-15"
@@ -3763,7 +3765,7 @@
       "url": "https://www.youtube.com/watch?v=97D_kr84ej8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-12"
@@ -3776,7 +3778,7 @@
       "url": "https://www.youtube.com/watch?v=6-CFbpdMcgk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-11"
@@ -3789,7 +3791,7 @@
       "url": "https://www.youtube.com/watch?v=DPLqcyNiROg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-07"
@@ -3802,7 +3804,7 @@
       "url": "https://www.youtube.com/watch?v=rfz4plvsfCU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-07"
@@ -3815,7 +3817,7 @@
       "url": "https://www.youtube.com/watch?v=PUitATxSNiY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-04"
@@ -3828,7 +3830,7 @@
       "url": "https://www.youtube.com/watch?v=mj0QNYF7exY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-04-01"
@@ -3841,7 +3843,7 @@
       "url": "https://www.youtube.com/watch?v=_HRkMPS1IUQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-29"
@@ -3854,7 +3856,7 @@
       "url": "https://www.youtube.com/watch?v=IOF8fx0sIzU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-25"
@@ -3897,7 +3899,7 @@
       "url": "https://www.youtube.com/watch?v=KMyj81ngFn0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-20"
@@ -3910,7 +3912,7 @@
       "url": "https://www.youtube.com/watch?v=QNM-0FJXaHM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-18"
@@ -3923,7 +3925,7 @@
       "url": "https://www.youtube.com/watch?v=Pdy3wTair08",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-15"
@@ -3966,7 +3968,7 @@
       "url": "https://www.youtube.com/watch?v=YF4P7QEg9_8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-11"
@@ -3979,7 +3981,7 @@
       "url": "https://www.youtube.com/watch?v=950Ba9DXK5w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-03-07"
@@ -3992,7 +3994,7 @@
       "url": "https://www.youtube.com/watch?v=a0Frqa_D__A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-29"
@@ -4005,7 +4007,7 @@
       "url": "https://www.youtube.com/watch?v=PDtcP27dx_E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-22"
@@ -4018,7 +4020,7 @@
       "url": "https://www.youtube.com/watch?v=WFAZC9Qo9zI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-19"
@@ -4031,7 +4033,7 @@
       "url": "https://www.youtube.com/watch?v=QuIq8TvkF84",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-19"
@@ -4044,7 +4046,7 @@
       "url": "https://www.youtube.com/watch?v=8GnLew8_t60",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-13"
@@ -4057,7 +4059,7 @@
       "url": "https://www.youtube.com/watch?v=K4m_BXBvP5c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-12"
@@ -4070,7 +4072,7 @@
       "url": "https://www.youtube.com/watch?v=M_dFfk30-8w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4083,7 +4085,7 @@
       "url": "https://www.youtube.com/watch?v=GYBzJm_0baw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4096,7 +4098,7 @@
       "url": "https://www.youtube.com/watch?v=iWOWZHExXpE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4109,7 +4111,7 @@
       "url": "https://www.youtube.com/watch?v=4pphZp-i7ws",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4122,7 +4124,7 @@
       "url": "https://www.youtube.com/watch?v=YKu9mekiJKA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-05"
@@ -4135,7 +4137,7 @@
       "url": "https://www.youtube.com/watch?v=iPBVE5scne0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-01"
@@ -4148,7 +4150,7 @@
       "url": "https://www.youtube.com/watch?v=DVp4GtzaHyk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-02-01"
@@ -4161,7 +4163,7 @@
       "url": "https://www.youtube.com/watch?v=eyLxSDAodYg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-29"
@@ -4174,7 +4176,7 @@
       "url": "https://www.youtube.com/watch?v=x5xGGNqVNwA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-25"
@@ -4187,7 +4189,7 @@
       "url": "https://www.youtube.com/watch?v=BIwJfI5LY4w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-25"
@@ -4200,7 +4202,7 @@
       "url": "https://www.youtube.com/watch?v=tZnIimc0ueA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-22"
@@ -4213,7 +4215,7 @@
       "url": "https://www.youtube.com/watch?v=LAjjh0e08Ec",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-19"
@@ -4226,7 +4228,7 @@
       "url": "https://www.youtube.com/watch?v=HQAUQuoq0tI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-18"
@@ -4252,7 +4254,7 @@
       "url": "https://www.youtube.com/watch?v=XDOnuxpJBg8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-15"
@@ -4265,7 +4267,7 @@
       "url": "https://www.youtube.com/watch?v=9irfznlYI0o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-10"
@@ -4278,7 +4280,7 @@
       "url": "https://www.youtube.com/watch?v=2LrT58ZHkK0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-10"
@@ -4291,7 +4293,7 @@
       "url": "https://www.youtube.com/watch?v=IzZ8UxzRL48",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-02"
@@ -4304,7 +4306,7 @@
       "url": "https://www.youtube.com/watch?v=sDgPwMx1Zr4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2024-01-02"
@@ -4317,7 +4319,7 @@
       "url": "https://www.youtube.com/watch?v=OWhCQmcJ3_k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4330,7 +4332,7 @@
       "url": "https://www.youtube.com/watch?v=zZuP1ckgbe0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4343,7 +4345,7 @@
       "url": "https://www.youtube.com/watch?v=qWG8aJBEZQo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4356,7 +4358,7 @@
       "url": "https://www.youtube.com/watch?v=io0jWEkxNZ8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-18"
@@ -4369,7 +4371,7 @@
       "url": "https://www.youtube.com/watch?v=WX2qCtxhgCQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-12"
@@ -4427,7 +4429,7 @@
       "url": "https://www.youtube.com/watch?v=nd8ptqNrZFU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-04"
@@ -4440,7 +4442,7 @@
       "url": "https://www.youtube.com/watch?v=9Pu8ZZfcxcg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-03"
@@ -4453,7 +4455,7 @@
       "url": "https://www.youtube.com/watch?v=rlkwY-WhJeM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-12-03"
@@ -4466,7 +4468,7 @@
       "url": "https://www.youtube.com/watch?v=xez-lMOX_U8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-26"
@@ -4492,7 +4494,7 @@
       "url": "https://www.youtube.com/watch?v=4vfDws3PUj4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-23"
@@ -4505,7 +4507,7 @@
       "url": "https://www.youtube.com/watch?v=diBW69gl4zk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-21"
@@ -4518,7 +4520,7 @@
       "url": "https://www.youtube.com/watch?v=-1INQvBms-Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-20"
@@ -4531,7 +4533,7 @@
       "url": "https://www.youtube.com/watch?v=FV4_jKbin2M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-16"
@@ -4544,7 +4546,7 @@
       "url": "https://www.youtube.com/watch?v=ed2YhLdnli4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-13"
@@ -4557,7 +4559,7 @@
       "url": "https://www.youtube.com/watch?v=xZsUtclGtLU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-13"
@@ -4570,7 +4572,7 @@
       "url": "https://www.youtube.com/watch?v=0eHGjG7VAmk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-09"
@@ -4583,7 +4585,7 @@
       "url": "https://www.youtube.com/watch?v=5EYtkZfRy20",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-06"
@@ -4596,7 +4598,7 @@
       "url": "https://www.youtube.com/watch?v=XHCsZBaj5O0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-06"
@@ -4609,7 +4611,7 @@
       "url": "https://www.youtube.com/watch?v=Uiw5tnBEFKs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-11-02"
@@ -4622,7 +4624,7 @@
       "url": "https://www.youtube.com/watch?v=qgVBHSzQFq4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-30"
@@ -4635,7 +4637,7 @@
       "url": "https://www.youtube.com/watch?v=TcS_99x2hAo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-26"
@@ -4661,7 +4663,7 @@
       "url": "https://www.youtube.com/watch?v=EZKsinABZ3c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-23"
@@ -4674,7 +4676,7 @@
       "url": "https://www.youtube.com/watch?v=OW75pDoY-GY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-22"
@@ -4687,7 +4689,7 @@
       "url": "https://www.youtube.com/watch?v=vc6RI048jQI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-19"
@@ -4700,7 +4702,7 @@
       "url": "https://www.youtube.com/watch?v=alKvE13n5WY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-18"
@@ -4713,7 +4715,7 @@
       "url": "https://www.youtube.com/watch?v=brncFTkObBQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-16"
@@ -4739,7 +4741,7 @@
       "url": "https://www.youtube.com/watch?v=0Ae_5Y_z7TQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-12"
@@ -4752,7 +4754,7 @@
       "url": "https://www.youtube.com/watch?v=nqfmqNIvg_Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-10-09"
@@ -4795,7 +4797,7 @@
       "url": "https://www.youtube.com/watch?v=6Mj0YdqOqZE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-28"
@@ -4808,7 +4810,7 @@
       "url": "https://www.youtube.com/watch?v=Gp7uxGV_iak",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-18"
@@ -4821,7 +4823,7 @@
       "url": "https://www.youtube.com/watch?v=qgCAw2NONxo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-18"
@@ -4834,7 +4836,7 @@
       "url": "https://www.youtube.com/watch?v=2jKKsD02-Ss",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-13"
@@ -4847,7 +4849,7 @@
       "url": "https://www.youtube.com/watch?v=O-5wmRegao8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-11"
@@ -4875,7 +4877,7 @@
       "url": "https://www.youtube.com/watch?v=JTEjugSNgQA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-09-07"
@@ -4888,7 +4890,7 @@
       "url": "https://www.youtube.com/watch?v=9klOX4LGuVE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-08-28"
@@ -4901,7 +4903,7 @@
       "url": "https://www.youtube.com/watch?v=NE8gtfz2GTA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-08-22"
@@ -4927,7 +4929,7 @@
       "url": "https://www.youtube.com/watch?v=HaKEiB3px78",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-07-18"
@@ -4940,7 +4942,7 @@
       "url": "https://www.youtube.com/watch?v=3z8XejP7zMc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-07-17"
@@ -4953,7 +4955,7 @@
       "url": "https://www.youtube.com/watch?v=wF5z7pu8TPs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-07-10"
@@ -4966,7 +4968,7 @@
       "url": "https://www.youtube.com/watch?v=LC0lJf47gII",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-07-09"
@@ -4979,7 +4981,7 @@
       "url": "https://www.youtube.com/watch?v=FH5scxivcBA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-07-02"
@@ -4992,7 +4994,7 @@
       "url": "https://www.youtube.com/watch?v=D5po9fA2xns",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-30"
@@ -5005,7 +5007,7 @@
       "url": "https://www.youtube.com/watch?v=mF-Q-w48niI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-29"
@@ -5018,7 +5020,8 @@
       "url": "https://www.youtube.com/watch?v=wG4nw7ZSJDU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-27"
@@ -5031,7 +5034,7 @@
       "url": "https://www.youtube.com/watch?v=73w47QjqEPU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-26"
@@ -5044,7 +5047,7 @@
       "url": "https://www.youtube.com/watch?v=fcmIRJP3WEw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-25"
@@ -5057,7 +5060,8 @@
       "url": "https://www.youtube.com/watch?v=WhUuLM7R9Jk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-19"
@@ -5070,7 +5074,7 @@
       "url": "https://www.youtube.com/watch?v=IchBiEQuGvY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-18"
@@ -5083,7 +5087,7 @@
       "url": "https://www.youtube.com/watch?v=1GBXCs5gQ4s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-16"
@@ -5096,7 +5100,8 @@
       "url": "https://www.youtube.com/watch?v=3n7lZA9cpWs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-16"
@@ -5109,7 +5114,7 @@
       "url": "https://www.youtube.com/watch?v=SOADlRyedEQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-07"
@@ -5122,7 +5127,7 @@
       "url": "https://www.youtube.com/watch?v=CUwyimKqNP8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-06"
@@ -5135,7 +5140,8 @@
       "url": "https://www.youtube.com/watch?v=FIKhYqpUe6U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-06"
@@ -5148,7 +5154,7 @@
       "url": "https://www.youtube.com/watch?v=KP0P4hqpVzE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-06-06"
@@ -5161,7 +5167,7 @@
       "url": "https://www.youtube.com/watch?v=N725Bcl_qkk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-31"
@@ -5174,7 +5180,7 @@
       "url": "https://www.youtube.com/watch?v=icIWXS0TZPo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-29"
@@ -5187,7 +5193,7 @@
       "url": "https://www.youtube.com/watch?v=5VYrRBhWlug",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-23"
@@ -5200,7 +5206,8 @@
       "url": "https://www.youtube.com/watch?v=0O2C-jfR2GM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-23"
@@ -5213,7 +5220,7 @@
       "url": "https://www.youtube.com/watch?v=hc9rMBZT_rw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-19"
@@ -5226,7 +5233,7 @@
       "url": "https://www.youtube.com/watch?v=nitTWO327xg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-16"
@@ -5239,7 +5246,8 @@
       "url": "https://www.youtube.com/watch?v=b4VLSgiQYpE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-16"
@@ -5252,7 +5260,7 @@
       "url": "https://www.youtube.com/watch?v=wJYjSbnh47U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-14"
@@ -5265,7 +5273,8 @@
       "url": "https://www.youtube.com/watch?v=Tgg6lndx1L0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-11"
@@ -5278,7 +5287,7 @@
       "url": "https://www.youtube.com/watch?v=nQn2IXkfMvc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-09"
@@ -5291,7 +5300,7 @@
       "url": "https://www.youtube.com/watch?v=3lkFwje9t5I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-03"
@@ -5304,7 +5313,7 @@
       "url": "https://www.youtube.com/watch?v=R7kmvt4_jJY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-05-03"
@@ -5317,7 +5326,8 @@
       "url": "https://www.youtube.com/watch?v=T6agS01CRvM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-01"
@@ -5330,7 +5340,7 @@
       "url": "https://www.youtube.com/watch?v=3y6ZK1dxLfE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-30"
@@ -5343,7 +5353,7 @@
       "url": "https://www.youtube.com/watch?v=cSGoefpYcBI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-26"
@@ -5356,7 +5366,7 @@
       "url": "https://www.youtube.com/watch?v=Y9yQzXUUTBs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-20"
@@ -5369,7 +5379,7 @@
       "url": "https://www.youtube.com/watch?v=EBgxDT0wCsQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-18"
@@ -5382,7 +5392,7 @@
       "url": "https://www.youtube.com/watch?v=ygAGxqMvfPU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-11"
@@ -5395,7 +5405,8 @@
       "url": "https://www.youtube.com/watch?v=O_FS75WCZEY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-04"
@@ -5408,7 +5419,7 @@
       "url": "https://www.youtube.com/watch?v=KrpxqqYMqdc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-04-04"
@@ -5421,7 +5432,7 @@
       "url": "https://www.youtube.com/watch?v=r_LJmOJQ3kA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-29"
@@ -5434,7 +5445,8 @@
       "url": "https://www.youtube.com/watch?v=BfxG_SJ2eDs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-27"
@@ -5447,7 +5459,7 @@
       "url": "https://www.youtube.com/watch?v=GW6HInjPCz8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-27"
@@ -5460,7 +5472,7 @@
       "url": "https://www.youtube.com/watch?v=btiVjUcW_wE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-26"
@@ -5488,7 +5500,7 @@
       "url": "https://www.youtube.com/watch?v=bUNv2Op0zYo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-23"
@@ -5501,7 +5513,8 @@
       "url": "https://www.youtube.com/watch?v=MY0nxYMEVbM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-20"
@@ -5514,7 +5527,7 @@
       "url": "https://www.youtube.com/watch?v=jpWBWZvJpjU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-16"
@@ -5527,7 +5540,7 @@
       "url": "https://www.youtube.com/watch?v=zcCA9VS1xZE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-13"
@@ -5540,7 +5553,8 @@
       "url": "https://www.youtube.com/watch?v=Ki2VsgJ15_I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-12"
@@ -5568,7 +5582,8 @@
       "url": "https://www.youtube.com/watch?v=uxzhB6-zhwA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-08"
@@ -5581,7 +5596,7 @@
       "url": "https://www.youtube.com/watch?v=tAqK1S8F_Js",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-03-01"
@@ -5594,7 +5609,8 @@
       "url": "https://www.youtube.com/watch?v=MkbOr0l35_g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-27"
@@ -5607,7 +5623,7 @@
       "url": "https://www.youtube.com/watch?v=Snc_idMrB20",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-02-21"
@@ -5620,7 +5636,8 @@
       "url": "https://www.youtube.com/watch?v=TTcvyfKoh6M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-20"
@@ -5633,7 +5650,7 @@
       "url": "https://www.youtube.com/watch?v=FMhumBTrkWY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-02-16"
@@ -5646,7 +5663,8 @@
       "url": "https://www.youtube.com/watch?v=N4kWr43_h5U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-13"
@@ -5659,7 +5677,7 @@
       "url": "https://www.youtube.com/watch?v=T4TqH8p35SY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-02-10"
@@ -5672,7 +5690,8 @@
       "url": "https://www.youtube.com/watch?v=6Kj9eyK0A5A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-06"
@@ -5685,7 +5704,7 @@
       "url": "https://www.youtube.com/watch?v=jRlwZYVkXLs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-02-02"
@@ -5698,7 +5717,8 @@
       "url": "https://www.youtube.com/watch?v=Sa4zLdLBWcs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-31"
@@ -5711,7 +5731,7 @@
       "url": "https://www.youtube.com/watch?v=8Og98npHuJU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-01-25"
@@ -5724,7 +5744,8 @@
       "url": "https://www.youtube.com/watch?v=cI10LtZlpf0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-24"
@@ -5737,7 +5758,7 @@
       "url": "https://www.youtube.com/watch?v=gK8WtWN6IAM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-01-18"
@@ -5750,7 +5771,8 @@
       "url": "https://www.youtube.com/watch?v=7IzmNCQ2gqs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-17"
@@ -5763,7 +5785,7 @@
       "url": "https://www.youtube.com/watch?v=_0H6qnppglk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-01-11"
@@ -5776,7 +5798,8 @@
       "url": "https://www.youtube.com/watch?v=jA4y6mP0dkA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-06"
@@ -5789,7 +5812,7 @@
       "url": "https://www.youtube.com/watch?v=QXkhH2hmxoI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-01-03"
@@ -5802,7 +5825,8 @@
       "url": "https://www.youtube.com/watch?v=u1PeaNKkRWM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-03"
@@ -5815,7 +5839,7 @@
       "url": "https://www.youtube.com/watch?v=h6OI5cE4mvw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2023-01-02"
@@ -5843,7 +5867,8 @@
       "url": "https://www.youtube.com/watch?v=gRK6FH6HsSY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-12-21"
@@ -5856,7 +5881,7 @@
       "url": "https://www.youtube.com/watch?v=-MlGelkFCfA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-12-20"
@@ -5869,7 +5894,8 @@
       "url": "https://www.youtube.com/watch?v=sc5RUBa7I1A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-12-12"
@@ -5882,7 +5908,7 @@
       "url": "https://www.youtube.com/watch?v=yPXbR3zHfWY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-12-12"
@@ -5895,7 +5921,8 @@
       "url": "https://www.youtube.com/watch?v=LDE_mnRwvyM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-12-05"
@@ -5908,7 +5935,7 @@
       "url": "https://www.youtube.com/watch?v=pSEbF0Z1xkk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-11-30"
@@ -5921,7 +5948,7 @@
       "url": "https://www.youtube.com/watch?v=qqyEf9GIMz4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-11-27"
@@ -5934,7 +5961,8 @@
       "url": "https://www.youtube.com/watch?v=xsHgH6WH4AQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-21"
@@ -5960,7 +5988,8 @@
       "url": "https://www.youtube.com/watch?v=oO_lLHiz2HQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-14"
@@ -5973,7 +6002,7 @@
       "url": "https://www.youtube.com/watch?v=QQHRi8lJnmY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-11-10"
@@ -5986,7 +6015,7 @@
       "url": "https://www.youtube.com/watch?v=r9b93ShdHlQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-11-04"
@@ -5999,7 +6028,8 @@
       "url": "https://www.youtube.com/watch?v=aih4LuE7qZo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-10-30"
@@ -6012,7 +6042,7 @@
       "url": "https://www.youtube.com/watch?v=CFkxuQ0Mp3w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-10-27"
@@ -6025,7 +6055,8 @@
       "url": "https://www.youtube.com/watch?v=Amw9G2Zoms0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-10-23"
@@ -6038,7 +6069,8 @@
       "url": "https://www.youtube.com/watch?v=G0NS-KvMAPA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-10-16"
@@ -6051,7 +6083,7 @@
       "url": "https://www.youtube.com/watch?v=H9AyZLNfsmM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-10-14"
@@ -6064,7 +6096,8 @@
       "url": "https://www.youtube.com/watch?v=S20ed0S2HEY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-25"
@@ -6090,7 +6123,8 @@
       "url": "https://www.youtube.com/watch?v=YCajFGi7SfE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-18"
@@ -6103,7 +6137,7 @@
       "url": "https://www.youtube.com/watch?v=fjmWIYzh-c8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-09-13"
@@ -6116,7 +6150,8 @@
       "url": "https://www.youtube.com/watch?v=AigHrukp5co",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-11"
@@ -6129,7 +6164,7 @@
       "url": "https://www.youtube.com/watch?v=GAN0mq17rGg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-09-11"
@@ -6142,7 +6177,8 @@
       "url": "https://www.youtube.com/watch?v=lMj2rrKV5o8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-05"
@@ -6155,7 +6191,7 @@
       "url": "https://www.youtube.com/watch?v=YmmMYeo-Hng",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-08-31"
@@ -6168,7 +6204,8 @@
       "url": "https://www.youtube.com/watch?v=GJS-e1ZWVLU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-28"
@@ -6181,7 +6218,7 @@
       "url": "https://www.youtube.com/watch?v=NgcsooVdTHw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-08-24"
@@ -6194,7 +6231,8 @@
       "url": "https://www.youtube.com/watch?v=fa8T4vvBI4Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-19"
@@ -6207,7 +6245,7 @@
       "url": "https://www.youtube.com/watch?v=bSFYnobWcA8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-08-17"
@@ -6220,7 +6258,8 @@
       "url": "https://www.youtube.com/watch?v=Gj2WIacc-7I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-12"
@@ -6233,7 +6272,7 @@
       "url": "https://www.youtube.com/watch?v=5cH_ELOaLwA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-08-05"
@@ -6246,7 +6285,8 @@
       "url": "https://www.youtube.com/watch?v=VZr_0_jERz4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-01"
@@ -6259,7 +6299,7 @@
       "url": "https://www.youtube.com/watch?v=UIYwcnaXnXw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-07-28"
@@ -6272,7 +6312,8 @@
       "url": "https://www.youtube.com/watch?v=DYmm6mGyCRU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-24"
@@ -6285,7 +6326,7 @@
       "url": "https://www.youtube.com/watch?v=qEBe2uUdm_g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-07-21"
@@ -6298,7 +6339,8 @@
       "url": "https://www.youtube.com/watch?v=XVT7EeSbQ1w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-17"
@@ -6311,7 +6353,7 @@
       "url": "https://www.youtube.com/watch?v=czpMlcdjNfs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-07-15"
@@ -6324,7 +6366,8 @@
       "url": "https://www.youtube.com/watch?v=8L5HGdRBQxI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-11"
@@ -6337,7 +6380,7 @@
       "url": "https://www.youtube.com/watch?v=KUG1Pnd2hT8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-06-29"
@@ -6350,7 +6393,8 @@
       "url": "https://www.youtube.com/watch?v=t1V4Pb7rnO8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-26"
@@ -6363,7 +6407,7 @@
       "url": "https://www.youtube.com/watch?v=KQDiBRjBW1c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-06-22"
@@ -6376,7 +6420,8 @@
       "url": "https://www.youtube.com/watch?v=xIneW2GJ42Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-17"
@@ -6389,7 +6434,7 @@
       "url": "https://www.youtube.com/watch?v=_H41ySZjiXE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-06-14"
@@ -6402,7 +6447,8 @@
       "url": "https://www.youtube.com/watch?v=pjuQ7pv07e0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-10"
@@ -6415,7 +6461,8 @@
       "url": "https://www.youtube.com/watch?v=7mdvaUJqU2k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-07"
@@ -6428,7 +6475,7 @@
       "url": "https://www.youtube.com/watch?v=-_fOpFXSuwM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-06-02"
@@ -6441,7 +6488,8 @@
       "url": "https://www.youtube.com/watch?v=1RpLdZBMAUo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-29"
@@ -6454,7 +6502,7 @@
       "url": "https://www.youtube.com/watch?v=LMWd2FMEhn0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-05-29"
@@ -6467,7 +6515,7 @@
       "url": "https://www.youtube.com/watch?v=zgAu93l2ks0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-05-20"
@@ -6480,7 +6528,8 @@
       "url": "https://www.youtube.com/watch?v=dxg-nekvhQs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-13"
@@ -6493,7 +6542,7 @@
       "url": "https://www.youtube.com/watch?v=5iaYmljZgOs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-05-13"
@@ -6506,7 +6555,8 @@
       "url": "https://www.youtube.com/watch?v=EBDNl7Vfd48",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-08"
@@ -6519,7 +6569,7 @@
       "url": "https://www.youtube.com/watch?v=Gjm263armOw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-05-04"
@@ -6532,7 +6582,8 @@
       "url": "https://www.youtube.com/watch?v=ueHd3Ls8dWE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-01"
@@ -6545,7 +6596,7 @@
       "url": "https://www.youtube.com/watch?v=J1N5CCTf8HU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-04-28"
@@ -6558,7 +6609,7 @@
       "url": "https://www.youtube.com/watch?v=VNUeY8CIsOQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-04-21"
@@ -6571,7 +6622,7 @@
       "url": "https://www.youtube.com/watch?v=Rg7N0g6_kSM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-04-13"
@@ -6584,7 +6635,8 @@
       "url": "https://www.youtube.com/watch?v=onq0SHh0_sg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-10"
@@ -6597,7 +6649,7 @@
       "url": "https://www.youtube.com/watch?v=KR75BV40HHI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-04-07"
@@ -6610,7 +6662,8 @@
       "url": "https://www.youtube.com/watch?v=idYlKF6F0Ps",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-01"
@@ -6623,7 +6676,7 @@
       "url": "https://www.youtube.com/watch?v=vVZV9EYkl_A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-03-30"
@@ -6636,7 +6689,8 @@
       "url": "https://www.youtube.com/watch?v=bLdVdrg_iws",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-28"
@@ -6649,7 +6703,7 @@
       "url": "https://www.youtube.com/watch?v=ML37GZM2em8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-03-25"
@@ -6662,7 +6716,7 @@
       "url": "https://www.youtube.com/watch?v=Jp5YoGX_04k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-03-20"
@@ -6675,7 +6729,8 @@
       "url": "https://www.youtube.com/watch?v=S9hhJkxdrco",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-13"
@@ -6688,7 +6743,7 @@
       "url": "https://www.youtube.com/watch?v=M3_ZogQAEgo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-03-11"
@@ -6701,7 +6756,8 @@
       "url": "https://www.youtube.com/watch?v=aUXG7gE0XPo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-06"
@@ -6714,7 +6770,7 @@
       "url": "https://www.youtube.com/watch?v=gzouM6QtOTk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-03-02"
@@ -6727,7 +6783,8 @@
       "url": "https://www.youtube.com/watch?v=Cx42NzhCM9g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-27"
@@ -6740,7 +6797,7 @@
       "url": "https://www.youtube.com/watch?v=VeXdr9sTAuI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-02-25"
@@ -6753,7 +6810,8 @@
       "url": "https://www.youtube.com/watch?v=ppBRT__4ryw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-20"
@@ -6766,7 +6824,7 @@
       "url": "https://www.youtube.com/watch?v=Jk6u1gje7eQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-02-20"
@@ -6779,7 +6837,8 @@
       "url": "https://www.youtube.com/watch?v=t0ytGYUhcmU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-13"
@@ -6792,7 +6851,7 @@
       "url": "https://www.youtube.com/watch?v=npnVU0SCHO4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-02-09"
@@ -6805,7 +6864,8 @@
       "url": "https://www.youtube.com/watch?v=6DYI4y0EuDQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-06"
@@ -6818,7 +6878,7 @@
       "url": "https://www.youtube.com/watch?v=xc-eU5d8IOU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-02-03"
@@ -6831,7 +6891,8 @@
       "url": "https://www.youtube.com/watch?v=78Clr18Skqo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-31"
@@ -6844,7 +6905,7 @@
       "url": "https://www.youtube.com/watch?v=MOxFU3E4gfE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-01-27"
@@ -6857,7 +6918,8 @@
       "url": "https://www.youtube.com/watch?v=ObvaBdRl4mw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-21"
@@ -6870,7 +6932,7 @@
       "url": "https://www.youtube.com/watch?v=-y8xORz7JwE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-01-19"
@@ -6883,7 +6945,8 @@
       "url": "https://www.youtube.com/watch?v=uS_p9dMpmn4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-16"
@@ -6896,7 +6959,7 @@
       "url": "https://www.youtube.com/watch?v=Tj75tA_f410",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2022-01-12"
@@ -6924,7 +6987,8 @@
       "url": "https://www.youtube.com/watch?v=kbv43IV5qME",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-09"
@@ -6937,7 +7001,7 @@
       "url": "https://www.youtube.com/watch?v=s7Ga6wa3394",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-12-29"
@@ -6950,7 +7014,8 @@
       "url": "https://www.youtube.com/watch?v=EX5aWMjISLo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-24"
@@ -6963,7 +7028,7 @@
       "url": "https://www.youtube.com/watch?v=mZAY3ncv49g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-12-21"
@@ -6976,7 +7041,8 @@
       "url": "https://www.youtube.com/watch?v=S_tyDUoFZ1A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-19"
@@ -6989,7 +7055,7 @@
       "url": "https://www.youtube.com/watch?v=cdOYvgmPpos",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-12-15"
@@ -7002,7 +7068,8 @@
       "url": "https://www.youtube.com/watch?v=5_5Ea77qTOs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-12"
@@ -7015,7 +7082,7 @@
       "url": "https://www.youtube.com/watch?v=t0VSFNks5Gc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-12-08"
@@ -7028,7 +7095,8 @@
       "url": "https://www.youtube.com/watch?v=MS7-awghkkA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-05"
@@ -7056,7 +7124,7 @@
       "url": "https://www.youtube.com/watch?v=9zCM1T4tf-M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-12-01"
@@ -7084,7 +7152,7 @@
       "url": "https://www.youtube.com/watch?v=io0gj9BcgCg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-11-24"
@@ -7097,7 +7165,8 @@
       "url": "https://www.youtube.com/watch?v=I6Uy46zS7wU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-21"
@@ -7110,7 +7179,7 @@
       "url": "https://www.youtube.com/watch?v=5d16ixORlg0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-11-17"
@@ -7123,7 +7192,8 @@
       "url": "https://www.youtube.com/watch?v=EKkgLrNQ9jg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-14"
@@ -7136,7 +7206,7 @@
       "url": "https://www.youtube.com/watch?v=xXjzonkhRA4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-11-10"
@@ -7149,7 +7219,8 @@
       "url": "https://www.youtube.com/watch?v=yph7HNzt6b8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-05"
@@ -7162,7 +7233,7 @@
       "url": "https://www.youtube.com/watch?v=dTH0LvzzXqs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-11-03"
@@ -7175,7 +7246,8 @@
       "url": "https://www.youtube.com/watch?v=wu0O4Gr4g90",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-31"
@@ -7188,7 +7260,7 @@
       "url": "https://www.youtube.com/watch?v=9j_LlU5hbmM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-10-26"
@@ -7201,7 +7273,8 @@
       "url": "https://www.youtube.com/watch?v=CRZw5sgMq_M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-24"
@@ -7214,7 +7287,7 @@
       "url": "https://www.youtube.com/watch?v=YNFcev3DSoU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-10-19"
@@ -7227,7 +7300,8 @@
       "url": "https://www.youtube.com/watch?v=i5cjLKbv5Gc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-17"
@@ -7240,7 +7314,7 @@
       "url": "https://www.youtube.com/watch?v=UjqSoNs0hPY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-10-12"
@@ -7253,7 +7327,7 @@
       "url": "https://www.youtube.com/watch?v=Vt8hxnoXi2E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-10-06"
@@ -7281,7 +7355,8 @@
       "url": "https://www.youtube.com/watch?v=XWB-whlXu0M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-01"
@@ -7294,7 +7369,8 @@
       "url": "https://www.youtube.com/watch?v=bDz2K17Ltx4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-09-24"
@@ -7322,7 +7398,7 @@
       "url": "https://www.youtube.com/watch?v=-03SjiAbxeA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-09-14"
@@ -7335,7 +7411,8 @@
       "url": "https://www.youtube.com/watch?v=bM9PEURjs1Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-09-03"
@@ -7348,7 +7425,7 @@
       "url": "https://www.youtube.com/watch?v=bQOVQdDTeNQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-08-31"
@@ -7361,7 +7438,8 @@
       "url": "https://www.youtube.com/watch?v=Cmy5vneggS0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-27"
@@ -7374,7 +7452,7 @@
       "url": "https://www.youtube.com/watch?v=z0orXfhxrVg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-08-24"
@@ -7387,7 +7465,8 @@
       "url": "https://www.youtube.com/watch?v=PHSo-ggwOxQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-20"
@@ -7400,7 +7479,7 @@
       "url": "https://www.youtube.com/watch?v=B7by8S5Gsik",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-08-17"
@@ -7413,7 +7492,8 @@
       "url": "https://www.youtube.com/watch?v=WhIIhKwQedY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-13"
@@ -7426,7 +7506,7 @@
       "url": "https://www.youtube.com/watch?v=tCN_cQB-EeY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-08-10"
@@ -7454,7 +7534,8 @@
       "url": "https://www.youtube.com/watch?v=5DE4qtbsl-A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-06"
@@ -7467,7 +7548,7 @@
       "url": "https://www.youtube.com/watch?v=jhoQ64YEAa4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-08-03"
@@ -7480,7 +7561,8 @@
       "url": "https://www.youtube.com/watch?v=15RvLwGTon8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-30"
@@ -7508,7 +7590,7 @@
       "url": "https://www.youtube.com/watch?v=ZnrUO9zfosE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-07-27"
@@ -7521,7 +7603,8 @@
       "url": "https://www.youtube.com/watch?v=4SFUD8pb_Mk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-23"
@@ -7534,7 +7617,7 @@
       "url": "https://www.youtube.com/watch?v=ci0ASCJADb4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-07-20"
@@ -7547,7 +7630,8 @@
       "url": "https://www.youtube.com/watch?v=QDtOxOPE7Xw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-16"
@@ -7560,7 +7644,7 @@
       "url": "https://www.youtube.com/watch?v=5q2nLyC1Rag",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-07-13"
@@ -7573,7 +7657,8 @@
       "url": "https://www.youtube.com/watch?v=6gP9i1f6WWo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-09"
@@ -7586,7 +7671,7 @@
       "url": "https://www.youtube.com/watch?v=rtpC2W9XMs4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-07-06"
@@ -7599,7 +7684,8 @@
       "url": "https://www.youtube.com/watch?v=ts-aPuWsIzI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-02"
@@ -7612,7 +7698,7 @@
       "url": "https://www.youtube.com/watch?v=9imyjbiDsss",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-06-29"
@@ -7625,7 +7711,8 @@
       "url": "https://www.youtube.com/watch?v=kX0Mx5XQC58",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-25"
@@ -7638,7 +7725,7 @@
       "url": "https://www.youtube.com/watch?v=jxZqU9hwjcU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-06-22"
@@ -7664,7 +7751,7 @@
       "url": "https://www.youtube.com/watch?v=qy8IbQu_OV0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-06-15"
@@ -7677,7 +7764,8 @@
       "url": "https://www.youtube.com/watch?v=BgiMLW0IXzo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-11"
@@ -7690,7 +7778,7 @@
       "url": "https://www.youtube.com/watch?v=fb6LRz7ymWY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-06-09"
@@ -7703,7 +7791,8 @@
       "url": "https://www.youtube.com/watch?v=BmTPQ9ojUwo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-04"
@@ -7716,7 +7805,7 @@
       "url": "https://www.youtube.com/watch?v=3IqfHlsne68",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-06-01"
@@ -7729,7 +7818,8 @@
       "url": "https://www.youtube.com/watch?v=8O5R2_d9oAQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-28"
@@ -7742,7 +7832,7 @@
       "url": "https://www.youtube.com/watch?v=_gAfaFZlcRc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-05-25"
@@ -7755,7 +7845,8 @@
       "url": "https://www.youtube.com/watch?v=RnjxCdvsv7o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-21"
@@ -7768,7 +7859,8 @@
       "url": "https://www.youtube.com/watch?v=CeE8rOnaBu8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-14"
@@ -7781,7 +7873,7 @@
       "url": "https://www.youtube.com/watch?v=33DJn-Alnrc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-05-11"
@@ -7794,7 +7886,8 @@
       "url": "https://www.youtube.com/watch?v=oC_PMXuuuFA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-07"
@@ -7822,7 +7915,7 @@
       "url": "https://www.youtube.com/watch?v=qS4opi5Djyg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-05-05"
@@ -7848,7 +7941,7 @@
       "url": "https://www.youtube.com/watch?v=NVeAZpy7MK0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-04-27"
@@ -7861,7 +7954,8 @@
       "url": "https://www.youtube.com/watch?v=SVoHB0_O6jM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-23"
@@ -7874,7 +7968,7 @@
       "url": "https://www.youtube.com/watch?v=HwqYIUJ3wEY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-04-20"
@@ -7887,7 +7981,8 @@
       "url": "https://www.youtube.com/watch?v=3DBhB1VS4pw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-16"
@@ -7900,7 +7995,7 @@
       "url": "https://www.youtube.com/watch?v=5cmb6okneoY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-04-13"
@@ -7913,7 +8008,8 @@
       "url": "https://www.youtube.com/watch?v=U4XQufhadkA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-09"
@@ -7926,7 +8022,8 @@
       "url": "https://www.youtube.com/watch?v=YuYIfBrp8bA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-02"
@@ -7952,7 +8049,7 @@
       "url": "https://www.youtube.com/watch?v=MRkikoZZwow",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-03-23"
@@ -7978,7 +8075,8 @@
       "url": "https://www.youtube.com/watch?v=8X8X4-jDqHQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-19"
@@ -8006,7 +8104,7 @@
       "url": "https://www.youtube.com/watch?v=iDC7llrxgmw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-03-16"
@@ -8019,7 +8117,8 @@
       "url": "https://www.youtube.com/watch?v=3jdwfbvIDsw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-12"
@@ -8045,7 +8144,7 @@
       "url": "https://www.youtube.com/watch?v=jqoOvgDsQEk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-03-09"
@@ -8058,7 +8157,8 @@
       "url": "https://www.youtube.com/watch?v=9i0gfvcxQKA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-05"
@@ -8071,7 +8171,7 @@
       "url": "https://www.youtube.com/watch?v=ELn8OFN-rVE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-03-02"
@@ -8084,7 +8184,7 @@
       "url": "https://www.youtube.com/watch?v=0IEqEDO5N0Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-02-23"
@@ -8097,7 +8197,8 @@
       "url": "https://www.youtube.com/watch?v=Kxh5lcfobdQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-19"
@@ -8110,7 +8211,7 @@
       "url": "https://www.youtube.com/watch?v=IM-_kAwvJA8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-02-16"
@@ -8123,7 +8224,8 @@
       "url": "https://www.youtube.com/watch?v=HplWMcEaw-U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-14"
@@ -8166,7 +8268,7 @@
       "url": "https://www.youtube.com/watch?v=xUiYCRzk9WI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-02-09"
@@ -8179,7 +8281,8 @@
       "url": "https://www.youtube.com/watch?v=sGOpxdmr8eI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-05"
@@ -8222,7 +8325,7 @@
       "url": "https://www.youtube.com/watch?v=mEZSovaDmmg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-02-02"
@@ -8235,7 +8338,8 @@
       "url": "https://www.youtube.com/watch?v=-Ik5SWwBArE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-29"
@@ -8248,7 +8352,7 @@
       "url": "https://www.youtube.com/watch?v=HPoxe3oUvgk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-01-26"
@@ -8261,7 +8365,8 @@
       "url": "https://www.youtube.com/watch?v=kVRaOFyQ0SA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-22"
@@ -8289,7 +8394,7 @@
       "url": "https://www.youtube.com/watch?v=9KVHwpLftbU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-01-19"
@@ -8302,7 +8407,8 @@
       "url": "https://www.youtube.com/watch?v=MFNJHqH-6ks",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-15"
@@ -8330,7 +8436,7 @@
       "url": "https://www.youtube.com/watch?v=6QL5NG0NjS8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-01-12"
@@ -8343,7 +8449,8 @@
       "url": "https://www.youtube.com/watch?v=m5y5elhJmbY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-08"
@@ -8356,7 +8463,7 @@
       "url": "https://www.youtube.com/watch?v=Llpz3ngOasY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2021-01-05"
@@ -8384,7 +8491,8 @@
       "url": "https://www.youtube.com/watch?v=2Rd8sPuCeX8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-01"
@@ -8397,7 +8505,7 @@
       "url": "https://www.youtube.com/watch?v=3RFCTmEsfg4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-12-29"
@@ -8410,7 +8518,8 @@
       "url": "https://www.youtube.com/watch?v=ag_4vA1O-m4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-25"
@@ -8423,7 +8532,7 @@
       "url": "https://www.youtube.com/watch?v=RJiNs_N0J5s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-12-22"
@@ -8436,7 +8545,8 @@
       "url": "https://www.youtube.com/watch?v=PZEJaZpERCU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-18"
@@ -8449,7 +8559,7 @@
       "url": "https://www.youtube.com/watch?v=8WP8VXAtpy4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-12-15"
@@ -8462,7 +8572,8 @@
       "url": "https://www.youtube.com/watch?v=vIv9ddj4Ay0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-11"
@@ -8475,7 +8586,7 @@
       "url": "https://www.youtube.com/watch?v=IHqiz-kO5dE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-12-08"
@@ -8516,7 +8627,8 @@
       "url": "https://www.youtube.com/watch?v=6KyYVcNRMj4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-04"
@@ -8529,7 +8641,8 @@
       "url": "https://www.youtube.com/watch?v=DzzN47ByAAE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-04"
@@ -8542,7 +8655,7 @@
       "url": "https://www.youtube.com/watch?v=0apW12hOZNM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-12-01"
@@ -8568,7 +8681,8 @@
       "url": "https://www.youtube.com/watch?v=VGrOAf7S8n4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-27"
@@ -8581,7 +8695,7 @@
       "url": "https://www.youtube.com/watch?v=97-VRVYhJEQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-11-24"
@@ -8594,7 +8708,7 @@
       "url": "https://www.youtube.com/watch?v=s7NZC1blwtc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-11-17"
@@ -8620,7 +8734,8 @@
       "url": "https://www.youtube.com/watch?v=9a9K4cd2vMo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-13"
@@ -8633,7 +8748,7 @@
       "url": "https://www.youtube.com/watch?v=F477UJM7qoA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-11-11"
@@ -8691,7 +8806,8 @@
       "url": "https://www.youtube.com/watch?v=cSiVdt9ZFwQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-08"
@@ -8704,7 +8820,7 @@
       "url": "https://www.youtube.com/watch?v=uECKGebKjlk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-11-03"
@@ -8732,7 +8848,7 @@
       "url": "https://www.youtube.com/watch?v=eMu298-U8mo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-10-27"
@@ -8745,7 +8861,8 @@
       "url": "https://www.youtube.com/watch?v=XI977EvIZKs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-23"
@@ -8758,7 +8875,7 @@
       "url": "https://www.youtube.com/watch?v=Jijqlp8XAS0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-10-20"
@@ -8799,7 +8916,8 @@
       "url": "https://www.youtube.com/watch?v=mnfkXKM088c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-16"
@@ -8812,7 +8930,8 @@
       "url": "https://www.youtube.com/watch?v=LSE8j7bfA9k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-09"
@@ -8825,7 +8944,8 @@
       "url": "https://www.youtube.com/watch?v=j-5KlrDy6-E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-08"
@@ -8879,7 +8999,8 @@
       "url": "https://www.youtube.com/watch?v=g5mkJyRDiqc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-02"
@@ -8892,7 +9013,8 @@
       "url": "https://www.youtube.com/watch?v=1iOqenQwmsY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-09-24"
@@ -8905,7 +9027,8 @@
       "url": "https://www.youtube.com/watch?v=_oW5ha8iheg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-09-17"
@@ -8918,7 +9041,8 @@
       "url": "https://www.youtube.com/watch?v=PbUIkzl_GWI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-09-11"
@@ -8931,7 +9055,8 @@
       "url": "https://www.youtube.com/watch?v=FGs55hA-3DI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-09-03"
@@ -8944,7 +9069,8 @@
       "url": "https://www.youtube.com/watch?v=9Lui0S-dUuU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-08-27"
@@ -8985,7 +9111,8 @@
       "url": "https://www.youtube.com/watch?v=2Yjt8iPSL7A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-08-12"
@@ -8998,7 +9125,8 @@
       "url": "https://www.youtube.com/watch?v=U6_0JOva5iE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-08-02"
@@ -9011,7 +9139,8 @@
       "url": "https://www.youtube.com/watch?v=wCcvhnWn7C8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-07-24"
@@ -9024,7 +9153,8 @@
       "url": "https://www.youtube.com/watch?v=uUVASxFOttY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-07-21"
@@ -9142,7 +9272,8 @@
       "url": "https://www.youtube.com/watch?v=epNqBP0U9Mk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-07-02"
@@ -9183,7 +9314,8 @@
       "url": "https://www.youtube.com/watch?v=CjJbAYvLjGg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-26"
@@ -9196,7 +9328,7 @@
       "url": "https://www.youtube.com/watch?v=OV5RruB-ZKQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-06-25"
@@ -9237,7 +9369,8 @@
       "url": "https://www.youtube.com/watch?v=gBSxUe5M8X4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-18"
@@ -9250,7 +9383,8 @@
       "url": "https://www.youtube.com/watch?v=WUejKDsr3tg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-18"
@@ -9304,7 +9438,7 @@
       "url": "https://www.youtube.com/watch?v=gAswpK4M_QA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-06-09"
@@ -9330,7 +9464,8 @@
       "url": "https://www.youtube.com/watch?v=Lyllja5fXm4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-05"
@@ -9343,7 +9478,7 @@
       "url": "https://www.youtube.com/watch?v=wo1LoX0UFis",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-05-26"
@@ -9356,7 +9491,8 @@
       "url": "https://www.youtube.com/watch?v=9OZ4DjkcvA8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-20"
@@ -9369,7 +9505,7 @@
       "url": "https://www.youtube.com/watch?v=GXhxZ6IKVIM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-05-20"
@@ -9382,7 +9518,8 @@
       "url": "https://www.youtube.com/watch?v=32JQh2zKB-8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-14"
@@ -9395,7 +9532,7 @@
       "url": "https://www.youtube.com/watch?v=BZKVI9J_lao",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-05-12"
@@ -9408,7 +9545,8 @@
       "url": "https://www.youtube.com/watch?v=jtpOgH92WNk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-07"
@@ -9421,7 +9559,7 @@
       "url": "https://www.youtube.com/watch?v=U6RGFObUIho",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2020-05-05"
@@ -9434,7 +9572,8 @@
       "url": "https://www.youtube.com/watch?v=TC2Bm7-RgwE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-01"
@@ -9447,7 +9586,8 @@
       "url": "https://www.youtube.com/watch?v=4IPAxvqKr5E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-04-20"
@@ -9578,7 +9718,8 @@
       "url": "https://www.youtube.com/watch?v=4_iiU8Xr7Zs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-03-27"
@@ -9591,7 +9732,8 @@
       "url": "https://www.youtube.com/watch?v=o8PDz6y_Vls",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-03-26"
@@ -9645,7 +9787,8 @@
       "url": "https://www.youtube.com/watch?v=A9u2buK-vEE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-03-15"
@@ -9658,7 +9801,8 @@
       "url": "https://www.youtube.com/watch?v=mI_ZvIp6z8w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-03-04"
@@ -9791,7 +9935,8 @@
       "url": "https://www.youtube.com/watch?v=CQE44gPgRtA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-02-24"
@@ -9804,7 +9949,8 @@
       "url": "https://www.youtube.com/watch?v=vJ6A8AQdnWI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-02-20"
@@ -9817,7 +9963,8 @@
       "url": "https://www.youtube.com/watch?v=OAhMxr24Lcs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-02-20"
@@ -9955,7 +10102,8 @@
       "url": "https://www.youtube.com/watch?v=hWY9KO2AwmI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-01-02"
@@ -10013,7 +10161,8 @@
       "url": "https://www.youtube.com/watch?v=CsMJmC10NbQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-12-20"
@@ -10114,7 +10263,8 @@
       "url": "https://www.youtube.com/watch?v=RZHlFgt7caI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-11-28"
@@ -10127,7 +10277,8 @@
       "url": "https://www.youtube.com/watch?v=yrki_p2LIxg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-11-20"
@@ -10140,7 +10291,8 @@
       "url": "https://www.youtube.com/watch?v=zCuPyIhZrR8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-11-10"
@@ -10213,7 +10365,8 @@
       "url": "https://www.youtube.com/watch?v=ijTitL7C2J0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-11-01"
@@ -10226,7 +10379,8 @@
       "url": "https://www.youtube.com/watch?v=DxJIsHZ6VxE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-10-28"
@@ -10284,7 +10438,8 @@
       "url": "https://www.youtube.com/watch?v=WLmj52mfHw4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-10-07"
@@ -10640,7 +10795,8 @@
       "url": "https://www.youtube.com/watch?v=xI8-tk_KlC0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-09-10"
@@ -10653,7 +10809,8 @@
       "url": "https://www.youtube.com/watch?v=1HZ2wCSiJLk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-09-05"
@@ -10666,7 +10823,8 @@
       "url": "https://www.youtube.com/watch?v=3x2XaJfBZD4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-08-29"
@@ -10679,7 +10837,8 @@
       "url": "https://www.youtube.com/watch?v=VtZW-HFyFiE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-08-19"
@@ -10692,7 +10851,8 @@
       "url": "https://www.youtube.com/watch?v=h9obJ2VdBoc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-08-06"
@@ -10718,7 +10878,8 @@
       "url": "https://www.youtube.com/watch?v=iTkNu2vFih4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-08-01"
@@ -10731,7 +10892,8 @@
       "url": "https://www.youtube.com/watch?v=wVCnUElCT1w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-07-25"
@@ -10744,7 +10906,8 @@
       "url": "https://www.youtube.com/watch?v=OCUbhWVXcS4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-07-18"
@@ -10850,7 +11013,8 @@
       "url": "https://www.youtube.com/watch?v=K0YsMCqgo9k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-06-12"
@@ -10863,7 +11027,8 @@
       "url": "https://www.youtube.com/watch?v=Rwr_0xWSmsA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-06-02"
@@ -10902,7 +11067,8 @@
       "url": "https://www.youtube.com/watch?v=JoUJtf_d7jU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-05-20"
@@ -10928,7 +11094,8 @@
       "url": "https://www.youtube.com/watch?v=_WS_CkI8bm4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-05-12"
@@ -10956,7 +11123,8 @@
       "url": "https://www.youtube.com/watch?v=OG9H2qf_IQo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-05-05"
@@ -10984,7 +11152,8 @@
       "url": "https://www.youtube.com/watch?v=TziKWhQmVrE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-04-12"
@@ -11072,7 +11241,8 @@
       "url": "https://www.youtube.com/watch?v=WEorlybjIiU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-04-09"
@@ -11160,7 +11330,8 @@
       "url": "https://www.youtube.com/watch?v=-hWbGB4n5no",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-03-18"
@@ -11173,7 +11344,8 @@
       "url": "https://www.youtube.com/watch?v=0fz522cr3As",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-03-15"
@@ -11186,7 +11358,8 @@
       "url": "https://www.youtube.com/watch?v=gIvU1FzQA8A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-03-08"
@@ -11199,7 +11372,8 @@
       "url": "https://www.youtube.com/watch?v=654TlJzGUM4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-21"
@@ -11257,7 +11431,7 @@
       "url": "https://www.youtube.com/watch?v=maVkmQN4ELk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11270,7 +11444,7 @@
       "url": "https://www.youtube.com/watch?v=n9Z43J7zAS8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11283,7 +11457,7 @@
       "url": "https://www.youtube.com/watch?v=59CXlnE6DCc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11322,7 +11496,7 @@
       "url": "https://www.youtube.com/watch?v=udNR_KKHCmg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-03"
@@ -11335,7 +11509,7 @@
       "url": "https://www.youtube.com/watch?v=_9b-k8z8Vy4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-03"
@@ -11348,7 +11522,7 @@
       "url": "https://www.youtube.com/watch?v=3YQ7UnJ7dIw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-02-01"
@@ -11361,7 +11535,8 @@
       "url": "https://www.youtube.com/watch?v=fy7OpN7HsMY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-01"
@@ -11374,7 +11549,7 @@
       "url": "https://www.youtube.com/watch?v=W4r-tv1GwRw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-31"
@@ -11387,7 +11562,7 @@
       "url": "https://www.youtube.com/watch?v=0JiYRMFJx7I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-27"
@@ -11400,7 +11575,7 @@
       "url": "https://www.youtube.com/watch?v=j3uItnXeVbc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-27"
@@ -11413,7 +11588,7 @@
       "url": "https://www.youtube.com/watch?v=CA4TwaI-OhQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-25"
@@ -11426,7 +11601,7 @@
       "url": "https://www.youtube.com/watch?v=5QukCT8Ym0E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-24"
@@ -11439,7 +11614,7 @@
       "url": "https://www.youtube.com/watch?v=S7YxzLEbCeY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-23"
@@ -11452,7 +11627,7 @@
       "url": "https://www.youtube.com/watch?v=tCIDVznX7JY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-22"
@@ -11465,7 +11640,7 @@
       "url": "https://www.youtube.com/watch?v=Sx9kG9iLOk8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-21"
@@ -11478,7 +11653,7 @@
       "url": "https://www.youtube.com/watch?v=_X9KUV1wP8Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-20"
@@ -11491,7 +11666,7 @@
       "url": "https://www.youtube.com/watch?v=ssQ3r_uq88o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-20"
@@ -11504,7 +11679,7 @@
       "url": "https://www.youtube.com/watch?v=ju3iALz_8lg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-18"
@@ -11517,7 +11692,8 @@
       "url": "https://www.youtube.com/watch?v=0dqYuRQQ-5o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-18"
@@ -11530,7 +11706,7 @@
       "url": "https://www.youtube.com/watch?v=9CZfD-_waZE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-17"
@@ -11543,7 +11719,7 @@
       "url": "https://www.youtube.com/watch?v=Z2LnbEdD2Mk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-17"
@@ -11556,7 +11732,7 @@
       "url": "https://www.youtube.com/watch?v=qTy-buuSuEs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-16"
@@ -11569,7 +11745,7 @@
       "url": "https://www.youtube.com/watch?v=joIul14nI0g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-16"
@@ -11582,7 +11758,7 @@
       "url": "https://www.youtube.com/watch?v=ws7z9kUbFic",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-14"
@@ -11595,7 +11771,7 @@
       "url": "https://www.youtube.com/watch?v=WUFPmYbH0ZI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-13"
@@ -11608,7 +11784,7 @@
       "url": "https://www.youtube.com/watch?v=ttaW1yscpjg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-13"
@@ -11621,7 +11797,7 @@
       "url": "https://www.youtube.com/watch?v=HAWRxKDTMuk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-11"
@@ -11662,7 +11838,8 @@
       "url": "https://www.youtube.com/watch?v=E5CRcBrOJ2U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-04"
@@ -11690,7 +11867,7 @@
       "url": "https://www.youtube.com/watch?v=cb6xhWWm6m4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-03"
@@ -11703,7 +11880,7 @@
       "url": "https://www.youtube.com/watch?v=MJ6O9vKpVgc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2019-01-02"
@@ -11716,7 +11893,8 @@
       "url": "https://www.youtube.com/watch?v=TR8hWKpWVow",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-02"
@@ -11729,7 +11907,8 @@
       "url": "https://www.youtube.com/watch?v=vpjkXyZ0fYI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-12-30"
@@ -11742,7 +11921,8 @@
       "url": "https://www.youtube.com/watch?v=AKz-6Bd8m7M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-12-29"
@@ -11800,7 +11980,8 @@
       "url": "https://www.youtube.com/watch?v=zQr0y-BViog",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-12-02"
@@ -11813,7 +11994,8 @@
       "url": "https://www.youtube.com/watch?v=mBkSK3Gxsrg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-11-21"
@@ -11826,7 +12008,8 @@
       "url": "https://www.youtube.com/watch?v=2pDTsXDGcow",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-11-13"
@@ -11839,7 +12022,8 @@
       "url": "https://www.youtube.com/watch?v=C4MeqoGy84s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-11-06"
@@ -11852,7 +12036,8 @@
       "url": "https://www.youtube.com/watch?v=NqcNPbmGuhc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-10-31"
@@ -11865,7 +12050,8 @@
       "url": "https://www.youtube.com/watch?v=ihSkOFEno6M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-10-21"
@@ -11891,7 +12077,8 @@
       "url": "https://www.youtube.com/watch?v=TRvi5AJ1cQU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-10-10"
@@ -11934,7 +12121,8 @@
       "url": "https://www.youtube.com/watch?v=x0pcQt1Iu9Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-09-21"
@@ -12001,7 +12189,8 @@
       "url": "https://www.youtube.com/watch?v=BircUsbeFw0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-09-03"
@@ -12014,7 +12203,8 @@
       "url": "https://www.youtube.com/watch?v=PnzcsZKa4kg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-08-27"
@@ -12027,7 +12217,8 @@
       "url": "https://www.youtube.com/watch?v=jgbI0i7jFbk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-08-21"
@@ -12053,7 +12244,8 @@
       "url": "https://www.youtube.com/watch?v=dJv1NzruXCs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-08-08"
@@ -12094,7 +12286,8 @@
       "url": "https://www.youtube.com/watch?v=uxd7N6hp_Es",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-07-27"
@@ -12122,7 +12315,8 @@
       "url": "https://www.youtube.com/watch?v=ROEVemnG3pk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-07-20"
@@ -12165,7 +12359,8 @@
       "url": "https://www.youtube.com/watch?v=Y1roCQgRqYw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-07-15"
@@ -12191,7 +12386,8 @@
       "url": "https://www.youtube.com/watch?v=4BLjTxcm_1U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-07-08"
@@ -12301,7 +12497,8 @@
       "url": "https://www.youtube.com/watch?v=7SpqT4GD1NI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-06-17"
@@ -12314,7 +12511,8 @@
       "url": "https://www.youtube.com/watch?v=Mb09nUDB0Y8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-06-10"
@@ -12355,7 +12553,8 @@
       "url": "https://www.youtube.com/watch?v=F-u_rPnVM1I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-05-30"
@@ -12368,7 +12567,8 @@
       "url": "https://www.youtube.com/watch?v=qT5nQKuc6n8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-05-28"
@@ -12422,7 +12622,8 @@
       "url": "https://www.youtube.com/watch?v=AnKG5u9ZQUU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-05-02"
@@ -12435,7 +12636,8 @@
       "url": "https://www.youtube.com/watch?v=t5XU26uGyBc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-04-25"
@@ -12506,7 +12708,8 @@
       "url": "https://www.youtube.com/watch?v=NQbf1dwoFAA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-04-13"
@@ -12588,7 +12791,8 @@
       "url": "https://www.youtube.com/watch?v=EP8ygWGxu5o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-03-25"
@@ -12629,7 +12833,8 @@
       "url": "https://www.youtube.com/watch?v=pDnXBM_uV1w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-03-15"
@@ -12668,7 +12873,8 @@
       "url": "https://www.youtube.com/watch?v=sDa11x0k29k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-02-23"
@@ -12681,7 +12887,8 @@
       "url": "https://www.youtube.com/watch?v=wINzsgxMCbg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-02-23"
@@ -12724,7 +12931,8 @@
       "url": "https://www.youtube.com/watch?v=pE6YOAplhYo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-02-09"
@@ -12737,7 +12945,8 @@
       "url": "https://www.youtube.com/watch?v=NkiXwtOwa5k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-02-08"
@@ -12776,7 +12985,8 @@
       "url": "https://www.youtube.com/watch?v=hExy2uyd5nU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-01-28"
@@ -12828,7 +13038,8 @@
       "url": "https://www.youtube.com/watch?v=AusY2xkaHUg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-01-22"
@@ -12841,7 +13052,8 @@
       "url": "https://www.youtube.com/watch?v=d01AXPzSO-8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-01-21"
@@ -12854,7 +13066,8 @@
       "url": "https://www.youtube.com/watch?v=0BlgIMsMk3M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-01-14"
@@ -12906,7 +13119,8 @@
       "url": "https://www.youtube.com/watch?v=dmGUJu9FTc4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2018-01-07"
@@ -13072,7 +13286,8 @@
       "url": "https://www.youtube.com/watch?v=L28ULcPS1ic",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-12-19"
@@ -13143,7 +13358,8 @@
       "url": "https://www.youtube.com/watch?v=7QzMy6bpYzk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-12-04"
@@ -13221,7 +13437,8 @@
       "url": "https://www.youtube.com/watch?v=T9NG_TbZ7F8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-11-20"
@@ -13260,7 +13477,8 @@
       "url": "https://www.youtube.com/watch?v=xEjPSrjtD_8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-11-14"
@@ -13273,7 +13491,8 @@
       "url": "https://www.youtube.com/watch?v=4vFlFFJkTa8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-11-09"
@@ -13403,7 +13622,8 @@
       "url": "https://www.youtube.com/watch?v=Cipj-T92aVo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-10-24"
@@ -13507,7 +13727,8 @@
       "url": "https://www.youtube.com/watch?v=GdnAKloUMmU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-10-09"
@@ -13550,7 +13771,8 @@
       "url": "https://www.youtube.com/watch?v=pS41trIOAwM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-10-09"
@@ -13645,7 +13867,8 @@
       "url": "https://www.youtube.com/watch?v=FL_2bzIP7nE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-10-02"
@@ -13684,7 +13907,8 @@
       "url": "https://www.youtube.com/watch?v=AK33c5bpS4Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-09-17"
@@ -13697,7 +13921,8 @@
       "url": "https://www.youtube.com/watch?v=JqNoJRq2KHU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-09-10"
@@ -13723,7 +13948,8 @@
       "url": "https://www.youtube.com/watch?v=IXJuZK4HiCU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-08-28"
@@ -13736,7 +13962,8 @@
       "url": "https://www.youtube.com/watch?v=M_DqNIcq4X8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-08-23"
@@ -13749,7 +13976,8 @@
       "url": "https://www.youtube.com/watch?v=8uRxaMyC7mo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-08-17"
@@ -13762,7 +13990,8 @@
       "url": "https://www.youtube.com/watch?v=-KlWjGPoKBY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-08-04"
@@ -13775,7 +14004,8 @@
       "url": "https://www.youtube.com/watch?v=32xw0LW-7hk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-07-28"
@@ -13788,7 +14018,8 @@
       "url": "https://www.youtube.com/watch?v=DtsPVbg-X4U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-07-21"
@@ -13801,7 +14032,8 @@
       "url": "https://www.youtube.com/watch?v=cwJIlnsY9lo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-07-21"
@@ -13829,7 +14061,8 @@
       "url": "https://www.youtube.com/watch?v=xZojUxoMiuM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-07-09"
@@ -13842,7 +14075,8 @@
       "url": "https://www.youtube.com/watch?v=x-8WNE8i6QU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-07-02"
@@ -14076,7 +14310,8 @@
       "url": "https://www.youtube.com/watch?v=m08jd-u5hWA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-05-26"
@@ -14089,7 +14324,8 @@
       "url": "https://www.youtube.com/watch?v=79qqJCR2vik",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-05-24"
@@ -14115,7 +14351,8 @@
       "url": "https://www.youtube.com/watch?v=-ZaNlWpia-k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-05-16"
@@ -14214,7 +14451,8 @@
       "url": "https://www.youtube.com/watch?v=FAYt__pp1_8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-05-14"
@@ -14227,7 +14465,8 @@
       "url": "https://www.youtube.com/watch?v=YdOmytpu4Pk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-05-11"
@@ -14240,7 +14479,8 @@
       "url": "https://www.youtube.com/watch?v=xRKv3iijQGE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-04-28"
@@ -14253,7 +14493,8 @@
       "url": "https://www.youtube.com/watch?v=eW2ddPTVDAo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-04-23"
@@ -14266,7 +14507,8 @@
       "url": "https://www.youtube.com/watch?v=2jnvbisl4zw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-04-14"
@@ -14279,7 +14521,8 @@
       "url": "https://www.youtube.com/watch?v=AO30AL1_3HE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-04-13"
@@ -14348,7 +14591,8 @@
       "url": "https://www.youtube.com/watch?v=7cP6vdA9JwY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-03-20"
@@ -14376,7 +14620,8 @@
       "url": "https://www.youtube.com/watch?v=vNUtSWBBAzI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-03-08"
@@ -14584,7 +14829,8 @@
       "url": "https://www.youtube.com/watch?v=GrseAGjJOxI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-02-27"
@@ -14597,7 +14843,8 @@
       "url": "https://www.youtube.com/watch?v=CcxNSD1jsMQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-02-17"
@@ -14610,7 +14857,8 @@
       "url": "https://www.youtube.com/watch?v=JH2oW7XnkNs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-02-10"
@@ -14623,7 +14871,8 @@
       "url": "https://www.youtube.com/watch?v=DkRAGl-Azmk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-02-05"
@@ -14636,7 +14885,8 @@
       "url": "https://www.youtube.com/watch?v=AnezsSXVBDM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-01-31"
@@ -14675,7 +14925,8 @@
       "url": "https://www.youtube.com/watch?v=0SbYPO9I04k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-01-29"
@@ -14688,7 +14939,8 @@
       "url": "https://www.youtube.com/watch?v=1nyHfQUPabY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-01-26"
@@ -14701,7 +14953,8 @@
       "url": "https://www.youtube.com/watch?v=iRU0FZz8-wg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-01-13"
@@ -14714,7 +14967,8 @@
       "url": "https://www.youtube.com/watch?v=bz4tBrRfnPc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2017-01-02"
@@ -14766,7 +15020,8 @@
       "url": "https://www.youtube.com/watch?v=pkV6IOo5ARA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-26"
@@ -14781,7 +15036,8 @@
         "Мы находимся в самом конце 10 главы, стр. 67, пасук Ламед-гимл"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-21"
@@ -14794,7 +15050,8 @@
       "url": "https://www.youtube.com/watch?v=0WboZb4ff0I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14807,7 +15064,8 @@
       "url": "https://www.youtube.com/watch?v=3YLyxug1aaI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14820,7 +15078,8 @@
       "url": "https://www.youtube.com/watch?v=5NZL68wV4BM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14833,7 +15092,8 @@
       "url": "https://www.youtube.com/watch?v=DKnTnKoWcdQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14846,7 +15106,8 @@
       "url": "https://www.youtube.com/watch?v=IBHiORKaOaA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14859,7 +15120,8 @@
       "url": "https://www.youtube.com/watch?v=L_VNtunSdn8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14872,7 +15134,8 @@
       "url": "https://www.youtube.com/watch?v=Md885uVT7jU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14885,7 +15148,8 @@
       "url": "https://www.youtube.com/watch?v=UpVGfcroDI8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14898,7 +15162,8 @@
       "url": "https://www.youtube.com/watch?v=aop8yq1KSNg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14911,7 +15176,8 @@
       "url": "https://www.youtube.com/watch?v=d7ZQIYXY5QA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14924,7 +15190,8 @@
       "url": "https://www.youtube.com/watch?v=eSmgeCpQnn4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14937,7 +15204,8 @@
       "url": "https://www.youtube.com/watch?v=nuqoEAq4xiE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14950,7 +15218,8 @@
       "url": "https://www.youtube.com/watch?v=o96DbB4v5-0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14963,7 +15232,8 @@
       "url": "https://www.youtube.com/watch?v=u3KIW1gDFOo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14976,7 +15246,8 @@
       "url": "https://www.youtube.com/watch?v=xl05PTx2M8I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -14989,7 +15260,8 @@
       "url": "https://www.youtube.com/watch?v=z-OTbQoADqM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15002,7 +15274,8 @@
       "url": "https://www.youtube.com/watch?v=4nvqHPF3T2U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15015,7 +15288,8 @@
       "url": "https://www.youtube.com/watch?v=4yqDQcjSV8k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15028,7 +15302,8 @@
       "url": "https://www.youtube.com/watch?v=6Z2_iMNnPyw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15041,7 +15316,8 @@
       "url": "https://www.youtube.com/watch?v=6yo0f69MIhI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15054,7 +15330,8 @@
       "url": "https://www.youtube.com/watch?v=7CgUJoN77kw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15067,7 +15344,8 @@
       "url": "https://www.youtube.com/watch?v=7tetRFC2etY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15080,7 +15358,8 @@
       "url": "https://www.youtube.com/watch?v=95gsef6fRl8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15093,7 +15372,8 @@
       "url": "https://www.youtube.com/watch?v=9FEuP6eIZL8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15106,7 +15386,8 @@
       "url": "https://www.youtube.com/watch?v=A0f2w0YR7co",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15119,7 +15400,8 @@
       "url": "https://www.youtube.com/watch?v=A97Y3YT2ekM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15132,7 +15414,8 @@
       "url": "https://www.youtube.com/watch?v=ABZe8rBr4uk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15145,7 +15428,8 @@
       "url": "https://www.youtube.com/watch?v=BRsUDlc6XL8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15158,7 +15442,8 @@
       "url": "https://www.youtube.com/watch?v=C1dSDdZeuto",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15171,7 +15456,8 @@
       "url": "https://www.youtube.com/watch?v=CvDUAlG_iUo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15184,7 +15470,8 @@
       "url": "https://www.youtube.com/watch?v=D-FTu6N6eik",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15197,7 +15484,8 @@
       "url": "https://www.youtube.com/watch?v=F6lzTu-ZgyI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15210,7 +15498,8 @@
       "url": "https://www.youtube.com/watch?v=FDxvnCujXR8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15223,7 +15512,8 @@
       "url": "https://www.youtube.com/watch?v=FOmLaG5SBX0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15236,7 +15526,8 @@
       "url": "https://www.youtube.com/watch?v=Fpi2pyZjhR0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15249,7 +15540,8 @@
       "url": "https://www.youtube.com/watch?v=H0BoVCZxNPo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15262,7 +15554,8 @@
       "url": "https://www.youtube.com/watch?v=IEsFTysG3ak",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15275,7 +15568,8 @@
       "url": "https://www.youtube.com/watch?v=J3TUo5hwNGo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15288,7 +15582,8 @@
       "url": "https://www.youtube.com/watch?v=JUMZLiZqa60",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15301,7 +15596,8 @@
       "url": "https://www.youtube.com/watch?v=KtaGWZleRGU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15314,7 +15610,8 @@
       "url": "https://www.youtube.com/watch?v=LLE8lRfmNm0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15327,7 +15624,8 @@
       "url": "https://www.youtube.com/watch?v=LlGvmdyQmqk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15340,7 +15638,8 @@
       "url": "https://www.youtube.com/watch?v=MfEMO7Twxrk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15353,7 +15652,8 @@
       "url": "https://www.youtube.com/watch?v=OYZFjdnt98c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15366,7 +15666,8 @@
       "url": "https://www.youtube.com/watch?v=RKPRHlss9x0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15379,7 +15680,8 @@
       "url": "https://www.youtube.com/watch?v=Rn2AYK70nRk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15392,7 +15694,8 @@
       "url": "https://www.youtube.com/watch?v=S8zyP3XINpM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15405,7 +15708,8 @@
       "url": "https://www.youtube.com/watch?v=SSwpSCU08dM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15418,7 +15722,8 @@
       "url": "https://www.youtube.com/watch?v=SxytAuy5UQg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15431,7 +15736,8 @@
       "url": "https://www.youtube.com/watch?v=TS3KGYS110c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15444,7 +15750,8 @@
       "url": "https://www.youtube.com/watch?v=U2PzQKbcmp4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15457,7 +15764,8 @@
       "url": "https://www.youtube.com/watch?v=Vi2u4WKs-9w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15470,7 +15778,8 @@
       "url": "https://www.youtube.com/watch?v=Waq_K8_nLC0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15483,7 +15792,8 @@
       "url": "https://www.youtube.com/watch?v=WkxmiiOl5MQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15496,7 +15806,8 @@
       "url": "https://www.youtube.com/watch?v=X2eJM7iF2s0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15509,7 +15820,8 @@
       "url": "https://www.youtube.com/watch?v=XnvouKoqJkg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15522,7 +15834,8 @@
       "url": "https://www.youtube.com/watch?v=ZNVUNzeTLSQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15535,7 +15848,8 @@
       "url": "https://www.youtube.com/watch?v=ZiEWg5ClhU4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15548,7 +15862,8 @@
       "url": "https://www.youtube.com/watch?v=_KApapTi5IM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15561,7 +15876,8 @@
       "url": "https://www.youtube.com/watch?v=aq6UdiK-Eso",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15574,7 +15890,8 @@
       "url": "https://www.youtube.com/watch?v=cXStv7FB50Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15587,7 +15904,8 @@
       "url": "https://www.youtube.com/watch?v=cgMCjZkuFzk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15600,7 +15918,8 @@
       "url": "https://www.youtube.com/watch?v=cu3DOXx9s5s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15613,7 +15932,8 @@
       "url": "https://www.youtube.com/watch?v=dQKVJv0EDHk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15626,7 +15946,8 @@
       "url": "https://www.youtube.com/watch?v=ffdQ5evdXmQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15639,7 +15960,8 @@
       "url": "https://www.youtube.com/watch?v=gSxNZz49QAc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15652,7 +15974,8 @@
       "url": "https://www.youtube.com/watch?v=gUHVGuZIbB8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15665,7 +15988,8 @@
       "url": "https://www.youtube.com/watch?v=io-QsLTMFbs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15678,7 +16002,8 @@
       "url": "https://www.youtube.com/watch?v=iuEhbX_0fn8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15691,7 +16016,8 @@
       "url": "https://www.youtube.com/watch?v=jAxlj9sX2Ng",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15704,7 +16030,8 @@
       "url": "https://www.youtube.com/watch?v=kaVx33VnfAI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15717,7 +16044,8 @@
       "url": "https://www.youtube.com/watch?v=ldGgLJgbrWU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15730,7 +16058,8 @@
       "url": "https://www.youtube.com/watch?v=lh3822TzUWQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15743,7 +16072,8 @@
       "url": "https://www.youtube.com/watch?v=myHPL50zlEQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15756,7 +16086,8 @@
       "url": "https://www.youtube.com/watch?v=nABD0CJLvnE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15769,7 +16100,8 @@
       "url": "https://www.youtube.com/watch?v=nzP_DqCBT2k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15782,7 +16114,8 @@
       "url": "https://www.youtube.com/watch?v=oqTZUbBozdE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15795,7 +16128,8 @@
       "url": "https://www.youtube.com/watch?v=pS1g8YzAtBM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15808,7 +16142,8 @@
       "url": "https://www.youtube.com/watch?v=rTSUNjfB8wI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15821,7 +16156,8 @@
       "url": "https://www.youtube.com/watch?v=wXG6PpMS1Ek",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15834,7 +16170,8 @@
       "url": "https://www.youtube.com/watch?v=x3Lxe4VKGow",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15847,7 +16184,8 @@
       "url": "https://www.youtube.com/watch?v=y_aO8P_iS_E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15860,7 +16198,8 @@
       "url": "https://www.youtube.com/watch?v=ztufhoxpyHQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-14"
@@ -15873,7 +16212,8 @@
       "url": "https://www.youtube.com/watch?v=lQHhL5d3rbU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15886,7 +16226,8 @@
       "url": "https://www.youtube.com/watch?v=aVtwT_j54d8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15899,7 +16240,8 @@
       "url": "https://www.youtube.com/watch?v=nwZO1uQ1ClA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15912,7 +16254,8 @@
       "url": "https://www.youtube.com/watch?v=ozaGNAwS76E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15925,7 +16268,8 @@
       "url": "https://www.youtube.com/watch?v=TAMDAJ-Gh-U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15938,7 +16282,8 @@
       "url": "https://www.youtube.com/watch?v=0P5Bf42eKBs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15951,7 +16296,8 @@
       "url": "https://www.youtube.com/watch?v=5upoVFTVBnQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15964,7 +16310,8 @@
       "url": "https://www.youtube.com/watch?v=6Kuw7oclb4o",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15977,7 +16324,8 @@
       "url": "https://www.youtube.com/watch?v=B9LEyD5fjtw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -15990,7 +16338,8 @@
       "url": "https://www.youtube.com/watch?v=FMhHGYZoz6A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16003,7 +16352,8 @@
       "url": "https://www.youtube.com/watch?v=FmEXq8nQqBg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16016,7 +16366,8 @@
       "url": "https://www.youtube.com/watch?v=G4PGSkvRqZk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16029,7 +16380,8 @@
       "url": "https://www.youtube.com/watch?v=V8NPMXxBVJk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16042,7 +16394,8 @@
       "url": "https://www.youtube.com/watch?v=a83u6AFav8Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16055,7 +16408,8 @@
       "url": "https://www.youtube.com/watch?v=lFZ1kO5lx1U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16068,7 +16422,8 @@
       "url": "https://www.youtube.com/watch?v=m4wR2jyreCc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16081,7 +16436,8 @@
       "url": "https://www.youtube.com/watch?v=mGWi3EjMwrY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16094,7 +16450,8 @@
       "url": "https://www.youtube.com/watch?v=qo5Sh6D80xg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16107,7 +16464,8 @@
       "url": "https://www.youtube.com/watch?v=wQcdvlmWdlA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16120,7 +16478,8 @@
       "url": "https://www.youtube.com/watch?v=x0Hm10rVpmI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16133,7 +16492,8 @@
       "url": "https://www.youtube.com/watch?v=K9vAZR8m9UE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16146,7 +16506,8 @@
       "url": "https://www.youtube.com/watch?v=tENRATjr9ls",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16159,7 +16520,8 @@
       "url": "https://www.youtube.com/watch?v=JRrVSxIY3WE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16172,7 +16534,8 @@
       "url": "https://www.youtube.com/watch?v=w5FO-HeoZ5k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16185,7 +16548,8 @@
       "url": "https://www.youtube.com/watch?v=_Crz1lKyGzE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16198,7 +16562,8 @@
       "url": "https://www.youtube.com/watch?v=Y8tT3icXSmg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16211,7 +16576,8 @@
       "url": "https://www.youtube.com/watch?v=9T3yg-bznrc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16224,7 +16590,8 @@
       "url": "https://www.youtube.com/watch?v=ObnKdtKfsgA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16237,7 +16604,8 @@
       "url": "https://www.youtube.com/watch?v=iC4Ze27hpig",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16250,7 +16618,8 @@
       "url": "https://www.youtube.com/watch?v=k0lEVzi2ZN8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16263,7 +16632,8 @@
       "url": "https://www.youtube.com/watch?v=87FRkb4k8A8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16276,7 +16646,8 @@
       "url": "https://www.youtube.com/watch?v=vBrJCnkfr9Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16289,7 +16660,8 @@
       "url": "https://www.youtube.com/watch?v=83JjrpkSKG4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16302,7 +16674,8 @@
       "url": "https://www.youtube.com/watch?v=kn6aS8VhZ1E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16315,7 +16688,8 @@
       "url": "https://www.youtube.com/watch?v=qvhwoCJDB7w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16341,7 +16715,8 @@
       "url": "https://www.youtube.com/watch?v=iiRp3guzTZk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16354,7 +16729,8 @@
       "url": "https://www.youtube.com/watch?v=giC5ppYCscM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16367,7 +16743,8 @@
       "url": "https://www.youtube.com/watch?v=abq_kldjAQ4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16380,7 +16757,8 @@
       "url": "https://www.youtube.com/watch?v=2lyBBo3VYH8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16393,7 +16771,8 @@
       "url": "https://www.youtube.com/watch?v=h5uB30Xfty0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16406,7 +16785,8 @@
       "url": "https://www.youtube.com/watch?v=VNUXVhXYo-s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16419,7 +16799,8 @@
       "url": "https://www.youtube.com/watch?v=QhSv1JC5mfM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16432,7 +16813,8 @@
       "url": "https://www.youtube.com/watch?v=uHrxrmylem4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16445,7 +16827,8 @@
       "url": "https://www.youtube.com/watch?v=2v2WkWx0mLU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16458,7 +16841,8 @@
       "url": "https://www.youtube.com/watch?v=NQqQnSxxgcc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16471,7 +16855,8 @@
       "url": "https://www.youtube.com/watch?v=7PwiwLuqAno",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16484,7 +16869,8 @@
       "url": "https://www.youtube.com/watch?v=H2CCRIP6nYw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16497,7 +16883,8 @@
       "url": "https://www.youtube.com/watch?v=5oYPhucFgQA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16523,7 +16910,8 @@
       "url": "https://www.youtube.com/watch?v=dfbE5ssE6nY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16536,7 +16924,8 @@
       "url": "https://www.youtube.com/watch?v=234UpXUGeKI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16549,7 +16938,8 @@
       "url": "https://www.youtube.com/watch?v=4ZnoLGZZKUM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16562,7 +16952,8 @@
       "url": "https://www.youtube.com/watch?v=Y1Q0bhTe2wE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16575,7 +16966,8 @@
       "url": "https://www.youtube.com/watch?v=p7vgN6QzMKQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16588,7 +16980,8 @@
       "url": "https://www.youtube.com/watch?v=pi9h2w6AWU0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16601,7 +16994,8 @@
       "url": "https://www.youtube.com/watch?v=BPKWGNM1viE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16614,7 +17008,8 @@
       "url": "https://www.youtube.com/watch?v=EwxdsG8ciME",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16627,7 +17022,8 @@
       "url": "https://www.youtube.com/watch?v=N9yzD0kUY6E",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16640,7 +17036,8 @@
       "url": "https://www.youtube.com/watch?v=1C0kgMxus84",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16653,7 +17050,8 @@
       "url": "https://www.youtube.com/watch?v=L03Im8boNu8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16666,7 +17064,8 @@
       "url": "https://www.youtube.com/watch?v=sHHNT94pRGo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16679,7 +17078,8 @@
       "url": "https://www.youtube.com/watch?v=9rDawzfQ4wI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16692,7 +17092,8 @@
       "url": "https://www.youtube.com/watch?v=TOI-pw3Xo7s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16705,7 +17106,8 @@
       "url": "https://www.youtube.com/watch?v=h9ln-fThhj0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16718,7 +17120,8 @@
       "url": "https://www.youtube.com/watch?v=8uzQ92vqAOw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16731,7 +17134,8 @@
       "url": "https://www.youtube.com/watch?v=WR6CejWaEEo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16744,7 +17148,8 @@
       "url": "https://www.youtube.com/watch?v=NDYr2nNmMnw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16757,7 +17162,8 @@
       "url": "https://www.youtube.com/watch?v=WGEfIUljbdM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16770,7 +17176,8 @@
       "url": "https://www.youtube.com/watch?v=h8ZE3edJpYc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16783,7 +17190,8 @@
       "url": "https://www.youtube.com/watch?v=xsiDl20p5pE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16796,7 +17204,8 @@
       "url": "https://www.youtube.com/watch?v=y5WnwNjZq2c",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16809,7 +17218,8 @@
       "url": "https://www.youtube.com/watch?v=lVY7_5zIfag",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16822,7 +17232,8 @@
       "url": "https://www.youtube.com/watch?v=vT_qYFiFELw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16835,7 +17246,8 @@
       "url": "https://www.youtube.com/watch?v=FQnUgZzl_qs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16848,7 +17260,8 @@
       "url": "https://www.youtube.com/watch?v=3s-P_5dzSLQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16861,7 +17274,8 @@
       "url": "https://www.youtube.com/watch?v=mMhAsugrqNI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16874,7 +17288,8 @@
       "url": "https://www.youtube.com/watch?v=AVI3otsw4vg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16887,7 +17302,8 @@
       "url": "https://www.youtube.com/watch?v=reTkNAdZ9r8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16900,7 +17316,8 @@
       "url": "https://www.youtube.com/watch?v=TnDHsk-BnKM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16913,7 +17330,8 @@
       "url": "https://www.youtube.com/watch?v=UgDMaxaqZng",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16926,7 +17344,8 @@
       "url": "https://www.youtube.com/watch?v=MIeUeOFCA4U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16939,7 +17358,8 @@
       "url": "https://www.youtube.com/watch?v=592sN75Dqps",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16952,7 +17372,8 @@
       "url": "https://www.youtube.com/watch?v=BPCgrGz8uYY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16965,7 +17386,8 @@
       "url": "https://www.youtube.com/watch?v=VCq4eU5NJQQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16978,7 +17400,8 @@
       "url": "https://www.youtube.com/watch?v=flYAe_8-kpc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -16991,7 +17414,8 @@
       "url": "https://www.youtube.com/watch?v=wrg0k4fSgpI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17004,7 +17428,8 @@
       "url": "https://www.youtube.com/watch?v=VrZIWBtL_uE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17017,7 +17442,8 @@
       "url": "https://www.youtube.com/watch?v=sIkhF3qawnw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17030,7 +17456,8 @@
       "url": "https://www.youtube.com/watch?v=PSgn4m4ySbY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17043,7 +17470,8 @@
       "url": "https://www.youtube.com/watch?v=tQJeh9PHZTE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17056,7 +17484,8 @@
       "url": "https://www.youtube.com/watch?v=RwpXIjJNEJQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17069,7 +17498,8 @@
       "url": "https://www.youtube.com/watch?v=AC8yyA8_Clc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17082,7 +17512,8 @@
       "url": "https://www.youtube.com/watch?v=OMTGo0mkJZ8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17095,7 +17526,8 @@
       "url": "https://www.youtube.com/watch?v=EEt7j_jlBsQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17108,7 +17540,8 @@
       "url": "https://www.youtube.com/watch?v=fdM9a664N24",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17121,7 +17554,8 @@
       "url": "https://www.youtube.com/watch?v=xYRmmSpVDh0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17134,7 +17568,8 @@
       "url": "https://www.youtube.com/watch?v=XMnQWUYS2as",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17147,7 +17582,8 @@
       "url": "https://www.youtube.com/watch?v=jeHUXGEtqGU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17160,7 +17596,8 @@
       "url": "https://www.youtube.com/watch?v=nwxyuKMHcaE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17173,7 +17610,8 @@
       "url": "https://www.youtube.com/watch?v=Ccocqc1ZIEw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17186,7 +17624,8 @@
       "url": "https://www.youtube.com/watch?v=l2Pdh3vw_kk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17199,7 +17638,8 @@
       "url": "https://www.youtube.com/watch?v=CzZwNdVF2gQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17212,7 +17652,8 @@
       "url": "https://www.youtube.com/watch?v=vgIXCRoyAqQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17225,7 +17666,8 @@
       "url": "https://www.youtube.com/watch?v=r1R1-namX8M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17238,7 +17680,8 @@
       "url": "https://www.youtube.com/watch?v=5ZGooBaHei8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17251,7 +17694,8 @@
       "url": "https://www.youtube.com/watch?v=hwBqROVUr5g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-13"
@@ -17264,7 +17708,8 @@
       "url": "https://www.youtube.com/watch?v=hXKFQFzJ4aU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17277,7 +17722,8 @@
       "url": "https://www.youtube.com/watch?v=aJ5AxGcgGtw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17290,7 +17736,8 @@
       "url": "https://www.youtube.com/watch?v=XrRh1d-2lYk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17303,7 +17750,8 @@
       "url": "https://www.youtube.com/watch?v=NE3bMgXPYAo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17316,7 +17764,8 @@
       "url": "https://www.youtube.com/watch?v=772OI8XWC4A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17329,7 +17778,8 @@
       "url": "https://www.youtube.com/watch?v=GCPrUqjhDME",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17342,7 +17792,8 @@
       "url": "https://www.youtube.com/watch?v=hQyHOUavzWc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17355,7 +17806,8 @@
       "url": "https://www.youtube.com/watch?v=gx7YmoG6trA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17368,7 +17820,8 @@
       "url": "https://www.youtube.com/watch?v=UZ4gO3KjlJ4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17381,7 +17834,8 @@
       "url": "https://www.youtube.com/watch?v=iekPkBzqwtM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17394,7 +17848,8 @@
       "url": "https://www.youtube.com/watch?v=gpH6LkK3lQk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17407,7 +17862,8 @@
       "url": "https://www.youtube.com/watch?v=hH0z9qNGsP0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17420,7 +17876,8 @@
       "url": "https://www.youtube.com/watch?v=ac83MZM3Os4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17433,7 +17890,8 @@
       "url": "https://www.youtube.com/watch?v=SWfNsoKvSus",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17446,7 +17904,8 @@
       "url": "https://www.youtube.com/watch?v=xknGLiObmEg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17459,7 +17918,8 @@
       "url": "https://www.youtube.com/watch?v=A4_9mpmQ--U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17472,7 +17932,8 @@
       "url": "https://www.youtube.com/watch?v=owWQrYGyI6k",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17485,7 +17946,8 @@
       "url": "https://www.youtube.com/watch?v=l0saFqXN2pU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17498,7 +17960,8 @@
       "url": "https://www.youtube.com/watch?v=qFXRSohZQk0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17511,7 +17974,8 @@
       "url": "https://www.youtube.com/watch?v=D0CWpyPt4aI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17524,7 +17988,8 @@
       "url": "https://www.youtube.com/watch?v=Nc0XvCMgCKw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17537,7 +18002,8 @@
       "url": "https://www.youtube.com/watch?v=kEA9QmvpjsQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17550,7 +18016,8 @@
       "url": "https://www.youtube.com/watch?v=23Unuv0Tqw8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17563,7 +18030,8 @@
       "url": "https://www.youtube.com/watch?v=YYM9_SmYKBI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17576,7 +18044,8 @@
       "url": "https://www.youtube.com/watch?v=LrIpjLkZUxk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17589,7 +18058,8 @@
       "url": "https://www.youtube.com/watch?v=YSVrh60pwpg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17602,7 +18072,8 @@
       "url": "https://www.youtube.com/watch?v=jmoS2bUl00I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-12"
@@ -17617,7 +18088,8 @@
         "Этот ролик обработан в Видеоредакторе YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-09"
@@ -17632,7 +18104,8 @@
         "I created this video with the YouTube Video Editor (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-12-05"
@@ -17714,7 +18187,8 @@
         "I created this video with the YouTube Video Editor (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-11-20"
@@ -17729,7 +18203,8 @@
         "I created this video with the YouTube Video Editor (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-11-11"
@@ -17789,7 +18264,8 @@
         "I created this video with the YouTube Video Editor (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-11-04"
@@ -17817,7 +18293,8 @@
         "Этот ролик обработан в Видеоредакторе YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-10-28"
@@ -17903,7 +18380,8 @@
       "url": "https://www.youtube.com/watch?v=M_b2CzRTmnA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-10-07"
@@ -17916,7 +18394,8 @@
       "url": "https://www.youtube.com/watch?v=jWTPiM-65uk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-09-30"
@@ -17929,7 +18408,8 @@
       "url": "https://www.youtube.com/watch?v=WqibmP0sb80",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-09-25"
@@ -17942,7 +18422,8 @@
       "url": "https://www.youtube.com/watch?v=nQHHvnxxwRg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-09-16"
@@ -17955,7 +18436,8 @@
       "url": "https://www.youtube.com/watch?v=Ise2aw5w5K4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-09-09"
@@ -17981,7 +18463,8 @@
       "url": "https://www.youtube.com/watch?v=n3cDonKeMzM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-08-26"
@@ -17994,7 +18477,8 @@
       "url": "https://www.youtube.com/watch?v=-5wY-tnA618",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-08-19"
@@ -18007,7 +18491,8 @@
       "url": "https://www.youtube.com/watch?v=7eGtGBUauno",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-08-12"
@@ -18020,7 +18505,8 @@
       "url": "https://www.youtube.com/watch?v=uGEEE-xc8NQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-08-05"
@@ -18033,7 +18519,8 @@
       "url": "https://www.youtube.com/watch?v=OME-JCD65HY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-07-29"
@@ -18046,7 +18533,8 @@
       "url": "https://www.youtube.com/watch?v=tXV9lM-QqkA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-07-28"
@@ -18059,7 +18547,8 @@
       "url": "https://www.youtube.com/watch?v=GN2AdUhcEw4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-07-08"
@@ -18072,7 +18561,8 @@
       "url": "https://www.youtube.com/watch?v=CtNM0GgT0ZQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-07-07"
@@ -18085,7 +18575,8 @@
       "url": "https://www.youtube.com/watch?v=5oK1H_-EOVc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-07-01"
@@ -18098,7 +18589,8 @@
       "url": "https://www.youtube.com/watch?v=oqmOuEBuuhs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-06-24"
@@ -18111,7 +18603,8 @@
       "url": "https://www.youtube.com/watch?v=vj9Cg95EasE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-06-17"
@@ -18124,7 +18617,8 @@
       "url": "https://www.youtube.com/watch?v=_nViqGVNat4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-05-06"
@@ -18137,7 +18631,8 @@
       "url": "https://www.youtube.com/watch?v=YFsC9PxKJjg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-04-15"
@@ -18150,7 +18645,8 @@
       "url": "https://www.youtube.com/watch?v=QRuNMwk3BS0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-04-08"
@@ -18163,7 +18659,8 @@
       "url": "https://www.youtube.com/watch?v=ZHQQrsuztkI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-04-06"
@@ -18355,7 +18852,8 @@
       "url": "https://www.youtube.com/watch?v=NPBxtKtSlBU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-03-18"
@@ -18368,7 +18866,8 @@
       "url": "https://www.youtube.com/watch?v=JcOOtB3Nkz4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-03-13"
@@ -18381,7 +18880,8 @@
       "url": "https://www.youtube.com/watch?v=_u-X5PhovH0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-03-10"
@@ -18394,7 +18894,8 @@
       "url": "https://www.youtube.com/watch?v=8Z8cAiAoygY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-02-28"
@@ -18407,7 +18908,8 @@
       "url": "https://www.youtube.com/watch?v=Q1s9moCUlTs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-02-22"
@@ -18420,7 +18922,8 @@
       "url": "https://www.youtube.com/watch?v=MPqN61GWs-w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-02-19"
@@ -18433,7 +18936,8 @@
       "url": "https://www.youtube.com/watch?v=_o_xh4W8EUY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-02-02"
@@ -18446,7 +18950,8 @@
       "url": "https://www.youtube.com/watch?v=TE0RqktwVqU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-01-29"
@@ -18459,7 +18964,8 @@
       "url": "https://www.youtube.com/watch?v=O3zt1uwmFks",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-01-19"
@@ -18472,7 +18978,8 @@
       "url": "https://www.youtube.com/watch?v=pOPR207YNGg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-01-12"
@@ -18485,7 +18992,8 @@
       "url": "https://www.youtube.com/watch?v=kevw339KW-g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2016-01-04"
@@ -18498,7 +19006,8 @@
       "url": "https://www.youtube.com/watch?v=YqCFdsvmzEA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-12-22"
@@ -18511,7 +19020,8 @@
       "url": "https://www.youtube.com/watch?v=9n1u0wBrSGE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-12-22"
@@ -18582,7 +19092,8 @@
       "url": "https://www.youtube.com/watch?v=Y4B2DkxYwy0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-12-14"
@@ -18595,7 +19106,8 @@
       "url": "https://www.youtube.com/watch?v=bBYhSMVTaxk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-12-07"
@@ -18608,7 +19120,8 @@
       "url": "https://www.youtube.com/watch?v=xKV7aYV-yi8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-11-26"
@@ -18621,7 +19134,8 @@
       "url": "https://www.youtube.com/watch?v=C-k1aeW0hio",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-11-13"
@@ -18634,7 +19148,8 @@
       "url": "https://www.youtube.com/watch?v=TpvFEV4ipuM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-11-03"
@@ -18647,7 +19162,8 @@
       "url": "https://www.youtube.com/watch?v=Z_JoSRIltXY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-10-23"
@@ -18660,7 +19176,8 @@
       "url": "https://www.youtube.com/watch?v=aOtMB5ypvXQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-10-15"
@@ -18673,7 +19190,7 @@
       "url": "https://www.youtube.com/watch?v=4It42PpAzhU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-10-04"
@@ -18699,7 +19216,7 @@
       "url": "https://www.youtube.com/watch?v=73NwHY-n76I",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-09-25"
@@ -18712,7 +19229,7 @@
       "url": "https://www.youtube.com/watch?v=2NJ2d9CTJuw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-09-18"
@@ -18725,7 +19242,7 @@
       "url": "https://www.youtube.com/watch?v=FNGP7m6daWs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-09-11"
@@ -18738,7 +19255,8 @@
       "url": "https://www.youtube.com/watch?v=C_K6tBCH2rc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-09"
@@ -18751,7 +19269,8 @@
       "url": "https://www.youtube.com/watch?v=mhei4quc7ec",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-09"
@@ -18764,7 +19283,8 @@
       "url": "https://www.youtube.com/watch?v=FOxCRDgFYe8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-08"
@@ -18777,7 +19297,7 @@
       "url": "https://www.youtube.com/watch?v=uXm5LQyUoVc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-09-04"
@@ -18863,7 +19383,8 @@
       "url": "https://www.youtube.com/watch?v=H6aR66ePc24",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-30"
@@ -18876,7 +19397,8 @@
       "url": "https://www.youtube.com/watch?v=4VZhtqUIBMQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-28"
@@ -18889,7 +19411,7 @@
       "url": "https://www.youtube.com/watch?v=drA7CW_y0UM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-08-28"
@@ -18902,7 +19424,7 @@
       "url": "https://www.youtube.com/watch?v=yLoYrEM64OA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-08-21"
@@ -18917,7 +19439,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-08-14"
@@ -18930,7 +19452,7 @@
       "url": "https://www.youtube.com/watch?v=JeWgjTt04Gg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-08-09"
@@ -18943,7 +19465,7 @@
       "url": "https://www.youtube.com/watch?v=h0I-W1r-hyg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-31"
@@ -18956,7 +19478,7 @@
       "url": "https://www.youtube.com/watch?v=vMq4aznSgcU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-23"
@@ -18969,7 +19491,7 @@
       "url": "https://www.youtube.com/watch?v=ed1Eit0xcfQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-17"
@@ -18982,7 +19504,8 @@
       "url": "https://www.youtube.com/watch?v=KnnfYImP7Qc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-17"
@@ -18995,7 +19518,7 @@
       "url": "https://www.youtube.com/watch?v=eNObEKzH64g",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-10"
@@ -19008,7 +19531,8 @@
       "url": "https://www.youtube.com/watch?v=Rt6XryqdGu8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-08"
@@ -19021,7 +19545,8 @@
       "url": "https://www.youtube.com/watch?v=qb7y2nZw7G4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-05"
@@ -19034,7 +19559,8 @@
       "url": "https://www.youtube.com/watch?v=NqwKYP2pXjg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-03"
@@ -19047,7 +19573,7 @@
       "url": "https://www.youtube.com/watch?v=RqVNx9lrskc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-03"
@@ -19060,7 +19586,7 @@
       "url": "https://www.youtube.com/watch?v=r8QVpUhZY98",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-07-03"
@@ -19073,7 +19599,8 @@
       "url": "https://www.youtube.com/watch?v=AF2ZCSHopxs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-06-19"
@@ -19086,7 +19613,8 @@
       "url": "https://www.youtube.com/watch?v=fjvSI2aAQ74",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-06-19"
@@ -19099,7 +19627,7 @@
       "url": "https://www.youtube.com/watch?v=xTvbPpdn-c8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-06-19"
@@ -19125,7 +19653,7 @@
       "url": "https://www.youtube.com/watch?v=m1HzSW4EUxA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-06-05"
@@ -19138,7 +19666,8 @@
       "url": "https://www.youtube.com/watch?v=JQrAgJQLKU4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-06-04"
@@ -19151,7 +19680,7 @@
       "url": "https://www.youtube.com/watch?v=qFK1HPhE08w",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-05-29"
@@ -19164,7 +19693,8 @@
       "url": "https://www.youtube.com/watch?v=4XElP9SAMoM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-28"
@@ -19177,7 +19707,7 @@
       "url": "https://www.youtube.com/watch?v=_l6itKitnN0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-05-22"
@@ -19190,7 +19720,8 @@
       "url": "https://www.youtube.com/watch?v=_XeMeMB71EY",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-21"
@@ -19203,7 +19734,7 @@
       "url": "https://www.youtube.com/watch?v=9r2Wm20K_2U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-05-14"
@@ -19216,7 +19747,8 @@
       "url": "https://www.youtube.com/watch?v=xtNW8bzWpUw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-13"
@@ -19229,7 +19761,7 @@
       "url": "https://www.youtube.com/watch?v=zsLmIBtSAJA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-05-07"
@@ -19242,7 +19774,8 @@
       "url": "https://www.youtube.com/watch?v=-4giiSzFQnc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-06"
@@ -19255,7 +19788,7 @@
       "url": "https://www.youtube.com/watch?v=w6qeYSW-W7s",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-04-30"
@@ -19268,7 +19801,8 @@
       "url": "https://www.youtube.com/watch?v=EZmAzCzhT7M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-29"
@@ -19281,7 +19815,7 @@
       "url": "https://www.youtube.com/watch?v=9FqsYDv8O70",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-04-23"
@@ -19294,7 +19828,8 @@
       "url": "https://www.youtube.com/watch?v=RZyxRhBc4sw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-22"
@@ -19320,7 +19855,8 @@
       "url": "https://www.youtube.com/watch?v=f_xxxbQA4c8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-17"
@@ -19335,7 +19871,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-04-16"
@@ -19348,7 +19884,8 @@
       "url": "https://www.youtube.com/watch?v=Uh7H-q59YN4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-13"
@@ -19361,7 +19898,8 @@
       "url": "https://www.youtube.com/watch?v=imBagvX89MI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-08"
@@ -19374,7 +19912,7 @@
       "url": "https://www.youtube.com/watch?v=BzIsTulpfhk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-03-27"
@@ -19387,7 +19925,8 @@
       "url": "https://www.youtube.com/watch?v=jIvyU-KF7fs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-26"
@@ -19400,7 +19939,8 @@
       "url": "https://www.youtube.com/watch?v=Iub6ilj7y04",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-26"
@@ -19413,7 +19953,7 @@
       "url": "https://www.youtube.com/watch?v=I_6LxGohRx0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-03-22"
@@ -19426,7 +19966,8 @@
       "url": "https://www.youtube.com/watch?v=3AXUDzXVUy8",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-15"
@@ -19439,7 +19980,7 @@
       "url": "https://www.youtube.com/watch?v=a_QhQeT1eng",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-03-13"
@@ -19491,7 +20032,8 @@
       "url": "https://www.youtube.com/watch?v=-KVxXWAl8VE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-05"
@@ -19504,7 +20046,7 @@
       "url": "https://www.youtube.com/watch?v=HLqDZAV-2IM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-03-05"
@@ -19517,7 +20059,7 @@
       "url": "https://www.youtube.com/watch?v=Q-7JoDizksg",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-02-27"
@@ -19530,7 +20072,8 @@
       "url": "https://www.youtube.com/watch?v=zP-td67sMJs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-24"
@@ -19543,7 +20086,7 @@
       "url": "https://www.youtube.com/watch?v=o_U7IjBj0-4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-02-20"
@@ -19582,7 +20125,7 @@
       "url": "https://www.youtube.com/watch?v=9bi-gVaxSLU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-02-13"
@@ -19595,7 +20138,8 @@
       "url": "https://www.youtube.com/watch?v=S0hCc2p7mlo",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-11"
@@ -19608,7 +20152,7 @@
       "url": "https://www.youtube.com/watch?v=yKgJMa2Tuak",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-02-06"
@@ -19621,7 +20165,8 @@
       "url": "https://www.youtube.com/watch?v=94wSJHVtl_Y",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-05"
@@ -19634,7 +20179,7 @@
       "url": "https://www.youtube.com/watch?v=hezV74V06zs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-01-30"
@@ -19647,7 +20192,8 @@
       "url": "https://www.youtube.com/watch?v=O39WUa_uYhM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-28"
@@ -19660,7 +20206,7 @@
       "url": "https://www.youtube.com/watch?v=XcMDXwTKWIk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-01-23"
@@ -19686,7 +20232,7 @@
       "url": "https://www.youtube.com/watch?v=B1bcitcwSt4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-01-16"
@@ -19699,7 +20245,8 @@
       "url": "https://www.youtube.com/watch?v=RFl9IdKlh98",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-15"
@@ -19712,7 +20259,7 @@
       "url": "https://www.youtube.com/watch?v=CwdRzB5hFxw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-01-09"
@@ -19725,7 +20272,8 @@
       "url": "https://www.youtube.com/watch?v=O0Yxb3DztkA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-07"
@@ -19738,7 +20286,8 @@
       "url": "https://www.youtube.com/watch?v=81g7y4IxwJs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-06"
@@ -19753,7 +20302,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2015-01-02"
@@ -19766,7 +20315,7 @@
       "url": "https://www.youtube.com/watch?v=L9KUN3GPzcA",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-12-26"
@@ -19781,7 +20330,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-24"
@@ -19915,7 +20465,8 @@
       "url": "https://www.youtube.com/watch?v=Mub422RNQT4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-21"
@@ -19930,7 +20481,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-12-19"
@@ -19958,7 +20509,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-12-12"
@@ -19986,7 +20537,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-11"
@@ -20001,7 +20553,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-12-05"
@@ -20014,7 +20566,8 @@
       "url": "https://www.youtube.com/watch?v=edAT6cq_UAE",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-04"
@@ -20027,7 +20580,7 @@
       "url": "https://www.youtube.com/watch?v=m_qesDhwy7Q",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-11-28"
@@ -20040,7 +20593,8 @@
       "url": "https://www.youtube.com/watch?v=w-oEpL-Z9s4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-27"
@@ -20053,7 +20607,8 @@
       "url": "https://www.youtube.com/watch?v=NJqqxZDJdVM",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-21"
@@ -20068,7 +20623,7 @@
         "Глава «Толдот»-5775\n«И был Эсав человеком, знающим ловлю, человеком поля(иш садэ איש שדה), а Яаков – человеком целостным (иш там איש תם), сидящим в шатрах».  \nРабейну Бехаи разъясняет определения близнецов-основателей цивилизаций (европейской и еврейской): «Хотя они были близнецами, были зачаты одномоментно, в одном чреве, они – противоположности, все качества их различны, ведь Эсав тянулся за наслаждениями тела, а Яаков – за советом души. Поэтому написано об Эсаве «знающий ловлю», что является занятием бездельника (адам батель אדם בטל), и того, кто гонится за вожделениями мира; а «человек поля» это как «человек земли» (как сказано о Ноахе, вышедшем из ковчега), и поэтому называется «Эдом», от слова «красный (адом אדם)» и от слова «земля» (адама אדמה), то есть Эсав был почвенным (афари עפרי). И, как известно, внимание к еде, питью, развлечениям охоты, т.е. наслаждениям тела – причина пренебрегать Служением Б-гу... Путь Яакова, его качества противоположны этому, ибо «человек целостный» противоположен «знающему ловлю», а «сидящий в шатрах» противоположен «человеку поля». И ещё –всё, что Эсав хотел купить, Яаков хотел продать: погоня за физическими удовольствиями уподоблена чечевичной похлёбке (за которую Яаков купил у Эсава первородство – в том числе право Служения Творцу), и Яаков хотел продать, поменять сиюминутную земную жизнь на жизнь вечную».\nВ тексте р. Бехаи, как всегда, много тонкостей. Заявив о противоположности братьев, р. Бехаи пишет, что Эсав тянулся за телесными наслаждениями, но про Яакова не пишет, что он «тянулся за наслаждениями души»: тот, кто духовен на уровне эмоций, удовольствий, не может называться «целостным»; духовность Яакова была интеллектуальна: р. Бехаи подчёркивает, что Яаков шёл «за советом души». Ловля, охота объявляется «занятием бездельников», т.к. Эсав занимался ею именно для развлечения (а не, например, заработка): так охота использовалась во все времена. Поэтому «охотнику» Эсаву противостоит «целостный» Яаков: ему не требовалось постоянно ловить что-то вне шатра, он был самодостаточен... Важно сравнение Эсава с Ноахом (и потом – скрытое – с Адамом: слово «красный», т.е. «адом», так же пишется как Адам, чьё имя тоже образуется от слова «земля»; кроме того, Адам был создан из «праха земного», т.е. «почвы» (афар), к чему относится определение Эсава «почвенный»), это намёк на огромный, но неиспользованный потенциал Эсава, что подобно Ноаху, тоже обладателю великих возможностей, превратившемуся из «человека праведного» в «человека земли»..."
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-11-21"
@@ -20083,7 +20638,7 @@
         "Глава «Хайей Сара»\n«И умерла Сара в Кирьят-Арбе, то есть в Хевроне, в земле Кнаан, и пришёл Авраам оплакивать Сару и плакать о ней».\nГоворя о кончине и похоронах праматери, р. Бехаи обращает внимание на три детали. О чём говорит то, что Авраам «пришёл» оплакивать Сару? Уже сказано: «и умерла Сара», почему дальше в тексте повторено имя Сары (ведь можно было написать «оплакивать её и плакать о ней»)? Почему, наконец, нигде в описании смерти и похорон праведницы не упомянут её сын – Ицхак?\nНа первые два вопроса находятся простые ответы. Слова «пришёл Авраам» означают, что Авраам «проявил увлечённость (ниторер נתעורר)», и так сказано в Талмуде (Тамид, гл. 4)о разделывании только что зарезанного жертвенного животного: «пришёл к левому боку... пришёл к шее и оставил на неё два позвонка»... Имя Сары повторено потому, что обычай оплакивания – часто повторять имя покойного, и так говорил Давид (Шмуэль-Бет, 1) после гибели царя Шаула и его сыновей: «Шаул и Йонатан, возлюбленные!..»\nПо поводу третьего вопроса р. Бехаи пишет: «Кажется, что следовало Писанию сказать «пришли Авраам и Ицхак оплакивать Сару и плакать о ней», ведь бесспорно следовало Ицхаку оплакивать свою маму-праведницу, ведь его обязанность гораздо больше, чем у Авраама (траур по матери продолжается год, по жене – тридцать дней), тем более, что она любила его особенной любовью, так как родила его чудесным образом, и душа её была привязана к душе его...\nОднако представляется возможным сказать, что Ицхак не знал в тот период, что умерла его мать: поскольку она умерла из-за него (когда услышала о [готовящемся] жертвоприношении), от него скрыли её смерть... И поэтому нет никаких упоминаний об Ицхаке – ни в рассказе о смерти Сары, ни в рассказе о её похоронах: с момента, когда Ицхак был связан на жертвеннике, мы его не видим...»\nВ комментарии заметен намёк (в сравнении смерти и похорон Сары с жертвенным животным, описанным в Талмуде), что эта смерть была ещё одной жертвой, ещё одним испытанием Авраама: только он мог после несостоявшегося жертвоприношения сына вернуться домой, увидеть мёртвую супругу, и ни на мгновение ни о чём не пожалеть... Кроме этого, отмечаем саму возможность скрыть факт кончины близкого родственника от человека, обязанного соблюдать законы траура, чтобы не нанести этому человеку слишком сильного, может быть, непереносимого удара..."
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-11-14"
@@ -20109,7 +20664,8 @@
       "url": "https://www.youtube.com/watch?v=3VV2A3m7fXw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-12"
@@ -20124,7 +20680,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20139,7 +20696,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20154,7 +20712,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20169,7 +20728,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20184,7 +20744,8 @@
         "Урок 114, Книга Царей - I, Глава 7 -  Царский дворец, двор Храма: Йохин и Боаз, умывальники, \"Море Соломоново\""
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20199,7 +20760,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-09"
@@ -20214,7 +20776,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-11-07"
@@ -20240,7 +20802,8 @@
       "url": "https://www.youtube.com/watch?v=QEUaBy_7huU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-06"
@@ -20255,7 +20818,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-10-31"
@@ -20268,7 +20831,8 @@
       "url": "https://www.youtube.com/watch?v=JKbPtIHzT4M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-29"
@@ -20283,7 +20847,7 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-10-24"
@@ -20298,7 +20862,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20313,7 +20878,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20328,7 +20894,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20343,7 +20910,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20358,7 +20926,8 @@
         "Урок 102, Книга Царей - I, Глава 2. Начало правления царя Шломо, итоги воцарения Адонияу, завещание царя Давида."
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20373,7 +20942,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20388,7 +20958,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20403,7 +20974,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20418,7 +20990,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20433,7 +21006,8 @@
         "Глава 2. Завещание царя Давида - продолжение. Гибель Адонияу. Наказание Эвьятара."
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20448,7 +21022,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20463,7 +21038,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20476,7 +21052,8 @@
       "url": "https://www.youtube.com/watch?v=hPepmEIaYvs",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-23"
@@ -20491,7 +21068,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20506,7 +21084,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20519,7 +21098,8 @@
       "url": "https://www.youtube.com/watch?v=cjox92viM4M",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20534,7 +21114,8 @@
         "Это видео создано с помощью видеоредактора YouTube (http://www.youtube.com/editor)"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20547,7 +21128,8 @@
       "url": "https://www.youtube.com/watch?v=scoa7QRnJPw",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20560,7 +21142,8 @@
       "url": "https://www.youtube.com/watch?v=mSzw88y8UD0",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-22"
@@ -20938,7 +21521,7 @@
       "url": "https://www.youtube.com/watch?v=EsZZI2T_W5U",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-02-03"
@@ -20951,7 +21534,7 @@
       "url": "https://www.youtube.com/watch?v=UB5xSa5A0jU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-02-03"
@@ -20964,7 +21547,7 @@
       "url": "https://www.youtube.com/watch?v=ZoYbAepU_H4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-02-03"
@@ -20977,7 +21560,7 @@
       "url": "https://www.youtube.com/watch?v=F6hQ0TsCEEI",
       "description": [],
       "tags": [
-        "other",
+        "torah",
         "toravedaat"
       ],
       "date": "2014-02-03"
@@ -21005,7 +21588,8 @@
       "url": "https://www.youtube.com/watch?v=9GsvV00GPXk",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-01-21"
@@ -21184,7 +21768,8 @@
         "Материалы к уроку можно прочитать здесь: http://www.evreyatlanta.org/images/rr.pdf"
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-10-27"
@@ -21197,7 +21782,8 @@
       "url": "https://www.youtube.com/watch?v=IsyyYhRo1j4",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-09-25"
@@ -21268,7 +21854,8 @@
       "url": "https://www.youtube.com/watch?v=rnaemt8EhRc",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-08-28"
@@ -21296,7 +21883,8 @@
       "url": "https://www.youtube.com/watch?v=i6sm_VhM_uQ",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-07-04"
@@ -21335,7 +21923,8 @@
       "url": "https://www.youtube.com/watch?v=EGY3b9vdJKU",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-05-20"
@@ -21350,7 +21939,8 @@
         "Открытый урок от 10 марта 2013 г."
       ],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-04-14"
@@ -21363,7 +21953,8 @@
       "url": "https://www.youtube.com/watch?v=SoVkqMrJB-A",
       "description": [],
       "tags": [
-        "other",
+        "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2013-01-29"
@@ -26673,7 +27264,7 @@
     },
     {
       "id": "rzelman",
-      "count": 0
+      "count": 591
     },
     {
       "id": "toravedaat",
@@ -26683,15 +27274,19 @@
   "tags": [
     {
       "tag": "other",
-      "count": 1617
+      "count": 458
     },
     {
       "tag": "rbari",
       "count": 338
     },
     {
+      "tag": "rzelman",
+      "count": 591
+    },
+    {
       "tag": "torah",
-      "count": 338
+      "count": 1497
     },
     {
       "tag": "toravedaat",
