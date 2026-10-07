@@ -1,13 +1,16 @@
 import { element } from '../schedule/elements.js';
 
+const PROFILE_IMAGES_URL = 'https://torah-audio.s3.us-east-1.amazonaws.com/evreyatlanta/profiles/';
+
 export function profileContent(profile) {
     const content = element('div', null, 'profile-information');
     const heading = element('h2', profile.name, 'section-title');
     heading.id = 'profile-name';
     content.append(heading);
-    if (profile.image) {
+    if (profile.id) {
         const image = element('img', null, 'profile-image');
-        image.src = profile.image;
+        image.addEventListener('error', () => image.remove(), { once: true });
+        image.src = `${PROFILE_IMAGES_URL}${encodeURIComponent(profile.id)}`;
         image.alt = profile.imageAlt || profile.name;
         content.append(image);
     }
