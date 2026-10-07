@@ -8,10 +8,13 @@ on:
       - 'test/youtube/rules.json'
       - 'scripts/build-youtube-media.mjs'
       - 'scripts/build-youtube-media.test.mjs'
+      - 'scripts/assemble-youtube-library.mjs'
+      - 'scripts/assemble-youtube-library.test.mjs'
   workflow_dispatch:
 
 permissions:
   contents: write
+  pages: write
 
 # Serialize both environments so their generated commits do not race.
 concurrency:
@@ -30,16 +33,18 @@ jobs:
         with:
           node-version: '22'
       - name: Verify synchronization logic
-        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs
+        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs scripts/assemble-youtube-library.test.mjs
       - name: Fetch raw test YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/sync-youtube.mjs test/youtube
       - name: Apply test media tagging rules
         run: node scripts/build-youtube-media.mjs test/youtube
+      - name: Assemble test website media
+        run: node scripts/assemble-youtube-library.mjs test/youtube test/data
       - name: Commit test YouTube data
         run: |
-          git add test/youtube/
+          git add test/youtube/ test/data/media.js test/data/media-groups.js
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
@@ -47,3 +52,7 @@ jobs:
             git pull --rebase origin main
             git push origin HEAD:main
           fi
+      - name: Request Pages rebuild
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api --method POST "repos/${GITHUB_REPOSITORY}/pages/builds"

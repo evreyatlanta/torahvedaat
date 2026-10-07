@@ -43,4 +43,7 @@ Non-main tags are combined without duplicates. Missing main tags default to
 `other`, and the channel's `folder` is always added as a tag.
 The generated media uses the actual `videoPublishedAt` date when available.
 Changing test rules also triggers the test workflow. Production has no tagging
-step yet. Generated test media is not yet connected to `test/data/media.js`.
+step yet. The test workflow assembles the channel media arrays into
+`test/data/media.js` and updates tag and media group counts. Existing
+`test/data/playlists.js` and playlist counts are preserved until the new playlist
+generation is specified; no old source playlist builder runs for test.
