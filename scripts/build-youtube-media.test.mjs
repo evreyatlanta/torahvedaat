@@ -39,3 +39,18 @@ test('Non-category record tags still allow playlist classification', () => {
     { id: 'first', tags: ['show'] }
   ])).tags, ['topic', 'show', 'rbari']);
 });
+
+test('Folder rules classify every record of that channel and ignore other folders', () => {
+  const config = rules();
+  config.tags.folders = [{ folder: 'rbari', tags: ['torah', 'topic'] },
+    { folder: 'different', tags: ['music'] }];
+  assert.deepEqual(build(config).tags, ['torah', 'topic', 'rbari']);
+});
+
+test('Specific video category wins over folder category, which wins over playlists', () => {
+  const config = rules([{ id: 'video-id', tags: ['music'] }], [{ id: 'first', tags: ['show'] }]);
+  config.tags.folders = [{ folder: 'rbari', tags: ['torah', 'topic'] }];
+  assert.deepEqual(build(config).tags, ['music', 'topic', 'rbari']);
+  config.tags.records = [];
+  assert.deepEqual(build(config).tags, ['torah', 'topic', 'rbari']);
+});

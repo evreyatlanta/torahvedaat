@@ -2,7 +2,10 @@
   "mainTags": ["torah", "show", "music", "other"],
   "tags": {
     "records": [],
-    "playlists": []
+    "playlists": [],
+    "folders": [
+      { "folder": "rbari", "tags": ["torah"] }
+    ]
   },
   "groups": {
     "records": [],

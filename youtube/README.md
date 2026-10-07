@@ -37,7 +37,10 @@ After downloading test data, the test workflow runs
 `test/youtube/rules.json` defines `mainTags` and `tags.records` / `tags.playlists`
 arrays of `{ "id": "...", "tags": ["..."] }` rules. Record rule IDs are YouTube
 video IDs, not the API's playlist item IDs. All matching record rules are applied
-first, followed by matching playlist rules in their order in the rules file.
+first, then `tags.folders` rules of `{ "folder": "rbari", "tags": ["torah"] }`,
+followed by matching playlist rules in their order in the rules file.
+Folder rules apply to all media in that channel folder. Main tags from explicit
+record rules have priority over folder rules, which have priority over playlists.
 Once a main tag exists, playlist rules cannot add another main tag.
 Non-main tags are combined without duplicates. Missing main tags default to
 `other`, and the channel's `folder` is always added as a tag.

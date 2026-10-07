@@ -16,6 +16,11 @@ export function validateRules(rules) {
       throw new Error(`Invalid rules.json tags.${name}`);
     }
   }
+  if (!Array.isArray(rules.tags.folders ?? []) || (rules.tags.folders ?? []).some(rule =>
+    typeof rule.folder !== 'string' || !rule.folder || !Array.isArray(rule.tags) ||
+    rule.tags.some(tag => typeof tag !== 'string' || !tag))) {
+    throw new Error('Invalid rules.json tags.folders');
+  }
 }
 
 export function buildChannelMedia(records, playlists, channel, rules) {
@@ -40,6 +45,13 @@ export function buildChannelMedia(records, playlists, channel, rules) {
     const tags = new Set();
     for (const rule of rules.tags.records) {
       if (rule.id === id) for (const tag of rule.tags) tags.add(tag);
+    }
+    for (const rule of rules.tags.folders ?? []) {
+      if (rule.folder !== channel.folder) continue;
+      for (const tag of rule.tags) {
+        if (mainTags.has(tag) && [...tags].some(value => mainTags.has(value))) continue;
+        tags.add(tag);
+      }
     }
     for (const rule of rules.tags.playlists) {
       if (!memberships.get(id)?.has(rule.id)) continue;
