@@ -1,0 +1,2508 @@
+[
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "5GC5_63pBAf_CJQTiZoinL7CLS4",
+    "nextPageToken": "CDIQAA",
+    "pageInfo": {
+      "totalResults": 56,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "ppTuJAlhH21ySNq_XfaT5w5JMzk",
+        "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
+        "snippet": {
+          "publishedAt": "2025-11-26T20:58:38.682502Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Комментарии для Субботнего Стола",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/kY3i4HIh-5A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/kY3i4HIh-5A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/kY3i4HIh-5A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kY3i4HIh-5A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kY3i4HIh-5A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Комментарии для Субботнего Стола",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 36
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Xr6s7RYGm1tVu7tdMDeNbFfM3M8",
+        "id": "PLW28qGxPmmbq9po2szK0sILWEoe211Prz",
+        "snippet": {
+          "publishedAt": "2024-12-26T15:10:16.564148Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Ханукальные переделки",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/uukIZdhfyjk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/uukIZdhfyjk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/uukIZdhfyjk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uukIZdhfyjk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uukIZdhfyjk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Ханукальные переделки",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 20
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "A9KV50Vvlau5xrh1KBwdV02kfb8",
+        "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
+        "snippet": {
+          "publishedAt": "2024-08-12T17:44:33.577274Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Двенадцать \"Малых\" Пророков",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/GcASY6bJbjI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/GcASY6bJbjI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/GcASY6bJbjI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GcASY6bJbjI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GcASY6bJbjI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Двенадцать \"Малых\" Пророков",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 89
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Lno1yX5CzBMNVIE6PKtj2KCR_no",
+        "id": "PLW28qGxPmmbqRr04FszzIoXODy4wMkFcQ",
+        "snippet": {
+          "publishedAt": "2023-11-06T23:20:53.030654Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Книга Даниэля",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5EYtkZfRy20/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5EYtkZfRy20/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5EYtkZfRy20/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5EYtkZfRy20/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5EYtkZfRy20/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Книга Даниэля",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 32
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "BElfoGGmeQOpbBELMQqGqC8wfxo",
+        "id": "PLW28qGxPmmbqpGGLHFTIek3W4oBIeDmcp",
+        "snippet": {
+          "publishedAt": "2023-07-02T03:08:34.390973Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Йирмияу",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/FH5scxivcBA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/FH5scxivcBA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/FH5scxivcBA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/FH5scxivcBA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/FH5scxivcBA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Йирмияу",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 87
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "o0u_IoK3VIHDgvFLszSYdZuW3Vg",
+        "id": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+        "snippet": {
+          "publishedAt": "2023-05-21T15:13:34.171314Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни-переделки",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lAQLwCGz6jw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lAQLwCGz6jw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lAQLwCGz6jw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lAQLwCGz6jw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lAQLwCGz6jw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни-переделки",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 79
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "dkzQirTJR1PCJrUV-Zlp4fuQ0Ls",
+        "id": "PLW28qGxPmmbpF9DzvQw1mFLzVEWdo9iHC",
+        "snippet": {
+          "publishedAt": "2023-03-13T00:25:59.612343Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Шир hа-Ширим",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zcCA9VS1xZE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zcCA9VS1xZE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zcCA9VS1xZE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zcCA9VS1xZE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zcCA9VS1xZE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Шир hа-Ширим",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 21
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "OIg5ucoE77VAx-Sy8FuUYH0CoL8",
+        "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
+        "snippet": {
+          "publishedAt": "2023-02-26T20:44:19.523629Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Комментарии Ор а-Хаим",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/H991EYZdaq0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/H991EYZdaq0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/H991EYZdaq0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/H991EYZdaq0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/H991EYZdaq0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Комментарии Ор а-Хаим",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ivooProHkL_OujG11Nsqh4AenFE",
+        "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
+        "snippet": {
+          "publishedAt": "2020-10-20T02:32:44.603134Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Теhилим",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Jijqlp8XAS0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Jijqlp8XAS0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Jijqlp8XAS0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Jijqlp8XAS0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Теhилим",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 219
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "VqD4I5pDOsePhPDq7_c6l5h7n0Q",
+        "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
+        "snippet": {
+          "publishedAt": "2020-05-05T01:41:54.914151Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Законы Обид и Оскорблений",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/U6RGFObUIho/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/U6RGFObUIho/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/U6RGFObUIho/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Законы Обид и Оскорблений",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 6
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "IQfAx-WZuEdUDAnlmESP7WzHmvg",
+        "id": "PLW28qGxPmmbp4pTSdAZwtqFqfOCTD55tc",
+        "snippet": {
+          "publishedAt": "2019-06-19T12:14:13.975644Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "ЮЖАНИН НА СЕВЕРЕ",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6alc10v2DN0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6alc10v2DN0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6alc10v2DN0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/6alc10v2DN0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/6alc10v2DN0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "ЮЖАНИН НА СЕВЕРЕ",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 3
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "jmW54105GYIEaJskKO_C3xuGDEc",
+        "id": "PLW28qGxPmmbrGiVirx9Q4OEXizXu7WRXN",
+        "snippet": {
+          "publishedAt": "2019-04-10T23:57:55.718856Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "СТИХОТЕРАПИЯ - Авторская программа р. Зельмана на FBSN",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cxJJTq-i3OE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cxJJTq-i3OE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cxJJTq-i3OE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cxJJTq-i3OE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "СТИХОТЕРАПИЯ - Авторская программа р. Зельмана на FBSN",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 46
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "GbYffghFFjQfS4q8IecPDBpscKo",
+        "id": "PLW28qGxPmmbpKcMzQMP4N16wej47MZm37",
+        "snippet": {
+          "publishedAt": "2019-03-01T18:05:46.02899Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Коhелет - Полный цикл уроков",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/udNR_KKHCmg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/udNR_KKHCmg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/udNR_KKHCmg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/udNR_KKHCmg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/udNR_KKHCmg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Коhелет - Полный цикл уроков",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 28
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "oj0VeaCd297_BxFkXOTXY0trka8",
+        "id": "PLW28qGxPmmbrPdXijZiC636vnSlX2inVq",
+        "snippet": {
+          "publishedAt": "2019-01-06T02:11:48.30788Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Клипы-переделки",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gtp6D2Y1pjw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gtp6D2Y1pjw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gtp6D2Y1pjw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gtp6D2Y1pjw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gtp6D2Y1pjw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Клипы-переделки",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 23
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "F4hCEUfeD2-ks4NRMzmo2nQTNTQ",
+        "id": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
+        "snippet": {
+          "publishedAt": "2018-02-08T20:20:46.858794Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримшпили",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримшпили",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 10
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "XCIo6oo6P-vddDzSAe9fIA_lPcc",
+        "id": "PLW28qGxPmmboKZn0Ty8SMT-OZ77-Uv-yO",
+        "snippet": {
+          "publishedAt": "2018-01-21T03:43:54.837766Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "15 лет спустя: вопрос-ответ-комментарий",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/URolLpj7ITI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/URolLpj7ITI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/URolLpj7ITI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/URolLpj7ITI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/URolLpj7ITI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "15 лет спустя: вопрос-ответ-комментарий",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 16
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "qpHEOVGggDsv8qv0GDe59SmYUJ4",
+        "id": "PLW28qGxPmmbqD7K7Z-tfTMw73gj_78OZs",
+        "snippet": {
+          "publishedAt": "2017-10-09T05:14:41.226244Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "У Самовара в 7-40, 5778 год",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gnOJ3onWljg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gnOJ3onWljg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gnOJ3onWljg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gnOJ3onWljg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gnOJ3onWljg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "У Самовара в 7-40, 5778 год",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Zm0e5jUgduOv71tncUeWJzvNof0",
+        "id": "PLW28qGxPmmbppBfmjNj0HNhziIScSr3m6",
+        "snippet": {
+          "publishedAt": "2017-10-09T04:21:06.843872Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Левин в шалаше - 5",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n0niVe7yA4U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n0niVe7yA4U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n0niVe7yA4U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/n0niVe7yA4U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/n0niVe7yA4U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Левин в шалаше - 5",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "XiZvo0fKrLkjy3_DVC1D5pUb04I",
+        "id": "PLW28qGxPmmboDNSWvxp01rzmQ9tz56NyO",
+        "snippet": {
+          "publishedAt": "2017-06-30T19:35:40.784374Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Испанский Дневник, рав И. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mVNAOAbtc5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mVNAOAbtc5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mVNAOAbtc5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mVNAOAbtc5Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Испанский Дневник, рав И. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 15
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "MF3BGVs7XBxfi7A9J2IZk_zU8kY",
+        "id": "PLW28qGxPmmboZDkqbF91A_C9gTVWXM5pA",
+        "snippet": {
+          "publishedAt": "2017-03-27T05:04:58.626276Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни про Песах",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни про Песах",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 11
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Xlyj5G0vQHcHEvmy93UXYSZ_sSQ",
+        "id": "PLW28qGxPmmbo1yF35U9mAkUTyqmJhgFWQ",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:46:13.986413Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Поёт Мордехай Гутерман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4do6NgogU00/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4do6NgogU00/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4do6NgogU00/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4do6NgogU00/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Поёт Мордехай Гутерман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 15
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "z5MDa5opOwMSuk1SMglmuquKMTU",
+        "id": "PLW28qGxPmmbpFKPKpbwuW7UJe5Hy2-Itd",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:45:57.301022Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Поёт Элиягу Бари",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/l6R9w4t-hwo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/l6R9w4t-hwo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/l6R9w4t-hwo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/l6R9w4t-hwo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Поёт Элиягу Бари",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "I8tvLDxD5nP2XnQ863KAcK-9Cac",
+        "id": "PLW28qGxPmmbrjZ8LfzOs_l6InYR_mEjS4",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:28:45.460605Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни про Лаг-ба-Омер",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dP2klEyD6RA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dP2klEyD6RA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dP2klEyD6RA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dP2klEyD6RA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни про Лаг-ба-Омер",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 7
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "0NHKS4Mxyq806VCBn-NrxPqLZaA",
+        "id": "PLW28qGxPmmbok6sJGDciLRSfLx_0K01yO",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:23:24.512673Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Дуэт: Элиягу Бари и Мордехай Гутерман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v581Q4zrrh0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v581Q4zrrh0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v581Q4zrrh0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Дуэт: Элиягу Бари и Мордехай Гутерман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 35
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "OgrTBZfeBBKcug2jaqnYSmqMw9Q",
+        "id": "PLW28qGxPmmbp95ZRFLF7TQZe1zeCx9uHS",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:18:53.283956Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни про Рош-а-Шана и Йом-Кипур",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/buapMpyVhY0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/buapMpyVhY0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/buapMpyVhY0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/buapMpyVhY0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни про Рош-а-Шана и Йом-Кипур",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "q7noZpV7hB-5AjI-pIayaS8B2lE",
+        "id": "PLW28qGxPmmbpmXxO0jXo5VBWF3yQD1tYM",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:18:12.232969Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни в Сукке",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n-0RCUuCc2o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n-0RCUuCc2o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n-0RCUuCc2o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/n-0RCUuCc2o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни в Сукке",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 10
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "sI65ai4Vms9jBRciVawKAEKWFwk",
+        "id": "PLW28qGxPmmboO1FJgQZvi4gRxT-fth8Og",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:17:38.9012Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримские Песни",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримские Песни",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "YBDux3VScySOWyxTZcYFispMEVw",
+        "id": "PLW28qGxPmmbrPkXarLtBgiwEBQLahoCU7",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:15:30.483415Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Поёт рав Исроэль Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2W_UhIY-YIA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2W_UhIY-YIA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2W_UhIY-YIA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Поёт рав Исроэль Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 79
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "XKk-T0y4ePbAutjZNviE5YEISIA",
+        "id": "PLW28qGxPmmbrwj81EJprJGFefDSH_95xR",
+        "snippet": {
+          "publishedAt": "2016-12-26T05:04:46.380746Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Поёт Михаил Стрижевский",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/tSgv5lyrfOU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/tSgv5lyrfOU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/tSgv5lyrfOU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/tSgv5lyrfOU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Поёт Михаил Стрижевский",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "86BHeoF_ZcmNFpyjctdWOiWRj8M",
+        "id": "PLW28qGxPmmbqsenpYUDE9k86ExrDDO-WM",
+        "snippet": {
+          "publishedAt": "2016-12-22T14:59:07.377165Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Ханукальные песни",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ryF7zd8GVoM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ryF7zd8GVoM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ryF7zd8GVoM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Ханукальные песни",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 22
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "8nir2IQdpObBGaPfN6L2GIuIgiY",
+        "id": "PLW28qGxPmmboQc5JYgXPQrz0qFsLrYa59",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:29:13.01392Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Пятикнижие, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5upoVFTVBnQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5upoVFTVBnQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5upoVFTVBnQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Пятикнижие, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 117
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "esknlbTOCx6OiMD_YMX01W-44KY",
+        "id": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:18:22.746044Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Йешаяhу, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/MPqN61GWs-w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/MPqN61GWs-w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/MPqN61GWs-w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/MPqN61GWs-w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/MPqN61GWs-w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Йешаяhу, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 286
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "BgOBHM1tHCzPVqXenUW18w7ojo8",
+        "id": "PLW28qGxPmmbr1KZIBfz_rS4g9Zp6HJyrG",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:17:00.723788Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 0
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "UYJiryBMkH_SS5lZJeM8x5OsZlM",
+        "id": "PLW28qGxPmmbor6GeOOxX4fEXpSvvx7INu",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:16:27.21293Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Царей, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cItFvf5WNMg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cItFvf5WNMg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cItFvf5WNMg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cItFvf5WNMg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Царей, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 80
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "_I4kzP9pkUnnHoKGSeA3WbTshcI",
+        "id": "PLW28qGxPmmbrYSnAD880NcgywBvLqMQ7b",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:15:45.101968Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Шмуэля, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3YLyxug1aaI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3YLyxug1aaI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3YLyxug1aaI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3YLyxug1aaI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Шмуэля, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 59
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "if_AtBYvMmPKneE8Ba6w5EqvK_A",
+        "id": "PLW28qGxPmmbqCXEpGVPJOmdwSfh2ZbpkD",
+        "snippet": {
+          "publishedAt": "2016-12-12T15:14:57.335255Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Судей, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cu3DOXx9s5s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cu3DOXx9s5s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cu3DOXx9s5s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cu3DOXx9s5s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Судей, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 24
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "JOGNk0gGo0chKdMIwIL9xkg0AaA",
+        "id": "PLW28qGxPmmbrVadWGW1IaXKAUYKKB_Ct3",
+        "snippet": {
+          "publishedAt": "2016-12-12T04:33:10.695347Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Танах, Книга Йегошуа, р. Зельман",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jmoS2bUl00I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jmoS2bUl00I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jmoS2bUl00I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Танах, Книга Йегошуа, р. Зельман",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 16
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "zKrdSWvrl_-8O0FVCt9Eu5oJbYg",
+        "id": "PLW28qGxPmmbqyjzp5yPlzQD0e2Uigq3Mk",
+        "snippet": {
+          "publishedAt": "2016-03-21T13:09:01.555148Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримский концерт - 5776",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/D0bcgUcCZuA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримский концерт - 5776",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 13
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "uMKa0Zx4fRlpqiOykERyvdnf2eo",
+        "id": "PLW28qGxPmmbpQsDn2iQ8XUQ_mbvUQ-CH7",
+        "snippet": {
+          "publishedAt": "2015-12-14T03:56:45.038819Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Ханука 5776",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/6PoatSNz29M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/6PoatSNz29M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/6PoatSNz29M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Ханука 5776",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "Xok_FUi9bb1v6T_qBPKCkYS1Pu8",
+        "id": "PLW28qGxPmmbrGuaymP21R3-vWmSVCj02a",
+        "snippet": {
+          "publishedAt": "2015-08-31T15:49:05.228108Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Презентация календаря, канун 5776 года",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/PM9hDGij620/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/PM9hDGij620/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/PM9hDGij620/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Презентация календаря, канун 5776 года",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "0LbxYvx8aTdIhRaZxUZ-PA51rGQ",
+        "id": "PLW28qGxPmmbocV230dSUrE-eegCP3vlPR",
+        "snippet": {
+          "publishedAt": "2015-03-09T15:25:47.78874Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримская Трапеза 5775, 5 марта",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0xsF5Znl5Ho/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0xsF5Znl5Ho/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0xsF5Znl5Ho/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0xsF5Znl5Ho/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримская Трапеза 5775, 5 марта",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "dY3yYxJnmJawYhpyX9PC-FJUBrE",
+        "id": "PLW28qGxPmmbqS9AQcWPMGXCvqpsoiLvpL",
+        "snippet": {
+          "publishedAt": "2014-12-22T02:14:55.966742Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Ханука 5774/2014",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Cjv8cO9yBb4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Cjv8cO9yBb4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Cjv8cO9yBb4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Cjv8cO9yBb4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Ханука 5774/2014",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "ZgEvQ6bWPLAp0b-_mnasWmny8eg",
+        "id": "PLW28qGxPmmbp8B1qUUPMWpd60ZVYG5HRX",
+        "snippet": {
+          "publishedAt": "2014-10-28T22:13:12.806499Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримский Концерт Оперной Классики - компакт-версия",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримский Концерт Оперной Классики - компакт-версия",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 0
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "sKHpzvjR7g-SdXOx0IDA-KD5eeE",
+        "id": "PLW28qGxPmmbpQ-u8UBWO0HqZwDPCSbcz0",
+        "snippet": {
+          "publishedAt": "2014-10-28T20:00:27.340486Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Мюзикл \"Пуримшпиль\" ли Концерт Пуримского романса",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dP7bLMc84cg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Мюзикл \"Пуримшпиль\" ли Концерт Пуримского романса",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 16
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "VluhypmEkA2LTyyozSv5mDTRVPo",
+        "id": "PLW28qGxPmmbohXJQ0Wv1Fc5dZmtw3mYR6",
+        "snippet": {
+          "publishedAt": "2014-10-24T03:41:39.279415Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Недельная глава по пятницам",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nxP0YUqVy4k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nxP0YUqVy4k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nxP0YUqVy4k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Недельная глава по пятницам",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 47
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "6DfSnn_MgN75Q7UvOxtYruDasF8",
+        "id": "PLW28qGxPmmbqPlZawgVv_h_v46DJknyMC",
+        "snippet": {
+          "publishedAt": "2014-10-20T02:25:26.436621Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "\"У Самовара\", Концерт и презентация календаря, 7 сентября, 2014",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/n51K_kO7rJ0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/n51K_kO7rJ0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/n51K_kO7rJ0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "\"У Самовара\", Концерт и презентация календаря, 7 сентября, 2014",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "v6kXxXRQ87R6Mb5jIDLKQm_0Cy8",
+        "id": "PLW28qGxPmmbovQgKgT_IaDSzdrx6CaXX-",
+        "snippet": {
+          "publishedAt": "2014-10-19T01:37:28.034667Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Весь Танах - с начала завоевания Святой Земли",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_P-f6Aq94Rg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_P-f6Aq94Rg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_P-f6Aq94Rg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_P-f6Aq94Rg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_P-f6Aq94Rg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Весь Танах - с начала завоевания Святой Земли",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 173
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "HEV9yelU8dsO-6bMDwf5dQKHhbo",
+        "id": "PLW28qGxPmmbpxPQyQhKEpHFgJMRYEx88v",
+        "snippet": {
+          "publishedAt": "2014-10-14T18:35:07.089104Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Левин в шалаше - 2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9lky7K9D8ls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9lky7K9D8ls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9lky7K9D8ls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9lky7K9D8ls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Левин в шалаше - 2",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "65Xw_q87sNVucwkoDYEGSLxMAVI",
+        "id": "PLW28qGxPmmbpEg0YjJSsVb_YZRwvR2U4f",
+        "snippet": {
+          "publishedAt": "2014-05-22T12:59:34.867418Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Песни и рассказы про раби Шимона бар Йохая",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/LqSFcnofntE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/LqSFcnofntE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/LqSFcnofntE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/LqSFcnofntE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Песни и рассказы про раби Шимона бар Йохая",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "b6gjCoMjERi2VAxFp6DOlflLt1Y",
+        "id": "PLW28qGxPmmbogZAPsCmBwPS-9FOGXVD_N",
+        "snippet": {
+          "publishedAt": "2014-03-24T11:35:28.568153Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримшпиль \"Маленькие Трагедии большого праздника Пурим\" 5775",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wfLhseUPR2s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wfLhseUPR2s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wfLhseUPR2s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wfLhseUPR2s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримшпиль \"Маленькие Трагедии большого праздника Пурим\" 5775",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "rEVgC3hxfX-NUVkvGIMts7i54fg",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 56,
+      "resultsPerPage": 50
+    },
+    "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "mkJefl7fOfg6qbTZ_9N_jSERt8I",
+        "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
+        "snippet": {
+          "publishedAt": "2014-02-03T03:07:08.565598Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "р. Калев Крелин - Тора и научно-технический прогресс",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/EsZZI2T_W5U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/EsZZI2T_W5U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/EsZZI2T_W5U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/EsZZI2T_W5U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "р. Калев Крелин - Тора и научно-технический прогресс",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "EsKMwFRNZKICvrtIlk_fPNY9PW0",
+        "id": "PLW28qGxPmmbrmRGgFd_7ka6HJeG9rrxxX",
+        "snippet": {
+          "publishedAt": "2014-01-20T14:14:25.37839Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Открытые уроки р. Зельмана",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9GsvV00GPXk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9GsvV00GPXk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9GsvV00GPXk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9GsvV00GPXk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Открытые уроки р. Зельмана",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 13
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "zExgNS6-7cVepbqkzFzFav-PFAw",
+        "id": "PLW28qGxPmmbpVNTjUvq2sH_9Y6LQGeswh",
+        "snippet": {
+          "publishedAt": "2014-01-20T14:13:16.413079Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Ханукальный вечер 5774/2013",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BckyzxkIkVc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BckyzxkIkVc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BckyzxkIkVc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BckyzxkIkVc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Ханукальный вечер 5774/2013",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "UQ4PpHirUx6SxXpuSvixD9CbzT0",
+        "id": "PLW28qGxPmmbrY-K-6Jq4IHa9LjuKaIwkh",
+        "snippet": {
+          "publishedAt": "2014-01-20T14:02:17.07671Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "У Самовара в Ту-Би-Шват (2014)",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Vjh3c6TY3Js/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Vjh3c6TY3Js/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Vjh3c6TY3Js/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vjh3c6TY3Js/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "У Самовара в Ту-Би-Шват (2014)",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 11
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "LSVkgWB0_RNGTgYfNV74DNhkNLU",
+        "id": "PLW28qGxPmmbrSJmUGQueQQVnIMrGo6FUK",
+        "snippet": {
+          "publishedAt": "2013-01-29T04:49:10.305209Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Моноспектакли рава Зельмана",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/lk64SxWsYdM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/lk64SxWsYdM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/lk64SxWsYdM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lk64SxWsYdM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Моноспектакли рава Зельмана",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 2
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "KtXbF3NYu4QY-y51KwnuzZfitRA",
+        "id": "PLW28qGxPmmbrTF1eYnKb1YskDXTLc0ild",
+        "snippet": {
+          "publishedAt": "2013-01-28T13:59:39.572274Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Пуримский Концерт 5771/2011",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nF11t3IlwHY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nF11t3IlwHY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nF11t3IlwHY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nF11t3IlwHY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nF11t3IlwHY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "localized": {
+            "title": "Пуримский Концерт 5771/2011",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 16
+        }
+      }
+    ]
+  }
+]
