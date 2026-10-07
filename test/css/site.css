@@ -199,6 +199,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .social-facebook:hover { color: #1756a9; background: #dceaff; text-decoration: none; }
 .community-news, .news-list { display: grid; gap: 16px; min-width: 0; }
 .community-news[hidden] { display: none; }
+.media-category-link { display: flex; align-items: center; min-height: 64px; padding: 14px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688B; font-weight: bold; text-decoration: none; }
+.media-category-link:hover { background: #dcecf2; }
+.media-record { padding: 16px 0; border-top: 1px solid #e2eaed; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }
