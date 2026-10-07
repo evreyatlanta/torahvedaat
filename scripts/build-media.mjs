@@ -31,7 +31,7 @@ export async function buildPlaylists(directory) {
             let node = children.find(node => node.id === id);
             if (!node) {
                 if (ids.has(id)) throw new Error(`${filename}: playlist id ${id} already belongs to another parent`);
-                node = { id, title: id, tags: [], children: [] };
+                node = { id, title: id, tags: [], items: [], children: [] };
                 children.push(node);
                 ids.set(id, node);
             }
@@ -51,7 +51,10 @@ export async function buildPlaylists(directory) {
                 ids.set(item.id, node);
             }
             const existingChildren = node.children;
-            Object.assign(node, { tags: [], ...item, children: existingChildren });
+            if (item.items && (!Array.isArray(item.items) || item.items.some(id => typeof id !== 'string' || !id))) {
+                throw new Error(`${filename}: playlist ${item.id} items must contain media ids`);
+            }
+            Object.assign(node, { tags: [], items: [], ...item, children: existingChildren });
             definitions.add(item.id);
         }
     }
@@ -95,7 +98,7 @@ export async function buildMedia(directory) {
             items.push(item);
         }
     }
-    return { items, playlists: counts(items, 'playlists', 'id'), tags: counts(items, 'tags', 'tag') };
+    return { items, playlists: [], tags: counts(items, 'tags', 'tag') };
 }
 
 export function updateGroupCounts(groups, tags) {
@@ -107,15 +110,14 @@ export function updateGroupCounts(groups, tags) {
 }
 
 export function addParentPlaylistCounts(library, nodes) {
-    const totals = new Map(library.playlists.map(({ id, count }) => [id, count]));
+    const totals = new Map();
+    const available = new Set(library.items.map(item => item.id));
     function visit(node) {
         const children = node.children ?? [];
-        const ids = new Set([node.id]);
+        const ids = new Set(node.items ?? []);
+        for (const id of ids) if (!available.has(id)) throw new Error(`Playlist ${node.id} references missing media id ${id}`);
         for (const child of children) for (const id of visit(child)) ids.add(id);
-        if (children.length) {
-            const records = library.items.filter(item => (item.playlists ?? []).some(id => ids.has(id)));
-            totals.set(node.id, new Set(records.map(item => item.id ?? item.url)).size);
-        }
+        totals.set(node.id, ids.size);
         return ids;
     }
     nodes.forEach(visit);

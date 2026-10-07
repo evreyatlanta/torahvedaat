@@ -42,14 +42,13 @@ test('playlist files merge under shared root; duplicate definitions fail', async
 test('parent playlist totals include nested records and deduplicate shared videos', () => {
     const library = {
         items: [
-            { id: 'v1', playlists: ['a'] },
-            { id: 'v1', playlists: ['b'] },
-            { id: 'v2', playlists: ['b'] },
-            { id: 'v3', playlists: ['root'] }
+            { id: 'v1' },
+            { id: 'v2' },
+            { id: 'v3' }
         ],
         playlists: [{ id: 'a', count: 1 }, { id: 'b', count: 2 }, { id: 'root', count: 1 }]
     };
-    const nodes = [{ id: 'root', children: [{ id: 'a', children: [] }, { id: 'nested', children: [{ id: 'b', children: [] }] }] }];
+    const nodes = [{ id: 'root', items: ['v3'], children: [{ id: 'a', items: ['v1'], children: [] }, { id: 'nested', children: [{ id: 'b', items: ['v1', 'v2'], children: [] }] }] }];
     const counts = new Map(addParentPlaylistCounts(library, nodes).playlists.map(x => [x.id, x.count]));
     assert.equal(counts.get('root'), 3);
     assert.equal(counts.get('nested'), 2);
@@ -71,15 +70,15 @@ test('recursive merge, explicit empty values, URL composition and distinct count
     await mkdir(path.join(directory, 'nested', 'deep'), { recursive: true });
     await writeFile(path.join(directory, 'media.json'), JSON.stringify({
         url: 'https://example.com/audio/', type: 'audio', title: 'Common',
-        tags: ['torah', 'torah'], playlists: ['p1', 'p1'],
+        tags: ['torah', 'torah'],
         items: [
             { id: 'one' },
-            { id: 'two', url: '', title: null, tags: [], playlists: [] },
+            { id: 'two', url: '', title: null, tags: [] },
             { id: 'three', url: null, title: '' }
         ]
     }));
     await writeFile(path.join(directory, 'nested', 'deep', 'media.json'), JSON.stringify({
-        tags: ['music'], items: [{ id: 'four', url: 'https://example.com/custom', playlists: ['p1', 'p2'] }]
+        tags: ['music'], items: [{ id: 'four', url: 'https://example.com/custom' }]
     }));
     await writeFile(path.join(directory, 'ignored.json'), 'invalid JSON');
     const result = await buildMedia(directory);
@@ -93,7 +92,7 @@ test('recursive merge, explicit empty values, URL composition and distinct count
     assert.equal(byId.three.url, null);
     assert.equal(byId.three.title, '');
     assert.equal(byId.four.url, 'https://example.com/custom');
-    assert.deepEqual(result.playlists, [{ id: 'p1', count: 3 }, { id: 'p2', count: 1 }]);
+    assert.deepEqual(result.playlists, []);
     assert.deepEqual(result.tags, [{ tag: 'music', count: 1 }, { tag: 'torah', count: 2 }]);
     assert.deepEqual(await buildMedia(directory), result);
 });

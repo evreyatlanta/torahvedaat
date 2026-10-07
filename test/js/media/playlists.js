@@ -19,12 +19,12 @@ export function findPlaylist(nodes, id) {
 export function playlistItems(node, items) {
     const ids = new Set();
     function collect(current) {
-        ids.add(current.id);
+        (current.items ?? []).forEach(id => ids.add(id));
         (current.children ?? []).forEach(collect);
     }
     collect(node);
-    const matching = items.filter(item => (item.playlists ?? []).some(id => ids.has(id)));
-    return [...new Map(matching.map(item => [item.id ?? item.url, item])).values()];
+    const records = new Map(items.map(item => [item.id, item]));
+    return [...ids].map(id => records.get(id)).filter(Boolean);
 }
 
 export function renderPlaylistTree(target, nodes, categoryId, counts, onSelect) {
