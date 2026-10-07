@@ -41,19 +41,6 @@
     "children": []
   },
   {
-    "id": "toravedaat",
-    "title": "Тора ве-Даат — канал",
-    "tags": [
-      "torah",
-      "show",
-      "music",
-      "other",
-      "toravedaat"
-    ],
-    "items": [],
-    "children": []
-  },
-  {
     "id": "rkrelin",
     "title": "Уроки рава К. Крелина",
     "tags": [

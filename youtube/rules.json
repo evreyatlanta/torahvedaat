@@ -490,13 +490,6 @@
         }
       }
     ],
-    "folders": [
-      {
-        "folder": "toravedaat",
-        "playlistIds": [
-          "toravedaat"
-        ]
-      }
-    ]
+    "folders": []
   }
 }
