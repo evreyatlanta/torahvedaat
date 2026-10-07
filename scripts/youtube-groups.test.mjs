@@ -113,3 +113,14 @@ test('Folder create uses folder ID and channel title, without requiring playlist
   assert.deepEqual(result.tree[0].children[0].items, ['video']);
   assert.throws(() => applyGroupRules([], [], rules, media), /Unknown parent playlist/);
 });
+
+test('create.name sets and updates the display title while outer name remains a selector', () => {
+  const tree = [{ id: 'root', items: [], children: [] }];
+  const lists = [{ playlist: { id: 'source', snippet: { title: 'Original lesson' } }, items: ['video'] }];
+  const rules = { groups: { playlists: [{ name: 'lesson', create: { parentId: 'root', name: 'Мои уроки' } }] } };
+  const media = [{ id: 'video', tags: ['torah'] }];
+  const first = applyGroupRules(tree, lists, rules, media);
+  assert.equal(first.tree[0].children[0].title, 'Мои уроки');
+  rules.groups.playlists[0].create.name = 'Новое название';
+  assert.equal(applyGroupRules(first.tree, lists, rules, media).tree[0].children[0].title, 'Новое название');
+});

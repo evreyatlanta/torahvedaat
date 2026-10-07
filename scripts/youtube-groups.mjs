@@ -1,7 +1,8 @@
 import { matchesRule } from './build-youtube-media.mjs';
 
 function validDestination(rule) {
-  if (rule.create !== undefined) return rule.create && typeof rule.create.parentId === 'string' && !!rule.create.parentId;
+  if (rule.create !== undefined) return rule.create && typeof rule.create.parentId === 'string' && !!rule.create.parentId &&
+    (rule.create.name === undefined || (typeof rule.create.name === 'string' && !!rule.create.name.trim()));
   return Array.isArray(rule.playlistIds) && rule.playlistIds.every(id => typeof id === 'string' && id);
 }
 
@@ -68,11 +69,12 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
       }
       if (!existing) {
         const mediaById = new Map(mediaItems.map(item => [item.id, item]));
-        const node = { id: source.id, title: source.title || source.id,
+        const node = { id: source.id, title: rule.create.name || source.title || source.id,
           tags: [...new Set(ids.flatMap(id => mediaById.get(id)?.tags || []))], items: [], children: [] };
         (parent.children ??= []).push(node);
         targets.set(node.id, node);
       }
+      if (rule.create.name !== undefined) targets.get(source.id).title = rule.create.name;
       destination = [source.id];
     }
     for (const id of destination) {

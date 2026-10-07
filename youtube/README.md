@@ -87,3 +87,5 @@ YouTube playlist ID/title; for folders it uses the folder ID/channel title;
 for record rules it uses the video ID/title. New nodes inherit tags from their
 records. The parent must exist; repeated runs reuse children without duplicates.
 Existing nodes under a different parent are rejected instead of silently moved.
+Optional `create.name` sets the display title (also updating an existing child).
+The outer rule's `name` remains a substring selector for the source.
