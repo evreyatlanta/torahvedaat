@@ -43,7 +43,9 @@ export function renderPlaylistTree(target, nodes, categoryId, counts, onSelect) 
                 if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
                 event.preventDefault();
                 event.stopPropagation();
-                onSelect(node, link.href);
+                const branch = li.querySelector(':scope > details');
+                if (branch) branch.open = !branch.open;
+                onSelect(node, link.href, !branch);
             });
             if (node.children.length) {
                 const details = element('details', null, 'media-playlist-branch');

@@ -59,10 +59,10 @@ try {
             }
             resultCount.hidden = false;
         }
-        renderPlaylistTree(playlistTarget, playlists, id, playlistCounts, (node, url) => {
+        renderPlaylistTree(playlistTarget, playlists, id, playlistCounts, (node, url, scrollToTop) => {
             history.pushState(null, '', url);
             showSelection();
-            window.scrollTo({ top: 0, behavior: 'instant' });
+            if (scrollToTop) window.scrollTo({ top: 0, behavior: 'instant' });
         });
         window.addEventListener('popstate', showSelection);
         showSelection();
