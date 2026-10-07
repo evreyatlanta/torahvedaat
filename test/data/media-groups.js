@@ -12,11 +12,11 @@
   {
     "id": "music",
     "title": "Песни",
-    "count": 0
+    "count": 149
   },
   {
     "id": "other",
     "title": "Прочее",
-    "count": 458
+    "count": 309
   }
 ]
