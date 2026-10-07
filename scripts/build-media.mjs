@@ -53,11 +53,23 @@ export async function buildMedia(directory) {
     return { items, playlists: counts(items, 'playlists', 'id'), tags: counts(items, 'tags', 'tag') };
 }
 
+export function updateGroupCounts(groups, tags) {
+    if (!Array.isArray(groups) || groups.some(group => !group || typeof group.id !== 'string')) {
+        throw new Error('media-groups.js must contain an array of groups with string ids');
+    }
+    const totals = new Map(tags.map(({ tag, count }) => [tag, count]));
+    return groups.map(group => ({ ...group, count: totals.get(group.id) ?? 0 }));
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
     try {
         const result = await buildMedia(process.argv[2] ?? 'test/media');
+        const groupsPath = process.argv[4] ?? 'test/data/media-groups.js';
+        const groups = JSON.parse((await readFile(groupsPath, 'utf8')).replace(/^\uFEFF/, ''));
+        const updatedGroups = updateGroupCounts(groups, result.tags);
         await writeFile(process.argv[3] ?? 'test/data/media.js', `${JSON.stringify(result, null, 2)}\n`);
-        console.log(`Generated media.js: ${result.items.length} items`);
+        await writeFile(groupsPath, `${JSON.stringify(updatedGroups, null, 2)}\n`);
+        console.log(`Generated media.js and media-groups.js: ${result.items.length} items`);
     } catch (error) {
         console.error(error.message);
         process.exitCode = 1;

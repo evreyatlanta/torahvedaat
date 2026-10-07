@@ -3,13 +3,22 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { buildMedia } from './build-media.mjs';
+import { buildMedia, updateGroupCounts } from './build-media.mjs';
 
 async function fixture(t) {
     const directory = await mkdtemp(path.join(tmpdir(), 'evreyatlanta-media-'));
     t.after(() => rm(directory, { recursive: true, force: true }));
     return directory;
 }
+
+test('group counts match tags, reset missing tags and preserve group fields and order', () => {
+    const groups = [{ id: 'torah', title: 'Уроки Торы', count: 99 }, { id: 'show', title: 'Выступления', count: 5 }];
+    assert.deepEqual(updateGroupCounts(groups, [{ tag: 'torah', count: 3 }, { tag: 'unknown', count: 7 }]), [
+        { id: 'torah', title: 'Уроки Торы', count: 3 },
+        { id: 'show', title: 'Выступления', count: 0 }
+    ]);
+    assert.equal(groups[0].count, 99);
+});
 
 test('recursive merge, explicit empty values, URL composition and distinct counts', async t => {
     const directory = await fixture(t);

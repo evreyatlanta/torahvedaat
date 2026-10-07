@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - 'test/media/**'
+      - 'test/data/media-groups.js'
       - 'scripts/build-media.mjs'
       - 'scripts/build-media.test.mjs'
       - '.github/workflows/build-media.yml'
@@ -30,14 +31,14 @@ jobs:
           node-version: '22'
       - name: Verify builder
         run: node --test scripts/build-media.test.mjs
-      - name: Generate media.js
+      - name: Generate media.js and group counts
         run: node scripts/build-media.mjs
       - name: Commit generated data
         run: |
-          if ! git diff --quiet -- test/data/media.js; then
+          if ! git diff --quiet -- test/data/media.js test/data/media-groups.js; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add test/data/media.js
+            git add test/data/media.js test/data/media-groups.js
             git commit -m 'Regenerate test media library'
             git push origin HEAD:main
           fi
