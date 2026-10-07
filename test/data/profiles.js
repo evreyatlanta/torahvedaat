@@ -24,8 +24,8 @@
     "imageAlt": null,
     "email": null,
     "phone": null,
-    "youtubeUrl": null,
-    "youtubeTitle": null,
+    "youtubeUrl": "https://www.youtube.com/@RabbiEliyahuBari",
+    "youtubeTitle": "Youtube канал",
     "facebookUrl": null,
     "facebookTitle": null
   }
