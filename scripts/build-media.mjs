@@ -61,10 +61,31 @@ export function updateGroupCounts(groups, tags) {
     return groups.map(group => ({ ...group, count: totals.get(group.id) ?? 0 }));
 }
 
+export function addParentPlaylistCounts(library, nodes) {
+    const totals = new Map(library.playlists.map(({ id, count }) => [id, count]));
+    function visit(node) {
+        const children = node.children ?? [];
+        const ids = new Set([node.id]);
+        for (const child of children) for (const id of visit(child)) ids.add(id);
+        if (children.length) {
+            const records = library.items.filter(item => (item.playlists ?? []).some(id => ids.has(id)));
+            totals.set(node.id, new Set(records.map(item => item.id ?? item.url)).size);
+        }
+        return ids;
+    }
+    nodes.forEach(visit);
+    library.playlists = [...totals].sort(([a], [b]) => a < b ? -1 : a > b ? 1 : 0)
+        .map(([id, count]) => ({ id, count }));
+    return library;
+}
+
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
     try {
         const result = await buildMedia(process.argv[2] ?? 'media');
         const groupsPath = process.argv[4] ?? 'data/media-groups.js';
+        const playlistsPath = path.join(path.dirname(groupsPath), 'playlists.js');
+        const playlists = JSON.parse((await readFile(playlistsPath, 'utf8')).replace(/^\uFEFF/, ''));
+        addParentPlaylistCounts(result, playlists);
         const groups = JSON.parse((await readFile(groupsPath, 'utf8')).replace(/^\uFEFF/, ''));
         const updatedGroups = updateGroupCounts(groups, result.tags);
         await writeFile(process.argv[3] ?? 'data/media.js', `${JSON.stringify(result, null, 2)}\n`);

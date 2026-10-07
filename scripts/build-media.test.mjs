@@ -3,13 +3,31 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { buildMedia, updateGroupCounts } from './build-media.mjs';
+import { buildMedia, updateGroupCounts, addParentPlaylistCounts } from './build-media.mjs';
 
 async function fixture(t) {
     const directory = await mkdtemp(path.join(tmpdir(), 'evreyatlanta-media-'));
     t.after(() => rm(directory, { recursive: true, force: true }));
     return directory;
 }
+
+test('parent playlist totals include nested records and deduplicate shared videos', () => {
+    const library = {
+        items: [
+            { id: 'v1', playlists: ['a'] },
+            { id: 'v1', playlists: ['b'] },
+            { id: 'v2', playlists: ['b'] },
+            { id: 'v3', playlists: ['root'] }
+        ],
+        playlists: [{ id: 'a', count: 1 }, { id: 'b', count: 2 }, { id: 'root', count: 1 }]
+    };
+    const nodes = [{ id: 'root', children: [{ id: 'a', children: [] }, { id: 'nested', children: [{ id: 'b', children: [] }] }] }];
+    const counts = new Map(addParentPlaylistCounts(library, nodes).playlists.map(x => [x.id, x.count]));
+    assert.equal(counts.get('root'), 3);
+    assert.equal(counts.get('nested'), 2);
+    assert.equal(counts.get('a'), 1);
+    assert.equal(counts.get('b'), 2);
+});
 
 test('group counts match tags, reset missing tags and preserve group fields and order', () => {
     const groups = [{ id: 'torah', title: 'Уроки Торы', count: 99 }, { id: 'show', title: 'Выступления', count: 5 }];
