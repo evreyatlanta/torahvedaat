@@ -34,10 +34,9 @@ try {
                 status.hidden = items.length > 0;
                 status.textContent = items.length ? '' : 'В этой рубрике пока нет записей.';
             } else {
-                renderMediaRecords(records, playlists.length ? [] : media);
-                status.hidden = !playlists.length && media.length > 0;
-                status.textContent = selectedId ? 'Рубрика не найдена.' : playlists.length
-                    ? 'Выберите рубрику слева, чтобы посмотреть записи.'
+                renderMediaRecords(records, selectedId ? [] : media);
+                status.hidden = !selectedId && media.length > 0;
+                status.textContent = selectedId ? 'Рубрика не найдена.'
                     : 'Материалы этой рубрики пока не добавлены.';
             }
         }
