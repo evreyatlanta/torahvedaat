@@ -3,7 +3,7 @@ import { element } from '../schedule/elements.js';
 
 const target = document.getElementById('media-categories');
 try {
-    const categories = await readArray('/test/data/media-categories.js');
+    const categories = await readArray('/test/data/media-groups.js');
     target.replaceChildren(...categories.map(category => {
         const link = element('a', category.title, 'media-category-nav-link');
         link.href = `/test/media/?id=${encodeURIComponent(category.id)}`;

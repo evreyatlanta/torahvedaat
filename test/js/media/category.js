@@ -14,7 +14,7 @@ const status = document.getElementById('media-status');
 try {
     const id = new URLSearchParams(location.search).get('id');
     const [categories, library] = await Promise.all([
-        readArray('/test/data/media-categories.js'), loadMediaLibrary()
+        readArray('/test/data/media-groups.js'), loadMediaLibrary()
     ]);
     const category = categories.find(item => item.id === id);
     renderCategoryNavigation(document.getElementById('media-category-nav'), categories, id);
