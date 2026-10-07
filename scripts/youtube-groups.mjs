@@ -1,9 +1,15 @@
+import { matchesRule } from './build-youtube-media.mjs';
+
 // Bind source video/playlist IDs to existing nodes; never create tree nodes.
 export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folderMedia = new Map()) {
-  for (const name of ['records', 'playlists']) {
-    if (!Array.isArray(rules.groups?.[name]) || rules.groups[name].some(rule =>
-      typeof rule.id !== 'string' || !rule.id || !Array.isArray(rule.playlistIds) ||
-      rule.playlistIds.some(id => typeof id !== 'string' || !id))) {
+  for (const name of ['records', 'items', 'playlists']) {
+    const list = rules.groups?.[name] ?? [];
+    if (!Array.isArray(list) || list.some(rule => {
+      const selectors = ['name', 'description'].filter(field => Object.hasOwn(rule, field));
+      return (selectors.length ? selectors.some(field => typeof rule[field] !== 'string' || !rule[field].trim())
+        : typeof rule.id !== 'string' || !rule.id) || !Array.isArray(rule.playlistIds) ||
+        rule.playlistIds.some(id => typeof id !== 'string' || !id);
+    })) {
       throw new Error(`Invalid rules.json groups.${name}`);
     }
   }
@@ -53,12 +59,17 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
     }
   }
   const available = new Set(mediaItems.map(item => item.id));
-  for (const rule of rules.groups.records) {
-    assign(rule, available.has(rule.id) ? [rule.id] : []);
+  for (const rule of [...(rules.groups.records ?? []), ...(rules.groups.items ?? [])]) {
+    const matching = mediaItems.filter(item => matchesRule(rule, item.id, {
+      title: item.title, description: (item.description || []).join('\n')
+    }));
+    assign(rule, matching.map(item => item.id));
   }
-  for (const rule of rules.groups.playlists) {
-    const source = sources.get(rule.id);
-    assign(rule, source ? collect(source) : []);
+  for (const rule of rules.groups.playlists ?? []) {
+    const matching = [...sources].filter(([id, source]) => matchesRule(rule, id,
+      source.playlist?.snippet || { title: source.title,
+        description: Array.isArray(source.description) ? source.description.join('\n') : source.description }));
+    assign(rule, matching.flatMap(([, source]) => collect(source)));
   }
   for (const rule of rules.groups.folders ?? []) {
     assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id));

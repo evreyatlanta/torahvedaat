@@ -42,3 +42,20 @@ test('Folder bindings use source folders, not matching tags, and avoid duplicate
   assert.deepEqual(result.counts, [{ id: 'bari-root', count: 2 }, { id: 'tvd-root', count: 1 }]);
   assert.deepEqual(applyGroupRules(result.tree, [], rules, [...bari, ...tvd], folders), result);
 });
+
+test('Text selectors bind matching videos and all matching playlists instead of ID', () => {
+  const tree = [{ id: 'target', items: [], children: [] }];
+  const media = [{ id: 'one', title: 'Weekly TORAH', description: ['For beginners'] },
+    { id: 'two', title: 'Music', description: [] },
+    { id: 'three', title: 'Another', description: [] }];
+  const lists = [{ playlist: { id: 'source', snippet: { title: 'Torah classes', description: 'Weekly lessons' } },
+    items: [{ contentDetails: { videoId: 'three' } }] }];
+  const rules = { groups: { items: [
+    { id: 'ignored', name: 'torah', description: 'BEGINNERS', playlistIds: ['target'] }
+  ], playlists: [
+    { id: 'ignored', name: 'CLASSES', description: 'weekly', playlistIds: ['target'] }
+  ] } };
+  const result = applyGroupRules(tree, lists, rules, media);
+  assert.deepEqual(result.tree[0].items, ['one', 'three']);
+  assert.equal(result.counts[0].count, 2);
+});

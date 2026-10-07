@@ -68,3 +68,7 @@ Playlist counts are updated using unique media IDs, including descendants.
 `groups.folders` contains `{ "folder": "rbari", "playlistIds": ["rbari"] }`
 rules. Every record loaded from that actual channel folder is added to the
 listed existing tree nodes, regardless of its tags.
+`groups.records` (or `groups.items`) and `groups.playlists` also accept `name`
+and `description` with the same case-insensitive substring matching as tag rules.
+Text selectors replace ID matching; both must match when both are present.
+All matching records or all contents of matching playlists are added to targets.
