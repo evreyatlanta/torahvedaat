@@ -28259,10 +28259,6 @@
       "count": 27
     },
     {
-      "id": "PLW28qGxPmmbovQgKgT_IaDSzdrx6CaXX-",
-      "count": 112
-    },
-    {
       "id": "tanakh",
       "count": 1053
     },
