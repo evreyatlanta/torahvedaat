@@ -474,6 +474,20 @@
         "create": {
           "parentId": "rkrelin"
         }
+      },
+      {
+        "folder": "rbari",
+        "name": "[RU]",
+        "playlistIds": [
+          "rbari-ru"
+        ]
+      },
+      {
+        "folder": "rbari",
+        "name": "[EN]",
+        "playlistIds": [
+          "rbari-en"
+        ]
       }
     ],
     "folders": [

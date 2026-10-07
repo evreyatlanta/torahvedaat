@@ -3,6 +3,26 @@
     "id": "rbari",
     "children": [
       {
+        "id": "rbari-ru",
+        "title": "На русском",
+        "tags": [
+          "torah",
+          "rbari"
+        ],
+        "items": [],
+        "children": []
+      },
+      {
+        "id": "rbari-en",
+        "title": "На английском",
+        "tags": [
+          "torah",
+          "rbari"
+        ],
+        "items": [],
+        "children": []
+      },
+      {
         "id": "PLUtAxWyvdZ0Y",
         "title": "[EN] The Arizal on Sukkot | Rav Eliyahu Bari | 5-Part Series",
         "tags": [
