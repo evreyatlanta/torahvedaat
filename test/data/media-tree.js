@@ -40,8 +40,28 @@
     "items": [],
     "children": [
       {
-        "id": "tanakh",
-        "title": "Танах",
+        "id": "torah-books",
+        "title": "Тора",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": []
+      },
+      {
+        "id": "neviim",
+        "title": "Пророки",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": []
+      },
+      {
+        "id": "ketuvim",
+        "title": "Писания",
         "tags": [
           "torah",
           "rzelman"
