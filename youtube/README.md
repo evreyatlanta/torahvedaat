@@ -59,3 +59,6 @@ in source order, recursively including children and playlist references.
 Existing tree nodes, labels, tags, children, and manual item IDs are retained.
 Unknown destination nodes fail the build instead of creating new nodes.
 Playlist counts are updated using unique media IDs, including descendants.
+`groups.folders` contains `{ "folder": "rbari", "playlistIds": ["rbari"] }`
+rules. Every record loaded from that actual channel folder is added to the
+listed existing tree nodes, regardless of its tags.

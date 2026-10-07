@@ -9,6 +9,10 @@
   },
   "groups": {
     "records": [],
-    "playlists": []
+    "playlists": [],
+    "folders": [
+      { "folder": "rbari", "playlistIds": ["rbari"] },
+      { "folder": "toravedaat", "playlistIds": ["toravedaat"] }
+    ]
   }
 }

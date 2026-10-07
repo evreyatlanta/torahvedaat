@@ -1,11 +1,16 @@
 // Bind source video/playlist IDs to existing nodes; never create tree nodes.
-export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems) {
+export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folderMedia = new Map()) {
   for (const name of ['records', 'playlists']) {
     if (!Array.isArray(rules.groups?.[name]) || rules.groups[name].some(rule =>
       typeof rule.id !== 'string' || !rule.id || !Array.isArray(rule.playlistIds) ||
       rule.playlistIds.some(id => typeof id !== 'string' || !id))) {
       throw new Error(`Invalid rules.json groups.${name}`);
     }
+  }
+  if (!Array.isArray(rules.groups.folders ?? []) || (rules.groups.folders ?? []).some(rule =>
+    typeof rule.folder !== 'string' || !rule.folder || !Array.isArray(rule.playlistIds) ||
+    rule.playlistIds.some(id => typeof id !== 'string' || !id))) {
+    throw new Error('Invalid rules.json groups.folders');
   }
   const result = structuredClone(tree);
   const targets = new Map();
@@ -54,6 +59,9 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems) {
   for (const rule of rules.groups.playlists) {
     const source = sources.get(rule.id);
     assign(rule, source ? collect(source) : []);
+  }
+  for (const rule of rules.groups.folders ?? []) {
+    assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id));
   }
   const counts = [];
   function count(node) {
