@@ -1,8 +1,6 @@
 [
   {
     "id": "rbari",
-    "title": "rbari",
-    "tags": [],
     "children": [
       {
         "id": "PLUtAxWyvdZ0Y",
@@ -823,6 +821,11 @@
         ],
         "title": "[RU] Ор аХаим | Все уроки"
       }
-    ]
+    ],
+    "tags": [
+      "torah",
+      "rbari"
+    ],
+    "title": "Уроки рава Элиягу Бари"
   }
 ]
