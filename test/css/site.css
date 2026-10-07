@@ -216,6 +216,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-playlist-link:hover { text-decoration: underline; }
 .media-playlist-link[aria-current] { background: #edf5f8; border-radius: 4px; font-weight: bold; }
 .media-record h4 { margin: 0 0 10px; font-size: 1rem; }
+.media-sidebar { display: grid; gap: 20px; align-content: start; }
+.media-playlist-tree summary { display: list-item; margin-left: 16px; }
+.media-playlist-link { max-width: 100%; box-sizing: border-box; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }

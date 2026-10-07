@@ -29,8 +29,8 @@ export function playlistItems(node, items) {
 
 export function renderPlaylistTree(target, nodes, categoryId, onSelect) {
     target.replaceChildren();
+    target.closest('section').hidden = nodes.length === 0;
     if (!nodes.length) return;
-    target.append(element('h3', 'Плейлисты'));
     function list(branch) {
         const ul = element('ul', null, 'media-playlist-tree');
         for (const node of branch) {

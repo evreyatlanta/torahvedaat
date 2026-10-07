@@ -32,12 +32,12 @@ try {
                 const items = playlistItems(selected, media);
                 renderMediaRecords(records, items, selected.title);
                 status.hidden = items.length > 0;
-                status.textContent = items.length ? '' : 'В этом плейлисте пока нет записей.';
+                status.textContent = items.length ? '' : 'В этой рубрике пока нет записей.';
             } else {
                 renderMediaRecords(records, playlists.length ? [] : media);
                 status.hidden = !playlists.length && media.length > 0;
-                status.textContent = selectedId ? 'Плейлист не найден.' : playlists.length
-                    ? 'Выберите плейлист, чтобы посмотреть записи.'
+                status.textContent = selectedId ? 'Рубрика не найдена.' : playlists.length
+                    ? 'Выберите рубрику слева, чтобы посмотреть записи.'
                     : 'Материалы этой рубрики пока не добавлены.';
             }
         }
