@@ -198,6 +198,7 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .social-youtube:hover { color: #a51d1a; background: #ffe2df; text-decoration: none; }
 .social-facebook:hover { color: #1756a9; background: #dceaff; text-decoration: none; }
 .community-news, .news-list { display: grid; gap: 16px; min-width: 0; }
+.community-news[hidden] { display: none; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }

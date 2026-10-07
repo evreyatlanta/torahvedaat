@@ -10,6 +10,7 @@ async function renderNews() {
     try {
         const today = todayInAtlanta();
         const news = visibleNews(await loadNews(), today);
+        list.closest('.community-news').hidden = news.length === 0;
         list.replaceChildren(...news.map(item => newsCard(item, today)));
         status.hidden = news.length > 0;
         status.textContent = news.length ? '' : 'Сейчас нет объявлений.';
