@@ -220,12 +220,12 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-category-link { display: flex; align-items: center; min-height: 64px; padding: 14px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688B; font-weight: bold; text-decoration: none; }
 .media-category-link:hover { background: #dcecf2; }
 .media-record { padding: 16px 0; border-top: 1px solid #e2eaed; }
-.media-youtube { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 2fr); gap: 12px; align-items: start; margin: 12px 0; }
-.media-youtube-thumbnail { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 5px; }
-.media-youtube-player { min-width: 0; aspect-ratio: 16 / 9; background: #173441; border-radius: 5px; overflow: hidden; }
+.media-youtube { margin: 12px 0; }
+.media-youtube-thumbnail { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.media-youtube-player { position: relative; min-width: 0; aspect-ratio: 16 / 9; background: #173441; border-radius: 5px; overflow: hidden; }
 .media-youtube-player iframe { display: block; width: 100%; height: 100%; border: 0; }
-.media-youtube-play { width: 100%; height: 100%; border: 0; background: transparent; color: white; font: inherit; cursor: pointer; }
-.media-youtube-play:hover { background: #00688b; }
+.media-youtube-play { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; background: rgb(0 0 0 / 20%); color: white; font: bold 1.2rem system-ui, sans-serif; text-shadow: 0 1px 4px black; cursor: pointer; }
+.media-youtube-play:hover { background: rgb(0 0 0 / 35%); }
 @media (max-width: 760px) { .media-youtube { grid-template-columns: minmax(0, 1fr); } }
 .media-category-nav { display: grid; gap: 6px; }
 .media-category-nav-link { display: flex; align-items: center; min-height: 44px; padding: 8px 10px; box-sizing: border-box; border-radius: 5px; text-decoration: none; color: #00688B; }

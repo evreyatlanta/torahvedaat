@@ -25,7 +25,7 @@ export function youtubePlayer(item) {
         frame.referrerPolicy = 'strict-origin-when-cross-origin';
         player.replaceChildren(frame);
     }, { once: true });
-    player.append(button);
-    row.append(image, player);
+    player.append(image, button);
+    row.append(player);
     return row;
 }
