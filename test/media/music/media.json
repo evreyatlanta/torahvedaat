@@ -1,0 +1,12 @@
+{
+  "type": "audio",
+  "source": "s3",
+  "url": "https://example.com/demo/music",
+  "tags": ["music"],
+  "playlists": ["demo-songs"],
+  "description": ["Тестовая песня. Адрес условный."],
+  "items": [
+    { "id": "song-01.mp3", "title": "Тест: Песня 1" },
+    { "id": "song-02.mp3", "title": "Тест: Песня 2", "playlists": [], "date": "2026-09-15" }
+  ]
+}
