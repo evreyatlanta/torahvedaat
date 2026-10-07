@@ -1,0 +1,24 @@
+[
+  {
+    "id": "isroel-zelman",
+    "name": "Рав Исроэль Зельман",
+    "shortName": "р. И. Зельман",
+    "summary": null,
+    "description": null,
+    "image": null,
+    "imageAlt": null,
+    "email": "jewcenter@mail.ru",
+    "phone": null
+  },
+  {
+    "id": "eliyahu-bari",
+    "name": "Рав Элиягу Бари",
+    "shortName": "р. Э. Бари",
+    "summary": null,
+    "description": null,
+    "image": null,
+    "imageAlt": null,
+    "email": null,
+    "phone": null
+  }
+]
