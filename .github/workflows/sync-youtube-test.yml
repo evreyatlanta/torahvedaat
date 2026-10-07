@@ -6,6 +6,8 @@ on:
     paths:
       - 'test/youtube/channels.json'
       - 'test/youtube/rules.json'
+      - 'test/data/media-tree.js'
+      - '.github/workflows/sync-youtube-test.yml'
       - 'scripts/build-youtube-media.mjs'
       - 'scripts/build-youtube-media.test.mjs'
       - 'scripts/assemble-youtube-library.mjs'
@@ -46,7 +48,7 @@ jobs:
         run: node scripts/assemble-youtube-library.mjs test/youtube test/data
       - name: Commit test YouTube data
         run: |
-          git add test/youtube/ test/data/media.js test/data/media-groups.js test/data/playlists.js
+          git add test/youtube/ test/data/media.js test/data/media-groups.js test/data/playlist.js
           if ! git diff --cached --quiet; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'

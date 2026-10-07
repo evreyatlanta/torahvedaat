@@ -62,7 +62,10 @@ Record IDs are video IDs; playlist IDs identify downloaded YouTube playlists
 (or existing tree nodes). Matching records are appended to the destination
 node's `items`, without duplicates. Matching playlists contribute their items
 in source order, recursively including children and playlist references.
-Existing tree nodes, labels, tags, children, and manual item IDs are retained.
+The permanent input tree is `data/media-tree.js` (or `test/data/media-tree.js`).
+Each build starts from that tree and writes a fresh `playlist.js` alongside it.
+Only permanent nodes and manually specified item IDs are retained; generated
+children and memberships disappear when their rules no longer match.
 Unknown destination nodes fail the build instead of creating new nodes.
 Playlist counts are updated using unique media IDs, including descendants.
 `groups.folders` contains `{ "folder": "rbari", "playlistIds": ["rbari"] }`
@@ -90,3 +93,10 @@ records. The parent must exist; repeated runs reuse children without duplicates.
 Existing nodes under a different parent are rejected instead of silently moved.
 Optional `create.name` sets the display title (also updating an existing child).
 The outer rule's `name` remains a substring selector for the source.
+
+## Tree files
+
+`media-tree.js` is edited manually and never overwritten by the workflow.
+`playlist.js` is generated from the permanent tree plus current rules and
+YouTube data. The website reads `playlist.js`; it replaces the former
+`playlists.js`. Changes to either environment's permanent tree trigger its own workflow.

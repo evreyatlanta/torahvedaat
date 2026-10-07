@@ -3,7 +3,7 @@ import { readArray } from '../data.js';
 export async function loadMediaLibrary() {
     const [media, playlists] = await Promise.all([
         readMedia('/data/media.js'),
-        readArray('/data/playlists.js')
+        readArray('/data/playlist.js')
     ]);
     return { media: media.items, playlists, counts: { playlists: media.playlists, tags: media.tags } };
 }

@@ -20,7 +20,6 @@ export function assembleLibrary(channelMedia, playlistCounts = []) {
   }
   return {
     items,
-    // Playlist generation is intentionally postponed. Preserve existing counts.
     playlists: playlistCounts,
     tags: [...counts].sort(([a], [b]) => a.localeCompare(b)).map(([tag, count]) => ({ tag, count }))
   };
@@ -41,10 +40,9 @@ export async function assembleYoutubeLibrary(root, dataDirectory) {
       .map(list => ({ ...list, folder: channel.folder })));
   }
   const output = path.join(dataDirectory, 'media.js');
-  const previous = await read(output);
-  const library = assembleLibrary(records, previous.playlists);
-  const playlistsFile = path.join(dataDirectory, 'playlists.js');
-  const bindings = applyGroupRules(await read(playlistsFile), sourcePlaylists,
+  const library = assembleLibrary(records);
+  const playlistsFile = path.join(dataDirectory, 'playlist.js');
+  const bindings = applyGroupRules(await read(path.join(dataDirectory, 'media-tree.js')), sourcePlaylists,
     await read(path.join(root, 'rules.json')), library.items, folderMedia,
     new Map(channels.map(channel => [channel.folder, channel.title])));
   library.playlists = bindings.counts;
