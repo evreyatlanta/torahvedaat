@@ -11,7 +11,7 @@
     "location": null,
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "tikkunei-zohar",
@@ -25,7 +25,7 @@
     "location": null,
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "tanakh-book-of-kings",
@@ -39,7 +39,7 @@
     "location": "Синагога Ариэль",
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "ramchal-adir-ba-marom",
@@ -53,7 +53,7 @@
     "location": null,
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-table-commentaries",
@@ -67,7 +67,7 @@
     "location": null,
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "mishlei",
@@ -93,7 +93,7 @@
     "location": null,
     "link": "",
     "meetingUrl": "https://meet.google.com/aoy-awgy-xoc",
-    "authorId": "eliyahu-bari"
+    "authorId": "rbari"
   },
   {
     "id": "shabbat-weekly-portion-after-kiddush",
@@ -107,7 +107,7 @@
     "location": "Синагога Ариэль",
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-weekly-portion-before-mincha",
@@ -121,7 +121,7 @@
     "location": "Синагога Ариэль",
     "link": "",
     "meetingUrl": null,
-    "authorId": "isroel-zelman"
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-weekly-portion-eliyahu-bari",
@@ -135,6 +135,6 @@
     "location": "Синагога Ариэль, колель",
     "link": "",
     "meetingUrl": null,
-    "authorId": "eliyahu-bari"
+    "authorId": "rbari"
   }
 ]

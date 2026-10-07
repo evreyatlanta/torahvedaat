@@ -1,6 +1,6 @@
 [
   {
-    "id": "isroel-zelman",
+    "id": "rzelman",
     "name": "Рав Исроэль Зельман",
     "shortName": "р. И. Зельман",
     "summary": null,
@@ -11,7 +11,7 @@
     "phone": null
   },
   {
-    "id": "eliyahu-bari",
+    "id": "rbari",
     "name": "Рав Элиягу Бари",
     "shortName": "р. Э. Бари",
     "summary": null,
