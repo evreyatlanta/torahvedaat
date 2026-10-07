@@ -22,24 +22,29 @@ export function profileContent(profile) {
     }
     if (profile.phone) content.append(element('p', `Телефон: ${profile.phone}`));
     const socialLinks = [
-        { url: profile.youtubeUrl, title: profile.youtubeTitle || 'YouTube' },
-        { url: profile.facebookUrl, title: profile.facebookTitle || 'Facebook' }
+        { type: 'youtube', url: profile.youtubeUrl, title: profile.youtubeTitle || 'YouTube' },
+        { type: 'facebook', url: profile.facebookUrl, title: profile.facebookTitle || 'Facebook' }
     ];
+    const socials = element('div', null, 'profile-socials');
     for (const social of socialLinks) {
         if (!social.url) continue;
         try {
             const url = new URL(social.url);
             if (url.protocol !== 'https:' && url.protocol !== 'http:') continue;
-            const line = element('p');
-            const link = element('a', social.title);
+            const link = element('a', null, `profile-social-link social-${social.type}`);
+            const icon = element('img', null, 'profile-social-icon');
+            icon.src = `/test/images/icons/${social.type}.svg`;
+            icon.alt = '';
+            icon.setAttribute('aria-hidden', 'true');
+            link.append(icon, element('span', social.title));
             link.href = url.href;
             link.target = '_blank';
             link.rel = 'noopener noreferrer';
-            line.append(link);
-            content.append(line);
+            socials.append(link);
         } catch {
             // Skip a malformed optional link without hiding the profile.
         }
     }
+    if (socials.childElementCount) content.append(socials);
     return content;
 }
