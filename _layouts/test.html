@@ -40,6 +40,7 @@
             {% endif %}
             {% if page.schedule_summary %}
             <aside class="section-nav schedule-summary" aria-label="{% if page.profile %}Все уроки преподавателя{% else %}Краткое расписание уроков{% endif %}">
+                {% if page.media_categories %}{% include test/media-panel.html %}{% endif %}
                 <section class="white-box">
                     <h2 class="section-title">Ближайшие уроки</h2>
                     <ul id="schedule-summary" class="panel-list"><li data-loading>Загрузка расписания…</li></ul>

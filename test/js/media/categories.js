@@ -5,7 +5,7 @@ const target = document.getElementById('media-categories');
 try {
     const categories = await readArray('/test/data/media-categories.js');
     target.replaceChildren(...categories.map(category => {
-        const link = element('a', category.title, 'media-category-link');
+        const link = element('a', category.title, 'media-category-nav-link');
         link.href = `/test/media/?id=${encodeURIComponent(category.id)}`;
         return link;
     }));
