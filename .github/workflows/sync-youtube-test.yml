@@ -5,6 +5,9 @@ on:
     branches: [main]
     paths:
       - 'test/youtube/channels.json'
+      - 'test/youtube/rules.json'
+      - 'scripts/build-youtube-media.mjs'
+      - 'scripts/build-youtube-media.test.mjs'
   workflow_dispatch:
 
 permissions:
@@ -27,11 +30,13 @@ jobs:
         with:
           node-version: '22'
       - name: Verify synchronization logic
-        run: node --test scripts/sync-youtube.test.mjs
+        run: node --test scripts/sync-youtube.test.mjs scripts/build-youtube-media.test.mjs
       - name: Fetch raw test YouTube data
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: node scripts/sync-youtube.mjs test/youtube
+      - name: Apply test media tagging rules
+        run: node scripts/build-youtube-media.mjs test/youtube
       - name: Commit test YouTube data
         run: |
           git add test/youtube/

@@ -28,3 +28,19 @@ Responses request `snippet,contentDetails,status`, with 50 items per page.
 No source fields are renamed, transformed, or removed. The API key and request
 URLs are never written to these files. Data is committed only after a successful
 workflow run. These files do not yet feed the website's media library.
+
+## Test tagging rules
+
+After downloading test data, the test workflow runs
+`node scripts/build-youtube-media.mjs test/youtube` and creates a separate
+`media.json` array in each channel folder. Raw downloads stay unchanged.
+`test/youtube/rules.json` defines `mainTags` and `tags.records` / `tags.playlists`
+arrays of `{ "id": "...", "tags": ["..."] }` rules. Record rule IDs are YouTube
+video IDs, not the API's playlist item IDs. All matching record rules are applied
+first, followed by matching playlist rules in their order in the rules file.
+Once a main tag exists, playlist rules cannot add another main tag.
+Non-main tags are combined without duplicates. Missing main tags default to
+`other`, and the channel's `folder` is always added as a tag.
+The generated media uses the actual `videoPublishedAt` date when available.
+Changing test rules also triggers the test workflow. Production has no tagging
+step yet. Generated test media is not yet connected to `test/data/media.js`.
