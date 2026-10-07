@@ -12,63 +12,72 @@
         "folder": "toravedaat",
         "name": "Комментарии для Субботнего Стола",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Двенадцать \"Малых\" Пророков",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Книга Даниэля",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Танах, Книга Йирмияу",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Шир hа-Ширим",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Комментарии Ор а-Хаим",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Теhилим",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Законы Обид и Оскорблений",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Коhелет - Полный цикл уроков",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
@@ -131,14 +140,16 @@
         "folder": "toravedaat",
         "name": "Недельная глава по пятницам",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
         "folder": "toravedaat",
         "name": "Весь Танах - с начала завоевания Святой Земли",
         "tags": [
-          "torah"
+          "torah",
+          "rzelman"
         ]
       },
       {
@@ -221,6 +232,83 @@
       {
         "folder": "toravedaat",
         "name": "Открытые уроки р. Зельмана",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии для Субботнего Стола",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Двенадцать \"Малых\" Пророков",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Книга Даниэля",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йирмияу",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Шир hа-Ширим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии Ор а-Хаим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Теhилим",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Законы Обид и Оскорблений",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Коhелет - Полный цикл уроков",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Недельная глава по пятницам",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Весь Танах - с начала завоевания Святой Земли",
         "playlistIds": [
           "rzelman"
         ]
