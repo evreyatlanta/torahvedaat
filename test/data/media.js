@@ -22,6 +22,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-09-23"
@@ -35,6 +36,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-09-09"
@@ -48,6 +50,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-09-03"
@@ -61,6 +64,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-09-03"
@@ -74,6 +78,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-27"
@@ -87,6 +92,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-27"
@@ -100,6 +106,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-20"
@@ -113,6 +120,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-13"
@@ -126,6 +134,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-13"
@@ -139,6 +148,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-06"
@@ -152,6 +162,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-08-05"
@@ -165,6 +176,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-30"
@@ -178,6 +190,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-30"
@@ -191,6 +204,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-23"
@@ -217,6 +231,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-16"
@@ -230,6 +245,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-09"
@@ -243,6 +259,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-09"
@@ -256,6 +273,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-07-02"
@@ -269,6 +287,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-25"
@@ -282,6 +301,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-25"
@@ -295,6 +315,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-18"
@@ -308,6 +329,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-18"
@@ -321,6 +343,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-11"
@@ -334,6 +357,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-11"
@@ -360,6 +384,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-06-04"
@@ -373,6 +398,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-28"
@@ -386,6 +412,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-27"
@@ -399,6 +426,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-21"
@@ -412,6 +440,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-21"
@@ -425,6 +454,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-14"
@@ -438,6 +468,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-13"
@@ -451,6 +482,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-07"
@@ -464,6 +496,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-05-06"
@@ -477,6 +510,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-30"
@@ -490,6 +524,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-29"
@@ -503,6 +538,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-23"
@@ -516,6 +552,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-22"
@@ -529,6 +566,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-16"
@@ -542,6 +580,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-16"
@@ -555,6 +594,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-04-10"
@@ -568,6 +608,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-26"
@@ -581,6 +622,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-25"
@@ -624,6 +666,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-19"
@@ -637,6 +680,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-18"
@@ -665,6 +709,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-12"
@@ -693,6 +738,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-03-05"
@@ -706,6 +752,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-19"
@@ -719,6 +766,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-18"
@@ -732,6 +780,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-12"
@@ -745,6 +794,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-11"
@@ -758,6 +808,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-11"
@@ -771,6 +822,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-05"
@@ -784,6 +836,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-02-04"
@@ -797,6 +850,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-29"
@@ -810,6 +864,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-28"
@@ -823,6 +878,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-22"
@@ -836,6 +892,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-21"
@@ -849,6 +906,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-15"
@@ -862,6 +920,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-14"
@@ -875,6 +934,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -888,6 +948,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -901,6 +962,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-08"
@@ -914,6 +976,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2026-01-01"
@@ -927,6 +990,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-30"
@@ -940,6 +1004,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-30"
@@ -953,6 +1018,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-25"
@@ -966,6 +1032,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-24"
@@ -979,6 +1046,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-24"
@@ -992,6 +1060,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1005,6 +1074,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1018,6 +1088,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-18"
@@ -1044,6 +1115,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-10"
@@ -1057,6 +1129,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-10"
@@ -1070,6 +1143,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-05"
@@ -1083,6 +1157,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-04"
@@ -1096,6 +1171,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-12-04"
@@ -1109,6 +1185,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-28"
@@ -1122,6 +1199,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1135,6 +1213,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1148,6 +1227,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-26"
@@ -1161,6 +1241,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-19"
@@ -1174,6 +1255,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-19"
@@ -1187,6 +1269,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-13"
@@ -1200,6 +1283,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-13"
@@ -1228,6 +1312,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-06"
@@ -1241,6 +1326,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-11-06"
@@ -1254,6 +1340,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-30"
@@ -1267,6 +1354,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-30"
@@ -1280,6 +1368,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-23"
@@ -1307,6 +1396,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1320,6 +1410,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1333,6 +1424,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-10-17"
@@ -1361,6 +1453,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-29"
@@ -1388,6 +1481,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-28"
@@ -1401,6 +1495,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-28"
@@ -1414,6 +1509,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-17"
@@ -1427,6 +1523,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-10"
@@ -1440,6 +1537,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-10"
@@ -1453,6 +1551,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1466,6 +1565,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1479,6 +1579,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-09-03"
@@ -1492,6 +1593,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-27"
@@ -1505,6 +1607,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-27"
@@ -1518,6 +1621,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1531,6 +1635,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1544,6 +1649,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-20"
@@ -1557,6 +1663,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-13"
@@ -1570,6 +1677,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-13"
@@ -1583,6 +1691,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-08-06"
@@ -1596,6 +1705,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-30"
@@ -1609,6 +1719,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-30"
@@ -1622,6 +1733,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1635,6 +1747,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1648,6 +1761,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-23"
@@ -1661,6 +1775,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-16"
@@ -1674,6 +1789,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-16"
@@ -1687,6 +1803,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-14"
@@ -1700,6 +1817,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-07"
@@ -1713,6 +1831,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-07"
@@ -1726,6 +1845,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-02"
@@ -1739,6 +1859,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-07-02"
@@ -1752,6 +1873,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-29"
@@ -1765,6 +1887,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-29"
@@ -1778,6 +1901,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-23"
@@ -1791,6 +1915,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-23"
@@ -1804,6 +1929,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-17"
@@ -1817,6 +1943,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-17"
@@ -1830,6 +1957,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-12"
@@ -1843,6 +1971,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-12"
@@ -1856,6 +1985,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-09"
@@ -1869,6 +1999,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-06-04"
@@ -1882,6 +2013,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-27"
@@ -1895,6 +2027,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-26"
@@ -1908,6 +2041,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-25"
@@ -1921,6 +2055,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-25"
@@ -1934,6 +2069,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-14"
@@ -1947,6 +2083,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-14"
@@ -1960,6 +2097,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-12"
@@ -1973,6 +2111,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-11"
@@ -1986,6 +2125,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-07"
@@ -1999,6 +2139,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-05"
@@ -2012,6 +2153,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-05-05"
@@ -2025,6 +2167,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-29"
@@ -2038,6 +2181,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-27"
@@ -2051,6 +2195,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-25"
@@ -2064,6 +2209,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-25"
@@ -2077,6 +2223,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-21"
@@ -2090,6 +2237,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-07"
@@ -2103,6 +2251,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-07"
@@ -2116,6 +2265,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-04-06"
@@ -2129,6 +2279,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-31"
@@ -2142,6 +2293,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-31"
@@ -2155,6 +2307,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2168,6 +2321,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2181,6 +2335,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-24"
@@ -2194,6 +2349,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-17"
@@ -2207,6 +2363,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-11"
@@ -2220,6 +2377,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-11"
@@ -2233,6 +2391,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-06"
@@ -2246,6 +2405,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-06"
@@ -2259,6 +2419,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-03"
@@ -2272,6 +2433,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-03-03"
@@ -2285,6 +2447,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-24"
@@ -2298,6 +2461,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-24"
@@ -2311,6 +2475,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-17"
@@ -2339,6 +2504,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-05"
@@ -2352,6 +2518,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-03"
@@ -2365,6 +2532,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-02-03"
@@ -2378,6 +2546,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-29"
@@ -2391,6 +2560,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-28"
@@ -2404,6 +2574,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-27"
@@ -2417,6 +2588,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-23"
@@ -2430,6 +2602,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-22"
@@ -2443,6 +2616,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-22"
@@ -2456,6 +2630,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-20"
@@ -2469,6 +2644,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-19"
@@ -2482,6 +2658,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-16"
@@ -2495,6 +2672,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-13"
@@ -2508,6 +2686,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-12"
@@ -2521,6 +2700,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-09"
@@ -2534,6 +2714,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2025-01-06"
@@ -2562,6 +2743,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-31"
@@ -2590,6 +2772,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-30"
@@ -2618,6 +2801,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-23"
@@ -2631,6 +2815,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-23"
@@ -2644,6 +2829,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-22"
@@ -2657,6 +2843,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-22"
@@ -2670,6 +2857,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-19"
@@ -2683,6 +2871,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-16"
@@ -2696,6 +2885,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-15"
@@ -2709,6 +2899,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-09"
@@ -2722,6 +2913,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-08"
@@ -2735,6 +2927,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-05"
@@ -2748,6 +2941,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-02"
@@ -2761,6 +2955,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-12-01"
@@ -2774,6 +2969,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-25"
@@ -2787,6 +2983,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-18"
@@ -2800,6 +2997,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-14"
@@ -2813,6 +3011,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-14"
@@ -2826,6 +3025,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-10"
@@ -2854,6 +3054,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-07"
@@ -2867,6 +3068,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-04"
@@ -2880,6 +3082,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-11-03"
@@ -2893,6 +3096,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-27"
@@ -2906,6 +3110,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-21"
@@ -2919,6 +3124,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-20"
@@ -2932,6 +3138,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-20"
@@ -2945,6 +3152,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-14"
@@ -2958,6 +3166,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-13"
@@ -2971,6 +3180,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-10"
@@ -2984,6 +3194,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-10-07"
@@ -2997,6 +3208,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-30"
@@ -3010,6 +3222,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-29"
@@ -3023,6 +3236,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-26"
@@ -3036,6 +3250,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-25"
@@ -3049,6 +3264,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-22"
@@ -3062,6 +3278,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-19"
@@ -3075,6 +3292,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-16"
@@ -3088,6 +3306,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-12"
@@ -3101,6 +3320,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-11"
@@ -3127,6 +3347,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-09"
@@ -3140,6 +3361,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-06"
@@ -3153,6 +3375,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-02"
@@ -3166,6 +3389,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-09-01"
@@ -3179,6 +3403,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-26"
@@ -3192,6 +3417,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-22"
@@ -3205,6 +3431,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-22"
@@ -3218,6 +3445,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-14"
@@ -3231,6 +3459,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-12"
@@ -3244,6 +3473,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-08"
@@ -3257,6 +3487,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-05"
@@ -3270,6 +3501,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-04"
@@ -3283,6 +3515,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-08-01"
@@ -3296,6 +3529,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-29"
@@ -3309,6 +3543,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-28"
@@ -3322,6 +3557,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-22"
@@ -3335,6 +3571,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-19"
@@ -3363,6 +3600,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-18"
@@ -3376,6 +3614,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-15"
@@ -3389,6 +3628,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-12"
@@ -3402,6 +3642,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-11"
@@ -3415,6 +3656,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-08"
@@ -3428,6 +3670,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-07"
@@ -3441,6 +3684,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-04"
@@ -3454,6 +3698,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-07-01"
@@ -3467,6 +3712,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-28"
@@ -3480,6 +3726,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-28"
@@ -3493,6 +3740,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-24"
@@ -3506,6 +3754,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-23"
@@ -3519,6 +3768,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-17"
@@ -3532,6 +3782,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-16"
@@ -3545,6 +3796,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-10"
@@ -3558,6 +3810,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-09"
@@ -3571,6 +3824,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-06"
@@ -3584,6 +3838,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-06-03"
@@ -3597,6 +3852,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-30"
@@ -3610,6 +3866,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-27"
@@ -3623,6 +3880,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-24"
@@ -3636,6 +3894,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-22"
@@ -3649,6 +3908,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-16"
@@ -3662,6 +3922,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-15"
@@ -3675,6 +3936,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-08"
@@ -3688,6 +3950,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-05-08"
@@ -3701,6 +3964,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-26"
@@ -3714,6 +3978,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-18"
@@ -3727,6 +3992,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-18"
@@ -3740,6 +4006,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-16"
@@ -3753,6 +4020,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-15"
@@ -3766,6 +4034,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-12"
@@ -3779,6 +4048,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-11"
@@ -3792,6 +4062,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-07"
@@ -3805,6 +4076,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-07"
@@ -3818,6 +4090,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-04"
@@ -3831,6 +4104,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-04-01"
@@ -3844,6 +4118,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-29"
@@ -3857,6 +4132,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-25"
@@ -3900,6 +4176,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-20"
@@ -3913,6 +4190,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-18"
@@ -3926,6 +4204,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-15"
@@ -3969,6 +4248,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-11"
@@ -3982,6 +4262,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-03-07"
@@ -3995,6 +4276,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-29"
@@ -4008,6 +4290,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-22"
@@ -4021,6 +4304,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-19"
@@ -4034,6 +4318,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-19"
@@ -4047,6 +4332,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-13"
@@ -4060,6 +4346,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-12"
@@ -4073,6 +4360,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4086,6 +4374,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4099,6 +4388,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4112,6 +4402,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-11"
@@ -4125,6 +4416,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-05"
@@ -4138,6 +4430,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-01"
@@ -4151,6 +4444,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-02-01"
@@ -4164,6 +4458,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-29"
@@ -4177,6 +4472,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-25"
@@ -4190,6 +4486,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-25"
@@ -4203,6 +4500,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-22"
@@ -4216,6 +4514,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-19"
@@ -4229,6 +4528,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-18"
@@ -4255,6 +4555,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-15"
@@ -4268,6 +4569,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-10"
@@ -4281,6 +4583,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-10"
@@ -4294,6 +4597,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-02"
@@ -4307,6 +4611,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2024-01-02"
@@ -4320,6 +4625,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4333,6 +4639,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4346,6 +4653,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-20"
@@ -4359,6 +4667,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-18"
@@ -4372,6 +4681,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-12"
@@ -4430,6 +4740,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-04"
@@ -4443,6 +4754,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-03"
@@ -4456,6 +4768,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-12-03"
@@ -4469,6 +4782,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-26"
@@ -4495,6 +4809,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-23"
@@ -4508,6 +4823,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-21"
@@ -4521,6 +4837,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-20"
@@ -4534,6 +4851,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-16"
@@ -4547,6 +4865,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-13"
@@ -4560,6 +4879,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-13"
@@ -4573,6 +4893,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-09"
@@ -4586,6 +4907,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-06"
@@ -4599,6 +4921,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-06"
@@ -4612,6 +4935,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-11-02"
@@ -4625,6 +4949,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-30"
@@ -4638,6 +4963,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-26"
@@ -4664,6 +4990,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-23"
@@ -4677,6 +5004,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-22"
@@ -4690,6 +5018,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-19"
@@ -4703,6 +5032,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-18"
@@ -4716,6 +5046,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-16"
@@ -4742,6 +5073,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-12"
@@ -4755,6 +5087,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-10-09"
@@ -4798,6 +5131,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-28"
@@ -4811,6 +5145,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-18"
@@ -4824,6 +5159,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-18"
@@ -4837,6 +5173,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-13"
@@ -4850,6 +5187,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-11"
@@ -4878,6 +5216,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-09-07"
@@ -4891,6 +5230,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-08-28"
@@ -4904,6 +5244,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-08-22"
@@ -4930,6 +5271,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-07-18"
@@ -4943,6 +5285,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-07-17"
@@ -4956,6 +5299,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-07-10"
@@ -4969,6 +5313,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-07-09"
@@ -4982,6 +5327,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-07-02"
@@ -4995,6 +5341,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-30"
@@ -5008,6 +5355,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-29"
@@ -5035,6 +5383,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-26"
@@ -5048,6 +5397,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-25"
@@ -5075,6 +5425,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-18"
@@ -5088,6 +5439,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-16"
@@ -5115,6 +5467,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-07"
@@ -5128,6 +5481,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-06"
@@ -5155,6 +5509,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-06-06"
@@ -5168,6 +5523,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-31"
@@ -5181,6 +5537,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-29"
@@ -5194,6 +5551,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-23"
@@ -5221,6 +5579,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-19"
@@ -5234,6 +5593,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-16"
@@ -5261,6 +5621,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-14"
@@ -5288,6 +5649,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-09"
@@ -5301,6 +5663,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-03"
@@ -5314,6 +5677,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-05-03"
@@ -5341,6 +5705,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-30"
@@ -5354,6 +5719,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-26"
@@ -5367,6 +5733,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-20"
@@ -5380,6 +5747,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-18"
@@ -5393,6 +5761,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-11"
@@ -5420,6 +5789,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-04-04"
@@ -5433,6 +5803,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-29"
@@ -5460,6 +5831,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-27"
@@ -5473,6 +5845,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-26"
@@ -5501,6 +5874,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-23"
@@ -5528,6 +5902,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-16"
@@ -5541,6 +5916,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-13"
@@ -5597,6 +5973,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-03-01"
@@ -5624,6 +6001,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-21"
@@ -5651,6 +6029,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-16"
@@ -5678,6 +6057,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-10"
@@ -5705,6 +6085,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-02-02"
@@ -5732,6 +6113,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-25"
@@ -5759,6 +6141,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-18"
@@ -5786,6 +6169,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-11"
@@ -5813,6 +6197,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-03"
@@ -5840,6 +6225,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2023-01-02"
@@ -5882,6 +6268,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-12-20"
@@ -5909,6 +6296,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-12-12"
@@ -5936,6 +6324,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-30"
@@ -5949,6 +6338,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-27"
@@ -6003,6 +6393,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-10"
@@ -6016,6 +6407,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-11-04"
@@ -6043,6 +6435,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-10-27"
@@ -6084,6 +6477,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-10-14"
@@ -6138,6 +6532,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-13"
@@ -6165,6 +6560,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-09-11"
@@ -6192,6 +6588,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-31"
@@ -6219,6 +6616,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-24"
@@ -6246,6 +6644,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-17"
@@ -6273,6 +6672,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-08-05"
@@ -6300,6 +6700,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-28"
@@ -6327,6 +6728,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-21"
@@ -6354,6 +6756,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-07-15"
@@ -6381,6 +6784,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-29"
@@ -6408,6 +6812,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-22"
@@ -6435,6 +6840,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-14"
@@ -6476,6 +6882,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-06-02"
@@ -6503,6 +6910,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-29"
@@ -6516,6 +6924,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-20"
@@ -6543,6 +6952,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-13"
@@ -6570,6 +6980,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-05-04"
@@ -6597,6 +7008,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-28"
@@ -6610,6 +7022,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-21"
@@ -6623,6 +7036,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-13"
@@ -6650,6 +7064,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-04-07"
@@ -6677,6 +7092,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-30"
@@ -6704,6 +7120,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-25"
@@ -6717,6 +7134,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-20"
@@ -6744,6 +7162,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-11"
@@ -6771,6 +7190,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-03-02"
@@ -6798,6 +7218,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-25"
@@ -6825,6 +7246,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-20"
@@ -6852,6 +7274,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-09"
@@ -6879,6 +7302,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-02-03"
@@ -6906,6 +7330,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-27"
@@ -6933,6 +7358,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-19"
@@ -6960,6 +7386,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2022-01-12"
@@ -7002,6 +7429,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-29"
@@ -7029,6 +7457,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-21"
@@ -7056,6 +7485,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-15"
@@ -7083,6 +7513,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-08"
@@ -7125,6 +7556,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-12-01"
@@ -7153,6 +7585,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-24"
@@ -7180,6 +7613,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-17"
@@ -7207,6 +7641,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-10"
@@ -7234,6 +7669,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-11-03"
@@ -7261,6 +7697,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-26"
@@ -7288,6 +7725,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-19"
@@ -7315,6 +7753,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-12"
@@ -7328,6 +7767,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-10-06"
@@ -7399,6 +7839,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-09-14"
@@ -7426,6 +7867,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-31"
@@ -7453,6 +7895,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-24"
@@ -7480,6 +7923,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-17"
@@ -7507,6 +7951,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-10"
@@ -7549,6 +7994,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-08-03"
@@ -7591,6 +8037,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-27"
@@ -7618,6 +8065,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-20"
@@ -7645,6 +8093,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-13"
@@ -7672,6 +8121,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-07-06"
@@ -7699,6 +8149,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-29"
@@ -7726,6 +8177,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-22"
@@ -7752,6 +8204,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-15"
@@ -7779,6 +8232,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-09"
@@ -7806,6 +8260,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-06-01"
@@ -7833,6 +8288,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-25"
@@ -7874,6 +8330,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-11"
@@ -7916,6 +8373,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-05-05"
@@ -7942,6 +8400,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-27"
@@ -7969,6 +8428,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-20"
@@ -7996,6 +8456,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-04-13"
@@ -8050,6 +8511,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-23"
@@ -8105,6 +8567,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-16"
@@ -8145,6 +8608,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-09"
@@ -8172,6 +8636,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-03-02"
@@ -8185,6 +8650,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-23"
@@ -8212,6 +8678,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-16"
@@ -8269,6 +8736,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-09"
@@ -8326,6 +8794,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-02-02"
@@ -8353,6 +8822,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-26"
@@ -8395,6 +8865,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-19"
@@ -8437,6 +8908,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-12"
@@ -8464,6 +8936,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2021-01-05"
@@ -8506,6 +8979,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-29"
@@ -8533,6 +9007,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-22"
@@ -8560,6 +9035,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-15"
@@ -8587,6 +9063,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-08"
@@ -8656,6 +9133,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-12-01"
@@ -8696,6 +9174,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-24"
@@ -8709,6 +9188,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-17"
@@ -8749,6 +9229,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-11"
@@ -8821,6 +9302,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-11-03"
@@ -8849,6 +9331,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-27"
@@ -8876,6 +9359,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-10-20"
@@ -9329,6 +9813,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-25"
@@ -9439,6 +9924,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-06-09"
@@ -9479,6 +9965,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-26"
@@ -9506,6 +9993,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-20"
@@ -9533,6 +10021,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-12"
@@ -9560,6 +10049,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2020-05-05"
@@ -11432,6 +11922,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11445,6 +11936,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11458,6 +11950,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-05"
@@ -11497,6 +11990,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-03"
@@ -11510,6 +12004,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-03"
@@ -11523,6 +12018,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-02-01"
@@ -11550,6 +12046,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-31"
@@ -11563,6 +12060,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-27"
@@ -11576,6 +12074,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-27"
@@ -11589,6 +12088,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-25"
@@ -11602,6 +12102,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-24"
@@ -11615,6 +12116,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-23"
@@ -11628,6 +12130,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-22"
@@ -11641,6 +12144,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-21"
@@ -11654,6 +12158,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-20"
@@ -11667,6 +12172,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-20"
@@ -11680,6 +12186,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-18"
@@ -11707,6 +12214,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-17"
@@ -11720,6 +12228,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-17"
@@ -11733,6 +12242,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-16"
@@ -11746,6 +12256,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-16"
@@ -11759,6 +12270,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-14"
@@ -11772,6 +12284,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-13"
@@ -11785,6 +12298,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-13"
@@ -11798,6 +12312,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-11"
@@ -11868,6 +12383,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-03"
@@ -11881,6 +12397,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2019-01-02"
@@ -19191,6 +19708,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-10-04"
@@ -19217,6 +19735,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-25"
@@ -19230,6 +19749,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-18"
@@ -19243,6 +19763,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-11"
@@ -19298,6 +19819,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-09-04"
@@ -19412,6 +19934,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-28"
@@ -19425,6 +19948,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-21"
@@ -19440,6 +19964,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-14"
@@ -19453,6 +19978,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-08-09"
@@ -19466,6 +19992,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-31"
@@ -19479,6 +20006,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-23"
@@ -19492,6 +20020,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-17"
@@ -19519,6 +20048,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-10"
@@ -19574,6 +20104,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-03"
@@ -19587,6 +20118,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-07-03"
@@ -19628,6 +20160,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-06-19"
@@ -19654,6 +20187,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-06-05"
@@ -19681,6 +20215,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-29"
@@ -19708,6 +20243,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-22"
@@ -19735,6 +20271,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-14"
@@ -19762,6 +20299,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-05-07"
@@ -19789,6 +20327,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-30"
@@ -19816,6 +20355,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-23"
@@ -19872,6 +20412,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-04-16"
@@ -19913,6 +20454,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-27"
@@ -19954,6 +20496,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-22"
@@ -19981,6 +20524,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-13"
@@ -20047,6 +20591,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-03-05"
@@ -20060,6 +20605,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-27"
@@ -20087,6 +20633,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-20"
@@ -20126,6 +20673,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-13"
@@ -20153,6 +20701,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-02-06"
@@ -20180,6 +20729,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-30"
@@ -20207,6 +20757,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-23"
@@ -20233,6 +20784,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-16"
@@ -20260,6 +20812,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-09"
@@ -20303,6 +20856,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2015-01-02"
@@ -20316,6 +20870,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-26"
@@ -20482,6 +21037,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-19"
@@ -20510,6 +21066,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-12"
@@ -20554,6 +21111,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-12-05"
@@ -20581,6 +21139,7 @@
       "description": [],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-28"
@@ -20624,6 +21183,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-21"
@@ -20639,6 +21199,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-14"
@@ -20777,6 +21338,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-11-07"
@@ -20819,6 +21381,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-31"
@@ -20848,6 +21411,7 @@
       ],
       "tags": [
         "torah",
+        "rzelman",
         "toravedaat"
       ],
       "date": "2014-10-24"
@@ -27264,7 +27828,7 @@
     },
     {
       "id": "rzelman",
-      "count": 591
+      "count": 1155
     },
     {
       "id": "toravedaat",
@@ -27282,7 +27846,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 591
+      "count": 1155
     },
     {
       "tag": "torah",
