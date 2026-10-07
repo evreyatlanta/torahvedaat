@@ -11,6 +11,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cQMJMQuFpFQ/hqdefault.jpg",
       "date": "2026-10-01"
     },
     {
@@ -25,6 +26,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kY3i4HIh-5A/hqdefault.jpg",
       "date": "2026-09-23"
     },
     {
@@ -39,6 +41,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GcASY6bJbjI/hqdefault.jpg",
       "date": "2026-09-09"
     },
     {
@@ -53,6 +56,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CY0h_gklyJI/hqdefault.jpg",
       "date": "2026-09-03"
     },
     {
@@ -67,6 +71,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FLLvAD2FUOI/hqdefault.jpg",
       "date": "2026-09-03"
     },
     {
@@ -81,6 +86,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3CTbe8fQx2k/hqdefault.jpg",
       "date": "2026-08-27"
     },
     {
@@ -95,6 +101,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/k5NZ28nazos/hqdefault.jpg",
       "date": "2026-08-27"
     },
     {
@@ -109,6 +116,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f4qxC1l0oEc/hqdefault.jpg",
       "date": "2026-08-20"
     },
     {
@@ -123,6 +131,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GKlOw0csuJw/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -137,6 +146,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vFitY9h-E9s/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -151,6 +161,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Bd-5nIpeM6k/hqdefault.jpg",
       "date": "2026-08-06"
     },
     {
@@ -165,6 +176,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Svj9RWVgD0/hqdefault.jpg",
       "date": "2026-08-05"
     },
     {
@@ -179,6 +191,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q0VVo1PQuIM/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -193,6 +206,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/anx6sIgizX4/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -207,6 +221,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fgFg7jHUF3I/hqdefault.jpg",
       "date": "2026-07-23"
     },
     {
@@ -220,6 +235,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7R17RxpY7NY/hqdefault.jpg",
       "date": "2026-07-16"
     },
     {
@@ -234,6 +250,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H1bTQdcQcTw/hqdefault.jpg",
       "date": "2026-07-16"
     },
     {
@@ -248,6 +265,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FHOezjkZHnk/hqdefault.jpg",
       "date": "2026-07-09"
     },
     {
@@ -262,6 +280,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zcIBZgM63oc/hqdefault.jpg",
       "date": "2026-07-09"
     },
     {
@@ -276,6 +295,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xp8zIHUcvqo/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -290,6 +310,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M6GyfJgttJM/hqdefault.jpg",
       "date": "2026-06-25"
     },
     {
@@ -304,6 +325,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V0yOyanZ2OA/hqdefault.jpg",
       "date": "2026-06-25"
     },
     {
@@ -318,6 +340,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RRYwZsHIO8o/hqdefault.jpg",
       "date": "2026-06-18"
     },
     {
@@ -332,6 +355,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SeNv5WOA6FI/hqdefault.jpg",
       "date": "2026-06-18"
     },
     {
@@ -346,6 +370,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FQ_mZfCq5Hk/hqdefault.jpg",
       "date": "2026-06-11"
     },
     {
@@ -360,6 +385,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x80Qhic5w70/hqdefault.jpg",
       "date": "2026-06-11"
     },
     {
@@ -373,6 +399,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/beCGTOGvd5A/hqdefault.jpg",
       "date": "2026-06-04"
     },
     {
@@ -387,6 +414,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pvU2uaeopm4/hqdefault.jpg",
       "date": "2026-06-04"
     },
     {
@@ -401,6 +429,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z_RkpOixiG8/hqdefault.jpg",
       "date": "2026-05-28"
     },
     {
@@ -415,6 +444,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/idpzHIKKD3k/hqdefault.jpg",
       "date": "2026-05-27"
     },
     {
@@ -429,6 +459,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3aSvX6xlHXw/hqdefault.jpg",
       "date": "2026-05-21"
     },
     {
@@ -443,6 +474,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MfwnImlYlOc/hqdefault.jpg",
       "date": "2026-05-21"
     },
     {
@@ -457,6 +489,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SrS14bgP2Eo/hqdefault.jpg",
       "date": "2026-05-14"
     },
     {
@@ -471,6 +504,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GS-qJoty6DM/hqdefault.jpg",
       "date": "2026-05-13"
     },
     {
@@ -485,6 +519,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zCk4g_4Yueg/hqdefault.jpg",
       "date": "2026-05-07"
     },
     {
@@ -499,6 +534,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LFJSboVa6jY/hqdefault.jpg",
       "date": "2026-05-06"
     },
     {
@@ -513,6 +549,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z3c1Dc2XcxU/hqdefault.jpg",
       "date": "2026-04-30"
     },
     {
@@ -527,6 +564,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DVGVHlfSsCw/hqdefault.jpg",
       "date": "2026-04-29"
     },
     {
@@ -541,6 +579,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s-F2eyIIhnU/hqdefault.jpg",
       "date": "2026-04-23"
     },
     {
@@ -555,6 +594,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5FbxxwOZ0qI/hqdefault.jpg",
       "date": "2026-04-22"
     },
     {
@@ -569,6 +609,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/maf_-tKAF24/hqdefault.jpg",
       "date": "2026-04-16"
     },
     {
@@ -583,6 +624,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_GR18p9jqcQ/hqdefault.jpg",
       "date": "2026-04-16"
     },
     {
@@ -597,6 +639,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/frLH53nl5KQ/hqdefault.jpg",
       "date": "2026-04-10"
     },
     {
@@ -611,6 +654,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4AkGr0TC1Jk/hqdefault.jpg",
       "date": "2026-03-26"
     },
     {
@@ -625,6 +669,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aN4_4EerPpg/hqdefault.jpg",
       "date": "2026-03-25"
     },
     {
@@ -640,6 +685,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L2Ie44Vg1Oc/hqdefault.jpg",
       "date": "2026-03-24"
     },
     {
@@ -655,6 +701,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UMMv06q6Rco/hqdefault.jpg",
       "date": "2026-03-19"
     },
     {
@@ -669,6 +716,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f5R7eOFctuw/hqdefault.jpg",
       "date": "2026-03-19"
     },
     {
@@ -683,6 +731,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6wLBXS5mUwg/hqdefault.jpg",
       "date": "2026-03-18"
     },
     {
@@ -698,6 +747,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E3cz5LmizAY/hqdefault.jpg",
       "date": "2026-03-13"
     },
     {
@@ -712,6 +762,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a86HJ68qXOE/hqdefault.jpg",
       "date": "2026-03-12"
     },
     {
@@ -727,6 +778,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uvL50GVMtHQ/hqdefault.jpg",
       "date": "2026-03-09"
     },
     {
@@ -741,6 +793,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QQleeDZ4KW0/hqdefault.jpg",
       "date": "2026-03-05"
     },
     {
@@ -755,6 +808,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1KXb2f-r0wY/hqdefault.jpg",
       "date": "2026-02-19"
     },
     {
@@ -769,6 +823,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/D7CoXve2_RA/hqdefault.jpg",
       "date": "2026-02-18"
     },
     {
@@ -783,6 +838,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zdzkH7aW6ZA/hqdefault.jpg",
       "date": "2026-02-12"
     },
     {
@@ -797,6 +853,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iHM75bEDuYc/hqdefault.jpg",
       "date": "2026-02-11"
     },
     {
@@ -811,6 +868,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LowybUUq7uM/hqdefault.jpg",
       "date": "2026-02-11"
     },
     {
@@ -825,6 +883,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sb3pneQ-tgk/hqdefault.jpg",
       "date": "2026-02-05"
     },
     {
@@ -839,6 +898,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w3y9kldIqIE/hqdefault.jpg",
       "date": "2026-02-04"
     },
     {
@@ -853,6 +913,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gV-LsDRGLTw/hqdefault.jpg",
       "date": "2026-01-29"
     },
     {
@@ -867,6 +928,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gHR9koh7EsU/hqdefault.jpg",
       "date": "2026-01-28"
     },
     {
@@ -881,6 +943,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AGadGVdy81c/hqdefault.jpg",
       "date": "2026-01-22"
     },
     {
@@ -895,6 +958,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OqyvQSKkbR0/hqdefault.jpg",
       "date": "2026-01-21"
     },
     {
@@ -909,6 +973,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CDH-5cHG3-o/hqdefault.jpg",
       "date": "2026-01-15"
     },
     {
@@ -923,6 +988,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WIp-rovt88I/hqdefault.jpg",
       "date": "2026-01-14"
     },
     {
@@ -937,6 +1003,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iY2CMNRj58Y/hqdefault.jpg",
       "date": "2026-01-08"
     },
     {
@@ -951,6 +1018,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lLJgM_dwqGs/hqdefault.jpg",
       "date": "2026-01-08"
     },
     {
@@ -965,6 +1033,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cz5ddWwWLhA/hqdefault.jpg",
       "date": "2026-01-08"
     },
     {
@@ -979,6 +1048,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0-hf4-jR8pw/hqdefault.jpg",
       "date": "2026-01-01"
     },
     {
@@ -993,6 +1063,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4IshEopKxdk/hqdefault.jpg",
       "date": "2025-12-30"
     },
     {
@@ -1007,6 +1078,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5CaMwBl647A/hqdefault.jpg",
       "date": "2025-12-30"
     },
     {
@@ -1021,6 +1093,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L9UU4dOTAeg/hqdefault.jpg",
       "date": "2025-12-25"
     },
     {
@@ -1035,6 +1108,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zBt67IHCm7A/hqdefault.jpg",
       "date": "2025-12-24"
     },
     {
@@ -1049,6 +1123,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7wcV7tcZazI/hqdefault.jpg",
       "date": "2025-12-24"
     },
     {
@@ -1063,6 +1138,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U6DghefINus/hqdefault.jpg",
       "date": "2025-12-18"
     },
     {
@@ -1077,6 +1153,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CapDzAQT5yI/hqdefault.jpg",
       "date": "2025-12-18"
     },
     {
@@ -1091,6 +1168,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TwMKsDDWeTg/hqdefault.jpg",
       "date": "2025-12-18"
     },
     {
@@ -1104,6 +1182,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vHNkJc03kE0/hqdefault.jpg",
       "date": "2025-12-12"
     },
     {
@@ -1118,6 +1197,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8fnQJaIkJ20/hqdefault.jpg",
       "date": "2025-12-10"
     },
     {
@@ -1132,6 +1212,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/g3eziYt6Brg/hqdefault.jpg",
       "date": "2025-12-10"
     },
     {
@@ -1146,6 +1227,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fq1nP26CydQ/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -1160,6 +1242,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lVJu4MRTiEw/hqdefault.jpg",
       "date": "2025-12-04"
     },
     {
@@ -1174,6 +1257,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_PUgxYBAr4Q/hqdefault.jpg",
       "date": "2025-12-04"
     },
     {
@@ -1188,6 +1272,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ch_gSyO9ROo/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -1202,6 +1287,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m7AcN1AkHHs/hqdefault.jpg",
       "date": "2025-11-26"
     },
     {
@@ -1216,6 +1302,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dg4IYTYLz-E/hqdefault.jpg",
       "date": "2025-11-26"
     },
     {
@@ -1230,6 +1317,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Xw5TIO6BGnU/hqdefault.jpg",
       "date": "2025-11-26"
     },
     {
@@ -1244,6 +1332,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m1l89xc2SiE/hqdefault.jpg",
       "date": "2025-11-19"
     },
     {
@@ -1258,6 +1347,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RUqBtJrOmV4/hqdefault.jpg",
       "date": "2025-11-19"
     },
     {
@@ -1272,6 +1362,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KA7gI7ewb0Y/hqdefault.jpg",
       "date": "2025-11-13"
     },
     {
@@ -1286,6 +1377,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_5gtQM27nsY/hqdefault.jpg",
       "date": "2025-11-13"
     },
     {
@@ -1301,6 +1393,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f1iw1hG1TWA/hqdefault.jpg",
       "date": "2025-11-10"
     },
     {
@@ -1315,6 +1408,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qWQotMQGgis/hqdefault.jpg",
       "date": "2025-11-06"
     },
     {
@@ -1329,6 +1423,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9yfHCghbgAQ/hqdefault.jpg",
       "date": "2025-11-06"
     },
     {
@@ -1343,6 +1438,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vbKnrNj-Dk8/hqdefault.jpg",
       "date": "2025-10-30"
     },
     {
@@ -1357,6 +1453,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C4JEdYi8nic/hqdefault.jpg",
       "date": "2025-10-30"
     },
     {
@@ -1371,6 +1468,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oa2DmDzUoB8/hqdefault.jpg",
       "date": "2025-10-23"
     },
     {
@@ -1385,6 +1483,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WocF9UgZmrE/hqdefault.jpg",
       "date": "2025-10-20"
     },
     {
@@ -1399,6 +1498,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YMpmxKyEm48/hqdefault.jpg",
       "date": "2025-10-17"
     },
     {
@@ -1413,6 +1513,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PPRTy70_qAg/hqdefault.jpg",
       "date": "2025-10-17"
     },
     {
@@ -1427,6 +1528,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aqN4n4j3YvI/hqdefault.jpg",
       "date": "2025-10-17"
     },
     {
@@ -1442,6 +1544,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d8tIsNaMSfU/hqdefault.jpg",
       "date": "2025-09-30"
     },
     {
@@ -1456,6 +1559,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dT5OnD2iReU/hqdefault.jpg",
       "date": "2025-09-29"
     },
     {
@@ -1470,6 +1574,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1xAOf6bZB5s/hqdefault.jpg",
       "date": "2025-09-29"
     },
     {
@@ -1484,6 +1589,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/veGmBowNzoQ/hqdefault.jpg",
       "date": "2025-09-28"
     },
     {
@@ -1498,6 +1604,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iRsxlhvGB8w/hqdefault.jpg",
       "date": "2025-09-28"
     },
     {
@@ -1512,6 +1619,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CM7Npi7nUD4/hqdefault.jpg",
       "date": "2025-09-17"
     },
     {
@@ -1526,6 +1634,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zB_cGLBuPDI/hqdefault.jpg",
       "date": "2025-09-10"
     },
     {
@@ -1540,6 +1649,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YJj4Ex4cyfg/hqdefault.jpg",
       "date": "2025-09-10"
     },
     {
@@ -1554,6 +1664,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KUu3xIXq71w/hqdefault.jpg",
       "date": "2025-09-03"
     },
     {
@@ -1568,6 +1679,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PyilVE9CF50/hqdefault.jpg",
       "date": "2025-09-03"
     },
     {
@@ -1582,6 +1694,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r7gOpwxdbUE/hqdefault.jpg",
       "date": "2025-09-03"
     },
     {
@@ -1596,6 +1709,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fp1gYzIQ5zc/hqdefault.jpg",
       "date": "2025-08-27"
     },
     {
@@ -1610,6 +1724,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2eo50ah0_lk/hqdefault.jpg",
       "date": "2025-08-27"
     },
     {
@@ -1624,6 +1739,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gRON8ah8jjI/hqdefault.jpg",
       "date": "2025-08-20"
     },
     {
@@ -1638,6 +1754,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JxMZMcVCmTI/hqdefault.jpg",
       "date": "2025-08-20"
     },
     {
@@ -1652,6 +1769,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jZjXDaAVAWU/hqdefault.jpg",
       "date": "2025-08-20"
     },
     {
@@ -1666,6 +1784,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p62GyANHIvw/hqdefault.jpg",
       "date": "2025-08-13"
     },
     {
@@ -1680,6 +1799,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sRagJ-fZek0/hqdefault.jpg",
       "date": "2025-08-13"
     },
     {
@@ -1694,6 +1814,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pIEcAncFYPc/hqdefault.jpg",
       "date": "2025-08-06"
     },
     {
@@ -1708,6 +1829,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HmzLxjijsgo/hqdefault.jpg",
       "date": "2025-07-30"
     },
     {
@@ -1722,6 +1844,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XcE34bI_s_c/hqdefault.jpg",
       "date": "2025-07-30"
     },
     {
@@ -1736,6 +1859,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DqX7B5JxsZU/hqdefault.jpg",
       "date": "2025-07-23"
     },
     {
@@ -1750,6 +1874,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BTMFTeuXu_c/hqdefault.jpg",
       "date": "2025-07-23"
     },
     {
@@ -1764,6 +1889,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rEc497hNpNI/hqdefault.jpg",
       "date": "2025-07-23"
     },
     {
@@ -1778,6 +1904,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FTpp16zl_zg/hqdefault.jpg",
       "date": "2025-07-16"
     },
     {
@@ -1792,6 +1919,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hiseKdBIwJI/hqdefault.jpg",
       "date": "2025-07-16"
     },
     {
@@ -1806,6 +1934,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/j7a3_Lqekj0/hqdefault.jpg",
       "date": "2025-07-14"
     },
     {
@@ -1820,6 +1949,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C-iEcI5Qan8/hqdefault.jpg",
       "date": "2025-07-07"
     },
     {
@@ -1834,6 +1964,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gP8hse8CTqA/hqdefault.jpg",
       "date": "2025-07-07"
     },
     {
@@ -1848,6 +1979,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qcE27CStkcY/hqdefault.jpg",
       "date": "2025-07-02"
     },
     {
@@ -1862,6 +1994,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LNsQ_ZkBUh4/hqdefault.jpg",
       "date": "2025-07-02"
     },
     {
@@ -1876,6 +2009,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DboM3B_cpDM/hqdefault.jpg",
       "date": "2025-06-29"
     },
     {
@@ -1890,6 +2024,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/i_d2zLRlgvU/hqdefault.jpg",
       "date": "2025-06-29"
     },
     {
@@ -1904,6 +2039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xb5YIP_-HxM/hqdefault.jpg",
       "date": "2025-06-23"
     },
     {
@@ -1918,6 +2054,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pa-mPiUIpu0/hqdefault.jpg",
       "date": "2025-06-23"
     },
     {
@@ -1932,6 +2069,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-h2utxbvNwE/hqdefault.jpg",
       "date": "2025-06-17"
     },
     {
@@ -1946,6 +2084,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WEs04_Tpuxg/hqdefault.jpg",
       "date": "2025-06-17"
     },
     {
@@ -1960,6 +2099,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BFkaRVKrjN8/hqdefault.jpg",
       "date": "2025-06-12"
     },
     {
@@ -1974,6 +2114,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OKEFK7Qnj58/hqdefault.jpg",
       "date": "2025-06-12"
     },
     {
@@ -1988,6 +2129,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cMu-xEDxifo/hqdefault.jpg",
       "date": "2025-06-09"
     },
     {
@@ -2002,6 +2144,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5WbrrEdbX7c/hqdefault.jpg",
       "date": "2025-06-04"
     },
     {
@@ -2016,6 +2159,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YDooOBjs9zI/hqdefault.jpg",
       "date": "2025-05-27"
     },
     {
@@ -2030,6 +2174,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ul-QRLGMMa8/hqdefault.jpg",
       "date": "2025-05-26"
     },
     {
@@ -2044,6 +2189,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2WTaHUsX1rE/hqdefault.jpg",
       "date": "2025-05-25"
     },
     {
@@ -2058,6 +2204,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AJIhP7f0mhY/hqdefault.jpg",
       "date": "2025-05-25"
     },
     {
@@ -2072,6 +2219,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3I7iFMSa2jY/hqdefault.jpg",
       "date": "2025-05-14"
     },
     {
@@ -2086,6 +2234,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CIIcBAzgWHI/hqdefault.jpg",
       "date": "2025-05-14"
     },
     {
@@ -2100,6 +2249,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E8FArWxT35A/hqdefault.jpg",
       "date": "2025-05-12"
     },
     {
@@ -2114,6 +2264,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QPwYybjyxWc/hqdefault.jpg",
       "date": "2025-05-11"
     },
     {
@@ -2128,6 +2279,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yEzuHm1HDgQ/hqdefault.jpg",
       "date": "2025-05-07"
     },
     {
@@ -2142,6 +2294,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u3W-_o8QLVM/hqdefault.jpg",
       "date": "2025-05-05"
     },
     {
@@ -2156,6 +2309,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d1S-hi_2nG0/hqdefault.jpg",
       "date": "2025-05-05"
     },
     {
@@ -2170,6 +2324,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mA2NHEj-k-g/hqdefault.jpg",
       "date": "2025-04-29"
     },
     {
@@ -2184,6 +2339,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ecplXKdkxGo/hqdefault.jpg",
       "date": "2025-04-27"
     },
     {
@@ -2198,6 +2354,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bSNDpY2lVC4/hqdefault.jpg",
       "date": "2025-04-25"
     },
     {
@@ -2212,6 +2369,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XCUketNwc0I/hqdefault.jpg",
       "date": "2025-04-25"
     },
     {
@@ -2226,6 +2384,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cs_1GW5EAP8/hqdefault.jpg",
       "date": "2025-04-21"
     },
     {
@@ -2240,6 +2399,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/reOCKTwLmws/hqdefault.jpg",
       "date": "2025-04-07"
     },
     {
@@ -2254,6 +2414,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gXLfhj3w3-E/hqdefault.jpg",
       "date": "2025-04-07"
     },
     {
@@ -2268,6 +2429,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tFLIXf27u1A/hqdefault.jpg",
       "date": "2025-04-06"
     },
     {
@@ -2282,6 +2444,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rKp8XFQ4fME/hqdefault.jpg",
       "date": "2025-03-31"
     },
     {
@@ -2296,6 +2459,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GCdWrt4fkpw/hqdefault.jpg",
       "date": "2025-03-31"
     },
     {
@@ -2310,6 +2474,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4lrJhm9R7jA/hqdefault.jpg",
       "date": "2025-03-24"
     },
     {
@@ -2324,6 +2489,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5ANbIwr-uBk/hqdefault.jpg",
       "date": "2025-03-24"
     },
     {
@@ -2338,6 +2504,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UCfCeXP0X34/hqdefault.jpg",
       "date": "2025-03-24"
     },
     {
@@ -2352,6 +2519,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eprx2g1fVaU/hqdefault.jpg",
       "date": "2025-03-17"
     },
     {
@@ -2366,6 +2534,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/33mH1DUGUqE/hqdefault.jpg",
       "date": "2025-03-11"
     },
     {
@@ -2380,6 +2549,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vhjJxYOzvq8/hqdefault.jpg",
       "date": "2025-03-11"
     },
     {
@@ -2394,6 +2564,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cce4Bbw284I/hqdefault.jpg",
       "date": "2025-03-06"
     },
     {
@@ -2408,6 +2579,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cGg1U8QEwHM/hqdefault.jpg",
       "date": "2025-03-06"
     },
     {
@@ -2422,6 +2594,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BjTt73twa8U/hqdefault.jpg",
       "date": "2025-03-03"
     },
     {
@@ -2436,6 +2609,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uMk2xowHoHI/hqdefault.jpg",
       "date": "2025-03-03"
     },
     {
@@ -2450,6 +2624,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mBayBDKrbko/hqdefault.jpg",
       "date": "2025-02-24"
     },
     {
@@ -2464,6 +2639,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FPPGWxuBXT0/hqdefault.jpg",
       "date": "2025-02-24"
     },
     {
@@ -2478,6 +2654,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m5-iMbSKvdY/hqdefault.jpg",
       "date": "2025-02-17"
     },
     {
@@ -2493,6 +2670,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oc9OjrEQEW0/hqdefault.jpg",
       "date": "2025-02-10"
     },
     {
@@ -2507,6 +2685,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bRPDRGpUxS0/hqdefault.jpg",
       "date": "2025-02-05"
     },
     {
@@ -2521,6 +2700,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m_J6tCU62fM/hqdefault.jpg",
       "date": "2025-02-03"
     },
     {
@@ -2535,6 +2715,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AibOIhP0Jjk/hqdefault.jpg",
       "date": "2025-02-03"
     },
     {
@@ -2549,6 +2730,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AvKDkuhBjGY/hqdefault.jpg",
       "date": "2025-01-29"
     },
     {
@@ -2563,6 +2745,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aPiovwm_tNU/hqdefault.jpg",
       "date": "2025-01-28"
     },
     {
@@ -2577,6 +2760,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/upMkRA_H_PQ/hqdefault.jpg",
       "date": "2025-01-27"
     },
     {
@@ -2591,6 +2775,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2dG2tfz4NgI/hqdefault.jpg",
       "date": "2025-01-23"
     },
     {
@@ -2605,6 +2790,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UMhtohsaGmI/hqdefault.jpg",
       "date": "2025-01-22"
     },
     {
@@ -2619,6 +2805,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6nMeS5U4VgE/hqdefault.jpg",
       "date": "2025-01-22"
     },
     {
@@ -2633,6 +2820,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ob0Q9Jxp2SY/hqdefault.jpg",
       "date": "2025-01-20"
     },
     {
@@ -2647,6 +2835,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VEG2-DJOldQ/hqdefault.jpg",
       "date": "2025-01-19"
     },
     {
@@ -2661,6 +2850,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_2lv30aS4ok/hqdefault.jpg",
       "date": "2025-01-16"
     },
     {
@@ -2675,6 +2865,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7eBeduBcStc/hqdefault.jpg",
       "date": "2025-01-13"
     },
     {
@@ -2689,6 +2880,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ezev8X7z1G4/hqdefault.jpg",
       "date": "2025-01-12"
     },
     {
@@ -2703,6 +2895,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZO0NnO0P2EM/hqdefault.jpg",
       "date": "2025-01-09"
     },
     {
@@ -2717,6 +2910,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SOXV1n33bgY/hqdefault.jpg",
       "date": "2025-01-06"
     },
     {
@@ -2732,6 +2926,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kN8HhY7djaI/hqdefault.jpg",
       "date": "2025-01-01"
     },
     {
@@ -2746,6 +2941,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hHpeNo8H6SY/hqdefault.jpg",
       "date": "2024-12-31"
     },
     {
@@ -2761,6 +2957,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9aEkWH7KsiI/hqdefault.jpg",
       "date": "2024-12-30"
     },
     {
@@ -2775,6 +2972,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SFQUYE_3g8o/hqdefault.jpg",
       "date": "2024-12-30"
     },
     {
@@ -2790,6 +2988,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Bm06xFu25PE/hqdefault.jpg",
       "date": "2024-12-25"
     },
     {
@@ -2804,6 +3003,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kW5EKtRXC00/hqdefault.jpg",
       "date": "2024-12-23"
     },
     {
@@ -2818,6 +3018,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xXRPw3ygDWY/hqdefault.jpg",
       "date": "2024-12-23"
     },
     {
@@ -2832,6 +3033,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cpGS-3TrK-s/hqdefault.jpg",
       "date": "2024-12-22"
     },
     {
@@ -2846,6 +3048,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s3SYTzOf9Rs/hqdefault.jpg",
       "date": "2024-12-22"
     },
     {
@@ -2860,6 +3063,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rVE_h7zEIoE/hqdefault.jpg",
       "date": "2024-12-19"
     },
     {
@@ -2874,6 +3078,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VOxdMvmT54c/hqdefault.jpg",
       "date": "2024-12-16"
     },
     {
@@ -2888,6 +3093,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jMWcvuhLKC0/hqdefault.jpg",
       "date": "2024-12-15"
     },
     {
@@ -2902,6 +3108,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t7jWFgDVnxk/hqdefault.jpg",
       "date": "2024-12-09"
     },
     {
@@ -2916,6 +3123,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UghrEwkZvoQ/hqdefault.jpg",
       "date": "2024-12-08"
     },
     {
@@ -2930,6 +3138,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QZVR1s2CmxI/hqdefault.jpg",
       "date": "2024-12-05"
     },
     {
@@ -2944,6 +3153,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6yMX9hctgKk/hqdefault.jpg",
       "date": "2024-12-02"
     },
     {
@@ -2958,6 +3168,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MSpvUToqBR0/hqdefault.jpg",
       "date": "2024-12-01"
     },
     {
@@ -2972,6 +3183,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WobATSuf9OA/hqdefault.jpg",
       "date": "2024-11-25"
     },
     {
@@ -2986,6 +3198,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TXTiTffLuUc/hqdefault.jpg",
       "date": "2024-11-18"
     },
     {
@@ -3000,6 +3213,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TegsKlMANpY/hqdefault.jpg",
       "date": "2024-11-14"
     },
     {
@@ -3014,6 +3228,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h21hjp1_7JM/hqdefault.jpg",
       "date": "2024-11-14"
     },
     {
@@ -3028,6 +3243,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WwO33KpRRQ8/hqdefault.jpg",
       "date": "2024-11-10"
     },
     {
@@ -3043,6 +3259,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G1dgcHhpWhc/hqdefault.jpg",
       "date": "2024-11-07"
     },
     {
@@ -3057,6 +3274,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4d32sSbe7NI/hqdefault.jpg",
       "date": "2024-11-07"
     },
     {
@@ -3071,6 +3289,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2oE77s0D1fQ/hqdefault.jpg",
       "date": "2024-11-04"
     },
     {
@@ -3085,6 +3304,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mx0CkJKMJnI/hqdefault.jpg",
       "date": "2024-11-03"
     },
     {
@@ -3099,6 +3319,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uFqudgUK-zA/hqdefault.jpg",
       "date": "2024-10-27"
     },
     {
@@ -3113,6 +3334,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RqgNeLH4f8w/hqdefault.jpg",
       "date": "2024-10-21"
     },
     {
@@ -3127,6 +3349,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z8hHB346Emk/hqdefault.jpg",
       "date": "2024-10-20"
     },
     {
@@ -3141,6 +3364,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IIbQzqvAmj0/hqdefault.jpg",
       "date": "2024-10-20"
     },
     {
@@ -3155,6 +3379,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5CcOSr87MhM/hqdefault.jpg",
       "date": "2024-10-14"
     },
     {
@@ -3169,6 +3394,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NrrIj2s9UyU/hqdefault.jpg",
       "date": "2024-10-13"
     },
     {
@@ -3183,6 +3409,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_ysTZCrP23Q/hqdefault.jpg",
       "date": "2024-10-10"
     },
     {
@@ -3197,6 +3424,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LRJsXd6eRBY/hqdefault.jpg",
       "date": "2024-10-07"
     },
     {
@@ -3211,6 +3439,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HaJKWxmHYmA/hqdefault.jpg",
       "date": "2024-09-30"
     },
     {
@@ -3225,6 +3454,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CqJaY0xyss8/hqdefault.jpg",
       "date": "2024-09-29"
     },
     {
@@ -3239,6 +3469,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7TxFHJskrmM/hqdefault.jpg",
       "date": "2024-09-26"
     },
     {
@@ -3253,6 +3484,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zDhlYPdbl5Y/hqdefault.jpg",
       "date": "2024-09-25"
     },
     {
@@ -3267,6 +3499,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/e9ZSD_Whquk/hqdefault.jpg",
       "date": "2024-09-22"
     },
     {
@@ -3281,6 +3514,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QNx4FEvHFhY/hqdefault.jpg",
       "date": "2024-09-19"
     },
     {
@@ -3295,6 +3529,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hk_8RV8ZmBo/hqdefault.jpg",
       "date": "2024-09-16"
     },
     {
@@ -3309,6 +3544,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S63ErogurRo/hqdefault.jpg",
       "date": "2024-09-12"
     },
     {
@@ -3323,6 +3559,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qfe54GElXos/hqdefault.jpg",
       "date": "2024-09-11"
     },
     {
@@ -3336,6 +3573,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wp4BvtuCrIQ/hqdefault.jpg",
       "date": "2024-09-09"
     },
     {
@@ -3350,6 +3588,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ds0tkewJjEA/hqdefault.jpg",
       "date": "2024-09-09"
     },
     {
@@ -3364,6 +3603,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dFnb-u63VO4/hqdefault.jpg",
       "date": "2024-09-06"
     },
     {
@@ -3378,6 +3618,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/J4J17Sa5nu4/hqdefault.jpg",
       "date": "2024-09-02"
     },
     {
@@ -3392,6 +3633,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5iyxLc-rMP8/hqdefault.jpg",
       "date": "2024-09-01"
     },
     {
@@ -3406,6 +3648,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AcI6iwiksaA/hqdefault.jpg",
       "date": "2024-08-26"
     },
     {
@@ -3420,6 +3663,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ER0LqCpyito/hqdefault.jpg",
       "date": "2024-08-22"
     },
     {
@@ -3434,6 +3678,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QHBgOAi5nYI/hqdefault.jpg",
       "date": "2024-08-22"
     },
     {
@@ -3448,6 +3693,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BZi-Hzaq_ys/hqdefault.jpg",
       "date": "2024-08-14"
     },
     {
@@ -3462,6 +3708,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vrvJZk0cK94/hqdefault.jpg",
       "date": "2024-08-12"
     },
     {
@@ -3476,6 +3723,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RzLO1pe6y4U/hqdefault.jpg",
       "date": "2024-08-08"
     },
     {
@@ -3490,6 +3738,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Yh0fI9kFR4Y/hqdefault.jpg",
       "date": "2024-08-05"
     },
     {
@@ -3504,6 +3753,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AT6Aw3vVc1Q/hqdefault.jpg",
       "date": "2024-08-04"
     },
     {
@@ -3518,6 +3768,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9kQJ3yiG-9o/hqdefault.jpg",
       "date": "2024-08-01"
     },
     {
@@ -3532,6 +3783,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oABhHmWqegE/hqdefault.jpg",
       "date": "2024-07-29"
     },
     {
@@ -3546,6 +3798,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PFJjNGr8T9s/hqdefault.jpg",
       "date": "2024-07-28"
     },
     {
@@ -3560,6 +3813,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xtjMJU7EYzY/hqdefault.jpg",
       "date": "2024-07-22"
     },
     {
@@ -3574,6 +3828,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oPNimMUHwlE/hqdefault.jpg",
       "date": "2024-07-19"
     },
     {
@@ -3589,6 +3844,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JatuXw6XNiY/hqdefault.jpg",
       "date": "2024-07-19"
     },
     {
@@ -3603,6 +3859,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vy6o-foyejE/hqdefault.jpg",
       "date": "2024-07-18"
     },
     {
@@ -3617,6 +3874,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pjz-dTHSb-M/hqdefault.jpg",
       "date": "2024-07-15"
     },
     {
@@ -3631,6 +3889,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/01e_BVVtZVc/hqdefault.jpg",
       "date": "2024-07-12"
     },
     {
@@ -3645,6 +3904,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6H8lNmzo-sY/hqdefault.jpg",
       "date": "2024-07-11"
     },
     {
@@ -3659,6 +3919,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7kLNLc8onEs/hqdefault.jpg",
       "date": "2024-07-08"
     },
     {
@@ -3673,6 +3934,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gd8sF_h5rIk/hqdefault.jpg",
       "date": "2024-07-07"
     },
     {
@@ -3687,6 +3949,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E7IH3rdd440/hqdefault.jpg",
       "date": "2024-07-04"
     },
     {
@@ -3701,6 +3964,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ry9syuDEfYM/hqdefault.jpg",
       "date": "2024-07-01"
     },
     {
@@ -3715,6 +3979,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9M20Ro65oE4/hqdefault.jpg",
       "date": "2024-06-28"
     },
     {
@@ -3729,6 +3994,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NtSox9u6nYg/hqdefault.jpg",
       "date": "2024-06-28"
     },
     {
@@ -3743,6 +4009,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9RKoDjYCc0A/hqdefault.jpg",
       "date": "2024-06-24"
     },
     {
@@ -3757,6 +4024,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VwML9gjd9tk/hqdefault.jpg",
       "date": "2024-06-23"
     },
     {
@@ -3771,6 +4039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c49VZYRV4OY/hqdefault.jpg",
       "date": "2024-06-17"
     },
     {
@@ -3785,6 +4054,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ths4qbyrqqc/hqdefault.jpg",
       "date": "2024-06-16"
     },
     {
@@ -3799,6 +4069,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SZpEj6Rhe7k/hqdefault.jpg",
       "date": "2024-06-10"
     },
     {
@@ -3813,6 +4084,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zSVLqqTvE1M/hqdefault.jpg",
       "date": "2024-06-09"
     },
     {
@@ -3827,6 +4099,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/q-hXUVz5AIE/hqdefault.jpg",
       "date": "2024-06-06"
     },
     {
@@ -3841,6 +4114,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mJOJLCExW64/hqdefault.jpg",
       "date": "2024-06-03"
     },
     {
@@ -3855,6 +4129,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iGhOpEfJ_Zk/hqdefault.jpg",
       "date": "2024-05-30"
     },
     {
@@ -3869,6 +4144,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WYwW_IWgFX0/hqdefault.jpg",
       "date": "2024-05-27"
     },
     {
@@ -3883,6 +4159,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SsaUvU-Ar-A/hqdefault.jpg",
       "date": "2024-05-24"
     },
     {
@@ -3897,6 +4174,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x6d-oAux7Yg/hqdefault.jpg",
       "date": "2024-05-22"
     },
     {
@@ -3911,6 +4189,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7w5IOG79Jb8/hqdefault.jpg",
       "date": "2024-05-16"
     },
     {
@@ -3925,6 +4204,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p2OkKmi_GhI/hqdefault.jpg",
       "date": "2024-05-15"
     },
     {
@@ -3939,6 +4219,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DJcUdFKJe0w/hqdefault.jpg",
       "date": "2024-05-08"
     },
     {
@@ -3953,6 +4234,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ioep7OQB4cE/hqdefault.jpg",
       "date": "2024-05-08"
     },
     {
@@ -3967,6 +4249,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/isp8CCZkr-c/hqdefault.jpg",
       "date": "2024-04-26"
     },
     {
@@ -3981,6 +4264,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZGRQq9zLDO8/hqdefault.jpg",
       "date": "2024-04-18"
     },
     {
@@ -3995,6 +4279,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AqFA8jJIQXg/hqdefault.jpg",
       "date": "2024-04-18"
     },
     {
@@ -4009,6 +4294,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3moAReFFWzg/hqdefault.jpg",
       "date": "2024-04-16"
     },
     {
@@ -4023,6 +4309,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3Ldn4LLOx_U/hqdefault.jpg",
       "date": "2024-04-15"
     },
     {
@@ -4037,6 +4324,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/97D_kr84ej8/hqdefault.jpg",
       "date": "2024-04-12"
     },
     {
@@ -4051,6 +4339,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6-CFbpdMcgk/hqdefault.jpg",
       "date": "2024-04-11"
     },
     {
@@ -4065,6 +4354,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DPLqcyNiROg/hqdefault.jpg",
       "date": "2024-04-07"
     },
     {
@@ -4079,6 +4369,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rfz4plvsfCU/hqdefault.jpg",
       "date": "2024-04-07"
     },
     {
@@ -4093,6 +4384,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PUitATxSNiY/hqdefault.jpg",
       "date": "2024-04-04"
     },
     {
@@ -4107,6 +4399,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mj0QNYF7exY/hqdefault.jpg",
       "date": "2024-04-01"
     },
     {
@@ -4121,6 +4414,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_HRkMPS1IUQ/hqdefault.jpg",
       "date": "2024-03-29"
     },
     {
@@ -4135,6 +4429,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IOF8fx0sIzU/hqdefault.jpg",
       "date": "2024-03-25"
     },
     {
@@ -4150,6 +4445,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hhWgdx_FyoU/hqdefault.jpg",
       "date": "2024-03-22"
     },
     {
@@ -4165,6 +4461,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CJvFOI-f_wI/hqdefault.jpg",
       "date": "2024-03-21"
     },
     {
@@ -4179,6 +4476,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KMyj81ngFn0/hqdefault.jpg",
       "date": "2024-03-20"
     },
     {
@@ -4193,6 +4491,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QNM-0FJXaHM/hqdefault.jpg",
       "date": "2024-03-18"
     },
     {
@@ -4207,6 +4506,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pdy3wTair08/hqdefault.jpg",
       "date": "2024-03-15"
     },
     {
@@ -4222,6 +4522,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t-RCwF6DcMA/hqdefault.jpg",
       "date": "2024-03-13"
     },
     {
@@ -4237,6 +4538,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1sLGZrKZMKI/hqdefault.jpg",
       "date": "2024-03-12"
     },
     {
@@ -4251,6 +4553,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YF4P7QEg9_8/hqdefault.jpg",
       "date": "2024-03-11"
     },
     {
@@ -4265,6 +4568,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/950Ba9DXK5w/hqdefault.jpg",
       "date": "2024-03-07"
     },
     {
@@ -4279,6 +4583,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a0Frqa_D__A/hqdefault.jpg",
       "date": "2024-02-29"
     },
     {
@@ -4293,6 +4598,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PDtcP27dx_E/hqdefault.jpg",
       "date": "2024-02-22"
     },
     {
@@ -4307,6 +4613,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WFAZC9Qo9zI/hqdefault.jpg",
       "date": "2024-02-19"
     },
     {
@@ -4321,6 +4628,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QuIq8TvkF84/hqdefault.jpg",
       "date": "2024-02-19"
     },
     {
@@ -4335,6 +4643,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8GnLew8_t60/hqdefault.jpg",
       "date": "2024-02-13"
     },
     {
@@ -4349,6 +4658,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K4m_BXBvP5c/hqdefault.jpg",
       "date": "2024-02-12"
     },
     {
@@ -4363,6 +4673,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M_dFfk30-8w/hqdefault.jpg",
       "date": "2024-02-11"
     },
     {
@@ -4377,6 +4688,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GYBzJm_0baw/hqdefault.jpg",
       "date": "2024-02-11"
     },
     {
@@ -4391,6 +4703,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iWOWZHExXpE/hqdefault.jpg",
       "date": "2024-02-11"
     },
     {
@@ -4405,6 +4718,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4pphZp-i7ws/hqdefault.jpg",
       "date": "2024-02-11"
     },
     {
@@ -4419,6 +4733,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YKu9mekiJKA/hqdefault.jpg",
       "date": "2024-02-05"
     },
     {
@@ -4433,6 +4748,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iPBVE5scne0/hqdefault.jpg",
       "date": "2024-02-01"
     },
     {
@@ -4447,6 +4763,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DVp4GtzaHyk/hqdefault.jpg",
       "date": "2024-02-01"
     },
     {
@@ -4461,6 +4778,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eyLxSDAodYg/hqdefault.jpg",
       "date": "2024-01-29"
     },
     {
@@ -4475,6 +4793,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x5xGGNqVNwA/hqdefault.jpg",
       "date": "2024-01-25"
     },
     {
@@ -4489,6 +4808,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BIwJfI5LY4w/hqdefault.jpg",
       "date": "2024-01-25"
     },
     {
@@ -4503,6 +4823,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tZnIimc0ueA/hqdefault.jpg",
       "date": "2024-01-22"
     },
     {
@@ -4517,6 +4838,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LAjjh0e08Ec/hqdefault.jpg",
       "date": "2024-01-19"
     },
     {
@@ -4531,6 +4853,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HQAUQuoq0tI/hqdefault.jpg",
       "date": "2024-01-18"
     },
     {
@@ -4544,6 +4867,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q5OZWPmjekc/hqdefault.jpg",
       "date": "2024-01-18"
     },
     {
@@ -4558,6 +4882,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XDOnuxpJBg8/hqdefault.jpg",
       "date": "2024-01-15"
     },
     {
@@ -4572,6 +4897,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9irfznlYI0o/hqdefault.jpg",
       "date": "2024-01-10"
     },
     {
@@ -4586,6 +4912,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2LrT58ZHkK0/hqdefault.jpg",
       "date": "2024-01-10"
     },
     {
@@ -4600,6 +4927,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IzZ8UxzRL48/hqdefault.jpg",
       "date": "2024-01-02"
     },
     {
@@ -4614,6 +4942,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sDgPwMx1Zr4/hqdefault.jpg",
       "date": "2024-01-02"
     },
     {
@@ -4628,6 +4957,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OWhCQmcJ3_k/hqdefault.jpg",
       "date": "2023-12-20"
     },
     {
@@ -4642,6 +4972,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zZuP1ckgbe0/hqdefault.jpg",
       "date": "2023-12-20"
     },
     {
@@ -4656,6 +4987,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qWG8aJBEZQo/hqdefault.jpg",
       "date": "2023-12-20"
     },
     {
@@ -4670,6 +5002,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/io0jWEkxNZ8/hqdefault.jpg",
       "date": "2023-12-18"
     },
     {
@@ -4684,6 +5017,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WX2qCtxhgCQ/hqdefault.jpg",
       "date": "2023-12-12"
     },
     {
@@ -4699,6 +5033,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vzTJZYz7xns/hqdefault.jpg",
       "date": "2023-12-11"
     },
     {
@@ -4714,6 +5049,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BPIgSIN1SrU/hqdefault.jpg",
       "date": "2023-12-05"
     },
     {
@@ -4729,6 +5065,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TDrZz1qJs00/hqdefault.jpg",
       "date": "2023-12-04"
     },
     {
@@ -4743,6 +5080,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nd8ptqNrZFU/hqdefault.jpg",
       "date": "2023-12-04"
     },
     {
@@ -4757,6 +5095,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Pu8ZZfcxcg/hqdefault.jpg",
       "date": "2023-12-03"
     },
     {
@@ -4771,6 +5110,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rlkwY-WhJeM/hqdefault.jpg",
       "date": "2023-12-03"
     },
     {
@@ -4785,6 +5125,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xez-lMOX_U8/hqdefault.jpg",
       "date": "2023-11-26"
     },
     {
@@ -4798,6 +5139,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R0rSPYPopHI/hqdefault.jpg",
       "date": "2023-11-26"
     },
     {
@@ -4812,6 +5154,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4vfDws3PUj4/hqdefault.jpg",
       "date": "2023-11-23"
     },
     {
@@ -4826,6 +5169,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/diBW69gl4zk/hqdefault.jpg",
       "date": "2023-11-21"
     },
     {
@@ -4840,6 +5184,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-1INQvBms-Q/hqdefault.jpg",
       "date": "2023-11-20"
     },
     {
@@ -4854,6 +5199,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FV4_jKbin2M/hqdefault.jpg",
       "date": "2023-11-16"
     },
     {
@@ -4868,6 +5214,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ed2YhLdnli4/hqdefault.jpg",
       "date": "2023-11-13"
     },
     {
@@ -4882,6 +5229,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xZsUtclGtLU/hqdefault.jpg",
       "date": "2023-11-13"
     },
     {
@@ -4896,6 +5244,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0eHGjG7VAmk/hqdefault.jpg",
       "date": "2023-11-09"
     },
     {
@@ -4910,6 +5259,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5EYtkZfRy20/hqdefault.jpg",
       "date": "2023-11-06"
     },
     {
@@ -4924,6 +5274,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XHCsZBaj5O0/hqdefault.jpg",
       "date": "2023-11-06"
     },
     {
@@ -4938,6 +5289,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Uiw5tnBEFKs/hqdefault.jpg",
       "date": "2023-11-02"
     },
     {
@@ -4952,6 +5304,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qgVBHSzQFq4/hqdefault.jpg",
       "date": "2023-10-30"
     },
     {
@@ -4966,6 +5319,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TcS_99x2hAo/hqdefault.jpg",
       "date": "2023-10-26"
     },
     {
@@ -4979,6 +5333,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4pczMwy3hQM/hqdefault.jpg",
       "date": "2023-10-24"
     },
     {
@@ -4993,6 +5348,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EZKsinABZ3c/hqdefault.jpg",
       "date": "2023-10-23"
     },
     {
@@ -5007,6 +5363,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OW75pDoY-GY/hqdefault.jpg",
       "date": "2023-10-22"
     },
     {
@@ -5021,6 +5378,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vc6RI048jQI/hqdefault.jpg",
       "date": "2023-10-19"
     },
     {
@@ -5035,6 +5393,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/alKvE13n5WY/hqdefault.jpg",
       "date": "2023-10-18"
     },
     {
@@ -5049,6 +5408,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/brncFTkObBQ/hqdefault.jpg",
       "date": "2023-10-16"
     },
     {
@@ -5062,6 +5422,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xEiMDqJ6RtM/hqdefault.jpg",
       "date": "2023-10-16"
     },
     {
@@ -5076,6 +5437,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0Ae_5Y_z7TQ/hqdefault.jpg",
       "date": "2023-10-12"
     },
     {
@@ -5090,6 +5452,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nqfmqNIvg_Y/hqdefault.jpg",
       "date": "2023-10-09"
     },
     {
@@ -5105,6 +5468,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_rSqcVMR7n4/hqdefault.jpg",
       "date": "2023-10-05"
     },
     {
@@ -5120,6 +5484,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mB3ONswxuf0/hqdefault.jpg",
       "date": "2023-10-05"
     },
     {
@@ -5134,6 +5499,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Mj0YdqOqZE/hqdefault.jpg",
       "date": "2023-09-28"
     },
     {
@@ -5148,6 +5514,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gp7uxGV_iak/hqdefault.jpg",
       "date": "2023-09-18"
     },
     {
@@ -5162,6 +5529,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qgCAw2NONxo/hqdefault.jpg",
       "date": "2023-09-18"
     },
     {
@@ -5176,6 +5544,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2jKKsD02-Ss/hqdefault.jpg",
       "date": "2023-09-13"
     },
     {
@@ -5190,6 +5559,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O-5wmRegao8/hqdefault.jpg",
       "date": "2023-09-11"
     },
     {
@@ -5205,6 +5575,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C7jkzBlTQfk/hqdefault.jpg",
       "date": "2023-09-11"
     },
     {
@@ -5219,6 +5590,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JTEjugSNgQA/hqdefault.jpg",
       "date": "2023-09-07"
     },
     {
@@ -5233,6 +5605,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9klOX4LGuVE/hqdefault.jpg",
       "date": "2023-08-28"
     },
     {
@@ -5247,6 +5620,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NE8gtfz2GTA/hqdefault.jpg",
       "date": "2023-08-22"
     },
     {
@@ -5260,6 +5634,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TArPsngEZXY/hqdefault.jpg",
       "date": "2023-07-21"
     },
     {
@@ -5274,6 +5649,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HaKEiB3px78/hqdefault.jpg",
       "date": "2023-07-18"
     },
     {
@@ -5288,6 +5664,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3z8XejP7zMc/hqdefault.jpg",
       "date": "2023-07-17"
     },
     {
@@ -5302,6 +5679,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wF5z7pu8TPs/hqdefault.jpg",
       "date": "2023-07-10"
     },
     {
@@ -5316,6 +5694,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LC0lJf47gII/hqdefault.jpg",
       "date": "2023-07-09"
     },
     {
@@ -5330,6 +5709,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FH5scxivcBA/hqdefault.jpg",
       "date": "2023-07-02"
     },
     {
@@ -5344,6 +5724,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/D5po9fA2xns/hqdefault.jpg",
       "date": "2023-06-30"
     },
     {
@@ -5358,6 +5739,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mF-Q-w48niI/hqdefault.jpg",
       "date": "2023-06-29"
     },
     {
@@ -5372,6 +5754,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wG4nw7ZSJDU/hqdefault.jpg",
       "date": "2023-06-27"
     },
     {
@@ -5386,6 +5769,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/73w47QjqEPU/hqdefault.jpg",
       "date": "2023-06-26"
     },
     {
@@ -5400,6 +5784,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fcmIRJP3WEw/hqdefault.jpg",
       "date": "2023-06-25"
     },
     {
@@ -5414,6 +5799,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WhUuLM7R9Jk/hqdefault.jpg",
       "date": "2023-06-19"
     },
     {
@@ -5428,6 +5814,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IchBiEQuGvY/hqdefault.jpg",
       "date": "2023-06-18"
     },
     {
@@ -5442,6 +5829,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1GBXCs5gQ4s/hqdefault.jpg",
       "date": "2023-06-16"
     },
     {
@@ -5456,6 +5844,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3n7lZA9cpWs/hqdefault.jpg",
       "date": "2023-06-16"
     },
     {
@@ -5470,6 +5859,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SOADlRyedEQ/hqdefault.jpg",
       "date": "2023-06-07"
     },
     {
@@ -5484,6 +5874,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CUwyimKqNP8/hqdefault.jpg",
       "date": "2023-06-06"
     },
     {
@@ -5498,6 +5889,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FIKhYqpUe6U/hqdefault.jpg",
       "date": "2023-06-06"
     },
     {
@@ -5512,6 +5904,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KP0P4hqpVzE/hqdefault.jpg",
       "date": "2023-06-06"
     },
     {
@@ -5526,6 +5919,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/N725Bcl_qkk/hqdefault.jpg",
       "date": "2023-05-31"
     },
     {
@@ -5540,6 +5934,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/icIWXS0TZPo/hqdefault.jpg",
       "date": "2023-05-29"
     },
     {
@@ -5554,6 +5949,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5VYrRBhWlug/hqdefault.jpg",
       "date": "2023-05-23"
     },
     {
@@ -5568,6 +5964,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0O2C-jfR2GM/hqdefault.jpg",
       "date": "2023-05-23"
     },
     {
@@ -5582,6 +5979,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hc9rMBZT_rw/hqdefault.jpg",
       "date": "2023-05-19"
     },
     {
@@ -5596,6 +5994,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nitTWO327xg/hqdefault.jpg",
       "date": "2023-05-16"
     },
     {
@@ -5610,6 +6009,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/b4VLSgiQYpE/hqdefault.jpg",
       "date": "2023-05-16"
     },
     {
@@ -5624,6 +6024,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wJYjSbnh47U/hqdefault.jpg",
       "date": "2023-05-14"
     },
     {
@@ -5638,6 +6039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tgg6lndx1L0/hqdefault.jpg",
       "date": "2023-05-11"
     },
     {
@@ -5652,6 +6054,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nQn2IXkfMvc/hqdefault.jpg",
       "date": "2023-05-09"
     },
     {
@@ -5666,6 +6069,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3lkFwje9t5I/hqdefault.jpg",
       "date": "2023-05-03"
     },
     {
@@ -5680,6 +6084,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R7kmvt4_jJY/hqdefault.jpg",
       "date": "2023-05-03"
     },
     {
@@ -5694,6 +6099,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T6agS01CRvM/hqdefault.jpg",
       "date": "2023-05-01"
     },
     {
@@ -5708,6 +6114,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3y6ZK1dxLfE/hqdefault.jpg",
       "date": "2023-04-30"
     },
     {
@@ -5722,6 +6129,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cSGoefpYcBI/hqdefault.jpg",
       "date": "2023-04-26"
     },
     {
@@ -5736,6 +6144,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y9yQzXUUTBs/hqdefault.jpg",
       "date": "2023-04-20"
     },
     {
@@ -5750,6 +6159,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EBgxDT0wCsQ/hqdefault.jpg",
       "date": "2023-04-18"
     },
     {
@@ -5764,6 +6174,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ygAGxqMvfPU/hqdefault.jpg",
       "date": "2023-04-11"
     },
     {
@@ -5778,6 +6189,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O_FS75WCZEY/hqdefault.jpg",
       "date": "2023-04-04"
     },
     {
@@ -5792,6 +6204,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KrpxqqYMqdc/hqdefault.jpg",
       "date": "2023-04-04"
     },
     {
@@ -5806,6 +6219,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r_LJmOJQ3kA/hqdefault.jpg",
       "date": "2023-03-29"
     },
     {
@@ -5820,6 +6234,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BfxG_SJ2eDs/hqdefault.jpg",
       "date": "2023-03-27"
     },
     {
@@ -5834,6 +6249,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GW6HInjPCz8/hqdefault.jpg",
       "date": "2023-03-27"
     },
     {
@@ -5848,6 +6264,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/btiVjUcW_wE/hqdefault.jpg",
       "date": "2023-03-26"
     },
     {
@@ -5863,6 +6280,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h4hDseCnrqs/hqdefault.jpg",
       "date": "2023-03-26"
     },
     {
@@ -5877,6 +6295,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bUNv2Op0zYo/hqdefault.jpg",
       "date": "2023-03-23"
     },
     {
@@ -5891,6 +6310,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MY0nxYMEVbM/hqdefault.jpg",
       "date": "2023-03-20"
     },
     {
@@ -5905,6 +6325,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jpWBWZvJpjU/hqdefault.jpg",
       "date": "2023-03-16"
     },
     {
@@ -5919,6 +6340,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zcCA9VS1xZE/hqdefault.jpg",
       "date": "2023-03-13"
     },
     {
@@ -5933,6 +6355,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ki2VsgJ15_I/hqdefault.jpg",
       "date": "2023-03-12"
     },
     {
@@ -5948,6 +6371,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/--s3511xuKY/hqdefault.jpg",
       "date": "2023-03-09"
     },
     {
@@ -5962,6 +6386,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uxzhB6-zhwA/hqdefault.jpg",
       "date": "2023-03-08"
     },
     {
@@ -5976,6 +6401,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tAqK1S8F_Js/hqdefault.jpg",
       "date": "2023-03-01"
     },
     {
@@ -5990,6 +6416,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MkbOr0l35_g/hqdefault.jpg",
       "date": "2023-02-27"
     },
     {
@@ -6004,6 +6431,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Snc_idMrB20/hqdefault.jpg",
       "date": "2023-02-21"
     },
     {
@@ -6018,6 +6446,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TTcvyfKoh6M/hqdefault.jpg",
       "date": "2023-02-20"
     },
     {
@@ -6032,6 +6461,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FMhumBTrkWY/hqdefault.jpg",
       "date": "2023-02-16"
     },
     {
@@ -6046,6 +6476,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/N4kWr43_h5U/hqdefault.jpg",
       "date": "2023-02-13"
     },
     {
@@ -6060,6 +6491,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T4TqH8p35SY/hqdefault.jpg",
       "date": "2023-02-10"
     },
     {
@@ -6074,6 +6506,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Kj9eyK0A5A/hqdefault.jpg",
       "date": "2023-02-06"
     },
     {
@@ -6088,6 +6521,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jRlwZYVkXLs/hqdefault.jpg",
       "date": "2023-02-02"
     },
     {
@@ -6102,6 +6536,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sa4zLdLBWcs/hqdefault.jpg",
       "date": "2023-01-31"
     },
     {
@@ -6116,6 +6551,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Og98npHuJU/hqdefault.jpg",
       "date": "2023-01-25"
     },
     {
@@ -6130,6 +6566,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cI10LtZlpf0/hqdefault.jpg",
       "date": "2023-01-24"
     },
     {
@@ -6144,6 +6581,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gK8WtWN6IAM/hqdefault.jpg",
       "date": "2023-01-18"
     },
     {
@@ -6158,6 +6596,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7IzmNCQ2gqs/hqdefault.jpg",
       "date": "2023-01-17"
     },
     {
@@ -6172,6 +6611,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_0H6qnppglk/hqdefault.jpg",
       "date": "2023-01-11"
     },
     {
@@ -6186,6 +6626,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jA4y6mP0dkA/hqdefault.jpg",
       "date": "2023-01-06"
     },
     {
@@ -6200,6 +6641,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QXkhH2hmxoI/hqdefault.jpg",
       "date": "2023-01-03"
     },
     {
@@ -6214,6 +6656,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u1PeaNKkRWM/hqdefault.jpg",
       "date": "2023-01-03"
     },
     {
@@ -6228,6 +6671,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h6OI5cE4mvw/hqdefault.jpg",
       "date": "2023-01-02"
     },
     {
@@ -6243,6 +6687,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MkMEN-QvJpU/hqdefault.jpg",
       "date": "2022-12-23"
     },
     {
@@ -6257,6 +6702,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gRK6FH6HsSY/hqdefault.jpg",
       "date": "2022-12-21"
     },
     {
@@ -6271,6 +6717,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-MlGelkFCfA/hqdefault.jpg",
       "date": "2022-12-20"
     },
     {
@@ -6285,6 +6732,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sc5RUBa7I1A/hqdefault.jpg",
       "date": "2022-12-12"
     },
     {
@@ -6299,6 +6747,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yPXbR3zHfWY/hqdefault.jpg",
       "date": "2022-12-12"
     },
     {
@@ -6313,6 +6762,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LDE_mnRwvyM/hqdefault.jpg",
       "date": "2022-12-05"
     },
     {
@@ -6327,6 +6777,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pSEbF0Z1xkk/hqdefault.jpg",
       "date": "2022-11-30"
     },
     {
@@ -6341,6 +6792,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qqyEf9GIMz4/hqdefault.jpg",
       "date": "2022-11-27"
     },
     {
@@ -6355,6 +6807,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xsHgH6WH4AQ/hqdefault.jpg",
       "date": "2022-11-21"
     },
     {
@@ -6368,6 +6821,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qE7ws06qDb8/hqdefault.jpg",
       "date": "2022-11-14"
     },
     {
@@ -6382,6 +6836,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oO_lLHiz2HQ/hqdefault.jpg",
       "date": "2022-11-14"
     },
     {
@@ -6396,6 +6851,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QQHRi8lJnmY/hqdefault.jpg",
       "date": "2022-11-10"
     },
     {
@@ -6410,6 +6866,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r9b93ShdHlQ/hqdefault.jpg",
       "date": "2022-11-04"
     },
     {
@@ -6424,6 +6881,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aih4LuE7qZo/hqdefault.jpg",
       "date": "2022-10-30"
     },
     {
@@ -6438,6 +6896,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CFkxuQ0Mp3w/hqdefault.jpg",
       "date": "2022-10-27"
     },
     {
@@ -6452,6 +6911,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Amw9G2Zoms0/hqdefault.jpg",
       "date": "2022-10-23"
     },
     {
@@ -6466,6 +6926,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G0NS-KvMAPA/hqdefault.jpg",
       "date": "2022-10-16"
     },
     {
@@ -6480,6 +6941,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H9AyZLNfsmM/hqdefault.jpg",
       "date": "2022-10-14"
     },
     {
@@ -6494,6 +6956,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S20ed0S2HEY/hqdefault.jpg",
       "date": "2022-09-25"
     },
     {
@@ -6507,6 +6970,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/msPtNVFAlcg/hqdefault.jpg",
       "date": "2022-09-20"
     },
     {
@@ -6521,6 +6985,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YCajFGi7SfE/hqdefault.jpg",
       "date": "2022-09-18"
     },
     {
@@ -6535,6 +7000,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fjmWIYzh-c8/hqdefault.jpg",
       "date": "2022-09-13"
     },
     {
@@ -6549,6 +7015,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AigHrukp5co/hqdefault.jpg",
       "date": "2022-09-11"
     },
     {
@@ -6563,6 +7030,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GAN0mq17rGg/hqdefault.jpg",
       "date": "2022-09-11"
     },
     {
@@ -6577,6 +7045,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lMj2rrKV5o8/hqdefault.jpg",
       "date": "2022-09-05"
     },
     {
@@ -6591,6 +7060,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YmmMYeo-Hng/hqdefault.jpg",
       "date": "2022-08-31"
     },
     {
@@ -6605,6 +7075,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GJS-e1ZWVLU/hqdefault.jpg",
       "date": "2022-08-28"
     },
     {
@@ -6619,6 +7090,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NgcsooVdTHw/hqdefault.jpg",
       "date": "2022-08-24"
     },
     {
@@ -6633,6 +7105,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fa8T4vvBI4Q/hqdefault.jpg",
       "date": "2022-08-19"
     },
     {
@@ -6647,6 +7120,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bSFYnobWcA8/hqdefault.jpg",
       "date": "2022-08-17"
     },
     {
@@ -6661,6 +7135,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gj2WIacc-7I/hqdefault.jpg",
       "date": "2022-08-12"
     },
     {
@@ -6675,6 +7150,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5cH_ELOaLwA/hqdefault.jpg",
       "date": "2022-08-05"
     },
     {
@@ -6689,6 +7165,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VZr_0_jERz4/hqdefault.jpg",
       "date": "2022-08-01"
     },
     {
@@ -6703,6 +7180,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UIYwcnaXnXw/hqdefault.jpg",
       "date": "2022-07-28"
     },
     {
@@ -6717,6 +7195,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DYmm6mGyCRU/hqdefault.jpg",
       "date": "2022-07-24"
     },
     {
@@ -6731,6 +7210,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qEBe2uUdm_g/hqdefault.jpg",
       "date": "2022-07-21"
     },
     {
@@ -6745,6 +7225,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XVT7EeSbQ1w/hqdefault.jpg",
       "date": "2022-07-17"
     },
     {
@@ -6759,6 +7240,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/czpMlcdjNfs/hqdefault.jpg",
       "date": "2022-07-15"
     },
     {
@@ -6773,6 +7255,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8L5HGdRBQxI/hqdefault.jpg",
       "date": "2022-07-11"
     },
     {
@@ -6787,6 +7270,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KUG1Pnd2hT8/hqdefault.jpg",
       "date": "2022-06-29"
     },
     {
@@ -6801,6 +7285,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t1V4Pb7rnO8/hqdefault.jpg",
       "date": "2022-06-26"
     },
     {
@@ -6815,6 +7300,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KQDiBRjBW1c/hqdefault.jpg",
       "date": "2022-06-22"
     },
     {
@@ -6829,6 +7315,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xIneW2GJ42Q/hqdefault.jpg",
       "date": "2022-06-17"
     },
     {
@@ -6843,6 +7330,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_H41ySZjiXE/hqdefault.jpg",
       "date": "2022-06-14"
     },
     {
@@ -6857,6 +7345,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pjuQ7pv07e0/hqdefault.jpg",
       "date": "2022-06-10"
     },
     {
@@ -6871,6 +7360,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7mdvaUJqU2k/hqdefault.jpg",
       "date": "2022-06-07"
     },
     {
@@ -6885,6 +7375,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-_fOpFXSuwM/hqdefault.jpg",
       "date": "2022-06-02"
     },
     {
@@ -6899,6 +7390,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1RpLdZBMAUo/hqdefault.jpg",
       "date": "2022-05-29"
     },
     {
@@ -6913,6 +7405,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LMWd2FMEhn0/hqdefault.jpg",
       "date": "2022-05-29"
     },
     {
@@ -6927,6 +7420,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zgAu93l2ks0/hqdefault.jpg",
       "date": "2022-05-20"
     },
     {
@@ -6941,6 +7435,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dxg-nekvhQs/hqdefault.jpg",
       "date": "2022-05-13"
     },
     {
@@ -6955,6 +7450,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5iaYmljZgOs/hqdefault.jpg",
       "date": "2022-05-13"
     },
     {
@@ -6969,6 +7465,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EBDNl7Vfd48/hqdefault.jpg",
       "date": "2022-05-08"
     },
     {
@@ -6983,6 +7480,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Gjm263armOw/hqdefault.jpg",
       "date": "2022-05-04"
     },
     {
@@ -6997,6 +7495,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ueHd3Ls8dWE/hqdefault.jpg",
       "date": "2022-05-01"
     },
     {
@@ -7011,6 +7510,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/J1N5CCTf8HU/hqdefault.jpg",
       "date": "2022-04-28"
     },
     {
@@ -7025,6 +7525,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VNUeY8CIsOQ/hqdefault.jpg",
       "date": "2022-04-21"
     },
     {
@@ -7039,6 +7540,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rg7N0g6_kSM/hqdefault.jpg",
       "date": "2022-04-13"
     },
     {
@@ -7053,6 +7555,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/onq0SHh0_sg/hqdefault.jpg",
       "date": "2022-04-10"
     },
     {
@@ -7067,6 +7570,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KR75BV40HHI/hqdefault.jpg",
       "date": "2022-04-07"
     },
     {
@@ -7081,6 +7585,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/idYlKF6F0Ps/hqdefault.jpg",
       "date": "2022-04-01"
     },
     {
@@ -7095,6 +7600,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vVZV9EYkl_A/hqdefault.jpg",
       "date": "2022-03-30"
     },
     {
@@ -7109,6 +7615,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bLdVdrg_iws/hqdefault.jpg",
       "date": "2022-03-28"
     },
     {
@@ -7123,6 +7630,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ML37GZM2em8/hqdefault.jpg",
       "date": "2022-03-25"
     },
     {
@@ -7137,6 +7645,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jp5YoGX_04k/hqdefault.jpg",
       "date": "2022-03-20"
     },
     {
@@ -7151,6 +7660,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S9hhJkxdrco/hqdefault.jpg",
       "date": "2022-03-13"
     },
     {
@@ -7165,6 +7675,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3_ZogQAEgo/hqdefault.jpg",
       "date": "2022-03-11"
     },
     {
@@ -7179,6 +7690,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aUXG7gE0XPo/hqdefault.jpg",
       "date": "2022-03-06"
     },
     {
@@ -7193,6 +7705,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gzouM6QtOTk/hqdefault.jpg",
       "date": "2022-03-02"
     },
     {
@@ -7207,6 +7720,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cx42NzhCM9g/hqdefault.jpg",
       "date": "2022-02-27"
     },
     {
@@ -7221,6 +7735,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VeXdr9sTAuI/hqdefault.jpg",
       "date": "2022-02-25"
     },
     {
@@ -7235,6 +7750,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ppBRT__4ryw/hqdefault.jpg",
       "date": "2022-02-20"
     },
     {
@@ -7249,6 +7765,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jk6u1gje7eQ/hqdefault.jpg",
       "date": "2022-02-20"
     },
     {
@@ -7263,6 +7780,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t0ytGYUhcmU/hqdefault.jpg",
       "date": "2022-02-13"
     },
     {
@@ -7277,6 +7795,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/npnVU0SCHO4/hqdefault.jpg",
       "date": "2022-02-09"
     },
     {
@@ -7291,6 +7810,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6DYI4y0EuDQ/hqdefault.jpg",
       "date": "2022-02-06"
     },
     {
@@ -7305,6 +7825,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xc-eU5d8IOU/hqdefault.jpg",
       "date": "2022-02-03"
     },
     {
@@ -7319,6 +7840,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/78Clr18Skqo/hqdefault.jpg",
       "date": "2022-01-31"
     },
     {
@@ -7333,6 +7855,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MOxFU3E4gfE/hqdefault.jpg",
       "date": "2022-01-27"
     },
     {
@@ -7347,6 +7870,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObvaBdRl4mw/hqdefault.jpg",
       "date": "2022-01-21"
     },
     {
@@ -7361,6 +7885,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-y8xORz7JwE/hqdefault.jpg",
       "date": "2022-01-19"
     },
     {
@@ -7375,6 +7900,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uS_p9dMpmn4/hqdefault.jpg",
       "date": "2022-01-16"
     },
     {
@@ -7389,6 +7915,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Tj75tA_f410/hqdefault.jpg",
       "date": "2022-01-12"
     },
     {
@@ -7404,6 +7931,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hCvWTl8aQrU/hqdefault.jpg",
       "date": "2022-01-11"
     },
     {
@@ -7418,6 +7946,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kbv43IV5qME/hqdefault.jpg",
       "date": "2022-01-09"
     },
     {
@@ -7432,6 +7961,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s7Ga6wa3394/hqdefault.jpg",
       "date": "2021-12-29"
     },
     {
@@ -7446,6 +7976,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EX5aWMjISLo/hqdefault.jpg",
       "date": "2021-12-24"
     },
     {
@@ -7460,6 +7991,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mZAY3ncv49g/hqdefault.jpg",
       "date": "2021-12-21"
     },
     {
@@ -7474,6 +8006,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S_tyDUoFZ1A/hqdefault.jpg",
       "date": "2021-12-19"
     },
     {
@@ -7488,6 +8021,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cdOYvgmPpos/hqdefault.jpg",
       "date": "2021-12-15"
     },
     {
@@ -7502,6 +8036,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5_5Ea77qTOs/hqdefault.jpg",
       "date": "2021-12-12"
     },
     {
@@ -7516,6 +8051,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t0VSFNks5Gc/hqdefault.jpg",
       "date": "2021-12-08"
     },
     {
@@ -7530,6 +8066,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MS7-awghkkA/hqdefault.jpg",
       "date": "2021-12-05"
     },
     {
@@ -7545,6 +8082,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mrJANJVlmrU/hqdefault.jpg",
       "date": "2021-12-01"
     },
     {
@@ -7559,6 +8097,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9zCM1T4tf-M/hqdefault.jpg",
       "date": "2021-12-01"
     },
     {
@@ -7574,6 +8113,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WkumO9eXpAg/hqdefault.jpg",
       "date": "2021-11-28"
     },
     {
@@ -7588,6 +8128,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/io0gj9BcgCg/hqdefault.jpg",
       "date": "2021-11-24"
     },
     {
@@ -7602,6 +8143,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/I6Uy46zS7wU/hqdefault.jpg",
       "date": "2021-11-21"
     },
     {
@@ -7616,6 +8158,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5d16ixORlg0/hqdefault.jpg",
       "date": "2021-11-17"
     },
     {
@@ -7630,6 +8173,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EKkgLrNQ9jg/hqdefault.jpg",
       "date": "2021-11-14"
     },
     {
@@ -7644,6 +8188,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xXjzonkhRA4/hqdefault.jpg",
       "date": "2021-11-10"
     },
     {
@@ -7658,6 +8203,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yph7HNzt6b8/hqdefault.jpg",
       "date": "2021-11-05"
     },
     {
@@ -7672,6 +8218,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dTH0LvzzXqs/hqdefault.jpg",
       "date": "2021-11-03"
     },
     {
@@ -7686,6 +8233,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wu0O4Gr4g90/hqdefault.jpg",
       "date": "2021-10-31"
     },
     {
@@ -7700,6 +8248,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9j_LlU5hbmM/hqdefault.jpg",
       "date": "2021-10-26"
     },
     {
@@ -7714,6 +8263,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CRZw5sgMq_M/hqdefault.jpg",
       "date": "2021-10-24"
     },
     {
@@ -7728,6 +8278,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YNFcev3DSoU/hqdefault.jpg",
       "date": "2021-10-19"
     },
     {
@@ -7742,6 +8293,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/i5cjLKbv5Gc/hqdefault.jpg",
       "date": "2021-10-17"
     },
     {
@@ -7756,6 +8308,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UjqSoNs0hPY/hqdefault.jpg",
       "date": "2021-10-12"
     },
     {
@@ -7770,6 +8323,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vt8hxnoXi2E/hqdefault.jpg",
       "date": "2021-10-06"
     },
     {
@@ -7785,6 +8339,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dUXEHEeACEQ/hqdefault.jpg",
       "date": "2021-10-06"
     },
     {
@@ -7799,6 +8354,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XWB-whlXu0M/hqdefault.jpg",
       "date": "2021-10-01"
     },
     {
@@ -7813,6 +8369,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bDz2K17Ltx4/hqdefault.jpg",
       "date": "2021-09-24"
     },
     {
@@ -7828,6 +8385,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TQVqSRyDiIU/hqdefault.jpg",
       "date": "2021-09-23"
     },
     {
@@ -7842,6 +8400,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-03SjiAbxeA/hqdefault.jpg",
       "date": "2021-09-14"
     },
     {
@@ -7856,6 +8415,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bM9PEURjs1Q/hqdefault.jpg",
       "date": "2021-09-03"
     },
     {
@@ -7870,6 +8430,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bQOVQdDTeNQ/hqdefault.jpg",
       "date": "2021-08-31"
     },
     {
@@ -7884,6 +8445,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cmy5vneggS0/hqdefault.jpg",
       "date": "2021-08-27"
     },
     {
@@ -7898,6 +8460,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z0orXfhxrVg/hqdefault.jpg",
       "date": "2021-08-24"
     },
     {
@@ -7912,6 +8475,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PHSo-ggwOxQ/hqdefault.jpg",
       "date": "2021-08-20"
     },
     {
@@ -7926,6 +8490,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B7by8S5Gsik/hqdefault.jpg",
       "date": "2021-08-17"
     },
     {
@@ -7940,6 +8505,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WhIIhKwQedY/hqdefault.jpg",
       "date": "2021-08-13"
     },
     {
@@ -7954,6 +8520,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tCN_cQB-EeY/hqdefault.jpg",
       "date": "2021-08-10"
     },
     {
@@ -7969,6 +8536,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_nUFWhyVrLU/hqdefault.jpg",
       "date": "2021-08-09"
     },
     {
@@ -7983,6 +8551,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5DE4qtbsl-A/hqdefault.jpg",
       "date": "2021-08-06"
     },
     {
@@ -7997,6 +8566,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jhoQ64YEAa4/hqdefault.jpg",
       "date": "2021-08-03"
     },
     {
@@ -8011,6 +8581,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/15RvLwGTon8/hqdefault.jpg",
       "date": "2021-07-30"
     },
     {
@@ -8026,6 +8597,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WAUWiKULs3Q/hqdefault.jpg",
       "date": "2021-07-27"
     },
     {
@@ -8040,6 +8612,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZnrUO9zfosE/hqdefault.jpg",
       "date": "2021-07-27"
     },
     {
@@ -8054,6 +8627,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4SFUD8pb_Mk/hqdefault.jpg",
       "date": "2021-07-23"
     },
     {
@@ -8068,6 +8642,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ci0ASCJADb4/hqdefault.jpg",
       "date": "2021-07-20"
     },
     {
@@ -8082,6 +8657,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QDtOxOPE7Xw/hqdefault.jpg",
       "date": "2021-07-16"
     },
     {
@@ -8096,6 +8672,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5q2nLyC1Rag/hqdefault.jpg",
       "date": "2021-07-13"
     },
     {
@@ -8110,6 +8687,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6gP9i1f6WWo/hqdefault.jpg",
       "date": "2021-07-09"
     },
     {
@@ -8124,6 +8702,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rtpC2W9XMs4/hqdefault.jpg",
       "date": "2021-07-06"
     },
     {
@@ -8138,6 +8717,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ts-aPuWsIzI/hqdefault.jpg",
       "date": "2021-07-02"
     },
     {
@@ -8152,6 +8732,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9imyjbiDsss/hqdefault.jpg",
       "date": "2021-06-29"
     },
     {
@@ -8166,6 +8747,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kX0Mx5XQC58/hqdefault.jpg",
       "date": "2021-06-25"
     },
     {
@@ -8180,6 +8762,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jxZqU9hwjcU/hqdefault.jpg",
       "date": "2021-06-22"
     },
     {
@@ -8193,6 +8776,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_vA1OgnZpZo/hqdefault.jpg",
       "date": "2021-06-18"
     },
     {
@@ -8207,6 +8791,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qy8IbQu_OV0/hqdefault.jpg",
       "date": "2021-06-15"
     },
     {
@@ -8221,6 +8806,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BgiMLW0IXzo/hqdefault.jpg",
       "date": "2021-06-11"
     },
     {
@@ -8235,6 +8821,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fb6LRz7ymWY/hqdefault.jpg",
       "date": "2021-06-09"
     },
     {
@@ -8249,6 +8836,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BmTPQ9ojUwo/hqdefault.jpg",
       "date": "2021-06-04"
     },
     {
@@ -8263,6 +8851,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3IqfHlsne68/hqdefault.jpg",
       "date": "2021-06-01"
     },
     {
@@ -8277,6 +8866,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8O5R2_d9oAQ/hqdefault.jpg",
       "date": "2021-05-28"
     },
     {
@@ -8291,6 +8881,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_gAfaFZlcRc/hqdefault.jpg",
       "date": "2021-05-25"
     },
     {
@@ -8305,6 +8896,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RnjxCdvsv7o/hqdefault.jpg",
       "date": "2021-05-21"
     },
     {
@@ -8319,6 +8911,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CeE8rOnaBu8/hqdefault.jpg",
       "date": "2021-05-14"
     },
     {
@@ -8333,6 +8926,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/33DJn-Alnrc/hqdefault.jpg",
       "date": "2021-05-11"
     },
     {
@@ -8347,6 +8941,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oC_PMXuuuFA/hqdefault.jpg",
       "date": "2021-05-07"
     },
     {
@@ -8362,6 +8957,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G5uTJU8KEp0/hqdefault.jpg",
       "date": "2021-05-06"
     },
     {
@@ -8376,6 +8972,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qS4opi5Djyg/hqdefault.jpg",
       "date": "2021-05-05"
     },
     {
@@ -8389,6 +8986,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-pf5tmTbJzM/hqdefault.jpg",
       "date": "2021-05-03"
     },
     {
@@ -8403,6 +9001,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NVeAZpy7MK0/hqdefault.jpg",
       "date": "2021-04-27"
     },
     {
@@ -8417,6 +9016,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SVoHB0_O6jM/hqdefault.jpg",
       "date": "2021-04-23"
     },
     {
@@ -8431,6 +9031,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HwqYIUJ3wEY/hqdefault.jpg",
       "date": "2021-04-20"
     },
     {
@@ -8445,6 +9046,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3DBhB1VS4pw/hqdefault.jpg",
       "date": "2021-04-16"
     },
     {
@@ -8459,6 +9061,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5cmb6okneoY/hqdefault.jpg",
       "date": "2021-04-13"
     },
     {
@@ -8473,6 +9076,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U4XQufhadkA/hqdefault.jpg",
       "date": "2021-04-09"
     },
     {
@@ -8487,6 +9091,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YuYIfBrp8bA/hqdefault.jpg",
       "date": "2021-04-02"
     },
     {
@@ -8500,6 +9105,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IIMzupyuQO8/hqdefault.jpg",
       "date": "2021-04-01"
     },
     {
@@ -8514,6 +9120,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MRkikoZZwow/hqdefault.jpg",
       "date": "2021-03-23"
     },
     {
@@ -8527,6 +9134,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tgNrSIOLco4/hqdefault.jpg",
       "date": "2021-03-23"
     },
     {
@@ -8541,6 +9149,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8X8X4-jDqHQ/hqdefault.jpg",
       "date": "2021-03-19"
     },
     {
@@ -8556,6 +9165,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l4YG-z7Lv8g/hqdefault.jpg",
       "date": "2021-03-16"
     },
     {
@@ -8570,6 +9180,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iDC7llrxgmw/hqdefault.jpg",
       "date": "2021-03-16"
     },
     {
@@ -8584,6 +9195,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3jdwfbvIDsw/hqdefault.jpg",
       "date": "2021-03-12"
     },
     {
@@ -8597,6 +9209,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ls8d5b1-UnM/hqdefault.jpg",
       "date": "2021-03-09"
     },
     {
@@ -8611,6 +9224,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jqoOvgDsQEk/hqdefault.jpg",
       "date": "2021-03-09"
     },
     {
@@ -8625,6 +9239,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9i0gfvcxQKA/hqdefault.jpg",
       "date": "2021-03-05"
     },
     {
@@ -8639,6 +9254,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ELn8OFN-rVE/hqdefault.jpg",
       "date": "2021-03-02"
     },
     {
@@ -8653,6 +9269,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0IEqEDO5N0Y/hqdefault.jpg",
       "date": "2021-02-23"
     },
     {
@@ -8667,6 +9284,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Kxh5lcfobdQ/hqdefault.jpg",
       "date": "2021-02-19"
     },
     {
@@ -8681,6 +9299,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IM-_kAwvJA8/hqdefault.jpg",
       "date": "2021-02-16"
     },
     {
@@ -8695,6 +9314,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HplWMcEaw-U/hqdefault.jpg",
       "date": "2021-02-14"
     },
     {
@@ -8710,6 +9330,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1LYuOvhJDrw/hqdefault.jpg",
       "date": "2021-02-11"
     },
     {
@@ -8725,6 +9346,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AdESTusHW6E/hqdefault.jpg",
       "date": "2021-02-11"
     },
     {
@@ -8739,6 +9361,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xUiYCRzk9WI/hqdefault.jpg",
       "date": "2021-02-09"
     },
     {
@@ -8753,6 +9376,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sGOpxdmr8eI/hqdefault.jpg",
       "date": "2021-02-05"
     },
     {
@@ -8768,6 +9392,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gUAn1M5mhxA/hqdefault.jpg",
       "date": "2021-02-02"
     },
     {
@@ -8783,6 +9408,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qetSF1Xxv4s/hqdefault.jpg",
       "date": "2021-02-02"
     },
     {
@@ -8797,6 +9423,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mEZSovaDmmg/hqdefault.jpg",
       "date": "2021-02-02"
     },
     {
@@ -8811,6 +9438,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-Ik5SWwBArE/hqdefault.jpg",
       "date": "2021-01-29"
     },
     {
@@ -8825,6 +9453,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HPoxe3oUvgk/hqdefault.jpg",
       "date": "2021-01-26"
     },
     {
@@ -8839,6 +9468,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kVRaOFyQ0SA/hqdefault.jpg",
       "date": "2021-01-22"
     },
     {
@@ -8854,6 +9484,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OoVR0sywatI/hqdefault.jpg",
       "date": "2021-01-20"
     },
     {
@@ -8868,6 +9499,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9KVHwpLftbU/hqdefault.jpg",
       "date": "2021-01-19"
     },
     {
@@ -8882,6 +9514,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MFNJHqH-6ks/hqdefault.jpg",
       "date": "2021-01-15"
     },
     {
@@ -8897,6 +9530,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sq-F1580trQ/hqdefault.jpg",
       "date": "2021-01-13"
     },
     {
@@ -8911,6 +9545,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6QL5NG0NjS8/hqdefault.jpg",
       "date": "2021-01-12"
     },
     {
@@ -8925,6 +9560,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m5y5elhJmbY/hqdefault.jpg",
       "date": "2021-01-08"
     },
     {
@@ -8939,6 +9575,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Llpz3ngOasY/hqdefault.jpg",
       "date": "2021-01-05"
     },
     {
@@ -8954,6 +9591,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UrJizKD0N6M/hqdefault.jpg",
       "date": "2021-01-04"
     },
     {
@@ -8968,6 +9606,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Rd8sPuCeX8/hqdefault.jpg",
       "date": "2021-01-01"
     },
     {
@@ -8982,6 +9621,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3RFCTmEsfg4/hqdefault.jpg",
       "date": "2020-12-29"
     },
     {
@@ -8996,6 +9636,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ag_4vA1O-m4/hqdefault.jpg",
       "date": "2020-12-25"
     },
     {
@@ -9010,6 +9651,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RJiNs_N0J5s/hqdefault.jpg",
       "date": "2020-12-22"
     },
     {
@@ -9024,6 +9666,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PZEJaZpERCU/hqdefault.jpg",
       "date": "2020-12-18"
     },
     {
@@ -9038,6 +9681,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8WP8VXAtpy4/hqdefault.jpg",
       "date": "2020-12-15"
     },
     {
@@ -9052,6 +9696,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vIv9ddj4Ay0/hqdefault.jpg",
       "date": "2020-12-11"
     },
     {
@@ -9066,6 +9711,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IHqiz-kO5dE/hqdefault.jpg",
       "date": "2020-12-08"
     },
     {
@@ -9081,6 +9727,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UoMgFBMsmpg/hqdefault.jpg",
       "date": "2020-12-04"
     },
     {
@@ -9094,6 +9741,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jf4xi-yFHnA/hqdefault.jpg",
       "date": "2020-12-04"
     },
     {
@@ -9108,6 +9756,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6KyYVcNRMj4/hqdefault.jpg",
       "date": "2020-12-04"
     },
     {
@@ -9122,6 +9771,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DzzN47ByAAE/hqdefault.jpg",
       "date": "2020-12-04"
     },
     {
@@ -9136,6 +9786,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0apW12hOZNM/hqdefault.jpg",
       "date": "2020-12-01"
     },
     {
@@ -9149,6 +9800,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2CvZBQTf54o/hqdefault.jpg",
       "date": "2020-11-27"
     },
     {
@@ -9163,6 +9815,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VGrOAf7S8n4/hqdefault.jpg",
       "date": "2020-11-27"
     },
     {
@@ -9177,6 +9830,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/97-VRVYhJEQ/hqdefault.jpg",
       "date": "2020-11-24"
     },
     {
@@ -9191,6 +9845,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s7NZC1blwtc/hqdefault.jpg",
       "date": "2020-11-17"
     },
     {
@@ -9204,6 +9859,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QaIzRQMvvP8/hqdefault.jpg",
       "date": "2020-11-16"
     },
     {
@@ -9218,6 +9874,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9a9K4cd2vMo/hqdefault.jpg",
       "date": "2020-11-13"
     },
     {
@@ -9232,6 +9889,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F477UJM7qoA/hqdefault.jpg",
       "date": "2020-11-11"
     },
     {
@@ -9247,6 +9905,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5dUqkBTxzOI/hqdefault.jpg",
       "date": "2020-11-10"
     },
     {
@@ -9262,6 +9921,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sfr4US6t0eQ/hqdefault.jpg",
       "date": "2020-11-10"
     },
     {
@@ -9277,6 +9937,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WY3LQoVMq6g/hqdefault.jpg",
       "date": "2020-11-10"
     },
     {
@@ -9291,6 +9952,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cSiVdt9ZFwQ/hqdefault.jpg",
       "date": "2020-11-08"
     },
     {
@@ -9305,6 +9967,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uECKGebKjlk/hqdefault.jpg",
       "date": "2020-11-03"
     },
     {
@@ -9320,6 +9983,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5p29zI69oWI/hqdefault.jpg",
       "date": "2020-11-01"
     },
     {
@@ -9334,6 +9998,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eMu298-U8mo/hqdefault.jpg",
       "date": "2020-10-27"
     },
     {
@@ -9348,6 +10013,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XI977EvIZKs/hqdefault.jpg",
       "date": "2020-10-23"
     },
     {
@@ -9362,6 +10028,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jijqlp8XAS0/hqdefault.jpg",
       "date": "2020-10-20"
     },
     {
@@ -9377,6 +10044,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EbYrMgA9ZwI/hqdefault.jpg",
       "date": "2020-10-16"
     },
     {
@@ -9390,6 +10058,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m5MkDSbOZyU/hqdefault.jpg",
       "date": "2020-10-16"
     },
     {
@@ -9404,6 +10073,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mnfkXKM088c/hqdefault.jpg",
       "date": "2020-10-16"
     },
     {
@@ -9418,6 +10088,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LSE8j7bfA9k/hqdefault.jpg",
       "date": "2020-10-09"
     },
     {
@@ -9432,6 +10103,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/j-5KlrDy6-E/hqdefault.jpg",
       "date": "2020-10-08"
     },
     {
@@ -9447,6 +10119,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V4mQYXciiEI/hqdefault.jpg",
       "date": "2020-10-07"
     },
     {
@@ -9460,6 +10133,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hBH1nmv9SRY/hqdefault.jpg",
       "date": "2020-10-05"
     },
     {
@@ -9473,6 +10147,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HmdwJndQ1LI/hqdefault.jpg",
       "date": "2020-10-05"
     },
     {
@@ -9487,6 +10162,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/g5mkJyRDiqc/hqdefault.jpg",
       "date": "2020-10-02"
     },
     {
@@ -9501,6 +10177,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1iOqenQwmsY/hqdefault.jpg",
       "date": "2020-09-24"
     },
     {
@@ -9515,6 +10192,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_oW5ha8iheg/hqdefault.jpg",
       "date": "2020-09-17"
     },
     {
@@ -9529,6 +10207,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PbUIkzl_GWI/hqdefault.jpg",
       "date": "2020-09-11"
     },
     {
@@ -9543,6 +10222,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FGs55hA-3DI/hqdefault.jpg",
       "date": "2020-09-03"
     },
     {
@@ -9557,6 +10237,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Lui0S-dUuU/hqdefault.jpg",
       "date": "2020-08-27"
     },
     {
@@ -9572,6 +10253,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GwitLh-hNYc/hqdefault.jpg",
       "date": "2020-08-23"
     },
     {
@@ -9585,6 +10267,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sVxlkVRzLe0/hqdefault.jpg",
       "date": "2020-08-20"
     },
     {
@@ -9599,6 +10282,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Yjt8iPSL7A/hqdefault.jpg",
       "date": "2020-08-12"
     },
     {
@@ -9613,6 +10297,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U6_0JOva5iE/hqdefault.jpg",
       "date": "2020-08-02"
     },
     {
@@ -9627,6 +10312,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wCcvhnWn7C8/hqdefault.jpg",
       "date": "2020-07-24"
     },
     {
@@ -9641,6 +10327,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uUVASxFOttY/hqdefault.jpg",
       "date": "2020-07-21"
     },
     {
@@ -9656,6 +10343,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A3j1B7u_gac/hqdefault.jpg",
       "date": "2020-07-15"
     },
     {
@@ -9671,6 +10359,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6v6uvf4c2MM/hqdefault.jpg",
       "date": "2020-07-14"
     },
     {
@@ -9686,6 +10375,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XvTEUZ6X_Ew/hqdefault.jpg",
       "date": "2020-07-14"
     },
     {
@@ -9701,6 +10391,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u4Bbx3v9Bkw/hqdefault.jpg",
       "date": "2020-07-14"
     },
     {
@@ -9716,6 +10407,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4_ZgxD0xtyk/hqdefault.jpg",
       "date": "2020-07-08"
     },
     {
@@ -9731,6 +10423,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NFAZ0UmGZw0/hqdefault.jpg",
       "date": "2020-07-08"
     },
     {
@@ -9746,6 +10439,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qKSofWe6TLw/hqdefault.jpg",
       "date": "2020-07-08"
     },
     {
@@ -9760,6 +10454,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/epNqBP0U9Mk/hqdefault.jpg",
       "date": "2020-07-02"
     },
     {
@@ -9775,6 +10470,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mp0wtxW5rDg/hqdefault.jpg",
       "date": "2020-07-02"
     },
     {
@@ -9788,6 +10484,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PPVLN4PTad4/hqdefault.jpg",
       "date": "2020-07-02"
     },
     {
@@ -9802,6 +10499,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CjJbAYvLjGg/hqdefault.jpg",
       "date": "2020-06-26"
     },
     {
@@ -9816,6 +10514,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OV5RruB-ZKQ/hqdefault.jpg",
       "date": "2020-06-25"
     },
     {
@@ -9831,6 +10530,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UUP9JYiPJkA/hqdefault.jpg",
       "date": "2020-06-22"
     },
     {
@@ -9844,6 +10544,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PqV6hxC47ss/hqdefault.jpg",
       "date": "2020-06-18"
     },
     {
@@ -9858,6 +10559,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gBSxUe5M8X4/hqdefault.jpg",
       "date": "2020-06-18"
     },
     {
@@ -9872,6 +10574,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WUejKDsr3tg/hqdefault.jpg",
       "date": "2020-06-18"
     },
     {
@@ -9885,6 +10588,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NTQw4FVUpe8/hqdefault.jpg",
       "date": "2020-06-18"
     },
     {
@@ -9898,6 +10602,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3etl8z7FEk0/hqdefault.jpg",
       "date": "2020-06-16"
     },
     {
@@ -9913,6 +10618,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CvbUQQCqBcI/hqdefault.jpg",
       "date": "2020-06-11"
     },
     {
@@ -9927,6 +10633,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gAswpK4M_QA/hqdefault.jpg",
       "date": "2020-06-09"
     },
     {
@@ -9940,6 +10647,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/drW6uU9eQ-A/hqdefault.jpg",
       "date": "2020-06-05"
     },
     {
@@ -9954,6 +10662,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Lyllja5fXm4/hqdefault.jpg",
       "date": "2020-06-05"
     },
     {
@@ -9968,6 +10677,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wo1LoX0UFis/hqdefault.jpg",
       "date": "2020-05-26"
     },
     {
@@ -9982,6 +10692,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9OZ4DjkcvA8/hqdefault.jpg",
       "date": "2020-05-20"
     },
     {
@@ -9996,6 +10707,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GXhxZ6IKVIM/hqdefault.jpg",
       "date": "2020-05-20"
     },
     {
@@ -10010,6 +10722,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/32JQh2zKB-8/hqdefault.jpg",
       "date": "2020-05-14"
     },
     {
@@ -10024,6 +10737,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BZKVI9J_lao/hqdefault.jpg",
       "date": "2020-05-12"
     },
     {
@@ -10038,6 +10752,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jtpOgH92WNk/hqdefault.jpg",
       "date": "2020-05-07"
     },
     {
@@ -10052,6 +10767,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U6RGFObUIho/hqdefault.jpg",
       "date": "2020-05-05"
     },
     {
@@ -10066,6 +10782,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TC2Bm7-RgwE/hqdefault.jpg",
       "date": "2020-05-01"
     },
     {
@@ -10080,6 +10797,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4IPAxvqKr5E/hqdefault.jpg",
       "date": "2020-04-20"
     },
     {
@@ -10093,6 +10811,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xqEyfXMW94Q/hqdefault.jpg",
       "date": "2020-04-19"
     },
     {
@@ -10108,6 +10827,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yWeQmsYeXrs/hqdefault.jpg",
       "date": "2020-04-07"
     },
     {
@@ -10123,6 +10843,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1xHrwLdDfmE/hqdefault.jpg",
       "date": "2020-04-01"
     },
     {
@@ -10138,6 +10859,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/W5uWySL2qNU/hqdefault.jpg",
       "date": "2020-04-01"
     },
     {
@@ -10153,6 +10875,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5cQUGe4Q1To/hqdefault.jpg",
       "date": "2020-03-29"
     },
     {
@@ -10168,6 +10891,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AeXOwDYokNc/hqdefault.jpg",
       "date": "2020-03-29"
     },
     {
@@ -10183,6 +10907,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KxWRy8WC-Hg/hqdefault.jpg",
       "date": "2020-03-29"
     },
     {
@@ -10198,6 +10923,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KjJIuqddyxU/hqdefault.jpg",
       "date": "2020-03-29"
     },
     {
@@ -10212,6 +10938,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4_iiU8Xr7Zs/hqdefault.jpg",
       "date": "2020-03-27"
     },
     {
@@ -10226,6 +10953,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/o8PDz6y_Vls/hqdefault.jpg",
       "date": "2020-03-26"
     },
     {
@@ -10241,6 +10969,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zpmIlA9Py2A/hqdefault.jpg",
       "date": "2020-03-24"
     },
     {
@@ -10254,6 +10983,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZKVC_XB7dK4/hqdefault.jpg",
       "date": "2020-03-19"
     },
     {
@@ -10267,6 +10997,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2dFSp8HPTVY/hqdefault.jpg",
       "date": "2020-03-19"
     },
     {
@@ -10281,6 +11012,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A9u2buK-vEE/hqdefault.jpg",
       "date": "2020-03-15"
     },
     {
@@ -10295,6 +11027,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mI_ZvIp6z8w/hqdefault.jpg",
       "date": "2020-03-04"
     },
     {
@@ -10310,6 +11043,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/87-Xp2rTZ10/hqdefault.jpg",
       "date": "2020-03-02"
     },
     {
@@ -10325,6 +11059,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1URpcCS6ie0/hqdefault.jpg",
       "date": "2020-03-01"
     },
     {
@@ -10340,6 +11075,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2OwK3j726KM/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10355,6 +11091,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/joYVtDaJD_g/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10370,6 +11107,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QQNUixkBjhw/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10385,6 +11123,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FrD6HOzEts8/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10400,6 +11139,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DtBobk79f3M/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10415,6 +11155,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/b0jNXK_TnbM/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10429,6 +11170,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CQE44gPgRtA/hqdefault.jpg",
       "date": "2020-02-24"
     },
     {
@@ -10443,6 +11185,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vJ6A8AQdnWI/hqdefault.jpg",
       "date": "2020-02-20"
     },
     {
@@ -10457,6 +11200,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OAhMxr24Lcs/hqdefault.jpg",
       "date": "2020-02-20"
     },
     {
@@ -10470,6 +11214,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/imUYVPYA8iU/hqdefault.jpg",
       "date": "2020-01-24"
     },
     {
@@ -10483,6 +11228,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CF6oqAi3Lk4/hqdefault.jpg",
       "date": "2020-01-19"
     },
     {
@@ -10496,6 +11242,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dt3JPmt6PWI/hqdefault.jpg",
       "date": "2020-01-14"
     },
     {
@@ -10511,6 +11258,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8qONgR9XGQo/hqdefault.jpg",
       "date": "2020-01-13"
     },
     {
@@ -10526,6 +11274,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9dD-0bCQ74A/hqdefault.jpg",
       "date": "2020-01-13"
     },
     {
@@ -10541,6 +11290,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qDUp6jhuTzs/hqdefault.jpg",
       "date": "2020-01-13"
     },
     {
@@ -10556,6 +11306,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/plopG0avy1Q/hqdefault.jpg",
       "date": "2020-01-07"
     },
     {
@@ -10569,6 +11320,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/g75cDML-Srs/hqdefault.jpg",
       "date": "2020-01-05"
     },
     {
@@ -10582,6 +11334,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EGabrEBKfwg/hqdefault.jpg",
       "date": "2020-01-02"
     },
     {
@@ -10596,6 +11349,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hWY9KO2AwmI/hqdefault.jpg",
       "date": "2020-01-02"
     },
     {
@@ -10611,6 +11365,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8dUENSQnhnY/hqdefault.jpg",
       "date": "2019-12-22"
     },
     {
@@ -10626,6 +11381,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hJAfHV74cqE/hqdefault.jpg",
       "date": "2019-12-22"
     },
     {
@@ -10641,6 +11397,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rnNDteu8Z78/hqdefault.jpg",
       "date": "2019-12-22"
     },
     {
@@ -10655,6 +11412,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CsMJmC10NbQ/hqdefault.jpg",
       "date": "2019-12-20"
     },
     {
@@ -10668,6 +11426,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YoEzIcKboTw/hqdefault.jpg",
       "date": "2019-12-12"
     },
     {
@@ -10683,6 +11442,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0v37JHCvmVk/hqdefault.jpg",
       "date": "2019-12-06"
     },
     {
@@ -10698,6 +11458,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9oafYz09ePE/hqdefault.jpg",
       "date": "2019-11-29"
     },
     {
@@ -10713,6 +11474,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iUxlUe88rsE/hqdefault.jpg",
       "date": "2019-11-29"
     },
     {
@@ -10728,6 +11490,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LfvXRZ6OLes/hqdefault.jpg",
       "date": "2019-11-29"
     },
     {
@@ -10743,6 +11506,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5NPkXKT9EQI/hqdefault.jpg",
       "date": "2019-11-28"
     },
     {
@@ -10757,6 +11521,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RZHlFgt7caI/hqdefault.jpg",
       "date": "2019-11-28"
     },
     {
@@ -10771,6 +11536,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yrki_p2LIxg/hqdefault.jpg",
       "date": "2019-11-20"
     },
     {
@@ -10785,6 +11551,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zCuPyIhZrR8/hqdefault.jpg",
       "date": "2019-11-10"
     },
     {
@@ -10800,6 +11567,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MnwxOktjJHs/hqdefault.jpg",
       "date": "2019-11-10"
     },
     {
@@ -10815,6 +11583,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QnPTUf2d7TM/hqdefault.jpg",
       "date": "2019-11-10"
     },
     {
@@ -10830,6 +11599,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WbFSurxQ9ts/hqdefault.jpg",
       "date": "2019-11-07"
     },
     {
@@ -10845,6 +11615,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X3Y26il0hbc/hqdefault.jpg",
       "date": "2019-11-03"
     },
     {
@@ -10859,6 +11630,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ijTitL7C2J0/hqdefault.jpg",
       "date": "2019-11-01"
     },
     {
@@ -10873,6 +11645,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DxJIsHZ6VxE/hqdefault.jpg",
       "date": "2019-10-28"
     },
     {
@@ -10888,6 +11661,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3SY8J2lD4Og/hqdefault.jpg",
       "date": "2019-10-18"
     },
     {
@@ -10903,6 +11677,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-IuL-0bBm0k/hqdefault.jpg",
       "date": "2019-10-18"
     },
     {
@@ -10918,6 +11693,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FDrq7Ep-u3M/hqdefault.jpg",
       "date": "2019-10-18"
     },
     {
@@ -10932,6 +11708,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WLmj52mfHw4/hqdefault.jpg",
       "date": "2019-10-07"
     },
     {
@@ -10947,6 +11724,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a0p4WH_GHa4/hqdefault.jpg",
       "date": "2019-09-29"
     },
     {
@@ -10962,6 +11740,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lT2rQIuo6xI/hqdefault.jpg",
       "date": "2019-09-27"
     },
     {
@@ -10977,6 +11756,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PNdzPDBAM8s/hqdefault.jpg",
       "date": "2019-09-23"
     },
     {
@@ -10992,6 +11772,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/69xWat36AzA/hqdefault.jpg",
       "date": "2019-09-18"
     },
     {
@@ -11007,6 +11788,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NcV5bq9SSBc/hqdefault.jpg",
       "date": "2019-09-15"
     },
     {
@@ -11022,6 +11804,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bEmdw4MIqyc/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11037,6 +11820,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OwryEfzTCaY/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11052,6 +11836,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h0BYlIB-TiQ/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11067,6 +11852,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ROkjjlOMIQo/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11082,6 +11868,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zMtebGUTA5g/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11097,6 +11884,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YTj6bTcwA8I/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11112,6 +11900,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VEWD05DLS1E/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11127,6 +11916,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a4Gi4m8ELzw/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11142,6 +11932,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vExppLuz81A/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11157,6 +11948,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lax9OlncROs/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11172,6 +11964,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1c_sCMzjn5U/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11187,6 +11980,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M0nhZ8X3dHA/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11202,6 +11996,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X7SEjkrObf0/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11217,6 +12012,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kWTupdw8rsM/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11232,6 +12028,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l4gJjRzmDHw/hqdefault.jpg",
       "date": "2019-09-12"
     },
     {
@@ -11247,6 +12044,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SiZ-CYpJPWY/hqdefault.jpg",
       "date": "2019-09-10"
     },
     {
@@ -11260,6 +12058,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f7CR9x012g0/hqdefault.jpg",
       "date": "2019-09-10"
     },
     {
@@ -11275,6 +12074,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-FoNI8TRCP4/hqdefault.jpg",
       "date": "2019-09-10"
     },
     {
@@ -11289,6 +12089,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xI8-tk_KlC0/hqdefault.jpg",
       "date": "2019-09-10"
     },
     {
@@ -11303,6 +12104,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1HZ2wCSiJLk/hqdefault.jpg",
       "date": "2019-09-05"
     },
     {
@@ -11317,6 +12119,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3x2XaJfBZD4/hqdefault.jpg",
       "date": "2019-08-29"
     },
     {
@@ -11331,6 +12134,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VtZW-HFyFiE/hqdefault.jpg",
       "date": "2019-08-19"
     },
     {
@@ -11345,6 +12149,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h9obJ2VdBoc/hqdefault.jpg",
       "date": "2019-08-06"
     },
     {
@@ -11358,6 +12163,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TCOe0NtYMf4/hqdefault.jpg",
       "date": "2019-08-05"
     },
     {
@@ -11372,6 +12178,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iTkNu2vFih4/hqdefault.jpg",
       "date": "2019-08-01"
     },
     {
@@ -11386,6 +12193,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wVCnUElCT1w/hqdefault.jpg",
       "date": "2019-07-25"
     },
     {
@@ -11400,6 +12208,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OCUbhWVXcS4/hqdefault.jpg",
       "date": "2019-07-18"
     },
     {
@@ -11415,6 +12224,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qJLkCfxNspM/hqdefault.jpg",
       "date": "2019-07-11"
     },
     {
@@ -11428,6 +12238,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KTpuUCLhnlI/hqdefault.jpg",
       "date": "2019-06-27"
     },
     {
@@ -11441,6 +12252,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3sBCnOdclk/hqdefault.jpg",
       "date": "2019-06-27"
     },
     {
@@ -11454,6 +12266,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VwAb3LqX5Hs/hqdefault.jpg",
       "date": "2019-06-27"
     },
     {
@@ -11467,6 +12280,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h8Rp2joYHxI/hqdefault.jpg",
       "date": "2019-06-18"
     },
     {
@@ -11480,6 +12294,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/07RXUv_Cqe0/hqdefault.jpg",
       "date": "2019-06-18"
     },
     {
@@ -11493,6 +12308,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6alc10v2DN0/hqdefault.jpg",
       "date": "2019-06-18"
     },
     {
@@ -11507,6 +12323,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K0YsMCqgo9k/hqdefault.jpg",
       "date": "2019-06-12"
     },
     {
@@ -11521,6 +12338,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rwr_0xWSmsA/hqdefault.jpg",
       "date": "2019-06-02"
     },
     {
@@ -11534,6 +12352,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9Yc_nmIH8So/hqdefault.jpg",
       "date": "2019-05-20"
     },
     {
@@ -11547,6 +12366,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3N96KFXLsVY/hqdefault.jpg",
       "date": "2019-05-20"
     },
     {
@@ -11561,6 +12381,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JoUJtf_d7jU/hqdefault.jpg",
       "date": "2019-05-20"
     },
     {
@@ -11574,6 +12395,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R-lw9byKMnM/hqdefault.jpg",
       "date": "2019-05-13"
     },
     {
@@ -11588,6 +12410,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_WS_CkI8bm4/hqdefault.jpg",
       "date": "2019-05-12"
     },
     {
@@ -11603,6 +12426,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xykPsR7-jVs/hqdefault.jpg",
       "date": "2019-05-09"
     },
     {
@@ -11617,6 +12441,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OG9H2qf_IQo/hqdefault.jpg",
       "date": "2019-05-05"
     },
     {
@@ -11632,6 +12457,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aoFuPiEYkOU/hqdefault.jpg",
       "date": "2019-04-14"
     },
     {
@@ -11646,6 +12472,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TziKWhQmVrE/hqdefault.jpg",
       "date": "2019-04-12"
     },
     {
@@ -11661,6 +12488,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rX-KG-X9rro/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11676,6 +12504,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ErJF5rmQ4PQ/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11691,6 +12520,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T6Erf3MZ1M0/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11706,6 +12536,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NlLVM30VHc4/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11721,6 +12552,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cxJJTq-i3OE/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11735,6 +12567,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WEorlybjIiU/hqdefault.jpg",
       "date": "2019-04-09"
     },
     {
@@ -11750,6 +12583,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wxDl2WfwUBk/hqdefault.jpg",
       "date": "2019-03-28"
     },
     {
@@ -11765,6 +12599,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HI7gpSN9lHk/hqdefault.jpg",
       "date": "2019-03-26"
     },
     {
@@ -11780,6 +12615,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bDXGjSAXuv8/hqdefault.jpg",
       "date": "2019-03-26"
     },
     {
@@ -11795,6 +12631,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iW05SgwXYgE/hqdefault.jpg",
       "date": "2019-03-21"
     },
     {
@@ -11810,6 +12647,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mLKWPa4bVBQ/hqdefault.jpg",
       "date": "2019-03-20"
     },
     {
@@ -11824,6 +12662,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-hWbGB4n5no/hqdefault.jpg",
       "date": "2019-03-18"
     },
     {
@@ -11838,6 +12677,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0fz522cr3As/hqdefault.jpg",
       "date": "2019-03-15"
     },
     {
@@ -11852,6 +12692,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gIvU1FzQA8A/hqdefault.jpg",
       "date": "2019-03-08"
     },
     {
@@ -11866,6 +12707,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/654TlJzGUM4/hqdefault.jpg",
       "date": "2019-02-21"
     },
     {
@@ -11881,6 +12723,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/udtQk4gupAE/hqdefault.jpg",
       "date": "2019-02-19"
     },
     {
@@ -11896,6 +12739,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EfeaZYRnuwI/hqdefault.jpg",
       "date": "2019-02-10"
     },
     {
@@ -11911,6 +12755,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0sE4TAta17M/hqdefault.jpg",
       "date": "2019-02-05"
     },
     {
@@ -11925,6 +12770,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/maVkmQN4ELk/hqdefault.jpg",
       "date": "2019-02-05"
     },
     {
@@ -11939,6 +12785,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n9Z43J7zAS8/hqdefault.jpg",
       "date": "2019-02-05"
     },
     {
@@ -11953,6 +12800,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/59CXlnE6DCc/hqdefault.jpg",
       "date": "2019-02-05"
     },
     {
@@ -11966,6 +12814,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PKBZEE1x-kg/hqdefault.jpg",
       "date": "2019-02-05"
     },
     {
@@ -11979,6 +12828,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/awgbKbY_0ik/hqdefault.jpg",
       "date": "2019-02-04"
     },
     {
@@ -11993,6 +12843,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/udNR_KKHCmg/hqdefault.jpg",
       "date": "2019-02-03"
     },
     {
@@ -12007,6 +12858,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_9b-k8z8Vy4/hqdefault.jpg",
       "date": "2019-02-03"
     },
     {
@@ -12021,6 +12873,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3YQ7UnJ7dIw/hqdefault.jpg",
       "date": "2019-02-01"
     },
     {
@@ -12035,6 +12888,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fy7OpN7HsMY/hqdefault.jpg",
       "date": "2019-02-01"
     },
     {
@@ -12049,6 +12903,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/W4r-tv1GwRw/hqdefault.jpg",
       "date": "2019-01-31"
     },
     {
@@ -12063,6 +12918,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0JiYRMFJx7I/hqdefault.jpg",
       "date": "2019-01-27"
     },
     {
@@ -12077,6 +12933,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/j3uItnXeVbc/hqdefault.jpg",
       "date": "2019-01-27"
     },
     {
@@ -12091,6 +12948,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CA4TwaI-OhQ/hqdefault.jpg",
       "date": "2019-01-25"
     },
     {
@@ -12105,6 +12963,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5QukCT8Ym0E/hqdefault.jpg",
       "date": "2019-01-24"
     },
     {
@@ -12119,6 +12978,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S7YxzLEbCeY/hqdefault.jpg",
       "date": "2019-01-23"
     },
     {
@@ -12133,6 +12993,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tCIDVznX7JY/hqdefault.jpg",
       "date": "2019-01-22"
     },
     {
@@ -12147,6 +13008,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sx9kG9iLOk8/hqdefault.jpg",
       "date": "2019-01-21"
     },
     {
@@ -12161,6 +13023,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_X9KUV1wP8Y/hqdefault.jpg",
       "date": "2019-01-20"
     },
     {
@@ -12175,6 +13038,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ssQ3r_uq88o/hqdefault.jpg",
       "date": "2019-01-20"
     },
     {
@@ -12189,6 +13053,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ju3iALz_8lg/hqdefault.jpg",
       "date": "2019-01-18"
     },
     {
@@ -12203,6 +13068,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0dqYuRQQ-5o/hqdefault.jpg",
       "date": "2019-01-18"
     },
     {
@@ -12217,6 +13083,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9CZfD-_waZE/hqdefault.jpg",
       "date": "2019-01-17"
     },
     {
@@ -12231,6 +13098,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z2LnbEdD2Mk/hqdefault.jpg",
       "date": "2019-01-17"
     },
     {
@@ -12245,6 +13113,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qTy-buuSuEs/hqdefault.jpg",
       "date": "2019-01-16"
     },
     {
@@ -12259,6 +13128,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/joIul14nI0g/hqdefault.jpg",
       "date": "2019-01-16"
     },
     {
@@ -12273,6 +13143,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ws7z9kUbFic/hqdefault.jpg",
       "date": "2019-01-14"
     },
     {
@@ -12287,6 +13158,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WUFPmYbH0ZI/hqdefault.jpg",
       "date": "2019-01-13"
     },
     {
@@ -12301,6 +13173,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ttaW1yscpjg/hqdefault.jpg",
       "date": "2019-01-13"
     },
     {
@@ -12315,6 +13188,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HAWRxKDTMuk/hqdefault.jpg",
       "date": "2019-01-11"
     },
     {
@@ -12330,6 +13204,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jpbzhukdX-A/hqdefault.jpg",
       "date": "2019-01-09"
     },
     {
@@ -12343,6 +13218,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JK94dFD8W-k/hqdefault.jpg",
       "date": "2019-01-07"
     },
     {
@@ -12357,6 +13233,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E5CRcBrOJ2U/hqdefault.jpg",
       "date": "2019-01-04"
     },
     {
@@ -12372,6 +13249,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gtp6D2Y1pjw/hqdefault.jpg",
       "date": "2019-01-03"
     },
     {
@@ -12386,6 +13264,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cb6xhWWm6m4/hqdefault.jpg",
       "date": "2019-01-03"
     },
     {
@@ -12400,6 +13279,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MJ6O9vKpVgc/hqdefault.jpg",
       "date": "2019-01-02"
     },
     {
@@ -12414,6 +13294,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TR8hWKpWVow/hqdefault.jpg",
       "date": "2019-01-02"
     },
     {
@@ -12428,6 +13309,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vpjkXyZ0fYI/hqdefault.jpg",
       "date": "2018-12-30"
     },
     {
@@ -12442,6 +13324,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AKz-6Bd8m7M/hqdefault.jpg",
       "date": "2018-12-29"
     },
     {
@@ -12457,6 +13340,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6F5_ZtuUpA8/hqdefault.jpg",
       "date": "2018-12-23"
     },
     {
@@ -12472,6 +13356,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AuyKGr8JCyY/hqdefault.jpg",
       "date": "2018-12-10"
     },
     {
@@ -12487,6 +13372,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PeY4K9P_IxI/hqdefault.jpg",
       "date": "2018-12-06"
     },
     {
@@ -12501,6 +13387,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zQr0y-BViog/hqdefault.jpg",
       "date": "2018-12-02"
     },
     {
@@ -12515,6 +13402,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mBkSK3Gxsrg/hqdefault.jpg",
       "date": "2018-11-21"
     },
     {
@@ -12529,6 +13417,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2pDTsXDGcow/hqdefault.jpg",
       "date": "2018-11-13"
     },
     {
@@ -12543,6 +13432,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C4MeqoGy84s/hqdefault.jpg",
       "date": "2018-11-06"
     },
     {
@@ -12557,6 +13447,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NqcNPbmGuhc/hqdefault.jpg",
       "date": "2018-10-31"
     },
     {
@@ -12571,6 +13462,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ihSkOFEno6M/hqdefault.jpg",
       "date": "2018-10-21"
     },
     {
@@ -12584,6 +13476,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/I7w0ZvnpL2M/hqdefault.jpg",
       "date": "2018-10-17"
     },
     {
@@ -12598,6 +13491,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TRvi5AJ1cQU/hqdefault.jpg",
       "date": "2018-10-10"
     },
     {
@@ -12613,6 +13507,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u-HNvsPMGnE/hqdefault.jpg",
       "date": "2018-10-08"
     },
     {
@@ -12628,6 +13523,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WbdJKeBBqLs/hqdefault.jpg",
       "date": "2018-09-30"
     },
     {
@@ -12642,6 +13538,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x0pcQt1Iu9Q/hqdefault.jpg",
       "date": "2018-09-21"
     },
     {
@@ -12657,6 +13554,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nQXrH_tyu-M/hqdefault.jpg",
       "date": "2018-09-20"
     },
     {
@@ -12670,6 +13568,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U0DlkLE9E5A/hqdefault.jpg",
       "date": "2018-09-17"
     },
     {
@@ -12683,6 +13582,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_7V-H4F3cRM/hqdefault.jpg",
       "date": "2018-09-14"
     },
     {
@@ -12696,6 +13596,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iq5rzfmeFOg/hqdefault.jpg",
       "date": "2018-09-09"
     },
     {
@@ -12710,6 +13611,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BircUsbeFw0/hqdefault.jpg",
       "date": "2018-09-03"
     },
     {
@@ -12724,6 +13626,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PnzcsZKa4kg/hqdefault.jpg",
       "date": "2018-08-27"
     },
     {
@@ -12738,6 +13641,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jgbI0i7jFbk/hqdefault.jpg",
       "date": "2018-08-21"
     },
     {
@@ -12751,6 +13655,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Vr3yqzhLWs/hqdefault.jpg",
       "date": "2018-08-10"
     },
     {
@@ -12765,6 +13670,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dJv1NzruXCs/hqdefault.jpg",
       "date": "2018-08-08"
     },
     {
@@ -12780,6 +13686,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-I_7Qp3lnl8/hqdefault.jpg",
       "date": "2018-08-02"
     },
     {
@@ -12793,6 +13700,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C-Bk2DLOFQQ/hqdefault.jpg",
       "date": "2018-07-27"
     },
     {
@@ -12807,6 +13715,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uxd7N6hp_Es/hqdefault.jpg",
       "date": "2018-07-27"
     },
     {
@@ -12822,6 +13731,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tXm96PQvCsI/hqdefault.jpg",
       "date": "2018-07-25"
     },
     {
@@ -12836,6 +13746,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ROEVemnG3pk/hqdefault.jpg",
       "date": "2018-07-20"
     },
     {
@@ -12851,6 +13762,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Jn5sYqgyMN8/hqdefault.jpg",
       "date": "2018-07-18"
     },
     {
@@ -12866,6 +13778,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R6dCb6iw01Y/hqdefault.jpg",
       "date": "2018-07-15"
     },
     {
@@ -12880,6 +13793,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y1roCQgRqYw/hqdefault.jpg",
       "date": "2018-07-15"
     },
     {
@@ -12893,6 +13807,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DUP2Cvi3vAI/hqdefault.jpg",
       "date": "2018-07-11"
     },
     {
@@ -12907,6 +13822,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4BLjTxcm_1U/hqdefault.jpg",
       "date": "2018-07-08"
     },
     {
@@ -12922,6 +13838,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7JAVcFUqj0g/hqdefault.jpg",
       "date": "2018-07-05"
     },
     {
@@ -12937,6 +13854,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Va5hiBIyx5Y/hqdefault.jpg",
       "date": "2018-06-29"
     },
     {
@@ -12952,6 +13870,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MOGTtRBIaH8/hqdefault.jpg",
       "date": "2018-06-29"
     },
     {
@@ -12965,6 +13884,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7GTsM0V2fLw/hqdefault.jpg",
       "date": "2018-06-27"
     },
     {
@@ -12978,6 +13898,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aa_RHe3xCz8/hqdefault.jpg",
       "date": "2018-06-27"
     },
     {
@@ -12991,6 +13912,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4atyY99ukLw/hqdefault.jpg",
       "date": "2018-06-27"
     },
     {
@@ -13004,6 +13926,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ima4tXEvp9o/hqdefault.jpg",
       "date": "2018-06-27"
     },
     {
@@ -13018,6 +13941,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7SpqT4GD1NI/hqdefault.jpg",
       "date": "2018-06-17"
     },
     {
@@ -13032,6 +13956,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mb09nUDB0Y8/hqdefault.jpg",
       "date": "2018-06-10"
     },
     {
@@ -13047,6 +13972,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cIWVi7-PKJA/hqdefault.jpg",
       "date": "2018-06-05"
     },
     {
@@ -13060,6 +13986,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q1GLnS1XCmY/hqdefault.jpg",
       "date": "2018-06-04"
     },
     {
@@ -13074,6 +14001,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F-u_rPnVM1I/hqdefault.jpg",
       "date": "2018-05-30"
     },
     {
@@ -13088,6 +14016,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qT5nQKuc6n8/hqdefault.jpg",
       "date": "2018-05-28"
     },
     {
@@ -13101,6 +14030,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GPnZKr3KRUg/hqdefault.jpg",
       "date": "2018-05-28"
     },
     {
@@ -13114,6 +14044,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9VRuZf-dOzs/hqdefault.jpg",
       "date": "2018-05-18"
     },
     {
@@ -13129,6 +14060,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r45FpAagpww/hqdefault.jpg",
       "date": "2018-05-03"
     },
     {
@@ -13143,6 +14075,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AnKG5u9ZQUU/hqdefault.jpg",
       "date": "2018-05-02"
     },
     {
@@ -13157,6 +14090,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t5XU26uGyBc/hqdefault.jpg",
       "date": "2018-04-25"
     },
     {
@@ -13170,6 +14104,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ElbWxPC-cWc/hqdefault.jpg",
       "date": "2018-04-23"
     },
     {
@@ -13185,6 +14120,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yGZZk8jGheQ/hqdefault.jpg",
       "date": "2018-04-19"
     },
     {
@@ -13200,6 +14136,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ecF-6Ck57Uk/hqdefault.jpg",
       "date": "2018-04-18"
     },
     {
@@ -13215,6 +14152,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/k9hY20WPNBw/hqdefault.jpg",
       "date": "2018-04-18"
     },
     {
@@ -13229,6 +14167,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NQbf1dwoFAA/hqdefault.jpg",
       "date": "2018-04-13"
     },
     {
@@ -13244,6 +14183,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vc5jCki_fwY/hqdefault.jpg",
       "date": "2018-04-11"
     },
     {
@@ -13257,6 +14197,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ugv5nNwXndM/hqdefault.jpg",
       "date": "2018-04-03"
     },
     {
@@ -13270,6 +14211,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9TkkXbCpUF0/hqdefault.jpg",
       "date": "2018-04-03"
     },
     {
@@ -13283,6 +14225,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/k2ZHet9qMVA/hqdefault.jpg",
       "date": "2018-04-03"
     },
     {
@@ -13298,6 +14241,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AFKapIHI6k8/hqdefault.jpg",
       "date": "2018-04-03"
     },
     {
@@ -13312,6 +14256,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EP8ygWGxu5o/hqdefault.jpg",
       "date": "2018-03-25"
     },
     {
@@ -13327,6 +14272,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lAQLwCGz6jw/hqdefault.jpg",
       "date": "2018-03-20"
     },
     {
@@ -13340,6 +14286,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZRayHsDw908/hqdefault.jpg",
       "date": "2018-03-16"
     },
     {
@@ -13354,6 +14301,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pDnXBM_uV1w/hqdefault.jpg",
       "date": "2018-03-15"
     },
     {
@@ -13367,6 +14315,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZDb0pZfR4Do/hqdefault.jpg",
       "date": "2018-02-28"
     },
     {
@@ -13380,6 +14329,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fhz32vNZv6E/hqdefault.jpg",
       "date": "2018-02-28"
     },
     {
@@ -13394,6 +14344,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sDa11x0k29k/hqdefault.jpg",
       "date": "2018-02-23"
     },
     {
@@ -13408,6 +14359,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wINzsgxMCbg/hqdefault.jpg",
       "date": "2018-02-23"
     },
     {
@@ -13423,6 +14375,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dIC8bHyFTb0/hqdefault.jpg",
       "date": "2018-02-22"
     },
     {
@@ -13438,6 +14391,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5d_qcA28V1s/hqdefault.jpg",
       "date": "2018-02-16"
     },
     {
@@ -13452,6 +14406,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pE6YOAplhYo/hqdefault.jpg",
       "date": "2018-02-09"
     },
     {
@@ -13466,6 +14421,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NkiXwtOwa5k/hqdefault.jpg",
       "date": "2018-02-08"
     },
     {
@@ -13479,6 +14435,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TH-M5bDtAJs/hqdefault.jpg",
       "date": "2018-01-30"
     },
     {
@@ -13492,6 +14449,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8XdV2n18Ojw/hqdefault.jpg",
       "date": "2018-01-30"
     },
     {
@@ -13506,6 +14464,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hExy2uyd5nU/hqdefault.jpg",
       "date": "2018-01-28"
     },
     {
@@ -13519,6 +14478,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bcW9KqSKJnc/hqdefault.jpg",
       "date": "2018-01-23"
     },
     {
@@ -13532,6 +14492,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gA28K2DQ-9Q/hqdefault.jpg",
       "date": "2018-01-23"
     },
     {
@@ -13545,6 +14506,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Adv_ko4QEHE/hqdefault.jpg",
       "date": "2018-01-23"
     },
     {
@@ -13559,6 +14521,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AusY2xkaHUg/hqdefault.jpg",
       "date": "2018-01-22"
     },
     {
@@ -13573,6 +14536,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d01AXPzSO-8/hqdefault.jpg",
       "date": "2018-01-21"
     },
     {
@@ -13587,6 +14551,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0BlgIMsMk3M/hqdefault.jpg",
       "date": "2018-01-14"
     },
     {
@@ -13600,6 +14565,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/URolLpj7ITI/hqdefault.jpg",
       "date": "2018-01-11"
     },
     {
@@ -13613,6 +14579,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T5RpdZ6fx5g/hqdefault.jpg",
       "date": "2018-01-09"
     },
     {
@@ -13626,6 +14593,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DCAXuZJmhHs/hqdefault.jpg",
       "date": "2018-01-07"
     },
     {
@@ -13640,6 +14608,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dmGUJu9FTc4/hqdefault.jpg",
       "date": "2018-01-07"
     },
     {
@@ -13653,6 +14622,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RbwYcXiDNU0/hqdefault.jpg",
       "date": "2018-01-04"
     },
     {
@@ -13668,6 +14638,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rPbntDQiq38/hqdefault.jpg",
       "date": "2018-01-04"
     },
     {
@@ -13681,6 +14652,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AO_NYe09FrE/hqdefault.jpg",
       "date": "2018-01-04"
     },
     {
@@ -13696,6 +14668,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tPAJUUorCpU/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13709,6 +14682,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xWn-lO3EWgs/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13722,6 +14696,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n_GaXp9Cz5M/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13737,6 +14712,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/683MnEa85R4/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13750,6 +14726,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3jdNhGU93Ag/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13763,6 +14740,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/13sAO-IRH7I/hqdefault.jpg",
       "date": "2017-12-31"
     },
     {
@@ -13778,6 +14756,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ykc8ALEVbkM/hqdefault.jpg",
       "date": "2017-12-20"
     },
     {
@@ -13793,6 +14772,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cSjd3IIk3-8/hqdefault.jpg",
       "date": "2017-12-20"
     },
     {
@@ -13807,6 +14787,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L28ULcPS1ic/hqdefault.jpg",
       "date": "2017-12-19"
     },
     {
@@ -13820,6 +14801,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c8M379d06qo/hqdefault.jpg",
       "date": "2017-12-19"
     },
     {
@@ -13835,6 +14817,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2S4Ti2jEIZE/hqdefault.jpg",
       "date": "2017-12-17"
     },
     {
@@ -13850,6 +14833,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/syi00-daMY0/hqdefault.jpg",
       "date": "2017-12-14"
     },
     {
@@ -13865,6 +14849,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2IBjzuh-p18/hqdefault.jpg",
       "date": "2017-12-08"
     },
     {
@@ -13879,6 +14864,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7QzMy6bpYzk/hqdefault.jpg",
       "date": "2017-12-04"
     },
     {
@@ -13892,6 +14878,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bBHqdcL9k9c/hqdefault.jpg",
       "date": "2017-12-04"
     },
     {
@@ -13905,6 +14892,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kH5tQ_LIDQM/hqdefault.jpg",
       "date": "2017-11-30"
     },
     {
@@ -13918,6 +14906,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U6RZnKGp228/hqdefault.jpg",
       "date": "2017-11-23"
     },
     {
@@ -13931,6 +14920,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6PXtxIzQ2cY/hqdefault.jpg",
       "date": "2017-11-23"
     },
     {
@@ -13944,6 +14934,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w72UKaBfigE/hqdefault.jpg",
       "date": "2017-11-20"
     },
     {
@@ -13958,6 +14949,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T9NG_TbZ7F8/hqdefault.jpg",
       "date": "2017-11-20"
     },
     {
@@ -13971,6 +14963,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p2hvUiHF_c8/hqdefault.jpg",
       "date": "2017-11-16"
     },
     {
@@ -13984,6 +14977,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dbXcWkVdQ5w/hqdefault.jpg",
       "date": "2017-11-15"
     },
     {
@@ -13998,6 +14992,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xEjPSrjtD_8/hqdefault.jpg",
       "date": "2017-11-14"
     },
     {
@@ -14012,6 +15007,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4vFlFFJkTa8/hqdefault.jpg",
       "date": "2017-11-09"
     },
     {
@@ -14025,6 +15021,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hCPSJ9YB168/hqdefault.jpg",
       "date": "2017-11-07"
     },
     {
@@ -14038,6 +15035,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YKtcE1aSzUU/hqdefault.jpg",
       "date": "2017-11-06"
     },
     {
@@ -14051,6 +15049,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tQMNY6lI8PU/hqdefault.jpg",
       "date": "2017-11-02"
     },
     {
@@ -14064,6 +15063,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qJwVUDg1kEI/hqdefault.jpg",
       "date": "2017-11-01"
     },
     {
@@ -14077,6 +15077,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GyW_ircQsEM/hqdefault.jpg",
       "date": "2017-10-26"
     },
     {
@@ -14090,6 +15091,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RVXcQrxdKLk/hqdefault.jpg",
       "date": "2017-10-26"
     },
     {
@@ -14103,6 +15105,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n160IAkxQpk/hqdefault.jpg",
       "date": "2017-10-25"
     },
     {
@@ -14116,6 +15119,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zq8nDt1yb60/hqdefault.jpg",
       "date": "2017-10-24"
     },
     {
@@ -14129,6 +15133,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qCYaVc_lFI4/hqdefault_live.jpg",
       "date": "2017-10-24"
     },
     {
@@ -14143,6 +15148,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cipj-T92aVo/hqdefault.jpg",
       "date": "2017-10-24"
     },
     {
@@ -14156,6 +15162,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AOZqTAt5q3o/hqdefault.jpg",
       "date": "2017-10-23"
     },
     {
@@ -14169,6 +15176,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xv4Jj1bdDJs/hqdefault.jpg",
       "date": "2017-10-22"
     },
     {
@@ -14182,6 +15190,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XAMzCCx4zNU/hqdefault.jpg",
       "date": "2017-10-19"
     },
     {
@@ -14195,6 +15204,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uX3MXSZG0ro/hqdefault.jpg",
       "date": "2017-10-18"
     },
     {
@@ -14208,6 +15218,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/icxTKRgV4r8/hqdefault.jpg",
       "date": "2017-10-17"
     },
     {
@@ -14221,6 +15232,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r6e2iW3yIpY/hqdefault.jpg",
       "date": "2017-10-16"
     },
     {
@@ -14234,6 +15246,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iD1V6TgxwHk/hqdefault.jpg",
       "date": "2017-10-10"
     },
     {
@@ -14248,6 +15261,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GdnAKloUMmU/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14263,6 +15277,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EuLkWlSjmWs/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14278,6 +15293,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MvauFtmrM_Y/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14292,6 +15308,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pS41trIOAwM/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14305,6 +15322,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gnOJ3onWljg/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14318,6 +15336,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Nojxz-wUg20/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14331,6 +15350,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Gz5Ack4YBY/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14346,6 +15366,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n0niVe7yA4U/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14361,6 +15382,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yFOghkeMrfY/hqdefault.jpg",
       "date": "2017-10-09"
     },
     {
@@ -14374,6 +15396,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Qc8T_daCPdc/hqdefault.jpg",
       "date": "2017-10-04"
     },
     {
@@ -14388,6 +15411,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FL_2bzIP7nE/hqdefault.jpg",
       "date": "2017-10-02"
     },
     {
@@ -14401,6 +15425,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mf-WmSu6RTw/hqdefault.jpg",
       "date": "2017-09-28"
     },
     {
@@ -14414,6 +15439,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Pp5nwD6G7R4/hqdefault.jpg",
       "date": "2017-09-20"
     },
     {
@@ -14428,6 +15454,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AK33c5bpS4Y/hqdefault.jpg",
       "date": "2017-09-17"
     },
     {
@@ -14442,6 +15469,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JqNoJRq2KHU/hqdefault.jpg",
       "date": "2017-09-10"
     },
     {
@@ -14455,6 +15483,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JTZWNiFfyMc/hqdefault.jpg",
       "date": "2017-09-04"
     },
     {
@@ -14469,6 +15498,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IXJuZK4HiCU/hqdefault.jpg",
       "date": "2017-08-28"
     },
     {
@@ -14483,6 +15513,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M_DqNIcq4X8/hqdefault.jpg",
       "date": "2017-08-23"
     },
     {
@@ -14497,6 +15528,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8uRxaMyC7mo/hqdefault.jpg",
       "date": "2017-08-17"
     },
     {
@@ -14511,6 +15543,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-KlWjGPoKBY/hqdefault.jpg",
       "date": "2017-08-04"
     },
     {
@@ -14525,6 +15558,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/32xw0LW-7hk/hqdefault.jpg",
       "date": "2017-07-28"
     },
     {
@@ -14539,6 +15573,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DtsPVbg-X4U/hqdefault.jpg",
       "date": "2017-07-21"
     },
     {
@@ -14553,6 +15588,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cwJIlnsY9lo/hqdefault.jpg",
       "date": "2017-07-21"
     },
     {
@@ -14568,6 +15604,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WowyciVm2OY/hqdefault.jpg",
       "date": "2017-07-10"
     },
     {
@@ -14582,6 +15619,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xZojUxoMiuM/hqdefault.jpg",
       "date": "2017-07-09"
     },
     {
@@ -14596,6 +15634,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x-8WNE8i6QU/hqdefault.jpg",
       "date": "2017-07-02"
     },
     {
@@ -14611,6 +15650,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/URgE4vtfiLQ/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14626,6 +15666,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/isgLZbYPv9E/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14641,6 +15682,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5skQC2BZVvQ/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14656,6 +15698,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hGxk-MVlMi8/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14671,6 +15714,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XJmT94lY3Zg/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14686,6 +15730,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NXmNfouvPes/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14701,6 +15746,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l7OVXDcPaZk/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14716,6 +15762,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c9bcN62I1iw/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14731,6 +15778,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bTSKQuokXuE/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14746,6 +15794,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/itS-n4zOARY/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14761,6 +15810,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mVNAOAbtc5Y/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14776,6 +15826,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IstrdnAk2_s/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14791,6 +15842,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8AmtjOHiJTQ/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14804,6 +15856,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/I-njvH_efqE/hqdefault.jpg",
       "date": "2017-06-30"
     },
     {
@@ -14817,6 +15870,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/k9MpCGEj9_E/hqdefault.jpg",
       "date": "2017-05-30"
     },
     {
@@ -14831,6 +15885,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m08jd-u5hWA/hqdefault.jpg",
       "date": "2017-05-26"
     },
     {
@@ -14845,6 +15900,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/79qqJCR2vik/hqdefault.jpg",
       "date": "2017-05-24"
     },
     {
@@ -14858,6 +15914,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VDvRTF3UkGk/hqdefault.jpg",
       "date": "2017-05-17"
     },
     {
@@ -14872,6 +15929,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-ZaNlWpia-k/hqdefault.jpg",
       "date": "2017-05-16"
     },
     {
@@ -14885,6 +15943,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VncsbnJjgMQ/hqdefault.jpg",
       "date": "2017-05-16"
     },
     {
@@ -14900,6 +15959,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pd7RWceuj-I/hqdefault.jpg",
       "date": "2017-05-15"
     },
     {
@@ -14915,6 +15975,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BrSs19Z0WRI/hqdefault.jpg",
       "date": "2017-05-15"
     },
     {
@@ -14928,6 +15989,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RqNzU-yIHZg/hqdefault.jpg",
       "date": "2017-05-15"
     },
     {
@@ -14943,6 +16005,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SdPfCe95I2o/hqdefault.jpg",
       "date": "2017-05-15"
     },
     {
@@ -14958,6 +16021,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gsfkzm27vMs/hqdefault.jpg",
       "date": "2017-05-15"
     },
     {
@@ -14972,6 +16036,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FAYt__pp1_8/hqdefault.jpg",
       "date": "2017-05-14"
     },
     {
@@ -14986,6 +16051,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YdOmytpu4Pk/hqdefault.jpg",
       "date": "2017-05-11"
     },
     {
@@ -15000,6 +16066,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xRKv3iijQGE/hqdefault.jpg",
       "date": "2017-04-28"
     },
     {
@@ -15014,6 +16081,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eW2ddPTVDAo/hqdefault.jpg",
       "date": "2017-04-23"
     },
     {
@@ -15028,6 +16096,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2jnvbisl4zw/hqdefault.jpg",
       "date": "2017-04-14"
     },
     {
@@ -15042,6 +16111,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AO30AL1_3HE/hqdefault.jpg",
       "date": "2017-04-13"
     },
     {
@@ -15055,6 +16125,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/siecADT_7R8/hqdefault.jpg",
       "date": "2017-04-10"
     },
     {
@@ -15068,6 +16139,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Me_gSFaiWDQ/hqdefault.jpg",
       "date": "2017-04-10"
     },
     {
@@ -15083,6 +16155,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yMSLZ6DUOJU/hqdefault.jpg",
       "date": "2017-04-10"
     },
     {
@@ -15098,6 +16171,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WRZcmQTb1ZQ/hqdefault.jpg",
       "date": "2017-03-27"
     },
     {
@@ -15112,6 +16186,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7cP6vdA9JwY/hqdefault.jpg",
       "date": "2017-03-20"
     },
     {
@@ -15127,6 +16202,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/q7DOoEeUVvU/hqdefault.jpg",
       "date": "2017-03-20"
     },
     {
@@ -15141,6 +16217,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vNUtSWBBAzI/hqdefault.jpg",
       "date": "2017-03-08"
     },
     {
@@ -15154,6 +16231,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XgyIgz6OYQg/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15167,6 +16245,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rm7I7Gv5vkw/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15180,6 +16259,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oTq_niYmtuY/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15193,6 +16273,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dsMp7gUin90/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15206,6 +16287,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bcmBcNmLk8M/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15219,6 +16301,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KvyPN9x_OxA/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15232,6 +16315,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ayfGhZoBYUw/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15245,6 +16329,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hyaWC1VJLSc/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15258,6 +16343,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wdrOhXqBHTI/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15271,6 +16357,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TwRMaQvf9Qo/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15284,6 +16371,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x2Mbw_48Gu8/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15297,6 +16385,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NROMGE5GeIQ/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15310,6 +16399,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hnuWzYFSXj4/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15323,6 +16413,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_i5sOITMmHM/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15336,6 +16427,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TRVJwV3AaDY/hqdefault.jpg",
       "date": "2017-02-28"
     },
     {
@@ -15350,6 +16442,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GrseAGjJOxI/hqdefault.jpg",
       "date": "2017-02-27"
     },
     {
@@ -15364,6 +16457,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CcxNSD1jsMQ/hqdefault.jpg",
       "date": "2017-02-17"
     },
     {
@@ -15378,6 +16472,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JH2oW7XnkNs/hqdefault.jpg",
       "date": "2017-02-10"
     },
     {
@@ -15392,6 +16487,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DkRAGl-Azmk/hqdefault.jpg",
       "date": "2017-02-05"
     },
     {
@@ -15406,6 +16502,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AnezsSXVBDM/hqdefault.jpg",
       "date": "2017-01-31"
     },
     {
@@ -15419,6 +16516,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1iyEML57hyM/hqdefault.jpg",
       "date": "2017-01-30"
     },
     {
@@ -15432,6 +16530,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6MKiXd1tfsc/hqdefault.jpg",
       "date": "2017-01-29"
     },
     {
@@ -15446,6 +16545,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0SbYPO9I04k/hqdefault.jpg",
       "date": "2017-01-29"
     },
     {
@@ -15460,6 +16560,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1nyHfQUPabY/hqdefault.jpg",
       "date": "2017-01-26"
     },
     {
@@ -15474,6 +16575,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iRU0FZz8-wg/hqdefault.jpg",
       "date": "2017-01-13"
     },
     {
@@ -15488,6 +16590,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bz4tBrRfnPc/hqdefault.jpg",
       "date": "2017-01-02"
     },
     {
@@ -15501,6 +16604,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uWgD4AzLEs0/hqdefault.jpg",
       "date": "2016-12-28"
     },
     {
@@ -15514,6 +16618,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-ELn0HjpntY/hqdefault.jpg",
       "date": "2016-12-28"
     },
     {
@@ -15527,6 +16632,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K7DkyUGmYZU/hqdefault.jpg",
       "date": "2016-12-28"
     },
     {
@@ -15541,6 +16647,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pkV6IOo5ARA/hqdefault.jpg",
       "date": "2016-12-26"
     },
     {
@@ -15557,6 +16664,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rxgg3iIz5Pc/hqdefault.jpg",
       "date": "2016-12-21"
     },
     {
@@ -15571,6 +16679,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0WboZb4ff0I/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15585,6 +16694,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3YLyxug1aaI/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15599,6 +16709,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5NZL68wV4BM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15613,6 +16724,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DKnTnKoWcdQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15627,6 +16739,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IBHiORKaOaA/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15641,6 +16754,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L_VNtunSdn8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15655,6 +16769,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Md885uVT7jU/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15669,6 +16784,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UpVGfcroDI8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15683,6 +16799,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aop8yq1KSNg/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15697,6 +16814,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d7ZQIYXY5QA/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15711,6 +16829,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eSmgeCpQnn4/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15725,6 +16844,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nuqoEAq4xiE/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15739,6 +16859,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/o96DbB4v5-0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15753,6 +16874,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u3KIW1gDFOo/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15767,6 +16889,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xl05PTx2M8I/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15781,6 +16904,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z-OTbQoADqM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15795,6 +16919,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4nvqHPF3T2U/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15809,6 +16934,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4yqDQcjSV8k/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15823,6 +16949,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Z2_iMNnPyw/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15837,6 +16964,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6yo0f69MIhI/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15851,6 +16979,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7CgUJoN77kw/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15865,6 +16994,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7tetRFC2etY/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15879,6 +17009,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/95gsef6fRl8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15893,6 +17024,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9FEuP6eIZL8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15907,6 +17039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A0f2w0YR7co/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15921,6 +17054,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A97Y3YT2ekM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15935,6 +17069,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ABZe8rBr4uk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15949,6 +17084,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BRsUDlc6XL8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15963,6 +17099,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C1dSDdZeuto/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15977,6 +17114,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CvDUAlG_iUo/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -15991,6 +17129,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/D-FTu6N6eik/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16005,6 +17144,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F6lzTu-ZgyI/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16019,6 +17159,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FDxvnCujXR8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16033,6 +17174,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FOmLaG5SBX0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16047,6 +17189,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Fpi2pyZjhR0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16061,6 +17204,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H0BoVCZxNPo/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16075,6 +17219,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IEsFTysG3ak/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16089,6 +17234,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/J3TUo5hwNGo/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16103,6 +17249,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JUMZLiZqa60/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16117,6 +17264,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KtaGWZleRGU/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16131,6 +17279,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LLE8lRfmNm0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16145,6 +17294,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LlGvmdyQmqk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16159,6 +17309,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MfEMO7Twxrk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16173,6 +17324,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OYZFjdnt98c/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16187,6 +17339,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RKPRHlss9x0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16201,6 +17354,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rn2AYK70nRk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16215,6 +17369,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S8zyP3XINpM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16229,6 +17384,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SSwpSCU08dM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16243,6 +17399,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SxytAuy5UQg/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16257,6 +17414,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TS3KGYS110c/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16271,6 +17429,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/U2PzQKbcmp4/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16285,6 +17444,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vi2u4WKs-9w/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16299,6 +17459,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Waq_K8_nLC0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16313,6 +17474,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WkxmiiOl5MQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16327,6 +17489,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X2eJM7iF2s0/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16341,6 +17504,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XnvouKoqJkg/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16355,6 +17519,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZNVUNzeTLSQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16369,6 +17534,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZiEWg5ClhU4/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16383,6 +17549,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_KApapTi5IM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16397,6 +17564,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aq6UdiK-Eso/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16411,6 +17579,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cXStv7FB50Y/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16425,6 +17594,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cgMCjZkuFzk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16439,6 +17609,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cu3DOXx9s5s/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16453,6 +17624,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dQKVJv0EDHk/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16467,6 +17639,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ffdQ5evdXmQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16481,6 +17654,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gSxNZz49QAc/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16495,6 +17669,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gUHVGuZIbB8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16509,6 +17684,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/io-QsLTMFbs/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16523,6 +17699,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iuEhbX_0fn8/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16537,6 +17714,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jAxlj9sX2Ng/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16551,6 +17729,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kaVx33VnfAI/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16565,6 +17744,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ldGgLJgbrWU/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16579,6 +17759,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lh3822TzUWQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16593,6 +17774,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/myHPL50zlEQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16607,6 +17789,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nABD0CJLvnE/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16621,6 +17804,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nzP_DqCBT2k/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16635,6 +17819,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oqTZUbBozdE/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16649,6 +17834,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pS1g8YzAtBM/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16663,6 +17849,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rTSUNjfB8wI/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16677,6 +17864,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wXG6PpMS1Ek/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16691,6 +17879,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x3Lxe4VKGow/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16705,6 +17894,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/y_aO8P_iS_E/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16719,6 +17909,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ztufhoxpyHQ/hqdefault.jpg",
       "date": "2016-12-14"
     },
     {
@@ -16733,6 +17924,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lQHhL5d3rbU/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16747,6 +17939,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aVtwT_j54d8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16761,6 +17954,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nwZO1uQ1ClA/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16775,6 +17969,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ozaGNAwS76E/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16789,6 +17984,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TAMDAJ-Gh-U/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16803,6 +17999,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0P5Bf42eKBs/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16817,6 +18014,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5upoVFTVBnQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16831,6 +18029,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6Kuw7oclb4o/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16845,6 +18044,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B9LEyD5fjtw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16859,6 +18059,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FMhHGYZoz6A/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16873,6 +18074,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FmEXq8nQqBg/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16887,6 +18089,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G4PGSkvRqZk/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16901,6 +18104,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V8NPMXxBVJk/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16915,6 +18119,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a83u6AFav8Q/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16929,6 +18134,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lFZ1kO5lx1U/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16943,6 +18149,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m4wR2jyreCc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16957,6 +18164,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mGWi3EjMwrY/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16971,6 +18179,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qo5Sh6D80xg/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16985,6 +18194,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wQcdvlmWdlA/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -16999,6 +18209,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/x0Hm10rVpmI/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17013,6 +18224,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K9vAZR8m9UE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17027,6 +18239,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tENRATjr9ls/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17041,6 +18254,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JRrVSxIY3WE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17055,6 +18269,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w5FO-HeoZ5k/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17069,6 +18284,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_Crz1lKyGzE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17083,6 +18299,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y8tT3icXSmg/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17097,6 +18314,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9T3yg-bznrc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17111,6 +18329,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObnKdtKfsgA/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17125,6 +18344,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iC4Ze27hpig/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17139,6 +18359,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/k0lEVzi2ZN8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17153,6 +18374,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/87FRkb4k8A8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17167,6 +18389,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vBrJCnkfr9Y/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17181,6 +18404,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/83JjrpkSKG4/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17195,6 +18419,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kn6aS8VhZ1E/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17209,6 +18434,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qvhwoCJDB7w/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17222,6 +18448,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6tfT7mSRwR0/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17236,6 +18463,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iiRp3guzTZk/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17250,6 +18478,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/giC5ppYCscM/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17264,6 +18493,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/abq_kldjAQ4/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17278,6 +18508,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2lyBBo3VYH8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17292,6 +18523,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h5uB30Xfty0/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17306,6 +18538,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VNUXVhXYo-s/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17320,6 +18553,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QhSv1JC5mfM/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17334,6 +18568,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uHrxrmylem4/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17348,6 +18583,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2v2WkWx0mLU/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17362,6 +18598,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NQqQnSxxgcc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17376,6 +18613,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7PwiwLuqAno/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17390,6 +18628,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H2CCRIP6nYw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17404,6 +18643,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5oYPhucFgQA/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17417,6 +18657,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kJN0fQrxjiY/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17431,6 +18672,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dfbE5ssE6nY/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17445,6 +18687,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/234UpXUGeKI/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17459,6 +18702,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4ZnoLGZZKUM/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17473,6 +18717,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y1Q0bhTe2wE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17487,6 +18732,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p7vgN6QzMKQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17501,6 +18747,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pi9h2w6AWU0/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17515,6 +18762,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BPKWGNM1viE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17529,6 +18777,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EwxdsG8ciME/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17543,6 +18792,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/N9yzD0kUY6E/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17557,6 +18807,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1C0kgMxus84/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17571,6 +18822,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L03Im8boNu8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17585,6 +18837,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sHHNT94pRGo/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17599,6 +18852,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9rDawzfQ4wI/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17613,6 +18867,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TOI-pw3Xo7s/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17627,6 +18882,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h9ln-fThhj0/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17641,6 +18897,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8uzQ92vqAOw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17655,6 +18912,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WR6CejWaEEo/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17669,6 +18927,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NDYr2nNmMnw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17683,6 +18942,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WGEfIUljbdM/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17697,6 +18957,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h8ZE3edJpYc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17711,6 +18972,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xsiDl20p5pE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17725,6 +18987,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/y5WnwNjZq2c/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17739,6 +19002,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lVY7_5zIfag/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17753,6 +19017,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vT_qYFiFELw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17767,6 +19032,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FQnUgZzl_qs/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17781,6 +19047,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3s-P_5dzSLQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17795,6 +19062,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mMhAsugrqNI/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17809,6 +19077,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AVI3otsw4vg/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17823,6 +19092,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/reTkNAdZ9r8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17837,6 +19107,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TnDHsk-BnKM/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17851,6 +19122,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UgDMaxaqZng/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17865,6 +19137,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MIeUeOFCA4U/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17879,6 +19152,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/592sN75Dqps/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17893,6 +19167,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BPCgrGz8uYY/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17907,6 +19182,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VCq4eU5NJQQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17921,6 +19197,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/flYAe_8-kpc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17935,6 +19212,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wrg0k4fSgpI/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17949,6 +19227,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VrZIWBtL_uE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17963,6 +19242,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sIkhF3qawnw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17977,6 +19257,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PSgn4m4ySbY/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -17991,6 +19272,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tQJeh9PHZTE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18005,6 +19287,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RwpXIjJNEJQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18019,6 +19302,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AC8yyA8_Clc/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18033,6 +19317,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OMTGo0mkJZ8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18047,6 +19332,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EEt7j_jlBsQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18061,6 +19347,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fdM9a664N24/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18075,6 +19362,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xYRmmSpVDh0/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18089,6 +19377,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XMnQWUYS2as/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18103,6 +19392,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jeHUXGEtqGU/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18117,6 +19407,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nwxyuKMHcaE/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18131,6 +19422,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ccocqc1ZIEw/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18145,6 +19437,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l2Pdh3vw_kk/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18159,6 +19452,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CzZwNdVF2gQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18173,6 +19467,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vgIXCRoyAqQ/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18187,6 +19482,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r1R1-namX8M/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18201,6 +19497,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5ZGooBaHei8/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18215,6 +19512,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hwBqROVUr5g/hqdefault.jpg",
       "date": "2016-12-13"
     },
     {
@@ -18229,6 +19527,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hXKFQFzJ4aU/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18243,6 +19542,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aJ5AxGcgGtw/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18257,6 +19557,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XrRh1d-2lYk/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18271,6 +19572,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NE3bMgXPYAo/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18285,6 +19587,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/772OI8XWC4A/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18299,6 +19602,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GCPrUqjhDME/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18313,6 +19617,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hQyHOUavzWc/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18327,6 +19632,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gx7YmoG6trA/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18341,6 +19647,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UZ4gO3KjlJ4/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18355,6 +19662,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iekPkBzqwtM/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18369,6 +19677,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gpH6LkK3lQk/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18383,6 +19692,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hH0z9qNGsP0/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18397,6 +19707,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ac83MZM3Os4/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18411,6 +19722,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SWfNsoKvSus/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18425,6 +19737,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xknGLiObmEg/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18439,6 +19752,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A4_9mpmQ--U/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18453,6 +19767,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/owWQrYGyI6k/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18467,6 +19782,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l0saFqXN2pU/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18481,6 +19797,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qFXRSohZQk0/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18495,6 +19812,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/D0CWpyPt4aI/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18509,6 +19827,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Nc0XvCMgCKw/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18523,6 +19842,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kEA9QmvpjsQ/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18537,6 +19857,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/23Unuv0Tqw8/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18551,6 +19872,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YYM9_SmYKBI/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18565,6 +19887,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LrIpjLkZUxk/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18579,6 +19902,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YSVrh60pwpg/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18593,6 +19917,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jmoS2bUl00I/hqdefault.jpg",
       "date": "2016-12-12"
     },
     {
@@ -18609,6 +19934,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_P-f6Aq94Rg/hqdefault.jpg",
       "date": "2016-12-09"
     },
     {
@@ -18625,6 +19951,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AbeZGK4cBQI/hqdefault.jpg",
       "date": "2016-12-05"
     },
     {
@@ -18640,6 +19967,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/v581Q4zrrh0/hqdefault.jpg",
       "date": "2016-11-23"
     },
     {
@@ -18653,6 +19981,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7BTVc7MWXm4/hqdefault.jpg",
       "date": "2016-11-23"
     },
     {
@@ -18666,6 +19995,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8O9tDpyxzEQ/hqdefault.jpg",
       "date": "2016-11-23"
     },
     {
@@ -18679,6 +20009,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2W_UhIY-YIA/hqdefault.jpg",
       "date": "2016-11-23"
     },
     {
@@ -18692,6 +20023,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lak3-1HEtPc/hqdefault.jpg",
       "date": "2016-11-23"
     },
     {
@@ -18708,6 +20040,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gD9uC-JGwcI/hqdefault.jpg",
       "date": "2016-11-20"
     },
     {
@@ -18724,6 +20057,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pQXeZ9CvtTA/hqdefault.jpg",
       "date": "2016-11-11"
     },
     {
@@ -18739,6 +20073,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gQg2cU3oX50/hqdefault.jpg",
       "date": "2016-11-10"
     },
     {
@@ -18754,6 +20089,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H42QzxS0qn8/hqdefault.jpg",
       "date": "2016-11-10"
     },
     {
@@ -18769,6 +20105,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OjVGl7nFwSM/hqdefault.jpg",
       "date": "2016-11-09"
     },
     {
@@ -18785,6 +20122,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7LatJmWy12I/hqdefault.jpg",
       "date": "2016-11-04"
     },
     {
@@ -18798,6 +20136,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4do6NgogU00/hqdefault.jpg",
       "date": "2016-11-01"
     },
     {
@@ -18814,6 +20153,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3r06-pmOe0E/hqdefault.jpg",
       "date": "2016-10-28"
     },
     {
@@ -18829,6 +20169,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZHD8AffmIWA/hqdefault.jpg",
       "date": "2016-10-23"
     },
     {
@@ -18842,6 +20183,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4kShvz_AP74/hqdefault.jpg",
       "date": "2016-10-23"
     },
     {
@@ -18857,6 +20199,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q-hk3T5UrHc/hqdefault.jpg",
       "date": "2016-10-23"
     },
     {
@@ -18872,6 +20215,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oKT-pZep6NI/hqdefault.jpg",
       "date": "2016-10-21"
     },
     {
@@ -18887,6 +20231,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Foj1zD_n_U0/hqdefault.jpg",
       "date": "2016-10-21"
     },
     {
@@ -18901,6 +20246,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M_b2CzRTmnA/hqdefault.jpg",
       "date": "2016-10-07"
     },
     {
@@ -18915,6 +20261,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jWTPiM-65uk/hqdefault.jpg",
       "date": "2016-09-30"
     },
     {
@@ -18929,6 +20276,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WqibmP0sb80/hqdefault.jpg",
       "date": "2016-09-25"
     },
     {
@@ -18943,6 +20291,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nQHHvnxxwRg/hqdefault.jpg",
       "date": "2016-09-16"
     },
     {
@@ -18957,6 +20306,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ise2aw5w5K4/hqdefault.jpg",
       "date": "2016-09-09"
     },
     {
@@ -18970,6 +20320,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6-xCVSBTnIQ/hqdefault.jpg",
       "date": "2016-09-06"
     },
     {
@@ -18984,6 +20335,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n3cDonKeMzM/hqdefault.jpg",
       "date": "2016-08-26"
     },
     {
@@ -18998,6 +20350,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-5wY-tnA618/hqdefault.jpg",
       "date": "2016-08-19"
     },
     {
@@ -19012,6 +20365,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7eGtGBUauno/hqdefault.jpg",
       "date": "2016-08-12"
     },
     {
@@ -19026,6 +20380,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uGEEE-xc8NQ/hqdefault.jpg",
       "date": "2016-08-05"
     },
     {
@@ -19040,6 +20395,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OME-JCD65HY/hqdefault.jpg",
       "date": "2016-07-29"
     },
     {
@@ -19054,6 +20410,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tXV9lM-QqkA/hqdefault.jpg",
       "date": "2016-07-28"
     },
     {
@@ -19068,6 +20425,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GN2AdUhcEw4/hqdefault.jpg",
       "date": "2016-07-08"
     },
     {
@@ -19082,6 +20440,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CtNM0GgT0ZQ/hqdefault.jpg",
       "date": "2016-07-07"
     },
     {
@@ -19096,6 +20455,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5oK1H_-EOVc/hqdefault.jpg",
       "date": "2016-07-01"
     },
     {
@@ -19110,6 +20470,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oqmOuEBuuhs/hqdefault.jpg",
       "date": "2016-06-24"
     },
     {
@@ -19124,6 +20485,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vj9Cg95EasE/hqdefault.jpg",
       "date": "2016-06-17"
     },
     {
@@ -19138,6 +20500,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_nViqGVNat4/hqdefault.jpg",
       "date": "2016-05-06"
     },
     {
@@ -19152,6 +20515,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YFsC9PxKJjg/hqdefault.jpg",
       "date": "2016-04-15"
     },
     {
@@ -19166,6 +20530,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QRuNMwk3BS0/hqdefault.jpg",
       "date": "2016-04-08"
     },
     {
@@ -19180,6 +20545,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZHQQrsuztkI/hqdefault.jpg",
       "date": "2016-04-06"
     },
     {
@@ -19193,6 +20559,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wwt75jFH4Hw/hqdefault.jpg",
       "date": "2016-03-22"
     },
     {
@@ -19206,6 +20573,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QKpaw0DIz98/hqdefault.jpg",
       "date": "2016-03-22"
     },
     {
@@ -19219,6 +20587,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RU-_yOr0FpQ/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19234,6 +20603,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UToPWTdiC0w/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19247,6 +20617,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NixAqzQafPI/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19260,6 +20631,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/so3UF3Bp6Lc/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19273,6 +20645,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VZ__VyJfRGI/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19288,6 +20661,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bG0GsaMzblE/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19301,6 +20675,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nOsmuIBGB7U/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19316,6 +20691,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/j9CyV8zmiI0/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19331,6 +20707,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mTPC29kZxRY/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19344,6 +20721,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Besn7K_TtgA/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19359,6 +20737,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/D0bcgUcCZuA/hqdefault.jpg",
       "date": "2016-03-21"
     },
     {
@@ -19373,6 +20752,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NPBxtKtSlBU/hqdefault.jpg",
       "date": "2016-03-18"
     },
     {
@@ -19387,6 +20767,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JcOOtB3Nkz4/hqdefault.jpg",
       "date": "2016-03-13"
     },
     {
@@ -19401,6 +20782,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_u-X5PhovH0/hqdefault.jpg",
       "date": "2016-03-10"
     },
     {
@@ -19415,6 +20797,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8Z8cAiAoygY/hqdefault.jpg",
       "date": "2016-02-28"
     },
     {
@@ -19429,6 +20812,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q1s9moCUlTs/hqdefault.jpg",
       "date": "2016-02-22"
     },
     {
@@ -19443,6 +20827,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MPqN61GWs-w/hqdefault.jpg",
       "date": "2016-02-19"
     },
     {
@@ -19457,6 +20842,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_o_xh4W8EUY/hqdefault.jpg",
       "date": "2016-02-02"
     },
     {
@@ -19471,6 +20857,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TE0RqktwVqU/hqdefault.jpg",
       "date": "2016-01-29"
     },
     {
@@ -19485,6 +20872,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O3zt1uwmFks/hqdefault.jpg",
       "date": "2016-01-19"
     },
     {
@@ -19499,6 +20887,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pOPR207YNGg/hqdefault.jpg",
       "date": "2016-01-12"
     },
     {
@@ -19513,6 +20902,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kevw339KW-g/hqdefault.jpg",
       "date": "2016-01-04"
     },
     {
@@ -19527,6 +20917,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YqCFdsvmzEA/hqdefault.jpg",
       "date": "2015-12-22"
     },
     {
@@ -19541,6 +20932,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9n1u0wBrSGE/hqdefault.jpg",
       "date": "2015-12-22"
     },
     {
@@ -19554,6 +20946,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vhqlhqTCaGs/hqdefault.jpg",
       "date": "2015-12-14"
     },
     {
@@ -19569,6 +20962,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KNwY3HCKQXM/hqdefault.jpg",
       "date": "2015-12-14"
     },
     {
@@ -19584,6 +20978,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6PoatSNz29M/hqdefault.jpg",
       "date": "2015-12-14"
     },
     {
@@ -19599,6 +20994,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/egwNZ475a9Y/hqdefault.jpg",
       "date": "2015-12-14"
     },
     {
@@ -19613,6 +21009,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y4B2DkxYwy0/hqdefault.jpg",
       "date": "2015-12-14"
     },
     {
@@ -19627,6 +21024,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bBYhSMVTaxk/hqdefault.jpg",
       "date": "2015-12-07"
     },
     {
@@ -19641,6 +21039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xKV7aYV-yi8/hqdefault.jpg",
       "date": "2015-11-26"
     },
     {
@@ -19655,6 +21054,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C-k1aeW0hio/hqdefault.jpg",
       "date": "2015-11-13"
     },
     {
@@ -19669,6 +21069,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TpvFEV4ipuM/hqdefault.jpg",
       "date": "2015-11-03"
     },
     {
@@ -19683,6 +21084,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Z_JoSRIltXY/hqdefault.jpg",
       "date": "2015-10-23"
     },
     {
@@ -19697,6 +21099,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aOtMB5ypvXQ/hqdefault.jpg",
       "date": "2015-10-15"
     },
     {
@@ -19711,6 +21114,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4It42PpAzhU/hqdefault.jpg",
       "date": "2015-10-04"
     },
     {
@@ -19724,6 +21128,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/leefl2B01fI/hqdefault.jpg",
       "date": "2015-10-04"
     },
     {
@@ -19738,6 +21143,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/73NwHY-n76I/hqdefault.jpg",
       "date": "2015-09-25"
     },
     {
@@ -19752,6 +21158,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2NJ2d9CTJuw/hqdefault.jpg",
       "date": "2015-09-18"
     },
     {
@@ -19766,6 +21173,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FNGP7m6daWs/hqdefault.jpg",
       "date": "2015-09-11"
     },
     {
@@ -19780,6 +21188,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C_K6tBCH2rc/hqdefault.jpg",
       "date": "2015-09-09"
     },
     {
@@ -19794,6 +21203,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mhei4quc7ec/hqdefault.jpg",
       "date": "2015-09-09"
     },
     {
@@ -19808,6 +21218,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FOxCRDgFYe8/hqdefault.jpg",
       "date": "2015-09-08"
     },
     {
@@ -19822,6 +21233,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uXm5LQyUoVc/hqdefault.jpg",
       "date": "2015-09-04"
     },
     {
@@ -19837,6 +21249,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GuiSe2FDGOQ/hqdefault.jpg",
       "date": "2015-08-31"
     },
     {
@@ -19852,6 +21265,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LcpImR98BJ4/hqdefault.jpg",
       "date": "2015-08-31"
     },
     {
@@ -19867,6 +21281,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RglA4WJJQWE/hqdefault.jpg",
       "date": "2015-08-31"
     },
     {
@@ -19880,6 +21295,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PM9hDGij620/hqdefault.jpg",
       "date": "2015-08-31"
     },
     {
@@ -19895,6 +21311,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aFR19-S8itw/hqdefault.jpg",
       "date": "2015-08-31"
     },
     {
@@ -19909,6 +21326,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H6aR66ePc24/hqdefault.jpg",
       "date": "2015-08-30"
     },
     {
@@ -19923,6 +21341,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4VZhtqUIBMQ/hqdefault.jpg",
       "date": "2015-08-28"
     },
     {
@@ -19937,6 +21356,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/drA7CW_y0UM/hqdefault.jpg",
       "date": "2015-08-28"
     },
     {
@@ -19951,6 +21371,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yLoYrEM64OA/hqdefault.jpg",
       "date": "2015-08-21"
     },
     {
@@ -19967,6 +21388,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oTVeN6W22tc/hqdefault.jpg",
       "date": "2015-08-14"
     },
     {
@@ -19981,6 +21403,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JeWgjTt04Gg/hqdefault.jpg",
       "date": "2015-08-09"
     },
     {
@@ -19995,6 +21418,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/h0I-W1r-hyg/hqdefault.jpg",
       "date": "2015-07-31"
     },
     {
@@ -20009,6 +21433,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vMq4aznSgcU/hqdefault.jpg",
       "date": "2015-07-23"
     },
     {
@@ -20023,6 +21448,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ed1Eit0xcfQ/hqdefault.jpg",
       "date": "2015-07-17"
     },
     {
@@ -20037,6 +21463,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KnnfYImP7Qc/hqdefault.jpg",
       "date": "2015-07-17"
     },
     {
@@ -20051,6 +21478,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eNObEKzH64g/hqdefault.jpg",
       "date": "2015-07-10"
     },
     {
@@ -20065,6 +21493,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rt6XryqdGu8/hqdefault.jpg",
       "date": "2015-07-08"
     },
     {
@@ -20079,6 +21508,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qb7y2nZw7G4/hqdefault.jpg",
       "date": "2015-07-05"
     },
     {
@@ -20093,6 +21523,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NqwKYP2pXjg/hqdefault.jpg",
       "date": "2015-07-03"
     },
     {
@@ -20107,6 +21538,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RqVNx9lrskc/hqdefault.jpg",
       "date": "2015-07-03"
     },
     {
@@ -20121,6 +21553,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/r8QVpUhZY98/hqdefault.jpg",
       "date": "2015-07-03"
     },
     {
@@ -20135,6 +21568,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AF2ZCSHopxs/hqdefault.jpg",
       "date": "2015-06-19"
     },
     {
@@ -20149,6 +21583,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fjvSI2aAQ74/hqdefault.jpg",
       "date": "2015-06-19"
     },
     {
@@ -20163,6 +21598,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xTvbPpdn-c8/hqdefault.jpg",
       "date": "2015-06-19"
     },
     {
@@ -20176,6 +21612,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XadNM9wjcY8/hqdefault.jpg",
       "date": "2015-06-15"
     },
     {
@@ -20190,6 +21627,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m1HzSW4EUxA/hqdefault.jpg",
       "date": "2015-06-05"
     },
     {
@@ -20204,6 +21642,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JQrAgJQLKU4/hqdefault.jpg",
       "date": "2015-06-04"
     },
     {
@@ -20218,6 +21657,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qFK1HPhE08w/hqdefault.jpg",
       "date": "2015-05-29"
     },
     {
@@ -20232,6 +21672,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4XElP9SAMoM/hqdefault.jpg",
       "date": "2015-05-28"
     },
     {
@@ -20246,6 +21687,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_l6itKitnN0/hqdefault.jpg",
       "date": "2015-05-22"
     },
     {
@@ -20260,6 +21702,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_XeMeMB71EY/hqdefault.jpg",
       "date": "2015-05-21"
     },
     {
@@ -20274,6 +21717,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9r2Wm20K_2U/hqdefault.jpg",
       "date": "2015-05-14"
     },
     {
@@ -20288,6 +21732,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xtNW8bzWpUw/hqdefault.jpg",
       "date": "2015-05-13"
     },
     {
@@ -20302,6 +21747,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zsLmIBtSAJA/hqdefault.jpg",
       "date": "2015-05-07"
     },
     {
@@ -20316,6 +21762,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-4giiSzFQnc/hqdefault.jpg",
       "date": "2015-05-06"
     },
     {
@@ -20330,6 +21777,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w6qeYSW-W7s/hqdefault.jpg",
       "date": "2015-04-30"
     },
     {
@@ -20344,6 +21792,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EZmAzCzhT7M/hqdefault.jpg",
       "date": "2015-04-29"
     },
     {
@@ -20358,6 +21807,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9FqsYDv8O70/hqdefault.jpg",
       "date": "2015-04-23"
     },
     {
@@ -20372,6 +21822,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RZyxRhBc4sw/hqdefault.jpg",
       "date": "2015-04-22"
     },
     {
@@ -20385,6 +21836,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PGBH54xsFe0/hqdefault.jpg",
       "date": "2015-04-20"
     },
     {
@@ -20399,6 +21851,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f_xxxbQA4c8/hqdefault.jpg",
       "date": "2015-04-17"
     },
     {
@@ -20415,6 +21868,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_otXSDXb7OU/hqdefault.jpg",
       "date": "2015-04-16"
     },
     {
@@ -20429,6 +21883,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Uh7H-q59YN4/hqdefault.jpg",
       "date": "2015-04-13"
     },
     {
@@ -20443,6 +21898,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/imBagvX89MI/hqdefault.jpg",
       "date": "2015-04-08"
     },
     {
@@ -20457,6 +21913,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BzIsTulpfhk/hqdefault.jpg",
       "date": "2015-03-27"
     },
     {
@@ -20471,6 +21928,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jIvyU-KF7fs/hqdefault.jpg",
       "date": "2015-03-26"
     },
     {
@@ -20485,6 +21943,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Iub6ilj7y04/hqdefault.jpg",
       "date": "2015-03-26"
     },
     {
@@ -20499,6 +21958,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/I_6LxGohRx0/hqdefault.jpg",
       "date": "2015-03-22"
     },
     {
@@ -20513,6 +21973,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3AXUDzXVUy8/hqdefault.jpg",
       "date": "2015-03-15"
     },
     {
@@ -20527,6 +21988,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a_QhQeT1eng/hqdefault.jpg",
       "date": "2015-03-13"
     },
     {
@@ -20540,6 +22002,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lZf57gxRR0A/hqdefault.jpg",
       "date": "2015-03-10"
     },
     {
@@ -20553,6 +22016,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nkSE8fPvBIQ/hqdefault.jpg",
       "date": "2015-03-09"
     },
     {
@@ -20566,6 +22030,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0xsF5Znl5Ho/hqdefault.jpg",
       "date": "2015-03-09"
     },
     {
@@ -20580,6 +22045,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-KVxXWAl8VE/hqdefault.jpg",
       "date": "2015-03-05"
     },
     {
@@ -20594,6 +22060,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HLqDZAV-2IM/hqdefault.jpg",
       "date": "2015-03-05"
     },
     {
@@ -20608,6 +22075,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q-7JoDizksg/hqdefault.jpg",
       "date": "2015-02-27"
     },
     {
@@ -20622,6 +22090,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zP-td67sMJs/hqdefault.jpg",
       "date": "2015-02-24"
     },
     {
@@ -20636,6 +22105,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/o_U7IjBj0-4/hqdefault.jpg",
       "date": "2015-02-20"
     },
     {
@@ -20649,6 +22119,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_g4yN0o_idY/hqdefault.jpg",
       "date": "2015-02-17"
     },
     {
@@ -20662,6 +22133,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3FnnP2P8iCc/hqdefault.jpg",
       "date": "2015-02-17"
     },
     {
@@ -20676,6 +22148,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9bi-gVaxSLU/hqdefault.jpg",
       "date": "2015-02-13"
     },
     {
@@ -20690,6 +22163,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/S0hCc2p7mlo/hqdefault.jpg",
       "date": "2015-02-11"
     },
     {
@@ -20704,6 +22178,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yKgJMa2Tuak/hqdefault.jpg",
       "date": "2015-02-06"
     },
     {
@@ -20718,6 +22193,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/94wSJHVtl_Y/hqdefault.jpg",
       "date": "2015-02-05"
     },
     {
@@ -20732,6 +22208,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hezV74V06zs/hqdefault.jpg",
       "date": "2015-01-30"
     },
     {
@@ -20746,6 +22223,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O39WUa_uYhM/hqdefault.jpg",
       "date": "2015-01-28"
     },
     {
@@ -20760,6 +22238,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XcMDXwTKWIk/hqdefault.jpg",
       "date": "2015-01-23"
     },
     {
@@ -20773,6 +22252,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eAYNOdauh3I/hqdefault.jpg",
       "date": "2015-01-23"
     },
     {
@@ -20787,6 +22267,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B1bcitcwSt4/hqdefault.jpg",
       "date": "2015-01-16"
     },
     {
@@ -20801,6 +22282,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RFl9IdKlh98/hqdefault.jpg",
       "date": "2015-01-15"
     },
     {
@@ -20815,6 +22297,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CwdRzB5hFxw/hqdefault.jpg",
       "date": "2015-01-09"
     },
     {
@@ -20829,6 +22312,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O0Yxb3DztkA/hqdefault.jpg",
       "date": "2015-01-07"
     },
     {
@@ -20843,6 +22327,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/81g7y4IxwJs/hqdefault.jpg",
       "date": "2015-01-06"
     },
     {
@@ -20859,6 +22344,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7ND0ZOEhYWc/hqdefault.jpg",
       "date": "2015-01-02"
     },
     {
@@ -20873,6 +22359,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L9KUN3GPzcA/hqdefault.jpg",
       "date": "2014-12-26"
     },
     {
@@ -20889,6 +22376,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ED5qyR-MuyM/hqdefault.jpg",
       "date": "2014-12-24"
     },
     {
@@ -20902,6 +22390,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FGyFG4rN1os/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20915,6 +22404,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TgTBr8p_854/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20928,6 +22418,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-_-zH-eMFnM/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20941,6 +22432,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/koqS4iTYyiU/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20954,6 +22446,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EPSasoBghjo/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20969,6 +22462,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Cjv8cO9yBb4/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20984,6 +22478,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0R8pSWqd-7M/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -20997,6 +22492,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aQAGx3L_ZFU/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -21010,6 +22506,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tSgv5lyrfOU/hqdefault.jpg",
       "date": "2014-12-22"
     },
     {
@@ -21024,6 +22521,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mub422RNQT4/hqdefault.jpg",
       "date": "2014-12-21"
     },
     {
@@ -21040,6 +22538,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JlKKns6niJw/hqdefault.jpg",
       "date": "2014-12-19"
     },
     {
@@ -21053,6 +22552,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LeNzt9Kp1O4/hqdefault.jpg",
       "date": "2014-12-19"
     },
     {
@@ -21069,6 +22569,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sCjuPSrgx94/hqdefault.jpg",
       "date": "2014-12-12"
     },
     {
@@ -21082,6 +22583,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E2_9Hqkimdc/hqdefault.jpg",
       "date": "2014-12-12"
     },
     {
@@ -21098,6 +22600,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fhg1coPMNOE/hqdefault.jpg",
       "date": "2014-12-11"
     },
     {
@@ -21114,6 +22617,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IZBdNtwz-Z8/hqdefault.jpg",
       "date": "2014-12-05"
     },
     {
@@ -21128,6 +22632,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/edAT6cq_UAE/hqdefault.jpg",
       "date": "2014-12-04"
     },
     {
@@ -21142,6 +22647,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m_qesDhwy7Q/hqdefault.jpg",
       "date": "2014-11-28"
     },
     {
@@ -21156,6 +22662,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w-oEpL-Z9s4/hqdefault.jpg",
       "date": "2014-11-27"
     },
     {
@@ -21170,6 +22677,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NJqqxZDJdVM/hqdefault.jpg",
       "date": "2014-11-21"
     },
     {
@@ -21186,6 +22694,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L5Zk_46YsJ4/hqdefault.jpg",
       "date": "2014-11-21"
     },
     {
@@ -21202,6 +22711,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xt6wGw0_rgE/hqdefault.jpg",
       "date": "2014-11-14"
     },
     {
@@ -21215,6 +22725,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/o1KGBJ56CBg/hqdefault.jpg",
       "date": "2014-11-14"
     },
     {
@@ -21229,6 +22740,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3VV2A3m7fXw/hqdefault.jpg",
       "date": "2014-11-12"
     },
     {
@@ -21245,6 +22757,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E0nbmZttmtk/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21261,6 +22774,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_GYCmmqNSo0/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21277,6 +22791,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WF0GCfMGprc/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21293,6 +22808,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WnjHuTJmiVk/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21309,6 +22825,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YNxAYCviRnQ/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21325,6 +22842,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R7znsUxJ5pw/hqdefault.jpg",
       "date": "2014-11-09"
     },
     {
@@ -21341,6 +22859,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s6Tvst388SM/hqdefault.jpg",
       "date": "2014-11-07"
     },
     {
@@ -21354,6 +22873,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DMGT6kP_RBs/hqdefault.jpg",
       "date": "2014-11-07"
     },
     {
@@ -21368,6 +22888,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QEUaBy_7huU/hqdefault.jpg",
       "date": "2014-11-06"
     },
     {
@@ -21384,6 +22905,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gf8gO4BMnsc/hqdefault.jpg",
       "date": "2014-10-31"
     },
     {
@@ -21398,6 +22920,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JKbPtIHzT4M/hqdefault.jpg",
       "date": "2014-10-29"
     },
     {
@@ -21414,6 +22937,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nxP0YUqVy4k/hqdefault.jpg",
       "date": "2014-10-24"
     },
     {
@@ -21430,6 +22954,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cItFvf5WNMg/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21446,6 +22971,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7yfKZZZ99DI/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21462,6 +22988,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RUqHfvTy12M/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21478,6 +23005,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8mUyR04pjeI/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21494,6 +23022,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9yzgoFSfIwc/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21510,6 +23039,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bOMkebg7DdM/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21526,6 +23056,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NCsLtwudMdc/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21542,6 +23073,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B2n0ucxRLfo/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21558,6 +23090,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vd4tOuU0vJE/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21574,6 +23107,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/NR-M1D6QVf8/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21590,6 +23124,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9lA1JoAIK2g/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21606,6 +23141,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/seaisxxXu1Y/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21620,6 +23156,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hPepmEIaYvs/hqdefault.jpg",
       "date": "2014-10-23"
     },
     {
@@ -21636,6 +23173,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TRW-INkR2yI/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21652,6 +23190,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Eah8mBy2sY/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21666,6 +23205,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cjox92viM4M/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21682,6 +23222,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8au54De0sl0/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21696,6 +23237,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/scoa7QRnJPw/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21710,6 +23252,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mSzw88y8UD0/hqdefault.jpg",
       "date": "2014-10-22"
     },
     {
@@ -21723,6 +23266,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n51K_kO7rJ0/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21736,6 +23280,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l6R9w4t-hwo/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21751,6 +23296,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wN8VDKkkG44/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21766,6 +23312,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2RZ8gg0gmqI/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21781,6 +23328,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q5-6l28o2go/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21796,6 +23344,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zvl9EHvVwNA/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21811,6 +23360,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hjkmZWi33_I/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21826,6 +23376,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QxJU3zRQiQA/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21841,6 +23392,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V9BN92NQJCg/hqdefault.jpg",
       "date": "2014-10-20"
     },
     {
@@ -21856,6 +23408,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8i-If6NV-SE/hqdefault.jpg",
       "date": "2014-10-15"
     },
     {
@@ -21871,6 +23424,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/n-0RCUuCc2o/hqdefault.jpg",
       "date": "2014-10-14"
     },
     {
@@ -21886,6 +23440,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9lky7K9D8ls/hqdefault.jpg",
       "date": "2014-10-14"
     },
     {
@@ -21899,6 +23454,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9PIUTWyGZbc/hqdefault.jpg",
       "date": "2014-10-14"
     },
     {
@@ -21914,6 +23470,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jVhsnSxu33k/hqdefault.jpg",
       "date": "2014-10-14"
     },
     {
@@ -21929,6 +23486,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1JOOyE1t3tc/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -21944,6 +23502,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dP2klEyD6RA/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -21959,6 +23518,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/24rkLKHRvao/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -21972,6 +23532,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LqSFcnofntE/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -21987,6 +23548,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u_reNxOdgu0/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -22000,6 +23562,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bLwgPIw2Hb4/hqdefault.jpg",
       "date": "2014-05-25"
     },
     {
@@ -22015,6 +23578,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JKUgf3la33o/hqdefault.jpg",
       "date": "2014-03-24"
     },
     {
@@ -22030,6 +23594,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JfEIqSKRs7I/hqdefault.jpg",
       "date": "2014-03-24"
     },
     {
@@ -22045,6 +23610,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4faY9B3q0r4/hqdefault.jpg",
       "date": "2014-03-24"
     },
     {
@@ -22060,6 +23626,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wfLhseUPR2s/hqdefault.jpg",
       "date": "2014-03-24"
     },
     {
@@ -22075,6 +23642,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IFQRod_Um4s/hqdefault.jpg",
       "date": "2014-02-07"
     },
     {
@@ -22089,6 +23657,7 @@
         "rkrelin",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EsZZI2T_W5U/hqdefault.jpg",
       "date": "2014-02-03"
     },
     {
@@ -22103,6 +23672,7 @@
         "rkrelin",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UB5xSa5A0jU/hqdefault.jpg",
       "date": "2014-02-03"
     },
     {
@@ -22117,6 +23687,7 @@
         "rkrelin",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZoYbAepU_H4/hqdefault.jpg",
       "date": "2014-02-03"
     },
     {
@@ -22131,6 +23702,7 @@
         "rkrelin",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F6hQ0TsCEEI/hqdefault.jpg",
       "date": "2014-02-03"
     },
     {
@@ -22146,6 +23718,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6UHpIIOgPYQ/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22160,6 +23733,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9GsvV00GPXk/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22173,6 +23747,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cUYeJULPABw/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22188,6 +23763,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jxtr4MIRWP0/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22201,6 +23777,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xXlzUecfA5Q/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22214,6 +23791,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vjh3c6TY3Js/hqdefault.jpg",
       "date": "2014-01-21"
     },
     {
@@ -22229,6 +23807,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0zHh7SwT1Xs/hqdefault.jpg",
       "date": "2013-12-01"
     },
     {
@@ -22244,6 +23823,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BckyzxkIkVc/hqdefault.jpg",
       "date": "2013-12-01"
     },
     {
@@ -22257,6 +23837,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ryF7zd8GVoM/hqdefault.jpg",
       "date": "2013-12-01"
     },
     {
@@ -22270,6 +23851,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Q8MAlkSLHdQ/hqdefault.jpg",
       "date": "2013-12-01"
     },
     {
@@ -22283,6 +23865,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/H63UTZ814F0/hqdefault.jpg",
       "date": "2013-11-13"
     },
     {
@@ -22298,6 +23881,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uukIZdhfyjk/hqdefault.jpg",
       "date": "2013-11-11"
     },
     {
@@ -22311,6 +23895,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Za2Xy4e-so8/hqdefault.jpg",
       "date": "2013-10-27"
     },
     {
@@ -22324,6 +23909,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LorvDm8V14o/hqdefault.jpg",
       "date": "2013-10-27"
     },
     {
@@ -22340,6 +23926,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1XMZZjI3PSI/hqdefault.jpg",
       "date": "2013-10-27"
     },
     {
@@ -22354,6 +23941,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IsyyYhRo1j4/hqdefault.jpg",
       "date": "2013-09-25"
     },
     {
@@ -22369,6 +23957,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yidXzOXUDnQ/hqdefault.jpg",
       "date": "2013-09-25"
     },
     {
@@ -22384,6 +23973,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DsyhGEP4mIk/hqdefault.jpg",
       "date": "2013-09-25"
     },
     {
@@ -22399,6 +23989,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/O_HBYak_0IU/hqdefault.jpg",
       "date": "2013-09-02"
     },
     {
@@ -22412,6 +24003,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jV0rgk4Gqdk/hqdefault.jpg",
       "date": "2013-09-01"
     },
     {
@@ -22426,6 +24018,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rnaemt8EhRc/hqdefault.jpg",
       "date": "2013-08-28"
     },
     {
@@ -22441,6 +24034,7 @@
         "music",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/buapMpyVhY0/hqdefault.jpg",
       "date": "2013-08-27"
     },
     {
@@ -22455,6 +24049,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/i6sm_VhM_uQ/hqdefault.jpg",
       "date": "2013-07-04"
     },
     {
@@ -22468,6 +24063,7 @@
         "other",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y7ylzN3_29w/hqdefault.jpg",
       "date": "2013-05-24"
     },
     {
@@ -22481,6 +24077,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dP7bLMc84cg/hqdefault.jpg",
       "date": "2013-05-20"
     },
     {
@@ -22495,6 +24092,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EGY3b9vdJKU/hqdefault.jpg",
       "date": "2013-05-20"
     },
     {
@@ -22511,6 +24109,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GFP1tByeOzU/hqdefault.jpg",
       "date": "2013-04-14"
     },
     {
@@ -22525,6 +24124,7 @@
         "rzelman",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SoVkqMrJB-A/hqdefault.jpg",
       "date": "2013-01-29"
     },
     {
@@ -22540,6 +24140,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lk64SxWsYdM/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22553,6 +24154,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FZXGM6sUH78/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22566,6 +24168,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VzLp48FVuVA/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22579,6 +24182,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mt14ewZVkfo/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22592,6 +24196,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A2wyftwqOTI/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22605,6 +24210,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SghiG0LsnGc/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22618,6 +24224,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4jaJKaGyvnc/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22631,6 +24238,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WYGqeNOSwLU/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22644,6 +24252,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dxot78FWs5s/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22657,6 +24266,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/9g0ytTCMT8k/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22670,6 +24280,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0cnZRKQ0KpM/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22683,6 +24294,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qRLg6de1Omg/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22696,6 +24308,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/nF11t3IlwHY/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22709,6 +24322,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pm60gKM7ipM/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22724,6 +24338,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oaWB24hI4Mc/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22737,6 +24352,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EXaIQJpYw84/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22752,6 +24368,7 @@
         "show",
         "toravedaat"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2Xv9AObelxQ/hqdefault.jpg",
       "date": "2013-01-28"
     },
     {
@@ -22767,6 +24384,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KlPpmNo3830/hqdefault.jpg",
       "date": "2026-10-02"
     },
     {
@@ -22782,6 +24400,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FqS83LBWVrg/hqdefault.jpg",
       "date": "2026-10-02"
     },
     {
@@ -22797,6 +24416,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zxXJ_8b_gRA/hqdefault.jpg",
       "date": "2026-10-02"
     },
     {
@@ -22812,6 +24432,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BwC9LNpCYWg/hqdefault.jpg",
       "date": "2026-09-29"
     },
     {
@@ -22827,6 +24448,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_rYCBct0zaA/hqdefault.jpg",
       "date": "2026-09-29"
     },
     {
@@ -22842,6 +24464,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/i2UIWE4dvKM/hqdefault.jpg",
       "date": "2026-09-29"
     },
     {
@@ -22857,6 +24480,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wrTYX7V7MZA/hqdefault.jpg",
       "date": "2026-09-29"
     },
     {
@@ -22872,6 +24496,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/N-hAVVVisZc/hqdefault.jpg",
       "date": "2026-09-25"
     },
     {
@@ -22887,6 +24512,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wavPZgdnvak/hqdefault.jpg",
       "date": "2026-09-25"
     },
     {
@@ -22902,6 +24528,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4_YavZo4Gno/hqdefault.jpg",
       "date": "2026-09-25"
     },
     {
@@ -22917,6 +24544,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LlvkuB8XqBk/hqdefault.jpg",
       "date": "2026-09-23"
     },
     {
@@ -22932,6 +24560,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oJTXD_Du4mY/hqdefault.jpg",
       "date": "2026-09-18"
     },
     {
@@ -22947,6 +24576,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X7pX7u_HaAA/hqdefault.jpg",
       "date": "2026-09-18"
     },
     {
@@ -22962,6 +24592,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qt13jPrzyE0/hqdefault.jpg",
       "date": "2026-09-18"
     },
     {
@@ -22977,6 +24608,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/hqdefault.jpg",
       "date": "2026-09-16"
     },
     {
@@ -22992,6 +24624,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tOJW2vynQ20/hqdefault.jpg",
       "date": "2026-09-16"
     },
     {
@@ -23007,6 +24640,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sUwKjKsn29I/hqdefault.jpg",
       "date": "2026-09-16"
     },
     {
@@ -23022,6 +24656,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LSZX-cptRm8/hqdefault.jpg",
       "date": "2026-09-16"
     },
     {
@@ -23037,6 +24672,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/a4moowpFsKM/hqdefault.jpg",
       "date": "2026-09-09"
     },
     {
@@ -23052,6 +24688,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aoz2Pxa_B7s/hqdefault.jpg",
       "date": "2026-09-08"
     },
     {
@@ -23067,6 +24704,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jtbkM7RRKCs/hqdefault.jpg",
       "date": "2026-09-08"
     },
     {
@@ -23082,6 +24720,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sRpVuVKkg4A/hqdefault.jpg",
       "date": "2026-09-07"
     },
     {
@@ -23097,6 +24736,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/thvlZussLZk/hqdefault.jpg",
       "date": "2026-09-07"
     },
     {
@@ -23112,6 +24752,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZAo__dPdvRI/hqdefault.jpg",
       "date": "2026-09-06"
     },
     {
@@ -23127,6 +24768,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rjBMlD_LK5Q/hqdefault.jpg",
       "date": "2026-09-06"
     },
     {
@@ -23142,6 +24784,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7rLaUsC79f0/hqdefault.jpg",
       "date": "2026-09-04"
     },
     {
@@ -23157,6 +24800,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dbngogy4V24/hqdefault.jpg",
       "date": "2026-09-04"
     },
     {
@@ -23172,6 +24816,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RbzMCBK6RTg/hqdefault.jpg",
       "date": "2026-09-04"
     },
     {
@@ -23187,6 +24832,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EAmMMvFQUTQ/hqdefault.jpg",
       "date": "2026-09-04"
     },
     {
@@ -23202,6 +24848,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zmrv1mcqpzk/hqdefault.jpg",
       "date": "2026-09-02"
     },
     {
@@ -23217,6 +24864,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GopxXS3I9fU/hqdefault.jpg",
       "date": "2026-09-01"
     },
     {
@@ -23232,6 +24880,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DAe9cTWQkMs/hqdefault.jpg",
       "date": "2026-09-01"
     },
     {
@@ -23247,6 +24896,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5zzd9TSID9w/hqdefault.jpg",
       "date": "2026-08-28"
     },
     {
@@ -23262,6 +24912,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yu5x5PJfAzs/hqdefault.jpg",
       "date": "2026-08-28"
     },
     {
@@ -23277,6 +24928,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hJgnu6UsAwM/hqdefault.jpg",
       "date": "2026-08-28"
     },
     {
@@ -23292,6 +24944,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dLlDz5FSCvo/hqdefault.jpg",
       "date": "2026-08-28"
     },
     {
@@ -23307,6 +24960,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wc6gJhr5j5Y/hqdefault.jpg",
       "date": "2026-08-28"
     },
     {
@@ -23322,6 +24976,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZqF0eWIyujw/hqdefault.jpg",
       "date": "2026-08-21"
     },
     {
@@ -23337,6 +24992,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gm-AfoXyO9s/hqdefault.jpg",
       "date": "2026-08-21"
     },
     {
@@ -23352,6 +25008,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/v449KKNuF2o/hqdefault.jpg",
       "date": "2026-08-19"
     },
     {
@@ -23367,6 +25024,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uKk0WYZdX7E/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -23382,6 +25040,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qSdNce8k1FM/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -23397,6 +25056,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lfvL3Wupi6k/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -23412,6 +25072,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eZXFh8NWm64/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -23427,6 +25088,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rpVu9b0d2sw/hqdefault.jpg",
       "date": "2026-08-13"
     },
     {
@@ -23442,6 +25104,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K4o-wOf3-qc/hqdefault.jpg",
       "date": "2026-08-06"
     },
     {
@@ -23457,6 +25120,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c6GIW8zKW5I/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -23472,6 +25136,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AwjCQ9EpCso/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -23487,6 +25152,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/P2QLztULqgU/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -23502,6 +25168,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hklliv3Ha3Q/hqdefault.jpg",
       "date": "2026-07-30"
     },
     {
@@ -23517,6 +25184,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4qiWtnXRG_Y/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23532,6 +25200,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sUQXLI_BvBg/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23547,6 +25216,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cqv_P_1Ax5Y/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23562,6 +25232,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wp_05VBAZsQ/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23577,6 +25248,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wha2AD1qUVg/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23592,6 +25264,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rssiGLY4_nY/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23607,6 +25280,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iY2wgxSst6U/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23622,6 +25296,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QHYhThrxJV4/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23637,6 +25312,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HDHhj0aCpmM/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23652,6 +25328,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Ksi4SYKqxU/hqdefault.jpg",
       "date": "2026-07-29"
     },
     {
@@ -23667,6 +25344,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Im_ZLGUlbUg/hqdefault.jpg",
       "date": "2026-07-24"
     },
     {
@@ -23682,6 +25360,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/shBULqYc6oo/hqdefault.jpg",
       "date": "2026-07-24"
     },
     {
@@ -23697,6 +25376,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/V4SaQLiPe_A/hqdefault.jpg",
       "date": "2026-07-24"
     },
     {
@@ -23712,6 +25392,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fPENrxGCpAU/hqdefault.jpg",
       "date": "2026-07-22"
     },
     {
@@ -23727,6 +25408,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JtFSpCxgWic/hqdefault.jpg",
       "date": "2026-07-17"
     },
     {
@@ -23742,6 +25424,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yBa4XH_rK1s/hqdefault.jpg",
       "date": "2026-07-17"
     },
     {
@@ -23757,6 +25440,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CAp_iRd-ri4/hqdefault.jpg",
       "date": "2026-07-15"
     },
     {
@@ -23772,6 +25456,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B3UXlGwliRU/hqdefault.jpg",
       "date": "2026-07-10"
     },
     {
@@ -23787,6 +25472,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E89fxDMSwaM/hqdefault.jpg",
       "date": "2026-07-10"
     },
     {
@@ -23802,6 +25488,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YsjmdxmKNN4/hqdefault.jpg",
       "date": "2026-07-10"
     },
     {
@@ -23817,6 +25504,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/l9u5YB7DV9o/hqdefault.jpg",
       "date": "2026-07-10"
     },
     {
@@ -23832,6 +25520,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uQdv9-wHOgE/hqdefault.jpg",
       "date": "2026-07-10"
     },
     {
@@ -23847,6 +25536,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MWgR4mqiP6E/hqdefault.jpg",
       "date": "2026-07-08"
     },
     {
@@ -23862,6 +25552,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MctSy8wgrDQ/hqdefault.jpg",
       "date": "2026-07-08"
     },
     {
@@ -23877,6 +25568,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0aM02bVcTyk/hqdefault.jpg",
       "date": "2026-07-03"
     },
     {
@@ -23892,6 +25584,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M2a23RIBmL4/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -23907,6 +25600,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QBLK0xL6JEY/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -23922,6 +25616,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/TpVPWpd0HLQ/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -23937,6 +25632,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AVQ0t_Ia3Dk/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -23952,6 +25648,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/naaAUsOrhc0/hqdefault.jpg",
       "date": "2026-07-02"
     },
     {
@@ -23967,6 +25664,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ngeegY5V3yY/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -23982,6 +25680,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/T0WmePFX0x0/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -23997,6 +25696,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sFnzMjyATr0/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -24012,6 +25712,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6aLHh7-W1fE/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -24027,6 +25728,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/juZTnkAMUT8/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -24042,6 +25744,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f_PuTW3KXOw/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -24057,6 +25760,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s-Ivei9MKuc/hqdefault.jpg",
       "date": "2026-06-26"
     },
     {
@@ -24072,6 +25776,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c-YfLsy-vHU/hqdefault.jpg",
       "date": "2026-06-24"
     },
     {
@@ -24087,6 +25792,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BfFycmyNPWI/hqdefault.jpg",
       "date": "2026-06-19"
     },
     {
@@ -24102,6 +25808,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/K6xcn0bOGn8/hqdefault.jpg",
       "date": "2026-06-19"
     },
     {
@@ -24117,6 +25824,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0N0lK4aDyHo/hqdefault.jpg",
       "date": "2026-06-19"
     },
     {
@@ -24132,6 +25840,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JN4S4X0juPc/hqdefault.jpg",
       "date": "2026-06-19"
     },
     {
@@ -24147,6 +25856,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/veyunhTV5Fw/hqdefault.jpg",
       "date": "2026-06-19"
     },
     {
@@ -24162,6 +25872,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KA0JZ4szyKU/hqdefault.jpg",
       "date": "2026-06-18"
     },
     {
@@ -24177,6 +25888,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rz1rYNB3ZRU/hqdefault.jpg",
       "date": "2026-06-17"
     },
     {
@@ -24192,6 +25904,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/OUpQ6mK0Bhk/hqdefault.jpg",
       "date": "2026-06-12"
     },
     {
@@ -24207,6 +25920,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7nK-H-Ou86s/hqdefault.jpg",
       "date": "2026-06-12"
     },
     {
@@ -24222,6 +25936,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/zeVH5dD0TEk/hqdefault.jpg",
       "date": "2026-06-12"
     },
     {
@@ -24237,6 +25952,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GOkbY7J_Fh0/hqdefault.jpg",
       "date": "2026-06-12"
     },
     {
@@ -24252,6 +25968,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rzD5aC-cBiU/hqdefault.jpg",
       "date": "2026-06-12"
     },
     {
@@ -24267,6 +25984,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HyVPHL2nsT4/hqdefault.jpg",
       "date": "2026-06-10"
     },
     {
@@ -24282,6 +26000,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/90S4wR1icuA/hqdefault.jpg",
       "date": "2026-06-05"
     },
     {
@@ -24297,6 +26016,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lHm5EnQkcxo/hqdefault.jpg",
       "date": "2026-06-05"
     },
     {
@@ -24312,6 +26032,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y17d_crX4GA/hqdefault.jpg",
       "date": "2026-06-05"
     },
     {
@@ -24327,6 +26048,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kZ2XLQ49vbQ/hqdefault.jpg",
       "date": "2026-06-05"
     },
     {
@@ -24342,6 +26064,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dtwjBslaC34/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24357,6 +26080,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4Nhq5HcMREQ/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24372,6 +26096,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/q2hbjYZ3VYo/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24387,6 +26112,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_lZAsSSoKY0/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24402,6 +26128,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Sx6C9UosNrA/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24417,6 +26144,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gCPeQkS1EBc/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24432,6 +26160,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7P2ZVe4MtWI/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24447,6 +26176,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8YoDAKML1e4/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24462,6 +26192,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yS8qwGRF6Pw/hqdefault.jpg",
       "date": "2026-05-29"
     },
     {
@@ -24477,6 +26208,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bW0sHXCYnRI/hqdefault.jpg",
       "date": "2026-05-27"
     },
     {
@@ -24492,6 +26224,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hnSn3e9Wy6g/hqdefault.jpg",
       "date": "2026-05-20"
     },
     {
@@ -24507,6 +26240,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WklkYpdivug/hqdefault.jpg",
       "date": "2026-05-15"
     },
     {
@@ -24522,6 +26256,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/11_6HAbqxeM/hqdefault.jpg",
       "date": "2026-05-15"
     },
     {
@@ -24537,6 +26272,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/muKjaOs8IRw/hqdefault.jpg",
       "date": "2026-05-15"
     },
     {
@@ -24552,6 +26288,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w3DH-lXpr-w/hqdefault.jpg",
       "date": "2026-05-15"
     },
     {
@@ -24567,6 +26304,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/b0EGbRNe6ik/hqdefault.jpg",
       "date": "2026-05-13"
     },
     {
@@ -24582,6 +26320,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AEhI0FjCeZo/hqdefault.jpg",
       "date": "2026-05-08"
     },
     {
@@ -24597,6 +26336,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R_LZaCqkDqw/hqdefault.jpg",
       "date": "2026-05-08"
     },
     {
@@ -24612,6 +26352,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4FFMFXi9oic/hqdefault.jpg",
       "date": "2026-05-08"
     },
     {
@@ -24627,6 +26368,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oqzz9uB2oMQ/hqdefault.jpg",
       "date": "2026-05-04"
     },
     {
@@ -24642,6 +26384,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0f5LdDlc_8g/hqdefault.jpg",
       "date": "2026-05-04"
     },
     {
@@ -24657,6 +26400,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Ut7VjFzphjU/hqdefault.jpg",
       "date": "2026-05-04"
     },
     {
@@ -24672,6 +26416,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/I0tjxIRjfzg/hqdefault.jpg",
       "date": "2026-05-04"
     },
     {
@@ -24687,6 +26432,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/52rwfWoYfqI/hqdefault.jpg",
       "date": "2026-05-04"
     },
     {
@@ -24702,6 +26448,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xvHHmWjc7z8/hqdefault.jpg",
       "date": "2026-05-03"
     },
     {
@@ -24717,6 +26464,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZAI29UtzuLg/hqdefault.jpg",
       "date": "2026-05-03"
     },
     {
@@ -24732,6 +26480,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KFz5KdfUh34/hqdefault.jpg",
       "date": "2026-05-03"
     },
     {
@@ -24747,6 +26496,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4S1BtaLbq_s/hqdefault.jpg",
       "date": "2026-05-01"
     },
     {
@@ -24762,6 +26512,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VO4BbkgoV1E/hqdefault.jpg",
       "date": "2026-05-01"
     },
     {
@@ -24777,6 +26528,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3E1vCPr9XWo/hqdefault.jpg",
       "date": "2026-05-01"
     },
     {
@@ -24792,6 +26544,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rv1Px9y2MHc/hqdefault.jpg",
       "date": "2026-05-01"
     },
     {
@@ -24807,6 +26560,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Zmn-D4uzIow/hqdefault.jpg",
       "date": "2026-04-29"
     },
     {
@@ -24822,6 +26576,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1PMAtXOYuzA/hqdefault.jpg",
       "date": "2026-04-24"
     },
     {
@@ -24837,6 +26592,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/R7UWNRuS9sw/hqdefault.jpg",
       "date": "2026-04-24"
     },
     {
@@ -24852,6 +26608,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/_p1quflKp7w/hqdefault.jpg",
       "date": "2026-04-22"
     },
     {
@@ -24867,6 +26624,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4rrZtXrcBmw/hqdefault.jpg",
       "date": "2026-04-17"
     },
     {
@@ -24882,6 +26640,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JbX3t6g2qcA/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24897,6 +26656,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yvOc1B_ocgo/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24912,6 +26672,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DlDXOQ4O0M8/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24927,6 +26688,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wGlj3cWWAWk/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24942,6 +26704,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mTxGN_P_viI/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24957,6 +26720,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mwImhVxKP6U/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24972,6 +26736,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JjoicEa-rFM/hqdefault.jpg",
       "date": "2026-04-15"
     },
     {
@@ -24987,6 +26752,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GgcoRvpjJ-4/hqdefault.jpg",
       "date": "2026-03-27"
     },
     {
@@ -25002,6 +26768,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uKgzeN5vIlQ/hqdefault.jpg",
       "date": "2026-03-27"
     },
     {
@@ -25017,6 +26784,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8NnUX7ogaQg/hqdefault.jpg",
       "date": "2026-03-27"
     },
     {
@@ -25032,6 +26800,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XTVAiZg_CXk/hqdefault.jpg",
       "date": "2026-03-27"
     },
     {
@@ -25047,6 +26816,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mgqO7d-MdT4/hqdefault.jpg",
       "date": "2026-03-27"
     },
     {
@@ -25062,6 +26832,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bOx3puWXPvg/hqdefault.jpg",
       "date": "2026-03-20"
     },
     {
@@ -25077,6 +26848,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z5SoxXI_rE0/hqdefault.jpg",
       "date": "2026-03-20"
     },
     {
@@ -25092,6 +26864,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hX76umSJIIQ/hqdefault.jpg",
       "date": "2026-03-20"
     },
     {
@@ -25107,6 +26880,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LzS0oVSCsBQ/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25122,6 +26896,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/3qAHFBc1zqA/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25137,6 +26912,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/f_sY5uIsCDI/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25152,6 +26928,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/imPb0Gzr6HE/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25167,6 +26944,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/MyqF_nw_gm4/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25182,6 +26960,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gjKnKD2GrJ4/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25197,6 +26976,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/POus623vTUc/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25212,6 +26992,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sN_lTJUFe84/hqdefault.jpg",
       "date": "2026-03-15"
     },
     {
@@ -25227,6 +27008,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/iaX8RtYOvkE/hqdefault.jpg",
       "date": "2026-03-13"
     },
     {
@@ -25242,6 +27024,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/80l1w0OKEaQ/hqdefault.jpg",
       "date": "2026-03-13"
     },
     {
@@ -25257,6 +27040,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Eqv57l01RYw/hqdefault.jpg",
       "date": "2026-03-10"
     },
     {
@@ -25272,6 +27056,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2E6SOcHQsi8/hqdefault.jpg",
       "date": "2026-03-10"
     },
     {
@@ -25287,6 +27072,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IurFR02XQvM/hqdefault.jpg",
       "date": "2026-03-10"
     },
     {
@@ -25302,6 +27088,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xGrC5Rv92R8/hqdefault.jpg",
       "date": "2026-03-10"
     },
     {
@@ -25317,6 +27104,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/yWSXgAbGgZk/hqdefault.jpg",
       "date": "2026-03-10"
     },
     {
@@ -25332,6 +27120,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8ilW-uN1_no/hqdefault.jpg",
       "date": "2026-03-06"
     },
     {
@@ -25347,6 +27136,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4j61QpkBofg/hqdefault.jpg",
       "date": "2026-03-06"
     },
     {
@@ -25362,6 +27152,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/erUNoKaDK9E/hqdefault.jpg",
       "date": "2026-03-06"
     },
     {
@@ -25377,6 +27168,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rb9QKRcf0cI/hqdefault.jpg",
       "date": "2026-03-06"
     },
     {
@@ -25392,6 +27184,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/J67EEKOmznE/hqdefault.jpg",
       "date": "2026-03-03"
     },
     {
@@ -25407,6 +27200,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/HDAZVOEaRl0/hqdefault.jpg",
       "date": "2026-03-01"
     },
     {
@@ -25422,6 +27216,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/m-IBPtmwocE/hqdefault.jpg",
       "date": "2026-03-01"
     },
     {
@@ -25437,6 +27232,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rvPZpHbr4FM/hqdefault.jpg",
       "date": "2026-02-27"
     },
     {
@@ -25452,6 +27248,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/W-7GhaLA_5Q/hqdefault.jpg",
       "date": "2026-02-27"
     },
     {
@@ -25467,6 +27264,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Oo7jQtsg_w8/hqdefault.jpg",
       "date": "2026-02-25"
     },
     {
@@ -25482,6 +27280,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L1zHBiOhp9E/hqdefault.jpg",
       "date": "2026-02-20"
     },
     {
@@ -25497,6 +27296,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fxzCciykWvI/hqdefault.jpg",
       "date": "2026-02-20"
     },
     {
@@ -25512,6 +27312,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/deE0E8hxf_c/hqdefault.jpg",
       "date": "2026-02-20"
     },
     {
@@ -25527,6 +27328,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z3tmC6dHY78/hqdefault.jpg",
       "date": "2026-02-20"
     },
     {
@@ -25542,6 +27344,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/teZXlUP_Gv4/hqdefault.jpg",
       "date": "2026-02-18"
     },
     {
@@ -25557,6 +27360,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/QXA9D2GdNwg/hqdefault.jpg",
       "date": "2026-02-13"
     },
     {
@@ -25572,6 +27376,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PLtfxlYyerc/hqdefault.jpg",
       "date": "2026-02-13"
     },
     {
@@ -25587,6 +27392,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BFLmY5sZZrc/hqdefault.jpg",
       "date": "2026-02-13"
     },
     {
@@ -25602,6 +27408,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-R4t-8n2qC0/hqdefault.jpg",
       "date": "2026-02-13"
     },
     {
@@ -25617,6 +27424,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/tF8ltFnE5Kg/hqdefault.jpg",
       "date": "2026-02-13"
     },
     {
@@ -25632,6 +27440,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bFlVHT1KDq8/hqdefault.jpg",
       "date": "2026-02-12"
     },
     {
@@ -25647,6 +27456,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ygTDLFWApu4/hqdefault.jpg",
       "date": "2026-02-12"
     },
     {
@@ -25662,6 +27472,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mgwOnaZkiq0/hqdefault.jpg",
       "date": "2026-02-12"
     },
     {
@@ -25677,6 +27488,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gklKm7ZzxTk/hqdefault.jpg",
       "date": "2026-02-12"
     },
     {
@@ -25692,6 +27504,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/L2Qp8m0VL20/hqdefault.jpg",
       "date": "2026-02-06"
     },
     {
@@ -25707,6 +27520,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qSHQsu0zSjc/hqdefault.jpg",
       "date": "2026-02-04"
     },
     {
@@ -25722,6 +27536,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ykdrETogpbg/hqdefault.jpg",
       "date": "2026-01-30"
     },
     {
@@ -25737,6 +27552,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/EEX_YeEZ9JE/hqdefault.jpg",
       "date": "2026-01-30"
     },
     {
@@ -25752,6 +27568,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/438ObMt-coI/hqdefault.jpg",
       "date": "2026-01-30"
     },
     {
@@ -25767,6 +27584,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JDzZS8dbKE0/hqdefault.jpg",
       "date": "2026-01-30"
     },
     {
@@ -25782,6 +27600,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CNW-b1OMzEs/hqdefault.jpg",
       "date": "2026-01-28"
     },
     {
@@ -25797,6 +27616,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/BEGO1wiSeKM/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25812,6 +27632,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/E4aVg9kw3QE/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25827,6 +27648,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4pnGM15qF00/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25842,6 +27664,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aBYLjNr4ijA/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25857,6 +27680,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WNqxRs9W-rE/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25872,6 +27696,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/IShamF6L96A/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25887,6 +27712,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AhAHa7uwKGg/hqdefault.jpg",
       "date": "2026-01-23"
     },
     {
@@ -25902,6 +27728,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JwPIo0IQWT8/hqdefault.jpg",
       "date": "2026-01-16"
     },
     {
@@ -25917,6 +27744,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hq4yKIs8NQM/hqdefault.jpg",
       "date": "2026-01-16"
     },
     {
@@ -25932,6 +27760,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5cQmFeVnUO4/hqdefault.jpg",
       "date": "2026-01-16"
     },
     {
@@ -25947,6 +27776,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6VE49soNFLo/hqdefault.jpg",
       "date": "2026-01-14"
     },
     {
@@ -25962,6 +27792,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/0Za3spyy67w/hqdefault.jpg",
       "date": "2026-01-09"
     },
     {
@@ -25977,6 +27808,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/qCVVo0ozIG0/hqdefault.jpg",
       "date": "2026-01-09"
     },
     {
@@ -25992,6 +27824,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/URrXs_A13VQ/hqdefault.jpg",
       "date": "2026-01-07"
     },
     {
@@ -26007,6 +27840,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/w944Cst3SmY/hqdefault.jpg",
       "date": "2026-01-02"
     },
     {
@@ -26022,6 +27856,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2slBn6gBo_4/hqdefault.jpg",
       "date": "2026-01-02"
     },
     {
@@ -26037,6 +27872,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c8QC8vxfnPk/hqdefault.jpg",
       "date": "2025-12-19"
     },
     {
@@ -26052,6 +27888,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/xPzX9OZqz4o/hqdefault.jpg",
       "date": "2025-12-19"
     },
     {
@@ -26067,6 +27904,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/B-HDFHnDXGw/hqdefault.jpg",
       "date": "2025-12-11"
     },
     {
@@ -26082,6 +27920,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/CukS3HQCgHA/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -26097,6 +27936,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oV-hjdhXXQQ/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -26112,6 +27952,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/loyHT7d8DE4/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -26127,6 +27968,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u7stgX16kwQ/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -26142,6 +27984,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZrdEHfrlPVA/hqdefault.jpg",
       "date": "2025-12-05"
     },
     {
@@ -26157,6 +28000,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/mUHKE3zAPYs/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -26172,6 +28016,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jd3N4a00w3Y/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -26187,6 +28032,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/PpxbzRkJWoM/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -26202,6 +28048,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/WVXz5FBVeJA/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -26217,6 +28064,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/6odam9bQ9F0/hqdefault.jpg",
       "date": "2025-11-28"
     },
     {
@@ -26232,6 +28080,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/C9qPutqPxeM/hqdefault.jpg",
       "date": "2025-11-26"
     },
     {
@@ -26247,6 +28096,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fUY-h_f0Utg/hqdefault.jpg",
       "date": "2025-11-21"
     },
     {
@@ -26262,6 +28112,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fCErmoG2udM/hqdefault.jpg",
       "date": "2025-11-21"
     },
     {
@@ -26277,6 +28128,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/G1inPocBlRk/hqdefault.jpg",
       "date": "2025-11-21"
     },
     {
@@ -26292,6 +28144,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Y73sM3Uwryg/hqdefault.jpg",
       "date": "2025-11-21"
     },
     {
@@ -26307,6 +28160,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jraY4LqI6Ic/hqdefault.jpg",
       "date": "2025-11-19"
     },
     {
@@ -26322,6 +28176,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DTm7X4Sp8-I/hqdefault.jpg",
       "date": "2025-11-14"
     },
     {
@@ -26337,6 +28192,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vkv6v62XG38/hqdefault.jpg",
       "date": "2025-11-14"
     },
     {
@@ -26352,6 +28208,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/v-oQ1BVZJb4/hqdefault.jpg",
       "date": "2025-11-14"
     },
     {
@@ -26367,6 +28224,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VwuegGAzdOc/hqdefault.jpg",
       "date": "2025-11-14"
     },
     {
@@ -26382,6 +28240,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YimDuEw6alc/hqdefault.jpg",
       "date": "2025-11-12"
     },
     {
@@ -26397,6 +28256,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/204fzh-2UTI/hqdefault.jpg",
       "date": "2025-11-07"
     },
     {
@@ -26412,6 +28272,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/cKXG-zoe7OE/hqdefault.jpg",
       "date": "2025-11-07"
     },
     {
@@ -26427,6 +28288,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/rr39CcNpaT8/hqdefault.jpg",
       "date": "2025-11-05"
     },
     {
@@ -26442,6 +28304,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UhkrLNWtDxA/hqdefault.jpg",
       "date": "2025-10-31"
     },
     {
@@ -26457,6 +28320,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/aQvMzArvd5c/hqdefault.jpg",
       "date": "2025-10-31"
     },
     {
@@ -26472,6 +28336,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/t1HQBlmwQv8/hqdefault.jpg",
       "date": "2025-10-31"
     },
     {
@@ -26487,6 +28352,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/p5NrMFNEGkQ/hqdefault.jpg",
       "date": "2025-10-24"
     },
     {
@@ -26502,6 +28368,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A4wQheMjTss/hqdefault.jpg",
       "date": "2025-10-24"
     },
     {
@@ -26517,6 +28384,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ItkJDFoMVL8/hqdefault.jpg",
       "date": "2025-10-24"
     },
     {
@@ -26532,6 +28400,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/A1rAcSQnBAA/hqdefault.jpg",
       "date": "2025-10-17"
     },
     {
@@ -26547,6 +28416,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FlnFlJBBwGo/hqdefault.jpg",
       "date": "2025-10-10"
     },
     {
@@ -26562,6 +28432,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/z3IcjvlumKE/hqdefault.jpg",
       "date": "2025-10-01"
     },
     {
@@ -26577,6 +28448,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wQRzU8WaFMg/hqdefault.jpg",
       "date": "2025-09-19"
     },
     {
@@ -26592,6 +28464,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Mx584QWTpWU/hqdefault.jpg",
       "date": "2025-09-19"
     },
     {
@@ -26607,6 +28480,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sDSuU4ev_lU/hqdefault.jpg",
       "date": "2025-09-19"
     },
     {
@@ -26622,6 +28496,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-Wt2ZfY8ITM/hqdefault.jpg",
       "date": "2025-09-19"
     },
     {
@@ -26637,6 +28512,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XCoNDnAR4Fo/hqdefault.jpg",
       "date": "2025-09-17"
     },
     {
@@ -26652,6 +28528,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ByoSOGoyBhc/hqdefault.jpg",
       "date": "2025-09-12"
     },
     {
@@ -26667,6 +28544,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ObUgZbuMII8/hqdefault.jpg",
       "date": "2025-09-12"
     },
     {
@@ -26682,6 +28560,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vbHFR7hGGrU/hqdefault.jpg",
       "date": "2025-09-05"
     },
     {
@@ -26697,6 +28576,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1II0w9FN8BU/hqdefault.jpg",
       "date": "2025-09-05"
     },
     {
@@ -26712,6 +28592,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/u9OXNPbei7s/hqdefault.jpg",
       "date": "2025-08-29"
     },
     {
@@ -26727,6 +28608,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UJHcnxZHlaU/hqdefault.jpg",
       "date": "2025-08-29"
     },
     {
@@ -26742,6 +28624,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ntx83EFl8Gc/hqdefault.jpg",
       "date": "2025-08-27"
     },
     {
@@ -26757,6 +28640,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/35BpeUvjo2E/hqdefault.jpg",
       "date": "2025-08-06"
     },
     {
@@ -26772,6 +28656,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AGdvraeAzdw/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26787,6 +28672,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sDWCrGreuOY/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26802,6 +28688,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-1A0fyNxg-4/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26817,6 +28704,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uT102CmfRsU/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26832,6 +28720,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/eddhICJDm4o/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26847,6 +28736,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KGKlMTLTRHE/hqdefault.jpg",
       "date": "2025-08-01"
     },
     {
@@ -26862,6 +28752,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/We2FtvMOy7c/hqdefault.jpg",
       "date": "2025-07-25"
     },
     {
@@ -26877,6 +28768,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Vb51obLFEpw/hqdefault.jpg",
       "date": "2025-07-25"
     },
     {
@@ -26892,6 +28784,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/P39mtkKK7SA/hqdefault.jpg",
       "date": "2025-07-23"
     },
     {
@@ -26907,6 +28800,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JylnIayy9UA/hqdefault.jpg",
       "date": "2025-07-18"
     },
     {
@@ -26922,6 +28816,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fn5YTcTvVrU/hqdefault.jpg",
       "date": "2025-07-16"
     },
     {
@@ -26937,6 +28832,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sNObQpGEtaY/hqdefault.jpg",
       "date": "2025-07-11"
     },
     {
@@ -26952,6 +28848,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VeQK5RyogKY/hqdefault.jpg",
       "date": "2025-07-11"
     },
     {
@@ -26967,6 +28864,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5aZlVFVuBrY/hqdefault.jpg",
       "date": "2025-07-11"
     },
     {
@@ -26982,6 +28880,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LIA6zBoEQFc/hqdefault.jpg",
       "date": "2025-07-09"
     },
     {
@@ -26997,6 +28896,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/bO7HxdcDy8k/hqdefault.jpg",
       "date": "2025-07-04"
     },
     {
@@ -27012,6 +28912,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/1E-WJVT8pWY/hqdefault.jpg",
       "date": "2025-07-04"
     },
     {
@@ -27027,6 +28928,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UjLZFXpSQN8/hqdefault.jpg",
       "date": "2025-06-27"
     },
     {
@@ -27042,6 +28944,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2wDW1EFE0tU/hqdefault.jpg",
       "date": "2025-06-27"
     },
     {
@@ -27057,6 +28960,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pl0Lu-N7BmE/hqdefault.jpg",
       "date": "2025-06-27"
     },
     {
@@ -27072,6 +28976,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oY7iaG5Tp-0/hqdefault.jpg",
       "date": "2025-06-25"
     },
     {
@@ -27087,6 +28992,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/RQstVIeku8c/hqdefault.jpg",
       "date": "2025-06-20"
     },
     {
@@ -27102,6 +29008,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LkWh7_Ckx9c/hqdefault.jpg",
       "date": "2025-06-20"
     },
     {
@@ -27117,6 +29024,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pPimoTDDSXA/hqdefault.jpg",
       "date": "2025-06-20"
     },
     {
@@ -27132,6 +29040,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/fJ5tx29eg0w/hqdefault.jpg",
       "date": "2025-06-20"
     },
     {
@@ -27147,6 +29056,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4tHISwgzy_Q/hqdefault.jpg",
       "date": "2025-06-13"
     },
     {
@@ -27162,6 +29072,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8WE3BagAtK0/hqdefault.jpg",
       "date": "2025-06-13"
     },
     {
@@ -27177,6 +29088,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UhGNcuojLUs/hqdefault.jpg",
       "date": "2025-06-13"
     },
     {
@@ -27192,6 +29104,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8ugdaFMjyFg/hqdefault.jpg",
       "date": "2025-06-11"
     },
     {
@@ -27207,6 +29120,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/8hMGohT4Khs/hqdefault.jpg",
       "date": "2025-06-11"
     },
     {
@@ -27222,6 +29136,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oBWXdaVhrfQ/hqdefault.jpg",
       "date": "2025-06-11"
     },
     {
@@ -27237,6 +29152,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/F5ghKYh1uVQ/hqdefault.jpg",
       "date": "2025-06-06"
     },
     {
@@ -27252,6 +29168,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/P0O5Nm1smGo/hqdefault.jpg",
       "date": "2025-06-06"
     },
     {
@@ -27267,6 +29184,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/pZgaMvxlRA0/hqdefault.jpg",
       "date": "2025-06-06"
     },
     {
@@ -27282,6 +29200,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Wf3eeKgwihc/hqdefault.jpg",
       "date": "2025-06-06"
     },
     {
@@ -27297,6 +29216,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/i_sIsQwCPdQ/hqdefault.jpg",
       "date": "2025-05-23"
     },
     {
@@ -27312,6 +29232,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/oT3uzq4FHU4/hqdefault.jpg",
       "date": "2025-05-21"
     },
     {
@@ -27327,6 +29248,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZwMpWh0RIQ4/hqdefault.jpg",
       "date": "2025-05-09"
     },
     {
@@ -27342,6 +29264,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/SEFkePZ7MZQ/hqdefault.jpg",
       "date": "2025-05-02"
     },
     {
@@ -27357,6 +29280,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/wBhPloD57pU/hqdefault.jpg",
       "date": "2025-04-25"
     },
     {
@@ -27372,6 +29296,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/5Ta2ovDRoWo/hqdefault.jpg",
       "date": "2025-04-25"
     },
     {
@@ -27387,6 +29312,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/VPMh4sZHMng/hqdefault.jpg",
       "date": "2025-04-25"
     },
     {
@@ -27402,6 +29328,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vK5F-RvQowM/hqdefault.jpg",
       "date": "2025-03-21"
     },
     {
@@ -27417,6 +29344,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jhGpQOVZMtQ/hqdefault.jpg",
       "date": "2025-03-07"
     },
     {
@@ -27432,6 +29360,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vODD8J0cZ0M/hqdefault.jpg",
       "date": "2025-02-21"
     },
     {
@@ -27447,6 +29376,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/GbnfaZWryNA/hqdefault.jpg",
       "date": "2025-02-14"
     },
     {
@@ -27462,6 +29392,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-Dbza-9osik/hqdefault.jpg",
       "date": "2025-02-07"
     },
     {
@@ -27477,6 +29408,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/kXCe10HrRQs/hqdefault.jpg",
       "date": "2025-01-31"
     },
     {
@@ -27492,6 +29424,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AJjrZiqN9Tg/hqdefault.jpg",
       "date": "2025-01-24"
     },
     {
@@ -27507,6 +29440,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/d7J4yTuyq0g/hqdefault.jpg",
       "date": "2025-01-17"
     },
     {
@@ -27522,6 +29456,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/uBupGJoCd0c/hqdefault.jpg",
       "date": "2025-01-10"
     },
     {
@@ -27537,6 +29472,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XNJ5Is0p8PY/hqdefault.jpg",
       "date": "2025-01-03"
     },
     {
@@ -27552,6 +29488,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JJu7atOJ7Og/hqdefault.jpg",
       "date": "2024-12-20"
     },
     {
@@ -27567,6 +29504,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/lCYM0c-VlS4/hqdefault.jpg",
       "date": "2024-12-13"
     },
     {
@@ -27582,6 +29520,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/vLaFRoJQowo/hqdefault.jpg",
       "date": "2024-12-03"
     },
     {
@@ -27597,6 +29536,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/dqv2uBLY31s/hqdefault.jpg",
       "date": "2024-11-22"
     },
     {
@@ -27612,6 +29552,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/YpHl47L45ak/hqdefault.jpg",
       "date": "2024-11-15"
     },
     {
@@ -27627,6 +29568,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/hpie9RNaonk/hqdefault.jpg",
       "date": "2024-11-08"
     },
     {
@@ -27642,6 +29584,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/KCe4a7586p8/hqdefault.jpg",
       "date": "2024-10-11"
     },
     {
@@ -27657,6 +29600,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/N50ldnrQK3Q/hqdefault.jpg",
       "date": "2024-10-11"
     },
     {
@@ -27672,6 +29616,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/52cdq2BeDJI/hqdefault.jpg",
       "date": "2024-09-27"
     },
     {
@@ -27687,6 +29632,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/AtOjxd4lHGY/hqdefault.jpg",
       "date": "2024-09-20"
     },
     {
@@ -27702,6 +29648,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/-n7aRYcwbwo/hqdefault.jpg",
       "date": "2024-09-13"
     },
     {
@@ -27717,6 +29664,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/2qolfg3Grkk/hqdefault.jpg",
       "date": "2024-09-06"
     },
     {
@@ -27732,6 +29680,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/4cDmqozD2HE/hqdefault.jpg",
       "date": "2024-08-30"
     },
     {
@@ -27747,6 +29696,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/gNYSVf8IfuY/hqdefault.jpg",
       "date": "2024-08-23"
     },
     {
@@ -27762,6 +29712,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/s8SCfSh7XNE/hqdefault.jpg",
       "date": "2024-08-16"
     },
     {
@@ -27777,6 +29728,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/X772sTo_W9g/hqdefault.jpg",
       "date": "2024-07-26"
     },
     {
@@ -27792,6 +29744,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/Rh_k1-dMmXE/hqdefault.jpg",
       "date": "2024-07-19"
     },
     {
@@ -27807,6 +29760,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/LYflZcI8_Gs/hqdefault.jpg",
       "date": "2024-07-12"
     },
     {
@@ -27822,6 +29776,7 @@
         "torah",
         "rbari"
       ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/sG7IFp4y0oo/hqdefault.jpg",
       "date": "2024-07-12"
     }
   ],
