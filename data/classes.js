@@ -10,7 +10,8 @@
     "short_author": "р. И. Зельман",
     "location": null,
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "tikkunei-zohar",
@@ -23,7 +24,8 @@
     "short_author": "р. И. Зельман",
     "location": null,
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "tanakh-book-of-kings",
@@ -36,7 +38,8 @@
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "ramchal-adir-ba-marom",
@@ -49,7 +52,8 @@
     "short_author": "р. И. Зельман",
     "location": null,
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-table-commentaries",
@@ -62,7 +66,8 @@
     "short_author": "р. И. Зельман",
     "location": null,
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "mishlei",
@@ -87,7 +92,8 @@
     "short_author": "р. Э. Бари",
     "location": null,
     "link": "",
-    "meetingUrl": "https://meet.google.com/aoy-awgy-xoc"
+    "meetingUrl": "https://meet.google.com/aoy-awgy-xoc",
+    "authorId": "rbari"
   },
   {
     "id": "shabbat-weekly-portion-after-kiddush",
@@ -100,7 +106,8 @@
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-weekly-portion-before-mincha",
@@ -113,7 +120,8 @@
     "short_author": "р. И. Зельман",
     "location": "Синагога Ариэль",
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rzelman"
   },
   {
     "id": "shabbat-weekly-portion-eliyahu-bari",
@@ -126,6 +134,7 @@
     "short_author": "р. Э. Бари",
     "location": "Синагога Ариэль, колель",
     "link": "",
-    "meetingUrl": null
+    "meetingUrl": null,
+    "authorId": "rbari"
   }
 ]

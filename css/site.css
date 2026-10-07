@@ -188,6 +188,15 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .schedule-summary li[hidden] { display: none; }
 .community-intro > summary { cursor: pointer; min-height: 44px; display: list-item; align-content: center; margin: 0; }
 .community-intro-content { padding-top: 12px; }
+.profile-image { display: block; max-width: 240px; border-radius: 5px; margin: 16px 0; }
+.profile-description { white-space: pre-line; }
+.profile-socials { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; padding-top: 16px; border-top: 1px solid #e2eaed; }
+.profile-social-link { display: inline-flex; align-items: center; gap: 10px; min-height: 44px; max-width: 100%; padding: 8px 14px; box-sizing: border-box; border: 1px solid; border-radius: 6px; font-weight: bold; text-decoration: none; }
+.profile-social-icon { width: 24px; height: 24px; flex: 0 0 24px; }
+.social-youtube { color: #a51d1a; background: #fff1f0; border-color: #efc4c2; }
+.social-facebook { color: #1756a9; background: #edf4ff; border-color: #bfd4f2; }
+.social-youtube:hover { color: #a51d1a; background: #ffe2df; text-decoration: none; }
+.social-facebook:hover { color: #1756a9; background: #dceaff; text-decoration: none; }
 @media (max-width: 1000px) {
     .site-layout.has-section-nav { grid-template-columns: minmax(0, 1fr) 260px; }
     .has-section-nav .section-nav { grid-column: 1 / -1; }
