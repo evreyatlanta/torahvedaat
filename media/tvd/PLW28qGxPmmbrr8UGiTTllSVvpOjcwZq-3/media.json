@@ -1,0 +1,41 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "OV5RruB-ZKQ",
+      "title": "Обиды и Оскорбления в Свете Еврейского Закона. Урок 6",
+      "url": "https://www.youtube.com/watch?v=OV5RruB-ZKQ"
+    },
+    {
+      "id": "gAswpK4M_QA",
+      "title": "Обиды и Оскорбления в Свете Еврейского Закона. Урок 5.",
+      "url": "https://www.youtube.com/watch?v=gAswpK4M_QA"
+    },
+    {
+      "id": "wo1LoX0UFis",
+      "title": "Обиды и Оскорбления в Свете Еврейского Закона. Урок 4",
+      "url": "https://www.youtube.com/watch?v=wo1LoX0UFis"
+    },
+    {
+      "id": "GXhxZ6IKVIM",
+      "title": "Обиды И Оскорбления В Свете Еврейского Закона. Урок 3",
+      "url": "https://www.youtube.com/watch?v=GXhxZ6IKVIM"
+    },
+    {
+      "id": "BZKVI9J_lao",
+      "title": "Обиды И Оскорбления В Свете Еврейского Закона. Урок 2",
+      "url": "https://www.youtube.com/watch?v=BZKVI9J_lao"
+    },
+    {
+      "id": "U6RGFObUIho",
+      "title": "Обиды И Оскорбления В Свете Еврейского Закона. Урок 1",
+      "url": "https://www.youtube.com/watch?v=U6RGFObUIho"
+    }
+  ]
+}

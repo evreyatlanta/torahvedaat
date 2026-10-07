@@ -1,0 +1,30 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "JatuXw6XNiY",
+      "title": "Псалом 126, Шир-а-маалот.",
+      "url": "https://www.youtube.com/watch?v=JatuXw6XNiY",
+      "tags": [
+        "torah",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "1sLGZrKZMKI",
+      "title": "Песня Амана (Ти ж мене пiдманула)",
+      "url": "https://www.youtube.com/watch?v=1sLGZrKZMKI"
+    },
+    {
+      "id": "6UHpIIOgPYQ",
+      "title": "Amen (filming a music video in the community, song parody, At the Samovar on Tu Bishvat)",
+      "url": "https://www.youtube.com/watch?v=6UHpIIOgPYQ"
+    }
+  ]
+}

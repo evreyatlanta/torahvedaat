@@ -1,0 +1,55 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "show",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "--s3511xuKY",
+      "title": "Пурим 5783, Корней Чуковский - перевод Свитка Эстер",
+      "url": "https://www.youtube.com/watch?v=--s3511xuKY",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "fhz32vNZv6E",
+      "title": "5778/2018 Неполиткорректный Пуримшпиль \"Корона Персидской Империи\" или \"Здравствуйте я ваша Эстер\"",
+      "url": "https://www.youtube.com/watch?v=fhz32vNZv6E"
+    },
+    {
+      "id": "q7DOoEeUVvU",
+      "title": "Пуримшпиль 5777/2017 - 613 Мгновений Весны или ошибка (п)резидента",
+      "url": "https://www.youtube.com/watch?v=q7DOoEeUVvU"
+    },
+    {
+      "id": "lZf57gxRR0A",
+      "title": "Пуримшпиль 5775/2015, \"Служебный Аман\" или с легким Пуримом",
+      "url": "https://www.youtube.com/watch?v=lZf57gxRR0A"
+    },
+    {
+      "id": "JKUgf3la33o",
+      "title": "Пуримшпиль 5774/2014 -  Маленькие Трагедии большого праздника Пурим, Часть 4, \"Пир во время чумы\"",
+      "url": "https://www.youtube.com/watch?v=JKUgf3la33o"
+    },
+    {
+      "id": "JfEIqSKRs7I",
+      "title": "Пуримшпиль 5774/2014 - Маленькие Трагедии большого праздника Пурим, Часть 3, \"Каменная Гостья\"",
+      "url": "https://www.youtube.com/watch?v=JfEIqSKRs7I"
+    },
+    {
+      "id": "4faY9B3q0r4",
+      "title": "Пуримшпиль 5774/2014 - Маленькие Трагедии большого праздника Пурим, Часть 2, \"Мордехай и Аман\"",
+      "url": "https://www.youtube.com/watch?v=4faY9B3q0r4"
+    },
+    {
+      "id": "wfLhseUPR2s",
+      "title": "Пуримшпиль 5774/2014 - Маленькие трагедии большого праздника Пурим, Часть 1, \"Скупой Царь\"",
+      "url": "https://www.youtube.com/watch?v=wfLhseUPR2s"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "WocF9UgZmrE",
+      "title": "The History of Hasidism",
+      "url": "https://www.youtube.com/watch?v=WocF9UgZmrE"
+    },
+    {
+      "id": "1xAOf6bZB5s",
+      "title": "Урок-Разъяснение. Почему замужним женщинам заповедано покрывать головы.",
+      "url": "https://www.youtube.com/watch?v=1xAOf6bZB5s"
+    },
+    {
+      "id": "GdnAKloUMmU",
+      "title": "Драша к двадцатипятилетию раввинской деятельности, рав И. Зельман",
+      "url": "https://www.youtube.com/watch?v=GdnAKloUMmU"
+    },
+    {
+      "id": "pS41trIOAwM",
+      "title": "Неизвестные тайны праздника шалашей",
+      "url": "https://www.youtube.com/watch?v=pS41trIOAwM"
+    },
+    {
+      "id": "-ZaNlWpia-k",
+      "title": "Объяснение смысла песни \"Бар Йохай\", рассказывает рав И. Зельман",
+      "url": "https://www.youtube.com/watch?v=-ZaNlWpia-k",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "9GsvV00GPXk",
+      "title": "Рассказывает и поет рав Исроэль Зельман (У Самовара в Ту-би-Шват)",
+      "url": "https://www.youtube.com/watch?v=9GsvV00GPXk",
+      "tags": [
+        "show",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "1XMZZjI3PSI",
+      "title": "раби Акива и Рахель (Урок р. Исроэля Зельмана, \"Пикник на обочине\")",
+      "url": "https://www.youtube.com/watch?v=1XMZZjI3PSI"
+    },
+    {
+      "id": "IsyyYhRo1j4",
+      "title": "Урок про Рок (в четырех фрагментах с прологом и эпилогом)",
+      "url": "https://www.youtube.com/watch?v=IsyyYhRo1j4"
+    },
+    {
+      "id": "rnaemt8EhRc",
+      "title": "Раввин у самовара (про партию большевиков и партию Элазара)",
+      "url": "https://www.youtube.com/watch?v=rnaemt8EhRc"
+    },
+    {
+      "id": "i6sm_VhM_uQ",
+      "title": "Еврей и Деньги (Вечная Любовь или Случайная Связь)",
+      "url": "https://www.youtube.com/watch?v=i6sm_VhM_uQ"
+    },
+    {
+      "id": "EGY3b9vdJKU",
+      "title": "Гетто - от венецианского до варшавского: этическое и мистическое исследование",
+      "url": "https://www.youtube.com/watch?v=EGY3b9vdJKU"
+    },
+    {
+      "id": "GFP1tByeOzU",
+      "title": "Семейная жизнь",
+      "url": "https://www.youtube.com/watch?v=GFP1tByeOzU"
+    },
+    {
+      "id": "SoVkqMrJB-A",
+      "title": "р. Исроэль Зельман - Жизнь после Жизни",
+      "url": "https://www.youtube.com/watch?v=SoVkqMrJB-A"
+    }
+  ]
+}

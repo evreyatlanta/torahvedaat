@@ -1,0 +1,55 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "RqNzU-yIHZg",
+      "title": "Песня о еврейском отпуске (муз. Б. Окуджава, сл. Э. Бари)",
+      "url": "https://www.youtube.com/watch?v=RqNzU-yIHZg"
+    },
+    {
+      "id": "7BTVc7MWXm4",
+      "title": "\"Окурочек\" - песня о восстании Кораха, поёт Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=7BTVc7MWXm4"
+    },
+    {
+      "id": "GuiSe2FDGOQ",
+      "title": "Цадиким держат Тору (муз. А. Городницкого, сл. Э. Бари)",
+      "url": "https://www.youtube.com/watch?v=GuiSe2FDGOQ"
+    },
+    {
+      "id": "l6R9w4t-hwo",
+      "title": "Комментарии к песне \"Роза моих ветров\" - Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=l6R9w4t-hwo",
+      "tags": [
+        "other",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "LorvDm8V14o",
+      "title": "Поет Элиягу Бари (\"Пикник на обочине\")",
+      "url": "https://www.youtube.com/watch?v=LorvDm8V14o"
+    },
+    {
+      "id": "DsyhGEP4mIk",
+      "title": "Я спросил у цадика... (муз. М. Таривердиев, сл. М. Гутерман)",
+      "url": "https://www.youtube.com/watch?v=DsyhGEP4mIk"
+    },
+    {
+      "id": "jV0rgk4Gqdk",
+      "title": "У Самовара в 7:40, Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=jV0rgk4Gqdk"
+    },
+    {
+      "id": "nzzZPXL-3Rc",
+      "title": "Исход Дворника Степанова",
+      "url": "https://www.youtube.com/watch?v=nzzZPXL-3Rc"
+    }
+  ]
+}

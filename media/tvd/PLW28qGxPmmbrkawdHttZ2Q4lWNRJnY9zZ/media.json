@@ -1,0 +1,36 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "H991EYZdaq0",
+      "title": "Комментарии р. Хаим бен Аттара («Ор а-Хаим»), Часть 1",
+      "url": "https://www.youtube.com/watch?v=H991EYZdaq0"
+    },
+    {
+      "id": "znw00mtVr8s",
+      "title": "Комментарии р. Хаим бен Аттара «Ор-а-Хаим», Часть 2",
+      "url": "https://www.youtube.com/watch?v=znw00mtVr8s"
+    },
+    {
+      "id": "RTkuN5fxROQ",
+      "title": "Комментарии р. Хаим бен Аттара «Ор а-Хаим», Часть 3",
+      "url": "https://www.youtube.com/watch?v=RTkuN5fxROQ"
+    },
+    {
+      "id": "9U0CSJPMXPU",
+      "title": "Комментарии р. Хаим бен Аттара «Ор а-Хаим», часть 4",
+      "url": "https://www.youtube.com/watch?v=9U0CSJPMXPU"
+    },
+    {
+      "id": "idf_r_b0cU0",
+      "title": "Комментарии р. Хаим бен Аттара «Ор а-Хаим», часть 5",
+      "url": "https://www.youtube.com/watch?v=idf_r_b0cU0"
+    }
+  ]
+}

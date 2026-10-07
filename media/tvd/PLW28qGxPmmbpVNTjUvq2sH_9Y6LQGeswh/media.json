@@ -1,0 +1,25 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "0zHh7SwT1Xs",
+      "title": "ХАНУКАЛЬНЫЙ ВЕЧЕР 5774, Часть 3, Премьера песни-переделки \"На битву с Грецией пора отправиться\"",
+      "url": "https://www.youtube.com/watch?v=0zHh7SwT1Xs"
+    },
+    {
+      "id": "Q8MAlkSLHdQ",
+      "title": "ХАНУКАЛЬНЫЙ ВЕЧЕР 5774, Часть 4, Концерт еврейской песни на идиш (с комментариями)",
+      "url": "https://www.youtube.com/watch?v=Q8MAlkSLHdQ",
+      "tags": [
+        "show",
+        "youtube-tvd"
+      ]
+    }
+  ]
+}

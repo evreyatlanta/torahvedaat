@@ -1,0 +1,54 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "show",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "wwt75jFH4Hw",
+      "title": "5776/2016 - Пуримшпили в общине \"Тора ве-даат\", история в картинках",
+      "url": "https://www.youtube.com/watch?v=wwt75jFH4Hw"
+    },
+    {
+      "id": "RU-_yOr0FpQ",
+      "title": "Песня и стихи о фандрайзинге (полная версия)",
+      "url": "https://www.youtube.com/watch?v=RU-_yOr0FpQ",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "UToPWTdiC0w",
+      "title": "Шуберт, соната арпеджионе, часть 1",
+      "url": "https://www.youtube.com/watch?v=UToPWTdiC0w"
+    },
+    {
+      "id": "NixAqzQafPI",
+      "title": "Пурим мглою небо кроет",
+      "url": "https://www.youtube.com/watch?v=NixAqzQafPI"
+    },
+    {
+      "id": "so3UF3Bp6Lc",
+      "title": "Я точно знаю, я сильнее всех",
+      "url": "https://www.youtube.com/watch?v=so3UF3Bp6Lc"
+    },
+    {
+      "id": "VZ__VyJfRGI",
+      "title": "Стихотворение про фандрайзинг (по просьбе активистов общины), р. И. Зельман",
+      "url": "https://www.youtube.com/watch?v=VZ__VyJfRGI"
+    },
+    {
+      "id": "Besn7K_TtgA",
+      "title": "\"Два письма\", песня-переделка, муз. В. Высоцкий, поёт М. Стрижевский",
+      "url": "https://www.youtube.com/watch?v=Besn7K_TtgA",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    }
+  ]
+}

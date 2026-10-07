@@ -1,0 +1,21 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "LqSFcnofntE",
+      "title": "Про раби Шимона бар Йохая (рассказывает р. Исроэль Зельман)",
+      "url": "https://www.youtube.com/watch?v=LqSFcnofntE"
+    },
+    {
+      "id": "bLwgPIw2Hb4",
+      "title": "Знаменитые выссказывания раби Шимона бар Йохая (рассказывает р. Исроэль Зельман)",
+      "url": "https://www.youtube.com/watch?v=bLwgPIw2Hb4"
+    }
+  ]
+}

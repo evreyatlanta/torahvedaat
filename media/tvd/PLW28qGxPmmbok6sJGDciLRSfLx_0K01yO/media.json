@@ -1,0 +1,51 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "MvauFtmrM_Y",
+      "title": "Песня об отпуске в стране без нормальной еврейской инфраструктуры, сл. М. Гутерман, муз. В. Цой",
+      "url": "https://www.youtube.com/watch?v=MvauFtmrM_Y"
+    },
+    {
+      "id": "nOsmuIBGB7U",
+      "title": "\"Я знаю, что к стулу еще не прирос\", песня-переделка дуэта ИВАСИ",
+      "url": "https://www.youtube.com/watch?v=nOsmuIBGB7U"
+    },
+    {
+      "id": "koqS4iTYyiU",
+      "title": "\"Никого не видно в доме\", муз. Таривердиева, сл. Гутермана",
+      "url": "https://www.youtube.com/watch?v=koqS4iTYyiU"
+    },
+    {
+      "id": "wN8VDKkkG44",
+      "title": "\"Ты меня на молитву разбудишь\", песня про Слихот, муз. Рыбникова",
+      "url": "https://www.youtube.com/watch?v=wN8VDKkkG44"
+    },
+    {
+      "id": "2RZ8gg0gmqI",
+      "title": "\"Как здорово, что все мы здесь сегодня собрались\", песня про Йом Кипур, муз. О. Митяева",
+      "url": "https://www.youtube.com/watch?v=2RZ8gg0gmqI"
+    },
+    {
+      "id": "n-0RCUuCc2o",
+      "title": "Песня раввинского предсуккотнего патруля",
+      "url": "https://www.youtube.com/watch?v=n-0RCUuCc2o"
+    },
+    {
+      "id": "jxtr4MIRWP0",
+      "title": "На биркате амазоне... (переделка песни, У Самовара в Ту-би-Шват)",
+      "url": "https://www.youtube.com/watch?v=jxtr4MIRWP0"
+    },
+    {
+      "id": "yCXdU9rGZ4E",
+      "title": "musor",
+      "url": "https://www.youtube.com/watch?v=yCXdU9rGZ4E"
+    }
+  ]
+}

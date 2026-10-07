@@ -1,0 +1,456 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "GcASY6bJbjI",
+      "title": "The Book of the Twelve. Lesson 89. The Book of Zechariah: \"TO FAST OR NOT TO FAST?\"",
+      "url": "https://www.youtube.com/watch?v=GcASY6bJbjI"
+    },
+    {
+      "id": "CY0h_gklyJI",
+      "title": "The Book of the Twelve. Lesson 88. The Book of the Prophet Zechariah: \"THE MULTICOLORED CHARIOTS\"",
+      "url": "https://www.youtube.com/watch?v=CY0h_gklyJI"
+    },
+    {
+      "id": "3CTbe8fQx2k",
+      "title": "The Book of the Twelve. Lesson 87. Book of Zechariah: \"WINGED WOMEN\"",
+      "url": "https://www.youtube.com/watch?v=3CTbe8fQx2k"
+    },
+    {
+      "id": "GKlOw0csuJw",
+      "title": "Книга Двенадцати. Урок 86. Книга Пророка Зехарии: \"ЛЕТАЮЩИЙ СВИТОК\"",
+      "url": "https://www.youtube.com/watch?v=GKlOw0csuJw"
+    },
+    {
+      "id": "9Svj9RWVgD0",
+      "title": "Book of the Twelve. Lesson 85. Book of Zechariah: \"NOT BY MIGHT NOR BY POWER\"",
+      "url": "https://www.youtube.com/watch?v=9Svj9RWVgD0"
+    },
+    {
+      "id": "anx6sIgizX4",
+      "title": "The Book of the Twelve. Lesson 84. Book of Zechariah: \"UPON ONE STONE ARE SEVEN EYES\"",
+      "url": "https://www.youtube.com/watch?v=anx6sIgizX4"
+    },
+    {
+      "id": "fgFg7jHUF3I",
+      "title": "The Book of the Twelve. Lesson 83. The Book of Zechariah: \"A WALL OF FIRE AROUND\"",
+      "url": "https://www.youtube.com/watch?v=fgFg7jHUF3I"
+    },
+    {
+      "id": "H1bTQdcQcTw",
+      "title": "The Book of the Twelve. Lesson 82. The Book of Zechariah: \"HORNS AND CRAFTSMEN\"",
+      "url": "https://www.youtube.com/watch?v=H1bTQdcQcTw"
+    },
+    {
+      "id": "zcIBZgM63oc",
+      "title": "The Book of the Twelve. Lesson 81. The Book of Zechariah: \"RED, WHITE, AND COLORED HORSES\"",
+      "url": "https://www.youtube.com/watch?v=zcIBZgM63oc"
+    },
+    {
+      "id": "V0yOyanZ2OA",
+      "title": "The Book of the Twelve. Lesson 80. Book of Haggai: \"A NOBLEMAN FROM JUDAH\"",
+      "url": "https://www.youtube.com/watch?v=V0yOyanZ2OA"
+    },
+    {
+      "id": "SeNv5WOA6FI",
+      "title": "The Book of the Twelve. Lesson 79. Book of Haggai: \"THE LATTER GLORY\"",
+      "url": "https://www.youtube.com/watch?v=SeNv5WOA6FI"
+    },
+    {
+      "id": "x80Qhic5w70",
+      "title": "The Book of the Twelve. Lesson 78. Book of Haggai: \"THE ABANDONED HOUSE\"",
+      "url": "https://www.youtube.com/watch?v=x80Qhic5w70"
+    },
+    {
+      "id": "pvU2uaeopm4",
+      "title": "The Book of the Twelve. Lesson 77. The Books of the Prophets Zephaniah and Haggai: \"TWO SALVATIONS\"",
+      "url": "https://www.youtube.com/watch?v=pvU2uaeopm4"
+    },
+    {
+      "id": "idpzHIKKD3k",
+      "title": "The Book of the Twelve. Lesson 76. Book of Zephaniah: \"FOR THE NATIONS - A PURE SPEECH\"",
+      "url": "https://www.youtube.com/watch?v=idpzHIKKD3k"
+    },
+    {
+      "id": "MfwnImlYlOc",
+      "title": "The Book of the Twelve. Lesson 75. The Book of Zephaniah: \"I AND NOTHING ELSE\"",
+      "url": "https://www.youtube.com/watch?v=MfwnImlYlOc"
+    },
+    {
+      "id": "GS-qJoty6DM",
+      "title": "The Book of the Twelve. Lesson 74. Book of Zephaniah: \"GAZA STRIP - 4,000 YEARS OF TROUBLE\"",
+      "url": "https://www.youtube.com/watch?v=GS-qJoty6DM"
+    },
+    {
+      "id": "LFJSboVa6jY",
+      "title": "The Book of Twelve. Lesson 73. The Book of the Prophet Zephaniah: \"I WILL SEARCH JERUSALEM WITH C...",
+      "url": "https://www.youtube.com/watch?v=LFJSboVa6jY"
+    },
+    {
+      "id": "DVGVHlfSsCw",
+      "title": "Книга Двенадцати. Урок 72. Книги Хавакука и Цфании: \"ХАВАКУК И ЦФАНИЯ - О СПАСЕНИИ И О БЕДСТВИЯХ\"",
+      "url": "https://www.youtube.com/watch?v=DVGVHlfSsCw"
+    },
+    {
+      "id": "5FbxxwOZ0qI",
+      "title": "Книга Двенадцати. Урок 71. Книга Пророка Хавакука: \"ПРОТИВОСТОЯНИЕ ВОДЫ И ЗЕМЛИ\"",
+      "url": "https://www.youtube.com/watch?v=5FbxxwOZ0qI"
+    },
+    {
+      "id": "_GR18p9jqcQ",
+      "title": "The Book of Twelve. Lesson 70. The Book of Habakkuk: \"The Prophet's Prayer\"",
+      "url": "https://www.youtube.com/watch?v=_GR18p9jqcQ"
+    },
+    {
+      "id": "frLH53nl5KQ",
+      "title": "The Book of Twelve. Lesson 69. The Book of Habakkuk: \"Building a City on Blood\"",
+      "url": "https://www.youtube.com/watch?v=frLH53nl5KQ"
+    },
+    {
+      "id": "aN4_4EerPpg",
+      "title": "The Book of Twelve. Lesson 68. The Book of Prophet Habakkuk: \"IF HE IS DELAYED, WAIT FOR HIM!\"",
+      "url": "https://www.youtube.com/watch?v=aN4_4EerPpg"
+    },
+    {
+      "id": "6wLBXS5mUwg",
+      "title": "The Book of Twelve. Lesson 67. The Book of Habakkuk: \"The Painful Lessons of History\"",
+      "url": "https://www.youtube.com/watch?v=6wLBXS5mUwg"
+    },
+    {
+      "id": "D7CoXve2_RA",
+      "title": "The Book of Twelve. Lesson 66. The Book of Nahum and Habakkuk: Contemporary Prophets: At a Histor...",
+      "url": "https://www.youtube.com/watch?v=D7CoXve2_RA"
+    },
+    {
+      "id": "LowybUUq7uM",
+      "title": "The Book of Twelve. Lesson 65. The Book of Prophet Nahum: \"WIPING OUT THE EMPIRE FROM THE MAP.\"",
+      "url": "https://www.youtube.com/watch?v=LowybUUq7uM"
+    },
+    {
+      "id": "w3y9kldIqIE",
+      "title": "The Book of Twelve. Lesson 64. The Book of Prophet Nahum: \"Superstition as a Divine Instrument\"",
+      "url": "https://www.youtube.com/watch?v=w3y9kldIqIE"
+    },
+    {
+      "id": "gHR9koh7EsU",
+      "title": "Книга Двенадцати. Урок 63. Книга Пророка Нахума: \"ПОСТУПЬ ВЕСТНИКА НА ГОРАХ\"",
+      "url": "https://www.youtube.com/watch?v=gHR9koh7EsU"
+    },
+    {
+      "id": "OqyvQSKkbR0",
+      "title": "The Book of Twelve. Lesson 62. The Book of Micah and Nahum: \"Micah and Nahum - Kabbalah and History\"",
+      "url": "https://www.youtube.com/watch?v=OqyvQSKkbR0"
+    },
+    {
+      "id": "WIp-rovt88I",
+      "title": "The Book of Twelve. Lesson 61. The Book of the Prophet Micah: \"As in the days of your exodus from...",
+      "url": "https://www.youtube.com/watch?v=WIp-rovt88I"
+    },
+    {
+      "id": "Cz5ddWwWLhA",
+      "title": "The Book of the Twelve. Lesson 60. The Book of the Prophet Micah. \"OLD NEW CURSES\"",
+      "url": "https://www.youtube.com/watch?v=Cz5ddWwWLhA"
+    },
+    {
+      "id": "5CaMwBl647A",
+      "title": "The Book of the Twelve. Lesson 59. The Book of the Prophet Micah. \"WAYS OF ATONEMENT.\"",
+      "url": "https://www.youtube.com/watch?v=5CaMwBl647A"
+    },
+    {
+      "id": "7wcV7tcZazI",
+      "title": "The Book of Twelve. Lesson 58. The Book of Prophet Micah. \"HEAR, O MOUNTAINS, THE QUARRELS OF G-D.\"",
+      "url": "https://www.youtube.com/watch?v=7wcV7tcZazI"
+    },
+    {
+      "id": "TwMKsDDWeTg",
+      "title": "Книга Двенадцати. Урок 57. Книга Пророка Михи. \"СЕМЬ ПАСТУХОВ И ВОСЕМЬ ВЛАСТИТЕЛЕЙ\".",
+      "url": "https://www.youtube.com/watch?v=TwMKsDDWeTg"
+    },
+    {
+      "id": "g3eziYt6Brg",
+      "title": "The Book of the Twelve. Lesson 56. The Book of the Prophet Micah. \"...AND THEY SHALL BEAT SWORDS ...",
+      "url": "https://www.youtube.com/watch?v=g3eziYt6Brg"
+    },
+    {
+      "id": "_PUgxYBAr4Q",
+      "title": "Книга Двенадцати. Урок 55. Книга Пророка Михи. О ГЛАВАХ НАРОДА, ПРОРОКАХ И СУДЬЯХ",
+      "url": "https://www.youtube.com/watch?v=_PUgxYBAr4Q"
+    },
+    {
+      "id": "dg4IYTYLz-E",
+      "title": "The Book of the Twelve. Lesson 54. The Book of the Prophet Micah. The Controversy of the Jews wit...",
+      "url": "https://www.youtube.com/watch?v=dg4IYTYLz-E"
+    },
+    {
+      "id": "RUqBtJrOmV4",
+      "title": "The Book of the Twelve. Lesson 53. The Book of the Prophet Micah. New Details of Betrayal",
+      "url": "https://www.youtube.com/watch?v=RUqBtJrOmV4"
+    },
+    {
+      "id": "_5gtQM27nsY",
+      "title": "The Book of the Twelve. Lesson 52. The Book of Micah: The Place of God",
+      "url": "https://www.youtube.com/watch?v=_5gtQM27nsY"
+    },
+    {
+      "id": "9yfHCghbgAQ",
+      "title": "Книга Двенадцати. Урок 51. Книга Пророка Йоны: ДВЕ ПРОСЬБЫ О СМЕРТИ",
+      "url": "https://www.youtube.com/watch?v=9yfHCghbgAQ"
+    },
+    {
+      "id": "C4JEdYi8nic",
+      "title": "Книга Двенадцати. Урок 50. Книга Пророка Йоны: ЛЕГКОВЕРНЫЕ АССИРИЙЦЫ",
+      "url": "https://www.youtube.com/watch?v=C4JEdYi8nic"
+    },
+    {
+      "id": "oa2DmDzUoB8",
+      "title": "The Book of Twelve. Lesson 49. The Book of Jonah: A Prayer from the Abyss",
+      "url": "https://www.youtube.com/watch?v=oa2DmDzUoB8"
+    },
+    {
+      "id": "PPRTy70_qAg",
+      "title": "The Book of Twelve. Lesson 48. The Book of Jonah: In the Womb of the Fish",
+      "url": "https://www.youtube.com/watch?v=PPRTy70_qAg"
+    },
+    {
+      "id": "dT5OnD2iReU",
+      "title": "Книга Двенадцати. Урок 47. Книга Пророка Йоны. ПОБЕГ ОТ БОГА",
+      "url": "https://www.youtube.com/watch?v=dT5OnD2iReU"
+    },
+    {
+      "id": "veGmBowNzoQ",
+      "title": "Книга Двенадцати. Урок 46. Книга Пророка Овадии. ЭСАВ И ЯАКОВ - ИСТОРИЯ НЕНАВИСТИ",
+      "url": "https://www.youtube.com/watch?v=veGmBowNzoQ"
+    },
+    {
+      "id": "YJj4Ex4cyfg",
+      "title": "Книга Двенадцати. Урок 45. Книга Пророка Овадии: УНИЖЕНИЕ ИМПЕРИИ",
+      "url": "https://www.youtube.com/watch?v=YJj4Ex4cyfg"
+    },
+    {
+      "id": "PyilVE9CF50",
+      "title": "Книга Двенадцати. Урок 44. Книга Пророка Амоса, Книга Пророка Овадии: О ПРИХОДЕ МАШИАХА",
+      "url": "https://www.youtube.com/watch?v=PyilVE9CF50"
+    },
+    {
+      "id": "fp1gYzIQ5zc",
+      "title": "Книга Двенадцати. Урок 43. Книга Пророка Амоса: ОСОБЕННОСТИ ИЗБРАННОСТИ",
+      "url": "https://www.youtube.com/watch?v=fp1gYzIQ5zc"
+    },
+    {
+      "id": "jZjXDaAVAWU",
+      "title": "Книга Двенадцати. Урок 42. Книга Пророка Амоса: ЭКОНОМИЧЕСКИЕ ПРЕСТУПЛЕНИЯ",
+      "url": "https://www.youtube.com/watch?v=jZjXDaAVAWU"
+    },
+    {
+      "id": "p62GyANHIvw",
+      "title": "Книга Двенадцати. Урок 41. Книга Пророка Амоса. ДОНОС НА ПРОРОКА",
+      "url": "https://www.youtube.com/watch?v=p62GyANHIvw"
+    },
+    {
+      "id": "HmzLxjijsgo",
+      "title": "Книга Двенадцати. Урок 40. Книга Пророка Амоса. КАК ОТМЕНИТЬ НАКАЗАНИЕ?",
+      "url": "https://www.youtube.com/watch?v=HmzLxjijsgo"
+    },
+    {
+      "id": "BTMFTeuXu_c",
+      "title": "Книга Двенадцати. Урок 39. Книга Пророка Амоса. ЗАПРЕЩЁННЫЕ НАСЛАЖДЕНИЯ",
+      "url": "https://www.youtube.com/watch?v=BTMFTeuXu_c"
+    },
+    {
+      "id": "C-iEcI5Qan8",
+      "title": "Книга Двенадцати. Урок 38. Книга Пророка Амоса. КРИТИКА ЖЕРТВОПРИНОШЕНИЙ",
+      "url": "https://www.youtube.com/watch?v=C-iEcI5Qan8"
+    },
+    {
+      "id": "LNsQ_ZkBUh4",
+      "title": "Книга Двенадцати. Урок 37. Книга Пророка Амоса. ОБМАНУТЫЕ ОЖИДАНИЯ",
+      "url": "https://www.youtube.com/watch?v=LNsQ_ZkBUh4"
+    },
+    {
+      "id": "xb5YIP_-HxM",
+      "title": "Книга Двенадцати. Урок 36. Книга Пророка Амоса. ПРИЧИНЫ НЕМЕДЛЕННОГО НАКАЗАНИЯ",
+      "url": "https://www.youtube.com/watch?v=xb5YIP_-HxM"
+    },
+    {
+      "id": "WEs04_Tpuxg",
+      "title": "Книга Двенадцати. Урок 35. Книга Пророка Амоса. ПЯТЬ ТРУБЛЕНИЙ",
+      "url": "https://www.youtube.com/watch?v=WEs04_Tpuxg"
+    },
+    {
+      "id": "OKEFK7Qnj58",
+      "title": "Книга Двенадцати. Урок 34. Книга Пророка Амоса. РАЗРУШЕНИЕ ИЗНУТРИ",
+      "url": "https://www.youtube.com/watch?v=OKEFK7Qnj58"
+    },
+    {
+      "id": "ul-QRLGMMa8",
+      "title": "Книга Двенадцати. Урок 33. Книга Пророка Амоса. ПРИЧИНЫ И СЛЕДСТВИЯ",
+      "url": "https://www.youtube.com/watch?v=ul-QRLGMMa8"
+    },
+    {
+      "id": "AJIhP7f0mhY",
+      "title": "Книга Двенадцати. Урок 32. Книга Пророка Амоса. ГРЕХ НЕБЛАГОДАРНОСТИ",
+      "url": "https://www.youtube.com/watch?v=AJIhP7f0mhY"
+    },
+    {
+      "id": "CIIcBAzgWHI",
+      "title": "Книга Двенадцати. Урок 31. Книга Пророка Амоса. ТРИ И ЧЕТЫРЕ ПРЕСТУПЛЕНИЯ (окончание)",
+      "url": "https://www.youtube.com/watch?v=CIIcBAzgWHI"
+    },
+    {
+      "id": "QPwYybjyxWc",
+      "title": "Книга Двенадцати. Урок 30. Книга Пророка Амоса. ТРИ И ЧЕТЫРЕ ПРЕСТУПЛЕНИЯ",
+      "url": "https://www.youtube.com/watch?v=QPwYybjyxWc"
+    },
+    {
+      "id": "d1S-hi_2nG0",
+      "title": "The Book of the Twelve. Lesson 29. The Book of the Prophet Yoel. The Messianic Ending of History",
+      "url": "https://www.youtube.com/watch?v=d1S-hi_2nG0"
+    },
+    {
+      "id": "ecplXKdkxGo",
+      "title": "The Book of Twelve. Lesson 28. The Book of Prophet Yoel. The Circumstances of the Last War",
+      "url": "https://www.youtube.com/watch?v=ecplXKdkxGo"
+    },
+    {
+      "id": "tFLIXf27u1A",
+      "title": "Книга Двенадцати. Урок 27. Книга Пророка Йоэля. ЗНАМЕНИЯ ПОСЛЕДНИХ ВРЕМЁН",
+      "url": "https://www.youtube.com/watch?v=tFLIXf27u1A"
+    },
+    {
+      "id": "5ANbIwr-uBk",
+      "title": "Книга Двенадцати. Урок 26. Книга Пророка Йоэля. ЧУДЕСНАЯ ВОЗМОЖНОСТЬ",
+      "url": "https://www.youtube.com/watch?v=5ANbIwr-uBk"
+    },
+    {
+      "id": "33mH1DUGUqE",
+      "title": "Книга Двенадцати. Урок 25. Книга Пророка Йоэля. НАЛЁТ САРАНЧИ - ИЗМЕНЕНИЕ ПРИРОДЫ",
+      "url": "https://www.youtube.com/watch?v=33mH1DUGUqE"
+    },
+    {
+      "id": "cGg1U8QEwHM",
+      "title": "Книга Двенадцати. Урок 24. Книга Пророка Йоэля. НАЛЁТ САРАНЧИ - МОЛИТВА И РАСКАЯНИЕ",
+      "url": "https://www.youtube.com/watch?v=cGg1U8QEwHM"
+    },
+    {
+      "id": "FPPGWxuBXT0",
+      "title": "Книга Двенадцати. Урок 23. Книга Пророка Йоэля. НАЛЁТ САРАНЧИ",
+      "url": "https://www.youtube.com/watch?v=FPPGWxuBXT0"
+    },
+    {
+      "id": "m_J6tCU62fM",
+      "title": "Книга Двенадцати. Урок 22. Книга Пророка Йоэля. ЙОЭЛЬ - НАЧАЛО",
+      "url": "https://www.youtube.com/watch?v=m_J6tCU62fM"
+    },
+    {
+      "id": "aPiovwm_tNU",
+      "title": "Книга Двенадцати. Урок 21. Книга Пророка Ошии. ГЛАВА О РАСКАЯНИИ",
+      "url": "https://www.youtube.com/watch?v=aPiovwm_tNU"
+    },
+    {
+      "id": "UMhtohsaGmI",
+      "title": "Книга Двенадцати. Урок 20. Книга Пророка Ошии. РОДОВЫЕ МУКИ НАРОДА",
+      "url": "https://www.youtube.com/watch?v=UMhtohsaGmI"
+    },
+    {
+      "id": "VEG2-DJOldQ",
+      "title": "Книга Двенадцати. Урок 19. Книга Пророка Ошии. ОТВЕТ НАСМЕШНИКАМ С СЕВЕРА",
+      "url": "https://www.youtube.com/watch?v=VEG2-DJOldQ"
+    },
+    {
+      "id": "ezev8X7z1G4",
+      "title": "Книга Двенадцати. Урок 18. Книга пророка Ошии. НОВЫЕ ЯКОВ И ЭСАВ",
+      "url": "https://www.youtube.com/watch?v=ezev8X7z1G4"
+    },
+    {
+      "id": "kW5EKtRXC00",
+      "title": "Книга Двенадцати. Урок 17. Книга пророка Ошии. СПОР СЕВЕРА И ЮГА",
+      "url": "https://www.youtube.com/watch?v=kW5EKtRXC00"
+    },
+    {
+      "id": "s3SYTzOf9Rs",
+      "title": "Книга Двенадцати. Урок 16. Книга пророка Ошии. ЭКСКУРС В ИСТОРИЮ",
+      "url": "https://www.youtube.com/watch?v=s3SYTzOf9Rs"
+    },
+    {
+      "id": "jMWcvuhLKC0",
+      "title": "Книга Двенадцати. Урок 15. Книга пророка Ошии. КОНЕЦ РЕЛИГИИ СЕВЕРА",
+      "url": "https://www.youtube.com/watch?v=jMWcvuhLKC0"
+    },
+    {
+      "id": "UghrEwkZvoQ",
+      "title": "Книга Двенадцати. Урок 14. Книга пророка Ошии. ЭФРАИМ. ИСТОРИЯ САМОРАЗРУШЕНИЯ",
+      "url": "https://www.youtube.com/watch?v=UghrEwkZvoQ"
+    },
+    {
+      "id": "MSpvUToqBR0",
+      "title": "Книга Двенадцати. Урок 13. Книга пророка Ошии. СТРАШНЫЙ ПРАЗДНИК",
+      "url": "https://www.youtube.com/watch?v=MSpvUToqBR0"
+    },
+    {
+      "id": "TegsKlMANpY",
+      "title": "Книга Двенадцати. Урок 12. Книга пророка Ошии. ПРОДАЖНАЯ ЛЮБОВЬ К ИДОЛАМ",
+      "url": "https://www.youtube.com/watch?v=TegsKlMANpY"
+    },
+    {
+      "id": "WwO33KpRRQ8",
+      "title": "Книга Двенадцати. Урок 11. Книга пророка Ошии. ЕГИПЕТ, МАТЕРИАЛЬНЫЙ МИР И КОРОНА",
+      "url": "https://www.youtube.com/watch?v=WwO33KpRRQ8"
+    },
+    {
+      "id": "mx0CkJKMJnI",
+      "title": "Книга Двенадцати. Урок 10. Книга пророка Ошии. ОБВИНЕНИЕ СЕВЕРНОМУ ЦАРСТВУ",
+      "url": "https://www.youtube.com/watch?v=mx0CkJKMJnI"
+    },
+    {
+      "id": "uFqudgUK-zA",
+      "title": "The Book of the Twelve. Lesson 9. The Book of the Prophet Hoshia. Ephraim and Judah - Punishment ...",
+      "url": "https://www.youtube.com/watch?v=uFqudgUK-zA"
+    },
+    {
+      "id": "IIbQzqvAmj0",
+      "title": "Книга Двенадцати. Урок 8. Книга пророка Ошии. ЭФРАИМ И ЙЕУДА -  НАКАЗАНИЕ И РАСКАЯНИЕ",
+      "url": "https://www.youtube.com/watch?v=IIbQzqvAmj0"
+    },
+    {
+      "id": "NrrIj2s9UyU",
+      "title": "Книга Двенадцати. Урок 7. Книга пророка Ошии. РАСКОЛ И ЕГО ПОСЛЕДСТВИЯ",
+      "url": "https://www.youtube.com/watch?v=NrrIj2s9UyU"
+    },
+    {
+      "id": "CqJaY0xyss8",
+      "title": "Книга Двенадцати. Урок 6. Книга пророка Ошии. РАСПУТСТВО И ИДОЛОПОКЛОНСТВО",
+      "url": "https://www.youtube.com/watch?v=CqJaY0xyss8"
+    },
+    {
+      "id": "e9ZSD_Whquk",
+      "title": "Книга Двенадцати. Урок 5. Книга пророка Ошии. СПОР Б-ГА С МИРОМ",
+      "url": "https://www.youtube.com/watch?v=e9ZSD_Whquk"
+    },
+    {
+      "id": "dFnb-u63VO4",
+      "title": "Книга Двенадцати. Урок 4. Книга Пророка Ошии. ТРИ УСЛОВИЯ СПАСЕНИЯ",
+      "url": "https://www.youtube.com/watch?v=dFnb-u63VO4"
+    },
+    {
+      "id": "5iyxLc-rMP8",
+      "title": "Книга Двенадцати. Урок 3. Книга пророка Ошии - Метафорическая Блудница (продолжение)",
+      "url": "https://www.youtube.com/watch?v=5iyxLc-rMP8"
+    },
+    {
+      "id": "ER0LqCpyito",
+      "title": "Книга Двенадцати. Урок 2. Книга Пророка Ошии: Метафорическая Блудница",
+      "url": "https://www.youtube.com/watch?v=ER0LqCpyito"
+    },
+    {
+      "id": "vrvJZk0cK94",
+      "title": "Книга Двенадцати. Урок 1. Вступление, Книга Пророка Ошии",
+      "url": "https://www.youtube.com/watch?v=vrvJZk0cK94"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "n51K_kO7rJ0",
+      "title": "Новый год и салат \"оливье\" - урок рава Зельмана",
+      "url": "https://www.youtube.com/watch?v=n51K_kO7rJ0",
+      "tags": [
+        "torah",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "hjkmZWi33_I",
+      "title": "Песня-переделка в исполнении Михаила Стрижевского",
+      "url": "https://www.youtube.com/watch?v=hjkmZWi33_I"
+    },
+    {
+      "id": "Zvl9EHvVwNA",
+      "title": "Музыкальная Пауза от наших гостей",
+      "url": "https://www.youtube.com/watch?v=Zvl9EHvVwNA"
+    },
+    {
+      "id": "QxJU3zRQiQA",
+      "title": "Джазовая композиция рава Зельмана в исполнении автора",
+      "url": "https://www.youtube.com/watch?v=QxJU3zRQiQA"
+    },
+    {
+      "id": "V9BN92NQJCg",
+      "title": "Музыкальный анонс Концерта 2 Ноября 2014",
+      "url": "https://www.youtube.com/watch?v=V9BN92NQJCg",
+      "tags": [
+        "show",
+        "youtube-tvd"
+      ]
+    }
+  ]
+}

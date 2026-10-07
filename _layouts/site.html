@@ -28,12 +28,18 @@
     <div class="site-shell">
         {% include site/navigation.html %}
         {% include site/site-header.html %}
-        <div class="site-layout{% if page.schedule_summary or page.media_category %} has-section-nav{% endif %}">
+        <div class="site-layout{% if page.schedule_summary or page.media_category %} has-section-nav{% endif %}{% if page.media_category %} media-layout{% endif %}">
             {% if page.media_category %}
             <aside class="section-nav media-sidebar" aria-label="Рубрики медиатеки">
                 <section class="white-box">
                     <h2 class="section-title">Медиатека</h2>
                     <nav id="media-category-nav" class="media-category-nav" aria-label="Рубрики"></nav>
+                </section>
+                <section class="white-box" aria-labelledby="media-playlists-title" hidden>
+                    <details id="media-rubrics-disclosure" class="media-rubrics-disclosure" open>
+                        <summary id="media-playlists-title" class="section-title">Рубрики</summary>
+                        <nav id="media-playlists" aria-label="Дерево рубрик"></nav>
+                    </details>
                 </section>
                 <!-- Future search filters belong below the categories. -->
             </aside>

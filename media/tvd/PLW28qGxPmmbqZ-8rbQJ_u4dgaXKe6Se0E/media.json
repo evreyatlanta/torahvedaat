@@ -1,0 +1,31 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "torah",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "EsZZI2T_W5U",
+      "title": "Часть 3",
+      "url": "https://www.youtube.com/watch?v=EsZZI2T_W5U"
+    },
+    {
+      "id": "UB5xSa5A0jU",
+      "title": "Часть 2",
+      "url": "https://www.youtube.com/watch?v=UB5xSa5A0jU"
+    },
+    {
+      "id": "ZoYbAepU_H4",
+      "title": "Часть 1",
+      "url": "https://www.youtube.com/watch?v=ZoYbAepU_H4"
+    },
+    {
+      "id": "F6hQ0TsCEEI",
+      "title": "Введение",
+      "url": "https://www.youtube.com/watch?v=F6hQ0TsCEEI"
+    }
+  ]
+}

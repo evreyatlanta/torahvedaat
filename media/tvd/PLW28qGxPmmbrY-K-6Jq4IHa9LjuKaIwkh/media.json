@@ -1,0 +1,58 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "show",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "xXlzUecfA5Q",
+      "title": "Поет Элиягу Бари (У Самовара в Ту-би-Шват)",
+      "url": "https://www.youtube.com/watch?v=xXlzUecfA5Q",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "cUYeJULPABw",
+      "title": "Поет Мордехай Гутерман (У Самовара в Ту-би-Шват)",
+      "url": "https://www.youtube.com/watch?v=cUYeJULPABw",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "Vjh3c6TY3Js",
+      "title": "Поет Михаил Стрижевский (У Самовара в Ту-би-Шват)",
+      "url": "https://www.youtube.com/watch?v=Vjh3c6TY3Js",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "Kq8UT1ehvJo",
+      "title": "Ту би шват, рассказывает рав Исроэль Зельман, ч. 1",
+      "url": "https://www.youtube.com/watch?v=Kq8UT1ehvJo"
+    },
+    {
+      "id": "bWYBZM4YOWk",
+      "title": "Ту би шват, рассказывает рав Исроэль Зельман, ч. 4",
+      "url": "https://www.youtube.com/watch?v=bWYBZM4YOWk"
+    },
+    {
+      "id": "klFQdKIUCb4",
+      "title": "Ту би шват, рассказывает рав Исроэль Зельман, ч. 3",
+      "url": "https://www.youtube.com/watch?v=klFQdKIUCb4"
+    },
+    {
+      "id": "3e1Ise-xQIE",
+      "title": "Ту би шват, рассказывает рав Исроэль Зельман, ч. 2",
+      "url": "https://www.youtube.com/watch?v=3e1Ise-xQIE"
+    }
+  ]
+}

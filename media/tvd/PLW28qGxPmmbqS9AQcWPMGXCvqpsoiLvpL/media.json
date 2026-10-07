@@ -1,0 +1,40 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "FGyFG4rN1os",
+      "title": "Песни на идиш в исполнение р. Зельмана",
+      "url": "https://www.youtube.com/watch?v=FGyFG4rN1os"
+    },
+    {
+      "id": "TgTBr8p_854",
+      "title": "В чем чудо Хануки? - рассказывает р. Исроэль Зельман",
+      "url": "https://www.youtube.com/watch?v=TgTBr8p_854",
+      "tags": [
+        "show",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "0R8pSWqd-7M",
+      "title": "Поёт Михаил Стрижевский (\"Еще не вечер\", муз. В. Высоцкого)",
+      "url": "https://www.youtube.com/watch?v=0R8pSWqd-7M"
+    },
+    {
+      "id": "aQAGx3L_ZFU",
+      "title": "Rabbi Rock, поёт Михаил Стрижевский",
+      "url": "https://www.youtube.com/watch?v=aQAGx3L_ZFU"
+    },
+    {
+      "id": "tSgv5lyrfOU",
+      "title": "Песня про Ицхака-не-Дурака, поёт Михаил Стрижевский",
+      "url": "https://www.youtube.com/watch?v=tSgv5lyrfOU"
+    }
+  ]
+}

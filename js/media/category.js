@@ -1,16 +1,18 @@
 import { readArray } from '../data.js';
-import { element } from '../schedule/elements.js';
 import { loadMediaLibrary } from './data.js';
 import { renderCategoryNavigation } from './navigation.js';
-
-function matchingPlaylists(nodes, tag) {
-    return nodes.flatMap(node => [
-        ...(node.tags.includes(tag) ? [node] : []),
-        ...matchingPlaylists(node.children, tag)
-    ]);
-}
+import { playlistsForTag, findPlaylist, playlistItems, renderPlaylistTree } from './playlists.js';
+import { renderMediaRecords } from './records.js';
 
 const status = document.getElementById('media-status');
+const resultCount = document.getElementById('media-result-count');
+const rubricsDisclosure = document.getElementById('media-rubrics-disclosure');
+const mobileLayout = matchMedia('(max-width: 760px)');
+function updateRubricsLayout() {
+    rubricsDisclosure.open = !mobileLayout.matches;
+}
+updateRubricsLayout();
+mobileLayout.addEventListener('change', updateRubricsLayout);
 try {
     const id = new URLSearchParams(location.search).get('id');
     const [categories, library] = await Promise.all([
@@ -23,33 +25,39 @@ try {
     } else {
         document.getElementById('media-category-title').textContent = category.title;
         document.title = `${category.title} — Евреи Атланты`;
-        const playlists = matchingPlaylists(library.playlists, id);
+        const playlists = playlistsForTag(library.playlists, id);
         const media = library.media.filter(item => (item.tags ?? []).includes(id));
         const playlistTarget = document.getElementById('media-playlists');
-        if (playlists.length) {
-            playlistTarget.append(element('h3', 'Плейлисты'));
-            const list = element('ul');
-            playlists.forEach(item => list.append(element('li', item.title)));
-            playlistTarget.append(list);
-        }
         const records = document.getElementById('media-records');
-        for (const item of media) {
-            const card = element('article', null, 'media-record');
-            if (item.title) card.append(element('h3', item.title));
-            if (item.date) card.append(element('p', item.date));
-            (item.description ?? []).forEach(paragraph => card.append(element('p', paragraph)));
-            const url = new URL(item.url, location.href);
-            if (url.protocol === 'https:' || url.protocol === 'http:') {
-                const link = element('a', 'Открыть материал');
-                link.href = url.href;
-                link.target = '_blank';
-                link.rel = 'noopener noreferrer';
-                card.append(link);
+        function showSelection() {
+            const selectedId = new URLSearchParams(location.search).get('playlist');
+            const selected = findPlaylist(playlists, selectedId);
+            playlistTarget.querySelectorAll('[data-playlist-id]').forEach(link => {
+                if (link.dataset.playlistId === selectedId) link.setAttribute('aria-current', 'true');
+                else link.removeAttribute('aria-current');
+            });
+            if (selected) {
+                const items = playlistItems(selected, media);
+                resultCount.textContent = `Найдено ${items.length}`;
+                renderMediaRecords(records, items, selected.title);
+                status.hidden = items.length > 0;
+                status.textContent = items.length ? '' : 'В этой рубрике пока нет записей.';
+            } else {
+                resultCount.textContent = `Найдено ${selectedId ? 0 : media.length}`;
+                renderMediaRecords(records, selectedId ? [] : media);
+                status.hidden = !selectedId && media.length > 0;
+                status.textContent = selectedId ? 'Рубрика не найдена.'
+                    : 'Материалы этой рубрики пока не добавлены.';
             }
-            records.append(card);
+            resultCount.hidden = false;
         }
-        status.hidden = playlists.length + media.length > 0;
-        status.textContent = status.hidden ? '' : 'Материалы этой рубрики пока не добавлены.';
+        renderPlaylistTree(playlistTarget, playlists, id, library.counts.playlists, (node, url) => {
+            history.pushState(null, '', url);
+            showSelection();
+            window.scrollTo({ top: 0, behavior: 'instant' });
+        });
+        window.addEventListener('popstate', showSelection);
+        showSelection();
     }
 } catch {
     status.textContent = 'Не удалось загрузить медиатеку. Попробуйте обновить страницу.';

@@ -1,0 +1,21 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "-ELn0HjpntY",
+      "title": "поёт Михаил Стрижевский (песня-переделка на \"Городской романс\" В. Высоцкого)",
+      "url": "https://www.youtube.com/watch?v=-ELn0HjpntY"
+    },
+    {
+      "id": "9PIUTWyGZbc",
+      "title": "Песня-переделка про Субботу - поет Михаил Стрижевский",
+      "url": "https://www.youtube.com/watch?v=9PIUTWyGZbc"
+    }
+  ]
+}

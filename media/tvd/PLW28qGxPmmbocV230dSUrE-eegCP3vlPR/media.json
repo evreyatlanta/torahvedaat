@@ -1,0 +1,25 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "music",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "nkSE8fPvBIQ",
+      "title": "Пурим, Юлий Рашковский - песня про талес",
+      "url": "https://www.youtube.com/watch?v=nkSE8fPvBIQ"
+    },
+    {
+      "id": "0xsF5Znl5Ho",
+      "title": "ПУРИМ-ТЕЙРЕ, Юлий Рашковский, \"У раввина звонит телефон\"",
+      "url": "https://www.youtube.com/watch?v=0xsF5Znl5Ho",
+      "tags": [
+        "show",
+        "youtube-tvd"
+      ]
+    }
+  ]
+}

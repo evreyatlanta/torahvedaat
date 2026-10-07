@@ -1,0 +1,103 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "show",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "FZXGM6sUH78",
+      "title": "Сомнамбула, Беллини, ария Эльвино",
+      "url": "https://www.youtube.com/watch?v=FZXGM6sUH78"
+    },
+    {
+      "id": "VzLp48FVuVA",
+      "title": "Гугеноты, Мейербер,",
+      "url": "https://www.youtube.com/watch?v=VzLp48FVuVA"
+    },
+    {
+      "id": "mt14ewZVkfo",
+      "title": "Африканка, Мейербер, ария Васко де Гама",
+      "url": "https://www.youtube.com/watch?v=mt14ewZVkfo"
+    },
+    {
+      "id": "A2wyftwqOTI",
+      "title": "Отелло, Верди, ария Отелло",
+      "url": "https://www.youtube.com/watch?v=A2wyftwqOTI"
+    },
+    {
+      "id": "SghiG0LsnGc",
+      "title": "Кармен, Бизе, ария Хозе - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=SghiG0LsnGc"
+    },
+    {
+      "id": "4jaJKaGyvnc",
+      "title": "Эликсир любви, Доницетти, романс Неморино",
+      "url": "https://www.youtube.com/watch?v=4jaJKaGyvnc",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "WYGqeNOSwLU",
+      "title": "Тоска, Пуччини, ария Каварадосси - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=WYGqeNOSwLU"
+    },
+    {
+      "id": "dxot78FWs5s",
+      "title": "Манон Леско, Пуччини, романс шевалье Де Брийо",
+      "url": "https://www.youtube.com/watch?v=dxot78FWs5s",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "9g0ytTCMT8k",
+      "title": "Риголетто, Верди, Баллада Герцога - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=9g0ytTCMT8k",
+      "tags": [
+        "music",
+        "youtube-tvd"
+      ]
+    },
+    {
+      "id": "0cnZRKQ0KpM",
+      "title": "Паяцы, Леонкавалло, ария Беппо - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=0cnZRKQ0KpM"
+    },
+    {
+      "id": "qRLg6de1Omg",
+      "title": "Паяцы, Леокавалло, ария Канио - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=qRLg6de1Omg"
+    },
+    {
+      "id": "nF11t3IlwHY",
+      "title": "Садко, Римский-Корсаков, Кабы была у меня золота казна",
+      "url": "https://www.youtube.com/watch?v=nF11t3IlwHY"
+    },
+    {
+      "id": "pm60gKM7ipM",
+      "title": "Пуримский Концерт 5771/2011 - Эпилог",
+      "url": "https://www.youtube.com/watch?v=pm60gKM7ipM"
+    },
+    {
+      "id": "oaWB24hI4Mc",
+      "title": "Фауст, А. Бойто, ария Мефистофеля - Пурим 2011",
+      "url": "https://www.youtube.com/watch?v=oaWB24hI4Mc"
+    },
+    {
+      "id": "EXaIQJpYw84",
+      "title": "Пуримский Концерт 5771/2011 - Введение",
+      "url": "https://www.youtube.com/watch?v=EXaIQJpYw84"
+    },
+    {
+      "id": "2Xv9AObelxQ",
+      "title": "Пуримский Концерт 5771/2011 - Трейлер",
+      "url": "https://www.youtube.com/watch?v=2Xv9AObelxQ"
+    }
+  ]
+}

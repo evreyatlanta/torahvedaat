@@ -1,0 +1,26 @@
+{
+  "type": "video",
+  "source": "youtube",
+  "tags": [
+    "other",
+    "youtube-tvd"
+  ],
+  "description": [],
+  "items": [
+    {
+      "id": "h8Rp2joYHxI",
+      "title": "\"ЮЖАНИН НА СЕВЕРЕ\", выпуск третий: \"В НАЧАЛЕ СЛАВНЫХ ДЕЛ\".",
+      "url": "https://www.youtube.com/watch?v=h8Rp2joYHxI"
+    },
+    {
+      "id": "07RXUv_Cqe0",
+      "title": "\"ЮЖАНИН НА СЕВЕРЕ\", выпуск второй: \"КОМУ В АМЕРИКЕ ЖИТЬ ХОРОШО\"",
+      "url": "https://www.youtube.com/watch?v=07RXUv_Cqe0"
+    },
+    {
+      "id": "6alc10v2DN0",
+      "title": "\"ЮЖАНИН НА СЕВЕРЕ\", выпуск первый: \"ПОСЛЕДСТВИЯ ГРАЖДАНСКОЙ ВОЙНЫ\"",
+      "url": "https://www.youtube.com/watch?v=6alc10v2DN0"
+    }
+  ]
+}
