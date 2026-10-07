@@ -202,6 +202,10 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-category-link { display: flex; align-items: center; min-height: 64px; padding: 14px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688B; font-weight: bold; text-decoration: none; }
 .media-category-link:hover { background: #dcecf2; }
 .media-record { padding: 16px 0; border-top: 1px solid #e2eaed; }
+.media-category-nav { display: grid; gap: 6px; }
+.media-category-nav-link { display: flex; align-items: center; min-height: 44px; padding: 8px 10px; box-sizing: border-box; border-radius: 5px; text-decoration: none; color: #00688B; }
+.media-category-nav-link:hover { background: #edf5f8; }
+.media-category-nav-link[aria-current="page"] { background: #dcecf2; color: #004e69; font-weight: bold; }
 .news-heading .section-title { margin: 0 0 8px; }
 .news-demo { color: #666; font-size: 0.8rem; }
 .news-card { padding: 0; overflow: hidden; }

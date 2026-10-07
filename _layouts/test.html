@@ -28,7 +28,16 @@
     <div class="site-shell">
         {% include test/navigation.html %}
         {% include test/site-header.html %}
-        <div class="site-layout{% if page.schedule_summary %} has-section-nav{% endif %}">
+        <div class="site-layout{% if page.schedule_summary or page.media_category %} has-section-nav{% endif %}">
+            {% if page.media_category %}
+            <aside class="section-nav media-sidebar" aria-label="Рубрики медиатеки">
+                <section class="white-box">
+                    <h2 class="section-title">Медиатека</h2>
+                    <nav id="media-category-nav" class="media-category-nav" aria-label="Рубрики"></nav>
+                </section>
+                <!-- Future search filters belong in this sidebar, below the categories. -->
+            </aside>
+            {% endif %}
             {% if page.schedule_summary %}
             <aside class="section-nav schedule-summary" aria-label="{% if page.profile %}Все уроки преподавателя{% else %}Краткое расписание уроков{% endif %}">
                 <section class="white-box">

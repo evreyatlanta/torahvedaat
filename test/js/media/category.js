@@ -1,6 +1,7 @@
 import { readArray } from '../data.js';
 import { element } from '../schedule/elements.js';
 import { loadMediaLibrary } from './data.js';
+import { renderCategoryNavigation } from './navigation.js';
 
 function matchingPlaylists(nodes, tag) {
     return nodes.flatMap(node => [
@@ -16,6 +17,7 @@ try {
         readArray('/test/data/media-categories.js'), loadMediaLibrary()
     ]);
     const category = categories.find(item => item.id === id);
+    renderCategoryNavigation(document.getElementById('media-category-nav'), categories, id);
     if (!category) {
         status.textContent = 'Рубрика не найдена.';
     } else {
