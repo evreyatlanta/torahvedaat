@@ -10,6 +10,7 @@
  * @property {string} id Unique media record ID.
  * @property {string|null} [date] YYYY-MM-DD.
  * @property {string[]} tags
+ * @property {string} [thumbnailUrl] YouTube preview image URL.
  */
 
 /**

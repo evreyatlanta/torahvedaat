@@ -1,4 +1,5 @@
 import { element } from '../schedule/elements.js';
+import { youtubePlayer } from './youtube-player.js';
 
 export function renderMediaRecords(target, items, title) {
     target.replaceChildren();
@@ -7,6 +8,8 @@ export function renderMediaRecords(target, items, title) {
         const card = element('article', null, 'media-record');
         if (item.title) card.append(element('h4', item.title));
         if (item.date) card.append(element('p', item.date));
+        const player = youtubePlayer(item);
+        if (player) card.append(player);
         (item.description ?? []).forEach(paragraph => card.append(element('p', paragraph)));
         try {
             const url = new URL(item.url, location.href);
