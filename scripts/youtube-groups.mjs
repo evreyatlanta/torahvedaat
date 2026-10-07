@@ -74,6 +74,13 @@ export function applyGroupRules(tree, sourcePlaylists, rules, mediaItems, folder
   for (const rule of rules.groups.folders ?? []) {
     assign(rule, (folderMedia.get(rule.folder) || []).map(item => item.id));
   }
+  // Rules define membership; upload order defines the final display order.
+  const uploadOrder = new Map(mediaItems.map((item, index) => [item.id, index]));
+  for (const node of targets.values()) {
+    node.items = [...new Set(node.items || [])].sort((a, b) =>
+      (uploadOrder.get(a) ?? Number.MAX_SAFE_INTEGER) -
+      (uploadOrder.get(b) ?? Number.MAX_SAFE_INTEGER));
+  }
   const counts = [];
   function count(node) {
     const ids = new Set((node.items || []).filter(id => available.has(id)));

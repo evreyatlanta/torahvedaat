@@ -59,3 +59,18 @@ test('Text selectors bind matching videos and all matching playlists instead of 
   assert.deepEqual(result.tree[0].items, ['one', 'three']);
   assert.equal(result.counts[0].count, 2);
 });
+
+test('Upload order overrides rule order, playlist order, and previous generated order', () => {
+  const media = ['newest', 'middle', 'oldest'].map(id => ({ id, title: id, description: [] }));
+  const tree = [{ id: 'root', items: ['oldest', 'newest'], children: [
+    { id: 'nested', items: [], children: [] }
+  ] }];
+  const source = [{ playlist: { id: 'source' }, items: ['oldest', 'middle', 'newest'] }];
+  const rules = { groups: {
+    records: [{ id: 'oldest', playlistIds: ['nested'] }, { id: 'newest', playlistIds: ['nested'] }],
+    playlists: [{ id: 'source', playlistIds: ['root', 'nested'] }]
+  } };
+  const result = applyGroupRules(tree, source, rules, media);
+  assert.deepEqual(result.tree[0].items, ['newest', 'middle', 'oldest']);
+  assert.deepEqual(result.tree[0].children[0].items, ['newest', 'middle', 'oldest']);
+});
