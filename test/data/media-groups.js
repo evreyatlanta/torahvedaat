@@ -2,21 +2,21 @@
   {
     "id": "torah",
     "title": "Уроки Торы",
-    "count": 332
+    "count": 328
   },
   {
     "id": "show",
     "title": "Выступления",
-    "count": 2
+    "count": 0
   },
   {
     "id": "music",
     "title": "Песни",
-    "count": 2
+    "count": 0
   },
   {
     "id": "other",
     "title": "Прочее",
-    "count": 1
+    "count": 0
   }
 ]
