@@ -456,9 +456,9 @@
       {
         "folder": "toravedaat",
         "name": "Законы Обид и Оскорблений",
-        "playlistIds": [
-          "rzelman"
-        ]
+        "create": {
+          "parentId": "halakha"
+        }
       },
       {
         "folder": "toravedaat",

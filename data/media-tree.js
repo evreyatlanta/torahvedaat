@@ -58,6 +58,16 @@
         ],
         "items": [],
         "children": []
+      },
+      {
+        "id": "halakha",
+        "title": "Законы",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": []
       }
     ]
   },
