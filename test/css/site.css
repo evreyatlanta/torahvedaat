@@ -216,6 +216,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-playlist-link:hover { text-decoration: underline; }
 .media-playlist-link[aria-current] { background: #edf5f8; border-radius: 4px; font-weight: bold; }
 .media-record h4 { margin: 0 0 10px; font-size: 1rem; }
+.media-heading { display: flex; align-items: center; justify-content: space-between; gap: 8px 16px; flex-wrap: wrap; }
+.media-heading h2 { margin: 0; font: inherit; color: inherit; }
+.media-heading #media-result-count { font-size: 0.85rem; font-weight: normal; margin-left: auto; white-space: nowrap; }
 .media-sidebar { display: grid; gap: 20px; align-content: start; }
 .media-playlist-tree summary { display: flex; align-items: flex-start; gap: 8px; margin: 0; padding: 0; list-style: none; }
 .media-playlist-tree summary::marker { content: ''; }

@@ -5,6 +5,7 @@ import { playlistsForTag, findPlaylist, playlistItems, renderPlaylistTree } from
 import { renderMediaRecords } from './records.js';
 
 const status = document.getElementById('media-status');
+const resultCount = document.getElementById('media-result-count');
 try {
     const id = new URLSearchParams(location.search).get('id');
     const [categories, library] = await Promise.all([
@@ -30,15 +31,18 @@ try {
             });
             if (selected) {
                 const items = playlistItems(selected, media);
+                resultCount.textContent = `Найдено ${items.length}`;
                 renderMediaRecords(records, items, selected.title);
                 status.hidden = items.length > 0;
                 status.textContent = items.length ? '' : 'В этой рубрике пока нет записей.';
             } else {
+                resultCount.textContent = `Найдено ${selectedId ? 0 : media.length}`;
                 renderMediaRecords(records, selectedId ? [] : media);
                 status.hidden = !selectedId && media.length > 0;
                 status.textContent = selectedId ? 'Рубрика не найдена.'
                     : 'Материалы этой рубрики пока не добавлены.';
             }
+            resultCount.hidden = false;
         }
         renderPlaylistTree(playlistTarget, playlists, id, library.counts.playlists, (node, url) => {
             history.pushState(null, '', url);
