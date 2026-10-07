@@ -1,4 +1,4 @@
-name: Generate media library
+name: Generate production media library
 
 on:
   push:
@@ -7,9 +7,6 @@ on:
       - 'media/**'
       - 'data/media-groups.js'
       - 'data/playlists.js'
-      - 'test/media/**'
-      - 'test/data/media-groups.js'
-      - 'test/data/playlists.js'
       - 'scripts/build-media.mjs'
       - 'scripts/build-media.test.mjs'
       - '.github/workflows/build-media.yml'
@@ -35,16 +32,14 @@ jobs:
           node-version: '22'
       - name: Verify builder
         run: node --test scripts/build-media.test.mjs
-      - name: Generate production and test media libraries
-        run: |
-          node scripts/build-media.mjs
-          node scripts/build-media.mjs test/media test/data/media.js test/data/media-groups.js
+      - name: Generate production media library
+        run: node scripts/build-media.mjs
       - name: Commit generated data
         run: |
-          if ! git diff --quiet -- data/media.js data/media-groups.js data/playlists.js test/data/media.js test/data/media-groups.js test/data/playlists.js; then
+          if ! git diff --quiet -- data/media.js data/media-groups.js data/playlists.js; then
             git config user.name 'github-actions[bot]'
             git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-            git add data/media.js data/media-groups.js data/playlists.js test/data/media.js test/data/media-groups.js test/data/playlists.js
+            git add data/media.js data/media-groups.js data/playlists.js
             git commit -m 'Regenerate media library'
             git push origin HEAD:main
           fi
