@@ -28235,12 +28235,28 @@
       "count": 16
     },
     {
+      "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
+      "count": 89
+    },
+    {
+      "id": "PLW28qGxPmmbqRr04FszzIoXODy4wMkFcQ",
+      "count": 32
+    },
+    {
       "id": "PLW28qGxPmmbqpGGLHFTIek3W4oBIeDmcp",
       "count": 87
     },
     {
+      "id": "PLW28qGxPmmbpF9DzvQw1mFLzVEWdo9iHC",
+      "count": 21
+    },
+    {
+      "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
+      "count": 219
+    },
+    {
       "id": "tanakh",
-      "count": 665
+      "count": 1026
     },
     {
       "id": "rzelman",
