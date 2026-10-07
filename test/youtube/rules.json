@@ -1,18 +1,244 @@
 {
-  "mainTags": ["torah", "show", "music", "other"],
+  "mainTags": [
+    "torah",
+    "show",
+    "music",
+    "other"
+  ],
   "tags": {
     "records": [],
-    "playlists": [],
+    "playlists": [
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии для Субботнего Стола",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Двенадцать \"Малых\" Пророков",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Книга Даниэля",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йирмияу",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Шир hа-Ширим",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Комментарии Ор а-Хаим",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Теhилим",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Законы Обид и Оскорблений",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Коhелет - Полный цикл уроков",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Пятикнижие, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Царей, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Шмуэля, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Судей, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йегошуа, р. Зельман",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Недельная глава по пятницам",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Весь Танах - с начала завоевания Святой Земли",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "р. Калев Крелин - Тора и научно-технический прогресс",
+        "tags": [
+          "torah"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Открытые уроки р. Зельмана",
+        "tags": [
+          "torah",
+          "rzelman"
+        ]
+      }
+    ],
     "folders": [
-      { "folder": "rbari", "tags": ["torah"] }
+      {
+        "folder": "rbari",
+        "tags": [
+          "torah"
+        ]
+      }
     ]
   },
   "groups": {
     "records": [],
-    "playlists": [],
+    "playlists": [
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Пятикнижие, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Царей, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Шмуэля, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Судей, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йегошуа, р. Зельман",
+        "playlistIds": [
+          "rzelman"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Открытые уроки р. Зельмана",
+        "playlistIds": [
+          "rzelman"
+        ]
+      }
+    ],
     "folders": [
-      { "folder": "rbari", "playlistIds": ["rbari"] },
-      { "folder": "toravedaat", "playlistIds": ["toravedaat"] }
+      {
+        "folder": "rbari",
+        "playlistIds": [
+          "rbari"
+        ]
+      },
+      {
+        "folder": "toravedaat",
+        "playlistIds": [
+          "toravedaat"
+        ]
+      }
     ]
   }
 }
