@@ -30,7 +30,7 @@ async function render() {
         if (cards) {
             cards.replaceChildren(...classes.map(lesson => lessonCard(lesson, notesFor(lesson.id))));
         }
-        if (summary) renderSummary(summary, classes, today, SUMMARY_VISIBLE_COUNT);
+        if (summary) renderSummary(summary, classes, { today, visibleCount: SUMMARY_VISIBLE_COUNT });
         if (status) {
             status.textContent = classes.length ? '' : 'Расписание пока не добавлено.';
             status.hidden = classes.length > 0;

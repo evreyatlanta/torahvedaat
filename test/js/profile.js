@@ -1,6 +1,7 @@
 import { loadSchedule } from './schedule/data.js';
-import { todayInAtlanta, lessonsFromToday } from './schedule/dates.js';
-import { element, summaryItem } from './schedule/elements.js';
+import { todayInAtlanta } from './schedule/dates.js';
+import { element } from './schedule/elements.js';
+import { renderSummary } from './schedule/summary.js';
 import { profileContent } from './profile/view.js';
 
 const status = document.getElementById('profile-status');
@@ -20,9 +21,7 @@ async function renderProfile() {
         }
         document.title = `${profile.name} — Евреи Атланты`;
         content.replaceChildren(profileContent(profile));
-        const ownLessons = classes.filter(lesson => lesson.authorId === profile.id);
-        lessons.replaceChildren(...lessonsFromToday(ownLessons, today).map(summaryItem));
-        if (!ownLessons.length) lessons.append(element('li', 'Уроки пока не добавлены.'));
+        renderSummary(lessons, classes, { today, authorId: profile.id });
         status.hidden = true;
     } catch {
         status.textContent = 'Не удалось загрузить профиль. Попробуйте обновить страницу.';

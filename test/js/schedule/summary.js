@@ -23,14 +23,22 @@ function collapseSummary(summary, visibleCount) {
     summary.after(reveal);
 }
 
-export function renderSummary(summary, classes, today, visibleCount) {
-    const ordered = lessonsFromToday(classes, today);
+export function renderSummary(summary, classes, { today, visibleCount = null, authorId = null }) {
+    const previousButton = summary.nextElementSibling;
+    if (previousButton?.classList.contains('schedule-reveal')) previousButton.remove();
+    const selected = authorId ? classes.filter(lesson => lesson.authorId === authorId) : classes;
+    const ordered = lessonsFromToday(selected, today);
+    summary.replaceChildren(...ordered.map(summaryItem));
+    if (!ordered.length) {
+        summary.append(element('li', 'Уроки пока не добавлены.'));
+        return;
+    }
+    if (visibleCount === null) return;
     let previewCount = Math.min(visibleCount, ordered.length);
     // Keep every lesson of the last included day visible.
     while (previewCount > 0 && previewCount < ordered.length
         && ordered[previewCount].days === ordered[previewCount - 1].days) {
         previewCount += 1;
     }
-    summary.replaceChildren(...ordered.map(summaryItem));
     collapseSummary(summary, previewCount);
 }
