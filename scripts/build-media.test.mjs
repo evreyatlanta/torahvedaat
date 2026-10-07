@@ -3,13 +3,41 @@ import assert from 'node:assert/strict';
 import { mkdtemp, mkdir, writeFile, rm } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
-import { buildMedia, updateGroupCounts, addParentPlaylistCounts } from './build-media.mjs';
+import { buildMedia, buildPlaylists, updateGroupCounts, addParentPlaylistCounts } from './build-media.mjs';
 
 async function fixture(t) {
     const directory = await mkdtemp(path.join(tmpdir(), 'evreyatlanta-media-'));
     t.after(() => rm(directory, { recursive: true, force: true }));
     return directory;
 }
+
+test('playlist sources create slash-separated parents independent of folder names', async t => {
+    const directory = await fixture(t);
+    await mkdir(path.join(directory, 'arbitrary', 'nested'), { recursive: true });
+    await writeFile(path.join(directory, 'playlist.json'), JSON.stringify({
+        root: '', items: [{ id: 'torah', title: 'Уроки Торы', tags: ['torah'] }]
+    }));
+    await writeFile(path.join(directory, 'arbitrary', 'nested', 'playlist.json'), JSON.stringify({
+        root: 'torah/rbari', items: [{ id: 'cycle', title: 'Цикл уроков', tags: ['torah', 'rbari'] }]
+    }));
+    const tree = await buildPlaylists(directory);
+    assert.equal(tree.length, 1);
+    assert.equal(tree[0].title, 'Уроки Торы');
+    assert.equal(tree[0].children[0].id, 'rbari');
+    assert.equal(tree[0].children[0].title, 'rbari');
+    assert.equal(tree[0].children[0].children[0].id, 'cycle');
+    assert.deepEqual(tree[0].children[0].children[0].children, []);
+});
+
+test('playlist files merge under shared root; duplicate definitions fail', async t => {
+    const directory = await fixture(t);
+    await mkdir(path.join(directory, 'more'));
+    await writeFile(path.join(directory, 'playlist.json'), JSON.stringify({ root: 'rbari', items: [{ id: 'one', title: 'One' }] }));
+    await writeFile(path.join(directory, 'more', 'playlist.json'), JSON.stringify({ root: 'rbari', items: [{ id: 'two', title: 'Two' }] }));
+    assert.equal((await buildPlaylists(directory))[0].children.length, 2);
+    await writeFile(path.join(directory, 'more', 'playlist.json'), JSON.stringify({ root: 'rbari', items: [{ id: 'one', title: 'Duplicate' }] }));
+    await assert.rejects(buildPlaylists(directory), /duplicate playlist definition one/);
+});
 
 test('parent playlist totals include nested records and deduplicate shared videos', () => {
     const library = {

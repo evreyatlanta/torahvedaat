@@ -2,15 +2,60 @@ import { readdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
 
-async function findLists(directory) {
+async function findLists(directory, sourceName = 'media.json') {
     const entries = await readdir(directory, { withFileTypes: true });
     const files = [];
     for (const entry of entries.sort((a, b) => a.name < b.name ? -1 : a.name > b.name ? 1 : 0)) {
         const filename = path.join(directory, entry.name);
-        if (entry.isDirectory()) files.push(...await findLists(filename));
-        else if (entry.isFile() && entry.name === 'media.json') files.push(filename);
+        if (entry.isDirectory()) files.push(...await findLists(filename, sourceName));
+        else if (entry.isFile() && entry.name === sourceName) files.push(filename);
     }
     return files;
+}
+
+export async function buildPlaylists(directory) {
+    const tree = [];
+    const ids = new Map();
+    const definitions = new Set();
+    for (const filename of await findLists(directory, 'playlist.json')) {
+        let source;
+        try { source = JSON.parse((await readFile(filename, 'utf8')).replace(/^\uFEFF/, '')); }
+        catch (error) { throw new Error(`${filename}: ${error.message}`); }
+        if (!source || typeof source.root !== 'string' || !Array.isArray(source.items)) {
+            throw new Error(`${filename}: expected root string and items array`);
+        }
+        const fragments = source.root === '' ? [] : source.root.split('/');
+        if (fragments.some(id => !id.trim())) throw new Error(`${filename}: empty root path fragment`);
+        let children = tree;
+        for (const id of fragments) {
+            let node = children.find(node => node.id === id);
+            if (!node) {
+                if (ids.has(id)) throw new Error(`${filename}: playlist id ${id} already belongs to another parent`);
+                node = { id, title: id, tags: [], children: [] };
+                children.push(node);
+                ids.set(id, node);
+            }
+            children = node.children;
+        }
+        for (const item of source.items) {
+            if (!item || typeof item.id !== 'string' || !item.id || typeof item.title !== 'string'
+                || (item.children && (!Array.isArray(item.children) || item.children.length))) {
+                throw new Error(`${filename}: items must be flat playlist descriptions with id and title`);
+            }
+            if (definitions.has(item.id)) throw new Error(`${filename}: duplicate playlist definition ${item.id}`);
+            let node = children.find(node => node.id === item.id);
+            if (!node && ids.has(item.id)) throw new Error(`${filename}: playlist id ${item.id} already belongs to another parent`);
+            if (!node) {
+                node = { id: item.id, children: [] };
+                children.push(node);
+                ids.set(item.id, node);
+            }
+            const existingChildren = node.children;
+            Object.assign(node, { tags: [], ...item, children: existingChildren });
+            definitions.add(item.id);
+        }
+    }
+    return tree;
 }
 
 function counts(items, field, key) {
@@ -81,16 +126,18 @@ export function addParentPlaylistCounts(library, nodes) {
 
 if (process.argv[1] && import.meta.url === pathToFileURL(path.resolve(process.argv[1])).href) {
     try {
-        const result = await buildMedia(process.argv[2] ?? 'media');
+        const directory = process.argv[2] ?? 'media';
+        const result = await buildMedia(directory);
         const groupsPath = process.argv[4] ?? 'data/media-groups.js';
         const playlistsPath = path.join(path.dirname(groupsPath), 'playlists.js');
-        const playlists = JSON.parse((await readFile(playlistsPath, 'utf8')).replace(/^\uFEFF/, ''));
+        const playlists = await buildPlaylists(directory);
         addParentPlaylistCounts(result, playlists);
         const groups = JSON.parse((await readFile(groupsPath, 'utf8')).replace(/^\uFEFF/, ''));
         const updatedGroups = updateGroupCounts(groups, result.tags);
         await writeFile(process.argv[3] ?? 'data/media.js', `${JSON.stringify(result, null, 2)}\n`);
         await writeFile(groupsPath, `${JSON.stringify(updatedGroups, null, 2)}\n`);
-        console.log(`Generated media.js and media-groups.js: ${result.items.length} items`);
+        await writeFile(playlistsPath, `${JSON.stringify(playlists, null, 2)}\n`);
+        console.log(`Generated media.js, playlists.js and media-groups.js: ${result.items.length} items`);
     } catch (error) {
         console.error(error.message);
         process.exitCode = 1;
