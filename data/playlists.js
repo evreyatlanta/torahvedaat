@@ -4960,6 +4960,23 @@
       "ZoYbAepU_H4",
       "F6hQ0TsCEEI"
     ],
-    "children": []
+    "children": [
+      {
+        "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
+        "title": "р. Калев Крелин - Тора и научно-технический прогресс",
+        "tags": [
+          "torah",
+          "rkrelin",
+          "toravedaat"
+        ],
+        "items": [
+          "EsZZI2T_W5U",
+          "UB5xSa5A0jU",
+          "ZoYbAepU_H4",
+          "F6hQ0TsCEEI"
+        ],
+        "children": []
+      }
+    ]
   }
 ]
