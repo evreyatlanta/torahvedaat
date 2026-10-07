@@ -1829,8 +1829,8 @@
     "items": [],
     "children": [
       {
-        "id": "tanakh",
-        "title": "Танах",
+        "id": "torah-books",
+        "title": "Тора",
         "tags": [
           "torah",
           "rzelman"
@@ -1965,7 +1965,18 @@
               "H_Hf5h9mNRQ"
             ],
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "neviim",
+        "title": "Пророки",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": [
           {
             "id": "PLW28qGxPmmbrVadWGW1IaXKAUYKKB_Ct3",
             "title": "Книга Йегошуа",
@@ -2688,7 +2699,18 @@
               "vrvJZk0cK94"
             ],
             "children": []
-          },
+          }
+        ]
+      },
+      {
+        "id": "ketuvim",
+        "title": "Писания",
+        "tags": [
+          "torah",
+          "rzelman"
+        ],
+        "items": [],
+        "children": [
           {
             "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
             "title": "Теhилим",
