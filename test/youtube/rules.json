@@ -345,34 +345,10 @@
       },
       {
         "folder": "toravedaat",
-        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "name": "Танах, Книга Йегошуа, р. Зельман",
         "create": {
           "parentId": "tanakh",
-          "name": "Книга Йешаяhу"
-        }
-      },
-      {
-        "folder": "toravedaat",
-        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
-        "create": {
-          "parentId": "tanakh",
-          "name": "Книга Притчей Царя Соломона"
-        }
-      },
-      {
-        "folder": "toravedaat",
-        "name": "Танах, Книга Царей, р. Зельман",
-        "create": {
-          "parentId": "tanakh",
-          "name": "Книга Царей"
-        }
-      },
-      {
-        "folder": "toravedaat",
-        "name": "Танах, Книга Шмуэля, р. Зельман",
-        "create": {
-          "parentId": "tanakh",
-          "name": "Книга Шмуэля"
+          "name": "Книга Йегошуа"
         }
       },
       {
@@ -385,10 +361,34 @@
       },
       {
         "folder": "toravedaat",
-        "name": "Танах, Книга Йегошуа, р. Зельман",
+        "name": "Танах, Книга Шмуэля, р. Зельман",
         "create": {
           "parentId": "tanakh",
-          "name": "Книга Йегошуа"
+          "name": "Книга Шмуэля"
+        }
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Царей, р. Зельман",
+        "create": {
+          "parentId": "tanakh",
+          "name": "Книга Царей"
+        }
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йешаяhу, р. Зельман",
+        "create": {
+          "parentId": "tanakh",
+          "name": "Книга Йешаяhу"
+        }
+      },
+      {
+        "folder": "toravedaat",
+        "name": "Танах, Книга Йирмияу",
+        "create": {
+          "parentId": "tanakh",
+          "name": "Книга Йирмияу"
         }
       },
       {
@@ -416,18 +416,18 @@
       },
       {
         "folder": "toravedaat",
-        "name": "Книга Даниэля",
+        "name": "Теhилим",
         "create": {
           "parentId": "tanakh",
-          "name": "Книга Даниэля"
+          "name": "Теhилим"
         }
       },
       {
         "folder": "toravedaat",
-        "name": "Танах, Книга Йирмияу",
+        "name": "Танах, Книга Притчей Царя Соломона, р. Зельман",
         "create": {
           "parentId": "tanakh",
-          "name": "Книга Йирмияу"
+          "name": "Книга Притчей Царя Соломона"
         }
       },
       {
@@ -447,10 +447,10 @@
       },
       {
         "folder": "toravedaat",
-        "name": "Теhилим",
+        "name": "Коhелет - Полный цикл уроков",
         "create": {
           "parentId": "tanakh",
-          "name": "Теhилим"
+          "name": "Коhелет"
         }
       },
       {
@@ -462,10 +462,10 @@
       },
       {
         "folder": "toravedaat",
-        "name": "Коhелет - Полный цикл уроков",
+        "name": "Книга Даниэля",
         "create": {
           "parentId": "tanakh",
-          "name": "Коhелет"
+          "name": "Книга Даниэля"
         }
       },
       {
