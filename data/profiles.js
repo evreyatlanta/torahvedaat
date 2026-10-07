@@ -7,7 +7,7 @@
     "description": null,
     "image": null,
     "imageAlt": null,
-    "email": "jewcenter@mail.ru",
+    "email": "izrail5774@gmail.com",
     "phone": null,
     "youtubeUrl": null,
     "youtubeTitle": null,
