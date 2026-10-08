@@ -15,11 +15,11 @@ test('Shows all memberships, positions and neighbors with unique parent counts',
     assert.equal(one.path, 'Root → One');
     assert.equal(one.count, 3);
     assert.equal(one.position, 2);
-    assert.equal(one.previous.id, 'new');
-    assert.equal(one.next.id, 'old');
+    assert.equal(one.previous.id, 'old');
+    assert.equal(one.next.id, 'new');
     assert.equal(memberships.find(item => item.id === 'root').count, 3);
-    assert.equal(index.forVideo('new').find(item => item.id === 'one').previous, null);
-    assert.equal(index.forVideo('old').find(item => item.id === 'one').next, null);
+    assert.equal(index.forVideo('new').find(item => item.id === 'one').next, null);
+    assert.equal(index.forVideo('old').find(item => item.id === 'one').previous, null);
     assert.deepEqual(index.forVideo('absent'), []);
 });
 
