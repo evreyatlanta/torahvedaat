@@ -292,18 +292,33 @@ export class VideoPlayerPanel {
             if (!matches.length) this.playlistsContent.append(element('p', 'Это видео не входит в плейлисты сайта.'));
             for (const playlist of matches) {
                 const row = element('section', null, 'video-playlist-choice');
-                const previous = button('←', () => this.playVideo(playlist.previous), 'video-playlist-arrow');
-                const next = button('→', () => this.playVideo(playlist.next), 'video-playlist-arrow');
-                for (const [control, label, item] of [[previous, 'Предыдущее', playlist.previous], [next, 'Следующее', playlist.next]]) {
-                    control.disabled = !item;
-                    control.title = item ? label + ': ' + (item.title || 'Видео') : label + ' видео отсутствует';
-                    control.setAttribute('aria-label', control.title);
-                }
+                const ids = catalog.playlists.get(playlist.id).items;
+                let position = ids.indexOf(videoId);
+                const previous = button('←', () => { position--; update(); }, 'video-playlist-arrow');
+                const next = button('→', () => { position++; update(); }, 'video-playlist-arrow');
                 const info = element('div', null, 'video-playlist-info');
                 const title = element('h3', playlist.title);
                 title.title = playlist.path;
-                info.append(title, element('span', 'Видео ' + playlist.position + ' из ' + playlist.count, 'media-history-note'));
-                row.append(previous, info, next);
+                const videoTitle = element('p', null, 'video-playlist-preview-title');
+                const counter = element('span', null, 'media-history-note');
+                const choose = button('Выбрать и проиграть', () => this.playVideo(catalog.media.get(ids[position])),
+                    'video-panel-button video-playlist-choose');
+                info.append(title, videoTitle, counter);
+                row.append(previous, info, next, choose);
+                function update() {
+                    const item = catalog.media.get(ids[position]);
+                    videoTitle.textContent = item.title || 'Видео без названия';
+                    counter.textContent = 'Видео ' + (position + 1) + ' из ' + ids.length;
+                    for (const [control, label, neighbor] of [
+                        [previous, 'Предыдущее', position > 0 ? catalog.media.get(ids[position - 1]) : null],
+                        [next, 'Следующее', position + 1 < ids.length ? catalog.media.get(ids[position + 1]) : null]
+                    ]) {
+                        control.disabled = !neighbor;
+                        control.title = neighbor ? label + ': ' + (neighbor.title || 'Видео') : label + ' видео отсутствует';
+                        control.setAttribute('aria-label', control.title);
+                    }
+                }
+                update();
                 this.playlistsContent.append(row);
             }
         } catch {
