@@ -335,3 +335,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-player-launch { min-height: 44px; padding: 8px 12px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688b; font: inherit; cursor: pointer; }
 .media-player-launch:hover { background: #dcecf2; }
 .media-player-launch-panel { width: 100%; margin-top: 12px; text-align: left; }
+
+.video-panel-search { padding: 10px 12px; border-bottom: 1px solid #e2eaed; }
+.video-panel-search label { display: block; font-size: 0.9rem; margin-bottom: 6px; }
+.video-panel-search-controls { display: flex; gap: 8px; align-items: center; }
+.video-panel-search input { flex: 1; min-width: 0; width: 100%; min-height: 44px; padding: 8px 10px; border: 1px solid #bfd4df; border-radius: 5px; box-sizing: border-box; font: inherit; }
+.video-panel-result-heading { margin: 14px 0 6px; font-size: 1rem; color: #00688b; }

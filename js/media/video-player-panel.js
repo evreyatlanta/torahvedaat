@@ -2,6 +2,9 @@ import { videoHistory, playbackTime } from './video-history.js';
 import { trackYoutubePlayer, pauseHistoryVideos, stopHistoryVideo } from './youtube-history-player.js';
 import { VideoPlaylistIndex } from './playlist-index.js';
 
+const SEARCH_PAGE_SIZE = 20;
+const SEARCH_DELAY_MS = 250;
+
 function element(tag, text, className) {
     const node = document.createElement(tag);
     if (text) node.textContent = text;
@@ -21,18 +24,44 @@ export class VideoPlayerPanel {
         this.dataRoot = dataRoot;
         this.currentId = null;
         this.catalogPromise = null;
+        this.searchVersion = 0;
+        this.searchLimit = SEARCH_PAGE_SIZE;
+        this.browsingPlaylist = null;
         this.panel = element('dialog', null, 'video-player-panel');
         this.panel.setAttribute('aria-labelledby', 'video-player-panel-title');
         const heading = element('div', null, 'video-player-panel-heading');
         const title = element('h2', 'Плеер уроков');
         title.id = 'video-player-panel-title';
         heading.append(title, button('Закрыть', () => this.panel.close(), 'video-panel-button'));
+        const searchArea = element('div', null, 'video-panel-search');
+        const searchLabel = element('label', 'Поиск видео и плейлистов');
+        searchLabel.htmlFor = 'video-panel-search-input';
+        const searchControls = element('div', null, 'video-panel-search-controls');
+        this.searchInput = document.createElement('input');
+        this.searchInput.type = 'search';
+        this.searchInput.id = 'video-panel-search-input';
+        this.searchInput.placeholder = 'Введите название';
+        this.searchInput.autocomplete = 'off';
+        this.clearSearch = button('×', () => this.resetSearch(), 'video-panel-button');
+        this.clearSearch.setAttribute('aria-label', 'Очистить поиск');
+        this.clearSearch.hidden = true;
+        searchControls.append(this.searchInput, this.clearSearch);
+        searchArea.append(searchLabel, searchControls);
+        this.searchInput.addEventListener('input', () => {
+            clearTimeout(this.searchTimer);
+            this.searchVersion++;
+            this.browsingPlaylist = null;
+            this.searchLimit = SEARCH_PAGE_SIZE;
+            this.clearSearch.hidden = !this.searchInput.value.trim();
+            if (!this.searchInput.value.trim()) { this.resetSearch(false); return; }
+            this.searchTimer = setTimeout(() => this.performSearch(), SEARCH_DELAY_MS);
+        });
         this.list = element('div', null, 'video-player-panel-list');
         this.playingTitle = element('p', 'Выберите видео из истории.', 'video-player-current-title');
         this.playerHost = element('div', null, 'video-player-panel-screen');
         const footer = element('div', null, 'video-player-panel-footer');
         footer.append(this.playingTitle, this.playerHost);
-        this.panel.append(heading, this.list, footer);
+        this.panel.append(heading, searchArea, this.list, footer);
         this.playlistsWindow = element('dialog', null, 'video-playlists-window');
         this.playlistsWindow.setAttribute('aria-labelledby', 'video-playlists-window-title');
         const playlistsHeading = element('div', null, 'video-player-panel-heading');
@@ -43,6 +72,8 @@ export class VideoPlayerPanel {
         this.playlistsWindow.append(playlistsHeading, this.playlistsContent);
         document.body.append(this.panel, this.playlistsWindow);
         this.panel.addEventListener('close', () => {
+            clearTimeout(this.searchTimer);
+            this.searchVersion++;
             if (this.currentId) pauseHistoryVideos();
             this.playerHost.replaceChildren();
             this.currentId = null;
@@ -67,10 +98,12 @@ export class VideoPlayerPanel {
         if (!this.panel.open) {
             this.returnFocus = document.activeElement;
             this.panel.show();
+            if (this.searchInput.value.trim() && !this.browsingPlaylist) this.performSearch();
         }
     }
 
     renderHistory() {
+        if (this.searchInput.value.trim() || this.browsingPlaylist) return;
         const focused = document.activeElement?.dataset;
         const focusId = focused?.videoId;
         const focusAction = focused?.action;
@@ -102,6 +135,89 @@ export class VideoPlayerPanel {
             [...this.list.querySelectorAll('button')].find(node => node.dataset.videoId === focusId &&
                 node.dataset.action === focusAction)?.focus({ preventScroll: true });
         }
+    }
+
+    resetSearch(focus = true) {
+        clearTimeout(this.searchTimer);
+        this.searchVersion++;
+        this.searchInput.value = '';
+        this.clearSearch.hidden = true;
+        this.browsingPlaylist = null;
+        this.renderHistory();
+        this.list.scrollTop = 0;
+        if (focus) this.searchInput.focus();
+    }
+
+    videoResult(item) {
+        const row = element('article', null, 'video-player-history-row');
+        if (item.id === this.currentId) row.classList.add('is-playing');
+        if (item.date) row.append(element('time', item.date, 'media-history-note'));
+        row.append(element('h3', item.title || 'Видео без названия'));
+        const saved = this.history.get(item.id);
+        if (saved?.position && !saved.completed) row.append(element('p',
+            `Продолжить с ${playbackTime(saved.position)}`, 'media-history-note'));
+        const actions = element('div', null, 'video-panel-actions');
+        const play = button('▶ Play', () => this.playVideo(item), 'video-panel-button');
+        play.setAttribute('aria-label', `Проиграть: ${item.title || 'Видео'}`);
+        actions.append(play, button('Плейлисты', () => this.showPlaylists(item.id), 'video-panel-button'));
+        row.append(actions);
+        return row;
+    }
+
+    async performSearch() {
+        const query = this.searchInput.value.trim();
+        if (!query) { this.resetSearch(false); return; }
+        const version = ++this.searchVersion;
+        this.browsingPlaylist = null;
+        this.list.replaceChildren(element('p', 'Поиск…'));
+        try {
+            const catalog = await this.catalog();
+            if (version !== this.searchVersion || !this.panel.open) return;
+            const result = catalog.search(query, this.searchLimit);
+            this.list.replaceChildren();
+            const status = element('p', `Найдено: ${result.playlistCount} плейлистов, ${result.videoCount} видео.`, 'media-history-note');
+            status.setAttribute('role', 'status');
+            this.list.append(status);
+            if (!result.playlistCount && !result.videoCount) this.list.append(element('p', 'Ничего не найдено. Попробуйте другое название.'));
+            if (result.playlistCount) {
+                this.list.append(element('h3', 'Плейлисты', 'video-panel-result-heading'));
+                for (const playlist of result.playlists) {
+                    const row = element('article', null, 'video-player-history-row');
+                    row.append(button(`${playlist.title} (${playlist.count})`, () => this.showSearchPlaylist(playlist, catalog), 'video-playlist-neighbor'),
+                        element('p', playlist.path, 'media-history-note'));
+                    this.list.append(row);
+                }
+            }
+            if (result.videoCount) {
+                this.list.append(element('h3', 'Видео', 'video-panel-result-heading'));
+                for (const item of result.videos) this.list.append(this.videoResult(item));
+            }
+            if (result.videoCount > result.videos.length || result.playlistCount > result.playlists.length) {
+                this.list.append(button('Показать ещё результаты', () => {
+                    this.searchLimit += SEARCH_PAGE_SIZE;
+                    this.performSearch();
+                }, 'video-panel-button'));
+            }
+            this.list.scrollTop = 0;
+        } catch {
+            if (version === this.searchVersion) this.list.replaceChildren(element('p', 'Не удалось выполнить поиск.'),
+                button('Попробовать снова', () => this.performSearch(), 'video-panel-button'));
+        }
+    }
+
+    showSearchPlaylist(playlist, catalog, limit = SEARCH_PAGE_SIZE) {
+        this.searchVersion++;
+        this.browsingPlaylist = playlist.id;
+        this.list.replaceChildren(button('← Назад к результатам', () => this.performSearch(), 'video-panel-button'),
+            element('h3', `${playlist.title} (${playlist.count})`, 'video-panel-result-heading'),
+            element('p', playlist.path, 'media-history-note'));
+        const items = playlist.items.map(id => catalog.media.get(id))
+            .filter(item => item?.source === 'youtube' && item.type === 'video');
+        if (!items.length) this.list.append(element('p', 'В этом плейлисте пока нет видео.'));
+        for (const item of items.slice(0, limit)) this.list.append(this.videoResult(item));
+        if (items.length > limit) this.list.append(button('Показать ещё видео', () =>
+            this.showSearchPlaylist(playlist, catalog, limit + SEARCH_PAGE_SIZE), 'video-panel-button'));
+        this.list.scrollTop = 0;
     }
 
     playVideo(item) {

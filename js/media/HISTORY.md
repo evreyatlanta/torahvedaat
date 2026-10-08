@@ -32,3 +32,10 @@ Opening the playlist window pauses playback; selecting a neighbor closes that
 window and starts playback in the visible main panel. Browser page navigation
 still reloads the page; history persists, continuous playback between pages does
 not. Test navigation keeps using its own history and data.
+
+The same panel supports title search for YouTube videos and playlists. Search
+is debounced by 250 ms and loads the catalogue only on its first use. Matching
+ignores case and treats Russian ё/е equally, requiring all typed words. Each
+result group initially displays 20 entries with a Show More control. A playlist
+result opens its ordered video list, with Play controls. Clearing the search
+returns to history. Playback updates do not replace active search results.

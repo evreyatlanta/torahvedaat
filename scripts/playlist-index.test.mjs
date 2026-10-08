@@ -22,3 +22,20 @@ test('Shows all memberships, positions and neighbors with unique parent counts',
     assert.equal(index.forVideo('old').find(item => item.id === 'one').next, null);
     assert.deepEqual(index.forVideo('absent'), []);
 });
+
+test('Search matches title words without case or ё distinction, returns capped results and full totals', () => {
+    const items = Array.from({ length: 25 }, (_, index) => ({
+        id: String(index), title: `Урок: ПОЁТ Бари ${index}`, source: 'youtube', type: 'video'
+    }));
+    items.push({ id: 'audio', title: 'Поёт Бари', source: 's3', type: 'audio' });
+    const tree = [{ id: 'course', title: 'Уроки БАРИ', items: items.map(item => item.id), children: [] }];
+    const index = new VideoPlaylistIndex(items, tree);
+    const result = index.search('поет бари', 20);
+    assert.equal(result.videoCount, 25);
+    assert.equal(result.videos.length, 20);
+    assert.equal(result.playlistCount, 0);
+    assert.equal(index.search('бари уроки').playlists[0].id, 'course');
+    assert.equal(index.search('unknown').videoCount, 0);
+    assert.deepEqual(index.search('   '), { videos: [], playlists: [], videoCount: 0, playlistCount: 0 });
+    assert.equal(index.playlists.get('course').items[0], '0');
+});
