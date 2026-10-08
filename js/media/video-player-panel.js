@@ -60,7 +60,9 @@ export class VideoPlayerPanel {
         this.playingTitle = element('p', 'Выберите видео из истории.', 'video-player-current-title');
         this.playerHost = element('div', null, 'video-player-panel-screen');
         const footer = element('div', null, 'video-player-panel-footer');
-        footer.append(this.playingTitle, this.playerHost);
+        this.currentPlaylists = button('Плейлисты', () => this.showPlaylists(this.currentId), 'video-panel-button video-current-playlists');
+        this.currentPlaylists.hidden = true;
+        footer.append(this.playingTitle, this.currentPlaylists, this.playerHost);
         this.panel.append(heading, searchArea, this.list, footer);
         this.playlistsWindow = element('dialog', null, 'video-playlists-window');
         this.playlistsWindow.setAttribute('aria-labelledby', 'video-playlists-window-title');
@@ -77,6 +79,7 @@ export class VideoPlayerPanel {
             if (this.currentId) pauseHistoryVideos();
             this.playerHost.replaceChildren();
             this.currentId = null;
+            this.currentPlaylists.hidden = true;
             this.playingTitle.textContent = 'Выберите видео из истории.';
             if (this.playlistsWindow.open) this.playlistsWindow.close();
             this.returnFocus?.focus({ preventScroll: true });
@@ -117,17 +120,15 @@ export class VideoPlayerPanel {
             const metadata = element('div', null, 'video-panel-row-meta');
             metadata.append(element('time', new Date(entry.lastPlayedAt).toLocaleString('ru-RU')),
                 element('span', entry.completed ? 'Просмотрено' : playbackTime(entry.position)));
-            row.append(element('h3', entry.title), metadata);
+            const item = { id: entry.videoId, title: entry.title, thumbnailUrl: entry.thumbnailUrl, source: 'youtube', type: 'video' };
+            row.append(this.videoTitle(item), metadata);
             const actions = element('div', null, 'video-panel-actions');
             const play = button('▶', () => this.playVideo({ id: entry.videoId, title: entry.title,
                 thumbnailUrl: entry.thumbnailUrl, source: 'youtube', type: 'video' }), 'video-panel-button');
             play.setAttribute('aria-label', `Проиграть: ${entry.title}`);
-            const lists = button('Плейлисты', () => this.showPlaylists(entry.videoId), 'video-panel-button');
-            for (const [node, action] of [[play, 'play'], [lists, 'playlists']]) {
-                node.dataset.videoId = entry.videoId;
-                node.dataset.action = action;
-            }
-            actions.append(play, lists);
+            play.dataset.videoId = entry.videoId;
+            play.dataset.action = 'play';
+            actions.append(play);
             row.append(actions);
             this.list.append(row);
         }
@@ -149,18 +150,27 @@ export class VideoPlayerPanel {
         if (focus) this.searchInput.focus();
     }
 
+    videoTitle(item) {
+        const heading = element('h3');
+        const title = button(item.title || 'Видео без названия', () => this.playVideo(item, false), 'video-panel-title-button');
+        title.dataset.videoId = item.id;
+        title.dataset.action = 'select';
+        heading.append(title);
+        return heading;
+    }
+
     videoResult(item) {
         const row = element('article', null, 'video-player-history-row');
         if (item.id === this.currentId) row.classList.add('is-playing');
         if (item.date) row.append(element('time', item.date, 'media-history-note'));
-        row.append(element('h3', item.title || 'Видео без названия'));
+        row.append(this.videoTitle(item));
         const saved = this.history.get(item.id);
         if (saved?.position && !saved.completed) row.append(element('p',
             `Продолжить с ${playbackTime(saved.position)}`, 'media-history-note'));
         const actions = element('div', null, 'video-panel-actions');
         const play = button('▶', () => this.playVideo(item), 'video-panel-button');
         play.setAttribute('aria-label', `Проиграть: ${item.title || 'Видео'}`);
-        actions.append(play, button('Плейлисты', () => this.showPlaylists(item.id), 'video-panel-button'));
+        actions.append(play);
         row.append(actions);
         return row;
     }
@@ -221,19 +231,27 @@ export class VideoPlayerPanel {
         this.list.scrollTop = 0;
     }
 
-    playVideo(item) {
+    playVideo(item, autoplay = true) {
         if (!/^[\w-]{11}$/.test(item.id || '')) return;
         if (this.currentId) stopHistoryVideo(this.currentId);
         const saved = this.history.get(item.id);
         const position = saved && !saved.completed ? saved.position : 0;
-        this.history.save(item, { position, duration: saved?.duration || 0 });
+        if (autoplay) this.history.save(item, { position, duration: saved?.duration || 0 });
         this.currentId = item.id;
         this.open();
         this.list.scrollTop = 0;
         if (this.playlistsWindow.open) this.playlistsWindow.close();
         this.playingTitle.textContent = item.title || 'Видео';
+        this.currentPlaylists.hidden = true;
+        this.catalog().then(catalog => {
+            if (this.currentId === item.id && this.panel.open)
+                this.currentPlaylists.hidden = catalog.forVideo(item.id).length === 0;
+        }).catch(() => {});
+        this.list.querySelectorAll('.video-player-history-row').forEach(row => {
+            row.classList.toggle('is-playing', row.querySelector('[data-action="select"]')?.dataset.videoId === item.id);
+        });
         const frame = document.createElement('iframe');
-        const parameters = new URLSearchParams({ autoplay: '1', playsinline: '1', enablejsapi: '1',
+        const parameters = new URLSearchParams({ autoplay: autoplay ? '1' : '0', playsinline: '1', enablejsapi: '1',
             origin: location.origin, start: String(Math.floor(position)) });
         frame.src = `https://www.youtube-nocookie.com/embed/${item.id}?${parameters}`;
         frame.title = item.title || 'YouTube видео';

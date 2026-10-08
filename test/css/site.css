@@ -387,3 +387,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
  .media-mobile-menu .media-playlist-link { min-height: 44px; }
  .media-mobile-menu .media-playlist-tree .media-playlist-tree { margin-left: 6px; padding-left: 8px; }
 }
+
+.video-panel-title-button { display: block; width: 100%; border: 0; padding: 0; background: transparent; color: #00688b; text-align: left; font: inherit; cursor: pointer; overflow-wrap: anywhere; }
+.video-panel-title-button:hover { text-decoration: underline; }
+.video-current-playlists { margin-bottom: 8px; min-height: 32px; padding: 4px 8px; font-size: .8rem; }
+.video-current-playlists[hidden] { display: none; }
