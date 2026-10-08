@@ -391,3 +391,6 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 
 .video-playlist-preview-title { margin: 4px 0; font-size: .85rem; line-height: 1.35; color: #173441; }
 .video-playlist-choose { grid-column: 2; justify-self: start; min-height: 36px; padding: 5px 8px; font-size: .8rem; }
+
+.site-build-link { display: inline-flex; align-items: center; min-height: 44px; margin-left: 10px; color: #777; font-size: .7rem; text-decoration: none; }
+.site-build-link:hover { color: #00688b; text-decoration: underline; }
