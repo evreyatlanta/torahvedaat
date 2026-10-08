@@ -45,13 +45,27 @@ export function renderPlaylistTree(target, nodes, categoryId, counts, onSelect) 
                 event.stopPropagation();
                 const branch = li.querySelector(':scope > details');
                 const scrollToTop = !branch || branch.open;
-                if (branch) branch.open = true;
+                if (branch && !matchMedia('(max-width: 760px)').matches) branch.open = true;
                 onSelect(node, link.href, scrollToTop);
             });
             if (node.children.length) {
                 const details = element('details', null, 'media-playlist-branch');
                 const summary = element('summary');
-                summary.append(link);
+                const toggle = element('button', '▸', 'media-playlist-toggle');
+                toggle.type = 'button';
+                toggle.setAttribute('aria-label', 'Развернуть: ' + node.title);
+                toggle.setAttribute('aria-expanded', 'false');
+                toggle.addEventListener('click', event => {
+                    event.preventDefault();
+                    event.stopPropagation();
+                    details.open = !details.open;
+                });
+                details.addEventListener('toggle', () => {
+                    toggle.textContent = details.open ? '▾' : '▸';
+                    toggle.setAttribute('aria-expanded', String(details.open));
+                    toggle.setAttribute('aria-label', (details.open ? 'Свернуть: ' : 'Развернуть: ') + node.title);
+                });
+                summary.append(toggle, link);
                 details.append(summary, list(node.children));
                 li.append(details);
             } else {

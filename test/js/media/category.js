@@ -1,3 +1,4 @@
+import { MobileMediaNavigation } from '/js/media/mobile-navigation.js';
 import { readArray } from '../data.js';
 import { loadMediaLibrary } from './data.js';
 import { renderCategoryNavigation } from './navigation.js';
@@ -6,13 +7,7 @@ import { renderMediaRecords } from './records.js';
 
 const status = document.getElementById('media-status');
 const resultCount = document.getElementById('media-result-count');
-const rubricsDisclosure = document.getElementById('media-rubrics-disclosure');
-const mobileLayout = matchMedia('(max-width: 760px)');
-function updateRubricsLayout() {
-    rubricsDisclosure.open = !mobileLayout.matches;
-}
-updateRubricsLayout();
-mobileLayout.addEventListener('change', updateRubricsLayout);
+const navigation = new MobileMediaNavigation();
 try {
     const id = new URLSearchParams(location.search).get('id');
     const [categories, library] = await Promise.all([
@@ -58,11 +53,13 @@ try {
                     : 'Материалы этой рубрики пока не добавлены.';
             }
             resultCount.hidden = false;
+            navigation.setSelection(selected?.title || category.title);
         }
         renderPlaylistTree(playlistTarget, playlists, id, playlistCounts, (node, url, scrollToTop) => {
             history.pushState(null, '', url);
             showSelection();
-            if (scrollToTop) window.scrollTo({ top: 0, behavior: 'instant' });
+            if (navigation.mobile.matches) navigation.showResults();
+            else if (scrollToTop) window.scrollTo({ top: 0, behavior: 'instant' });
         });
         window.addEventListener('popstate', showSelection);
         showSelection();
