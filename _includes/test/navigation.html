@@ -1,4 +1,6 @@
 <nav class="header-bar" aria-label="Основная навигация">
+    <button type="button" class="header-player-button" data-open-video-panel>Плеер</button>
+    <span aria-hidden="true">|</span>
     <a href="/test/"{% if page.nav_key == 'home' %} aria-current="page"{% endif %}>Домашняя Страничка</a>
     <span aria-hidden="true">|</span>
     <a href="/test/classes.html"{% if page.nav_key == 'classes' %} aria-current="page"{% endif %}>Уроки</a>

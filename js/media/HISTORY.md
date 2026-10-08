@@ -20,3 +20,15 @@ same player, with local deletion and clear controls. It does not fetch the full
 media library or recreate a playing iframe for progress updates.
 
 Run `node --test scripts/video-history.test.mjs` to test storage and expiry.
+
+`VideoPlayerPanel` in `video-player-panel.js` provides the separate player panel
+on every shared-layout page, opened by the navigation's Player button. It reuses
+local history and tracking while keeping its own visible player window. Closing
+the panel pauses playback and removes its iframe. Playlist navigation loads the
+current environment's media and generated tree lazily, using `VideoPlaylistIndex`
+to identify every membership, unique counts, positions, and neighbor records.
+Selecting a neighbor promotes it to history's beginning before playback starts.
+Opening the playlist window pauses playback; selecting a neighbor closes that
+window and starts playback in the visible main panel. Browser page navigation
+still reloads the page; history persists, continuous playback between pages does
+not. Test navigation keeps using its own history and data.

@@ -307,3 +307,34 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .media-history-remove:hover { background: #dcecf2; }
 .media-history-note { color: #555; font-size: 0.9rem; }
 #video-history progress { width: 100%; height: 10px; accent-color: #00688b; }
+
+.header-player-button { min-height: 44px; border: 0; padding: 0 8px; background: transparent; color: white; font: inherit; cursor: pointer; }
+.header-player-button:hover { text-decoration: underline; }
+.video-player-panel { position: fixed; top: 12px; right: 12px; bottom: auto; left: auto; margin: 0; width: min(420px, calc(100vw - 24px)); height: min(760px, calc(100vh - 24px)); height: min(760px, calc(100dvh - 24px)); max-height: none; padding: 0; box-sizing: border-box; border: 1px solid #bfd4df; border-radius: 8px; box-shadow: 0 8px 40px #0005; background: white; color: #173441; z-index: 1000; }
+.video-player-panel[open] { display: flex; flex-direction: column; }
+.video-player-panel-heading { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 12px; border-bottom: 1px solid #e2eaed; }
+.video-player-panel-heading h2 { font-size: 1.15rem; margin: 0; }
+.video-player-panel-list { flex: 1; min-height: 0; overflow-y: auto; padding: 0 12px; }
+.video-player-history-row { padding: 12px 0; border-bottom: 1px solid #e2eaed; }
+.video-player-history-row h3 { font-size: 1rem; margin: 6px 0; overflow-wrap: anywhere; }
+.video-player-history-row p { margin: 6px 0; }
+.video-player-history-row.is-playing { border-left: 3px solid #00688b; padding-left: 8px; }
+.video-panel-actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.video-panel-button { min-height: 44px; padding: 8px 12px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688b; font: inherit; cursor: pointer; }
+.video-panel-button:hover { background: #dcecf2; }
+.video-player-panel-footer { padding: 12px; border-top: 1px solid #e2eaed; }
+.video-player-current-title { font-size: 0.9rem; margin: 0 0 8px; overflow-wrap: anywhere; }
+.video-player-panel-screen:empty { display: none; }
+.video-player-panel-screen { aspect-ratio: 16 / 9; min-height: 200px; background: #173441; }
+.video-player-panel-screen iframe { display: block; width: 100%; height: 100%; border: 0; }
+.video-playlists-window { width: min(600px, calc(100vw - 24px)); max-height: calc(100vh - 24px); max-height: calc(100dvh - 24px); padding: 0; border: 1px solid #bfd4df; border-radius: 8px; box-sizing: border-box; color: #173441; }
+.video-playlists-window::backdrop { background: #0005; }
+.video-playlists-content { padding: 0 12px 12px; }
+.video-playlist-choice { padding: 12px 0; border-bottom: 1px solid #e2eaed; }
+.video-playlist-choice h3 { font-size: 1rem; margin: 4px 0; overflow-wrap: anywhere; }
+.video-playlist-choice p { overflow-wrap: anywhere; }
+.video-playlist-neighbor { display: block; width: 100%; min-height: 44px; padding: 8px 0; border: 0; background: transparent; color: #00688b; text-decoration: underline; text-align: left; font: inherit; cursor: pointer; overflow-wrap: anywhere; }
+
+.video-player-panel-footer { min-width: 0; flex: 0 0 auto; }
+.video-player-panel-screen { width: 100%; min-width: 0; }
+.video-player-panel-screen iframe { min-width: 0; max-width: 100%; }

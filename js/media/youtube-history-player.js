@@ -30,7 +30,7 @@ export async function trackYoutubePlayer(frame, item) {
             const note = document.createElement('p');
             note.className = 'media-history-note';
             note.textContent = 'Не удалось подключить сохранение позиции для этого просмотра.';
-            frame.closest('.media-youtube')?.append(note);
+            frame.closest('.media-youtube, .video-player-panel-footer')?.append(note);
         }
         return;
     }
@@ -98,4 +98,8 @@ export async function trackYoutubePlayer(frame, item) {
 
 export function stopHistoryVideo(videoId) {
     for (const session of [...sessions]) if (!videoId || session.videoId === videoId) session.dispose();
+}
+
+export function pauseHistoryVideos() {
+    for (const session of sessions) session.pause();
 }
