@@ -2,7 +2,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "4dZ5DyNScxxNqi-bqZ_A_xfwA6Y",
+      "etag": "P-1BDkTyMHNubgNXEZe8i2agIMk",
       "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
       "snippet": {
         "publishedAt": "2025-11-26T20:58:38.682502Z",
@@ -24,6 +24,16 @@
             "url": "https://i.ytimg.com/vi/ew7qn7NuVsY/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ew7qn7NuVsY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ew7qn7NuVsY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Тора ве-Даат",
@@ -42,7 +52,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "g4ZF5GKk5SnjXIODNGmbOIj8Mig",
+        "etag": "2jDWfNiokQT1DtHilDIa5N2Q0Vw",
         "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC40QTA3NTU2RkM1QzlCMzYx",
         "snippet": {
           "publishedAt": "2026-10-08T02:06:42Z",
