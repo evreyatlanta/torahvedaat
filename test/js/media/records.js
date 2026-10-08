@@ -15,12 +15,12 @@ export function renderMediaRecords(target, items, title) {
             const preview = element('p', paragraphs[0], 'media-description-preview');
             card.append(preview);
             const description = element('details', null, 'media-description');
-            const summary = element('summary', '...полный текст');
+            const summary = element('summary', 'Показать описание полностью');
             description.append(summary);
             paragraphs.forEach(paragraph => description.append(element('p', paragraph)));
             description.addEventListener('toggle', () => {
                 preview.hidden = description.open;
-                summary.textContent = description.open ? 'Скрыть описание' : '...полный текст';
+                summary.textContent = description.open ? 'Скрыть описание' : 'Показать описание полностью';
             });
             card.append(description);
         }
