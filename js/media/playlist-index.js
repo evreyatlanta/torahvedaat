@@ -5,12 +5,14 @@ export class VideoPlaylistIndex {
         this.playlists = new Map();
         const visit = (node, parents) => {
             const titlePath = [...parents, node.title];
-            const ids = [...new Set([...(node.items || []),
-                ...(node.children || []).flatMap(child => visit(child, titlePath))])]
+            const childIds = (node.children || []).flatMap(child => visit(child, titlePath));
+            const inherited = new Set(childIds);
+            const ids = [...new Set([...(node.items || []), ...childIds])]
                 .filter(id => this.media.has(id));
             this.playlists.set(node.id, { id: node.id, title: node.title,
                 path: titlePath.join(' → '), count: ids.length, items: ids });
             ids.forEach((videoId, index) => {
+                if (inherited.has(videoId)) return;
                 if (!this.memberships.has(videoId)) this.memberships.set(videoId, []);
                 this.memberships.get(videoId).push({
                     id: node.id, title: node.title, path: titlePath.join(' → '),

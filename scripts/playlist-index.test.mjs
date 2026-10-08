@@ -2,7 +2,7 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { VideoPlaylistIndex } from '../js/media/playlist-index.js';
 
-test('Shows all memberships, positions and neighbors with unique parent counts', () => {
+test('Shows deepest memberships and neighbors while preserving parent search counts', () => {
     const items = ['new', 'middle', 'old'].map(id => ({ id, title: id }));
     const tree = [{ id: 'root', title: 'Root', items: ['middle'], children: [
         { id: 'one', title: 'One', items: ['new', 'middle', 'old', 'missing'], children: [] },
@@ -10,14 +10,15 @@ test('Shows all memberships, positions and neighbors with unique parent counts',
     ] }];
     const index = new VideoPlaylistIndex(items, tree);
     const memberships = index.forVideo('middle');
-    assert.equal(memberships.length, 3);
+    assert.equal(memberships.length, 2);
     const one = memberships.find(item => item.id === 'one');
     assert.equal(one.path, 'Root → One');
     assert.equal(one.count, 3);
     assert.equal(one.position, 2);
     assert.equal(one.previous.id, 'old');
     assert.equal(one.next.id, 'new');
-    assert.equal(memberships.find(item => item.id === 'root').count, 3);
+    assert.equal(memberships.some(item => item.id === 'root'), false);
+    assert.equal(index.playlists.get('root').count, 3);
     assert.equal(index.forVideo('new').find(item => item.id === 'one').next, null);
     assert.equal(index.forVideo('old').find(item => item.id === 'one').previous, null);
     assert.deepEqual(index.forVideo('absent'), []);
@@ -38,4 +39,19 @@ test('Search matches title words without case or ё distinction, returns capped 
     assert.equal(index.search('unknown').videoCount, 0);
     assert.deepEqual(index.search('   '), { videos: [], playlists: [], videoCount: 0, playlistCount: 0 });
     assert.equal(index.playlists.get('course').items[0], '0');
+});
+
+
+test('Hides all ancestors even with duplicate direct membership; retains independent branches and parent-only videos', () => {
+    const items = ['shared', 'direct'].map(id => ({ id, title: id }));
+    const tree = [{ id: 'root', title: 'Root', items: ['shared', 'direct'], children: [
+        { id: 'branch', title: 'Branch', items: ['shared'], children: [
+            { id: 'leaf', title: 'Leaf', items: ['shared'], children: [] }
+        ] }
+    ] }, { id: 'other', title: 'Other', items: ['shared'], children: [] }];
+    const index = new VideoPlaylistIndex(items, tree);
+    assert.deepEqual(index.forVideo('shared').map(item => item.id), ['leaf', 'other']);
+    assert.deepEqual(index.forVideo('direct').map(item => item.id), ['root']);
+    assert.equal(index.playlists.get('root').count, 2);
+    assert.deepEqual(index.playlists.get('branch').items, ['shared']);
 });
