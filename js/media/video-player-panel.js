@@ -30,7 +30,7 @@ export class VideoPlayerPanel {
         this.panel = element('dialog', null, 'video-player-panel');
         this.panel.setAttribute('aria-labelledby', 'video-player-panel-title');
         const heading = element('div', null, 'video-player-panel-heading');
-        const title = element('h2', 'Плеер уроков');
+        const title = element('h2', 'Плеер');
         title.id = 'video-player-panel-title';
         heading.append(title, button('Закрыть', () => this.panel.close(), 'video-panel-button'));
         const searchArea = element('div', null, 'video-panel-search');
