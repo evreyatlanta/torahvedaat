@@ -167,6 +167,10 @@ export class VideoPlayerPanel {
 }
 
 const panel = new VideoPlayerPanel();
+window.addEventListener('open-video-panel', event => {
+    if (event.detail?.item) panel.playVideo(event.detail.item);
+    else panel.open();
+});
 document.querySelectorAll('[data-open-video-panel]').forEach(trigger => {
     trigger.addEventListener('click', () => panel.open());
 });

@@ -24,6 +24,7 @@ export function renderMediaRecords(target, items, title) {
             });
             card.append(description);
         }
+        const actions = element('div', null, 'media-record-actions');
         try {
             const url = new URL(item.url, location.href);
             if (url.protocol === 'https:' || url.protocol === 'http:') {
@@ -31,9 +32,17 @@ export function renderMediaRecords(target, items, title) {
                 link.href = url.href;
                 link.target = '_blank';
                 link.rel = 'noopener noreferrer';
-                card.append(link);
+                actions.append(link);
             }
         } catch { /* A malformed URL must not hide the remaining records. */ }
+        if (player) {
+            const launch = element('button', '🎧 Аудио-плеер', 'media-player-launch');
+            launch.type = 'button';
+            launch.addEventListener('click', () => window.dispatchEvent(
+                new CustomEvent('open-video-panel', { detail: { item } })));
+            actions.append(launch);
+        }
+        card.append(actions);
         target.append(card);
     }
 }

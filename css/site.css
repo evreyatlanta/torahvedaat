@@ -330,3 +330,8 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 .video-player-panel-footer { min-width: 0; flex: 0 0 auto; }
 .video-player-panel-screen { width: 100%; min-width: 0; }
 .video-player-panel-screen iframe { min-width: 0; max-width: 100%; }
+
+.media-record-actions { display: flex; flex-wrap: wrap; align-items: center; gap: 10px 16px; margin-top: 12px; }
+.media-player-launch { min-height: 44px; padding: 8px 12px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688b; font: inherit; cursor: pointer; }
+.media-player-launch:hover { background: #dcecf2; }
+.media-player-launch-panel { width: 100%; margin-top: 12px; text-align: left; }
