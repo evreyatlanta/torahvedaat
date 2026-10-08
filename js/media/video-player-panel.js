@@ -114,11 +114,12 @@ export class VideoPlayerPanel {
         for (const entry of entries) {
             const row = element('article', null, 'video-player-history-row');
             if (entry.videoId === this.currentId) row.classList.add('is-playing');
-            row.append(element('time', new Date(entry.lastPlayedAt).toLocaleString('ru-RU'), 'media-history-note'),
-                element('h3', entry.title),
-                element('p', entry.completed ? 'Просмотрено полностью' : `Продолжить с ${playbackTime(entry.position)}`, 'media-history-note'));
+            const metadata = element('div', null, 'video-panel-row-meta');
+            metadata.append(element('time', new Date(entry.lastPlayedAt).toLocaleString('ru-RU')),
+                element('span', entry.completed ? 'Просмотрено' : playbackTime(entry.position)));
+            row.append(element('h3', entry.title), metadata);
             const actions = element('div', null, 'video-panel-actions');
-            const play = button('▶ Play', () => this.playVideo({ id: entry.videoId, title: entry.title,
+            const play = button('▶', () => this.playVideo({ id: entry.videoId, title: entry.title,
                 thumbnailUrl: entry.thumbnailUrl, source: 'youtube', type: 'video' }), 'video-panel-button');
             play.setAttribute('aria-label', `Проиграть: ${entry.title}`);
             const lists = button('Плейлисты', () => this.showPlaylists(entry.videoId), 'video-panel-button');
@@ -157,7 +158,7 @@ export class VideoPlayerPanel {
         if (saved?.position && !saved.completed) row.append(element('p',
             `Продолжить с ${playbackTime(saved.position)}`, 'media-history-note'));
         const actions = element('div', null, 'video-panel-actions');
-        const play = button('▶ Play', () => this.playVideo(item), 'video-panel-button');
+        const play = button('▶', () => this.playVideo(item), 'video-panel-button');
         play.setAttribute('aria-label', `Проиграть: ${item.title || 'Видео'}`);
         actions.append(play, button('Плейлисты', () => this.showPlaylists(item.id), 'video-panel-button'));
         row.append(actions);
@@ -266,13 +267,18 @@ export class VideoPlayerPanel {
             if (!matches.length) this.playlistsContent.append(element('p', 'Это видео не входит в плейлисты сайта.'));
             for (const playlist of matches) {
                 const row = element('section', null, 'video-playlist-choice');
-                row.append(element('h3', `${playlist.title} (${playlist.count})`),
-                    element('p', playlist.path, 'media-history-note'),
-                    element('p', `Видео ${playlist.position} из ${playlist.count}`));
-                for (const [label, item] of [['Предыдущее', playlist.previous], ['Следующее', playlist.next]]) {
-                    if (item) row.append(button(`${label}: ${item.title || 'Видео'}`, () => this.playVideo(item), 'video-playlist-neighbor'));
-                    else row.append(element('p', `${label} видео отсутствует.`, 'media-history-note'));
+                const previous = button('←', () => this.playVideo(playlist.previous), 'video-playlist-arrow');
+                const next = button('→', () => this.playVideo(playlist.next), 'video-playlist-arrow');
+                for (const [control, label, item] of [[previous, 'Предыдущее', playlist.previous], [next, 'Следующее', playlist.next]]) {
+                    control.disabled = !item;
+                    control.title = item ? label + ': ' + (item.title || 'Видео') : label + ' видео отсутствует';
+                    control.setAttribute('aria-label', control.title);
                 }
+                const info = element('div', null, 'video-playlist-info');
+                const title = element('h3', playlist.title);
+                title.title = playlist.path;
+                info.append(title, element('span', 'Видео ' + playlist.position + ' из ' + playlist.count, 'media-history-note'));
+                row.append(previous, info, next);
                 this.playlistsContent.append(row);
             }
         } catch {
