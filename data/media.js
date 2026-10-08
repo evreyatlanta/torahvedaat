@@ -1,6 +1,21 @@
 {
   "items": [
     {
+      "id": "ew7qn7NuVsY",
+      "type": "video",
+      "source": "youtube",
+      "title": "Комментарии для Субботнего Стола - глава \"БЕРЕШИТ\"",
+      "url": "https://www.youtube.com/watch?v=ew7qn7NuVsY",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ew7qn7NuVsY/hqdefault.jpg",
+      "date": "2026-10-08"
+    },
+    {
       "id": "cQMJMQuFpFQ",
       "type": "video",
       "source": "youtube",
@@ -30227,7 +30242,7 @@
     },
     {
       "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-      "count": 36
+      "count": 37
     },
     {
       "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
@@ -30239,7 +30254,7 @@
     },
     {
       "id": "parsha",
-      "count": 83
+      "count": 84
     },
     {
       "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
@@ -30255,7 +30270,7 @@
     },
     {
       "id": "rzelman",
-      "count": 1155
+      "count": 1156
     },
     {
       "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
@@ -30285,7 +30300,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 1155
+      "count": 1156
     },
     {
       "tag": "show",
@@ -30293,11 +30308,11 @@
     },
     {
       "tag": "torah",
-      "count": 1497
+      "count": 1498
     },
     {
       "tag": "toravedaat",
-      "count": 1617
+      "count": 1618
     }
   ]
 }
