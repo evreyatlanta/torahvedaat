@@ -293,3 +293,9 @@ a:focus-visible, input:focus-visible, button:focus-visible, summary:focus-visibl
 }
 
 .site-header .brand-text { overflow-wrap: anywhere; }
+
+.media-history-link { display: block; padding: 12px 10px; margin-top: 8px; border-top: 1px solid #e2eaed; color: #00688b; }
+.media-history-remove { min-height: 44px; padding: 8px 12px; border: 1px solid #bfd4df; border-radius: 5px; background: #edf5f8; color: #00688b; cursor: pointer; font: inherit; }
+.media-history-remove:hover { background: #dcecf2; }
+.media-history-note { color: #555; font-size: 0.9rem; }
+#video-history progress { width: 100%; height: 10px; accent-color: #00688b; }

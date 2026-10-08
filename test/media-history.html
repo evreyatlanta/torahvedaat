@@ -1,0 +1,15 @@
+---
+layout: test
+title: История просмотра — Евреи Атланты
+description: Продолжить просмотр недавно начатых уроков.
+permalink: /test/media/history/
+---
+<section class="white-box">
+    <h2 class="section-title">История просмотра</h2>
+    <p>История хранится в этом браузере семь дней после последнего просмотра каждого видео.</p>
+    <button id="video-history-clear" class="media-history-remove" type="button" hidden>Очистить историю</button>
+    <p id="video-history-status" role="status">Загрузка истории…</p>
+    <div id="video-history"></div>
+    <noscript>Для истории просмотра включите JavaScript.</noscript>
+</section>
+<script type="module" src="/js/media/history-page.js"></script>
