@@ -15,12 +15,13 @@ test('Shows deepest memberships and neighbors while preserving parent search cou
     assert.equal(one.path, 'Root → One');
     assert.equal(one.count, 3);
     assert.equal(one.position, 2);
-    assert.equal(one.previous.id, 'old');
-    assert.equal(one.next.id, 'new');
+    assert.equal(one.previous.id, 'new');
+    assert.equal(one.next.id, 'old');
     assert.equal(memberships.some(item => item.id === 'root'), false);
     assert.equal(index.playlists.get('root').count, 3);
-    assert.equal(index.forVideo('new').find(item => item.id === 'one').next, null);
-    assert.equal(index.forVideo('old').find(item => item.id === 'one').previous, null);
+    assert.equal(index.forVideo('new').find(item => item.id === 'one').previous, null);
+    assert.equal(index.forVideo('new').find(item => item.id === 'one').next.id, 'middle');
+    assert.equal(index.forVideo('old').find(item => item.id === 'one').next, null);
     assert.deepEqual(index.forVideo('absent'), []);
 });
 
