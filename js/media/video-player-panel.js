@@ -62,7 +62,9 @@ export class VideoPlayerPanel {
         const footer = element('div', null, 'video-player-panel-footer');
         this.currentPlaylists = button('Плейлисты', () => this.showPlaylists(this.currentId), 'video-panel-button video-current-playlists');
         this.currentPlaylists.hidden = true;
-        footer.append(this.playingTitle, this.currentPlaylists, this.playerHost);
+        this.currentPaths = element('ul', null, 'video-player-current-paths');
+        this.currentPaths.setAttribute('aria-label', 'Пути к плейлистам видео');
+        footer.append(this.currentPaths, this.playingTitle, this.currentPlaylists, this.playerHost);
         this.panel.append(heading, searchArea, this.list, footer);
         this.playlistsWindow = element('dialog', null, 'video-playlists-window');
         this.playlistsWindow.setAttribute('aria-labelledby', 'video-playlists-window-title');
@@ -80,6 +82,7 @@ export class VideoPlayerPanel {
             this.playerHost.replaceChildren();
             this.currentId = null;
             this.currentPlaylists.hidden = true;
+            this.currentPaths.replaceChildren();
             this.playingTitle.textContent = 'Выберите видео из истории.';
             if (this.playlistsWindow.open) this.playlistsWindow.close();
             this.returnFocus?.focus({ preventScroll: true });
@@ -243,9 +246,13 @@ export class VideoPlayerPanel {
         if (this.playlistsWindow.open) this.playlistsWindow.close();
         this.playingTitle.textContent = item.title || 'Видео';
         this.currentPlaylists.hidden = true;
+        this.currentPaths.replaceChildren();
         this.catalog().then(catalog => {
-            if (this.currentId === item.id && this.panel.open)
-                this.currentPlaylists.hidden = catalog.forVideo(item.id).length === 0;
+            if (this.currentId !== item.id || !this.panel.open) return;
+            const memberships = catalog.forVideo(item.id);
+            this.currentPlaylists.hidden = memberships.length === 0;
+            const paths = [...new Set(memberships.map(playlist => playlist.path))];
+            this.currentPaths.replaceChildren(...paths.map(path => element('li', path)));
         }).catch(() => {});
         this.list.querySelectorAll('.video-player-history-row').forEach(row => {
             row.classList.toggle('is-playing', row.querySelector('[data-action="select"]')?.dataset.videoId === item.id);
