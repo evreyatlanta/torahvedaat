@@ -2591,7 +2591,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ff4kFo1V-Pi2yVKqcOGpSmkF4EA",
+        "etag": "dG8RDFc3DlFRF7SaYCsSp6n42MU",
         "id": "UExPcWxZT05QNEU0NC4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-07-27T00:39:46Z",
@@ -2699,7 +2699,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "G7iVMqrQNxUUjsobM0UiKpaNszo",
+        "etag": "qhcZBmijfuDVCK2KULsurkgCKL8",
         "id": "UExPcWxZT05QNEU0NC41MjE1MkI0OTQ2QzJGNzNG",
         "snippet": {
           "publishedAt": "2026-07-27T00:45:17Z",
@@ -10820,7 +10820,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "cz7QIbccw7sdNfjgqFh4Qm062P8",
+      "etag": "5NgKD8AOztpPf9ZRvnNrPYvQuxE",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -10865,7 +10865,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 89
+        "itemCount": 90
       }
     },
     "items": [
@@ -15675,6 +15675,60 @@
         "status": {
           "privacyStatus": "public"
         }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "3XADcot4j_ZHBsAcT6NWfzaaG6w",
+        "id": "UExFcFhSVGNrdzZndy4wQUE0QzM4MkJGQ0YwQjUx",
+        "snippet": {
+          "publishedAt": "2026-10-09T02:06:40Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоhар: роза среди колючек и 13 мер милосердия | Рав Элиягу Бари",
+          "description": "Почему Зоhар начинается с розы среди колючек? Рав Элиягу Бари разбирает первую статью вступления: тринадцать лепестков, меры милосердия и слова в начале Торы.\n\nЭто построчный урок Зоhара на русском языке по статье о розе — шошане, §§1–3. Читаем арамейский текст, переводим каждую фразу и объясняем духовные образы с учетом комментария Сулама.\n\nВместе разберемся:\n• Почему роза обозначает Кнесет Исраэль и как этот образ связан с Малхут.\n• Что означают красное и белое, суд и милосердие.\n• Как тринадцать лепестков связаны с тринадцатью мерами милосердия и тринадцатью словами между первым и вторым упоминаниями имени Элоhим.\n• Почему пять крепких листьев сопоставляются с пятью вратами и пальцами, на которых держат чашу благословения.\n• Как пять слов между вторым и третьим упоминаниями имени Элоhим продолжают этот образ.\n• Как роза связана со скрытым светом, союзом и семенем.\n• Что означают сорок два соединения — зивугим — и сорок две буквы творения.\n\nВ дополнительном комментарии к §3 рассматриваем пояснение Аризаля о 7 × 6 соединениях и пояснение Бааль hа-Сулама о 4 + 10 + 28 буквах Божественного имени. Также объясняем связь с первыми 42 буквами Торы.\n\nОсновной источник: Зоhар, Вступление, статья о розе, §§1–3, с комментарием Сулама Бааль hа-Сулама.\nДополнительные источники: Аризаль, «Шаар маамарей Рашби», Берешит, п. 10; Бааль hа-Сулам, «Маръот hа-Сулам», статья «Роза», п. 4.\nСтихи, рассматриваемые в уроке: Шир hа-Ширим 2:2; Берешит 1:1–3, 1:11; Теhилим 116:13.\n\nНапишите в комментариях, какой образ или вопрос вы хотели бы разобрать подробнее. Подписывайтесь на канал, чтобы продолжать изучение Торы вместе с Равом Элиягу Бари.\n\n#Зоар #Тора #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 89,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nwUUeXxA4Mg"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "nwUUeXxA4Mg",
+          "videoPublishedAt": "2026-10-09T02:09:15Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
       }
     ]
   },
@@ -16005,7 +16059,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "mODE2lA5R-8kP3MduY37qFQbVkU",
+      "etag": "rgY23edQaOcK-S6_iH9_VTmXtLA",
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
       "snippet": {
         "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -16050,7 +16104,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 34
+        "itemCount": 35
       }
     },
     "items": [
@@ -17436,7 +17490,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "kwP70XI4MSl_H2hL-sxHvvznk1s",
+        "etag": "uP4s3RkkP6YjVaDbSLYPS8ncJck",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC43MTI1NDIwOTMwQjIxMzNG",
         "snippet": {
           "publishedAt": "2026-07-27T00:39:46Z",
@@ -17544,7 +17598,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "JclvHz1qtNKgd04671jP7a1Zy3I",
+        "etag": "BXlrZT0_pOngyKreRQohGsPKPic",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4yQUE2Q0JEMTk4NTM3RTZC",
         "snippet": {
           "publishedAt": "2026-07-27T00:45:17Z",
@@ -17915,6 +17969,60 @@
         "contentDetails": {
           "videoId": "5zzd9TSID9w",
           "videoPublishedAt": "2026-08-28T01:26:41Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "LhJ52QQ_TS0LaJfDLCubtB8x788",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC42MTI4Njc2QjM1RjU1MjlG",
+        "snippet": {
+          "publishedAt": "2026-10-09T02:06:50Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоhар: роза среди колючек и 13 мер милосердия | Рав Элиягу Бари",
+          "description": "Почему Зоhар начинается с розы среди колючек? Рав Элиягу Бари разбирает первую статью вступления: тринадцать лепестков, меры милосердия и слова в начале Торы.\n\nЭто построчный урок Зоhара на русском языке по статье о розе — шошане, §§1–3. Читаем арамейский текст, переводим каждую фразу и объясняем духовные образы с учетом комментария Сулама.\n\nВместе разберемся:\n• Почему роза обозначает Кнесет Исраэль и как этот образ связан с Малхут.\n• Что означают красное и белое, суд и милосердие.\n• Как тринадцать лепестков связаны с тринадцатью мерами милосердия и тринадцатью словами между первым и вторым упоминаниями имени Элоhим.\n• Почему пять крепких листьев сопоставляются с пятью вратами и пальцами, на которых держат чашу благословения.\n• Как пять слов между вторым и третьим упоминаниями имени Элоhим продолжают этот образ.\n• Как роза связана со скрытым светом, союзом и семенем.\n• Что означают сорок два соединения — зивугим — и сорок две буквы творения.\n\nВ дополнительном комментарии к §3 рассматриваем пояснение Аризаля о 7 × 6 соединениях и пояснение Бааль hа-Сулама о 4 + 10 + 28 буквах Божественного имени. Также объясняем связь с первыми 42 буквами Торы.\n\nОсновной источник: Зоhар, Вступление, статья о розе, §§1–3, с комментарием Сулама Бааль hа-Сулама.\nДополнительные источники: Аризаль, «Шаар маамарей Рашби», Берешит, п. 10; Бааль hа-Сулам, «Маръот hа-Сулам», статья «Роза», п. 4.\nСтихи, рассматриваемые в уроке: Шир hа-Ширим 2:2; Берешит 1:1–3, 1:11; Теhилим 116:13.\n\nНапишите в комментариях, какой образ или вопрос вы хотели бы разобрать подробнее. Подписывайтесь на канал, чтобы продолжать изучение Торы вместе с Равом Элиягу Бари.\n\n#Зоар #Тора #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 34,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "nwUUeXxA4Mg"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "nwUUeXxA4Mg",
+          "videoPublishedAt": "2026-10-09T02:09:15Z"
         },
         "status": {
           "privacyStatus": "public"
@@ -27654,49 +27762,6 @@
         }
       }
     ]
-  },
-  {
-    "playlist": {
-      "kind": "youtube#playlist",
-      "etag": "NHTGxu_HtjuBJPJWtT92HRNP3mY",
-      "id": "PLDKe3hTC3Ilv6WAezCB-Sy4ur_7mH52ck",
-      "snippet": {
-        "publishedAt": "2025-11-14T03:35:18.502272Z",
-        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-        "title": "[RU] Рамад Вали - Раби Моше Давид Вали",
-        "description": "[EN] Ramad Vali | Chayei Sarah | Sarah, Machpela, and the Soul’s Journey | Rav Eliyahu Bari\n\nAn English series exploring the mystical teachings of Rabbi Moshe David Vali on Parashat Chayei Sarah. These classes examine Sarah’s spiritual life, the Cave of Machpela, the relationship between body and soul, and the hidden purpose of burial in the Holy Land.\n\nIn this series:\n\n• why the Torah records Sarah’s 127 years in such detail\n• how Sarah’s spiritual life is connected to the birth of Isaac\n• whether Sarah rectified the sin of Chava\n• why Avraham urgently sought the Cave of Machpela\n• the mystical connection between the soul and the place of burial\n• why Avraham insisted on purchasing the cave in full\n• the spiritual meaning of Sarah’s burial and Avraham’s inheritance\n• how Ramad Vali’s commentary reveals hidden dimensions of Genesis\n\nVideos:\n\n1. Ramad Vali — Chayei Sarah — Did Sarah Fix the Sin of Chava?\n   https://www.youtube.com/watch?v=vkv6v62XG38\n\n2. Ramad Vali — Chayei Sarah — The Secret of the Cave of Machpela\n   https://www.youtube.com/watch?v=DTm7X4Sp8-I\n\nSubscribe to Rabbi Eliyahu Bari for Torah, Kabbalah, Or HaChaim, and Jewish mystical commentary in English and Russian.\n\n#RamadVali #ChayeiSarah #Sarah #Avraham #Machpela #Zohar #TorahStudy",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Rabbi Eliyahu Bari",
-        "defaultLanguage": "ru",
-        "localized": {
-          "title": "[RU] Рамад Вали - Раби Моше Давид Вали",
-          "description": "[EN] Ramad Vali | Chayei Sarah | Sarah, Machpela, and the Soul’s Journey | Rav Eliyahu Bari\n\nAn English series exploring the mystical teachings of Rabbi Moshe David Vali on Parashat Chayei Sarah. These classes examine Sarah’s spiritual life, the Cave of Machpela, the relationship between body and soul, and the hidden purpose of burial in the Holy Land.\n\nIn this series:\n\n• why the Torah records Sarah’s 127 years in such detail\n• how Sarah’s spiritual life is connected to the birth of Isaac\n• whether Sarah rectified the sin of Chava\n• why Avraham urgently sought the Cave of Machpela\n• the mystical connection between the soul and the place of burial\n• why Avraham insisted on purchasing the cave in full\n• the spiritual meaning of Sarah’s burial and Avraham’s inheritance\n• how Ramad Vali’s commentary reveals hidden dimensions of Genesis\n\nVideos:\n\n1. Ramad Vali — Chayei Sarah — Did Sarah Fix the Sin of Chava?\n   https://www.youtube.com/watch?v=vkv6v62XG38\n\n2. Ramad Vali — Chayei Sarah — The Secret of the Cave of Machpela\n   https://www.youtube.com/watch?v=DTm7X4Sp8-I\n\nSubscribe to Rabbi Eliyahu Bari for Torah, Kabbalah, Or HaChaim, and Jewish mystical commentary in English and Russian.\n\n#RamadVali #ChayeiSarah #Sarah #Avraham #Machpela #Zohar #TorahStudy"
-        }
-      },
-      "status": {
-        "privacyStatus": "public"
-      },
-      "contentDetails": {
-        "itemCount": 0
-      }
-    },
-    "items": []
   },
   {
     "playlist": {

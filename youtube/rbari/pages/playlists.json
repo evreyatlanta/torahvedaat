@@ -1,10 +1,10 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "xVvTaPtF6P0F2ZVSZcXtKGBGFXI",
+    "etag": "EbfmaTKdQ5zt08CcbSYb7JiLCng",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 93,
+      "totalResults": 92,
       "resultsPerPage": 50
     },
     "items": [
@@ -1055,7 +1055,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "cz7QIbccw7sdNfjgqFh4Qm062P8",
+        "etag": "5NgKD8AOztpPf9ZRvnNrPYvQuxE",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -1100,7 +1100,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 89
+          "itemCount": 90
         }
       },
       {
@@ -1155,7 +1155,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "mODE2lA5R-8kP3MduY37qFQbVkU",
+        "etag": "rgY23edQaOcK-S6_iH9_VTmXtLA",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -1200,7 +1200,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 34
+          "itemCount": 35
         }
       },
       {
@@ -2487,53 +2487,13 @@
   },
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "fpMaCKEqnTprdKEIBLq0EOA4Cl0",
+    "etag": "48wIxY2TguzyaP1V8KZ_bcftEC0",
     "prevPageToken": "CDIQAQ",
     "pageInfo": {
-      "totalResults": 93,
+      "totalResults": 92,
       "resultsPerPage": 50
     },
     "items": [
-      {
-        "kind": "youtube#playlist",
-        "etag": "NHTGxu_HtjuBJPJWtT92HRNP3mY",
-        "id": "PLDKe3hTC3Ilv6WAezCB-Sy4ur_7mH52ck",
-        "snippet": {
-          "publishedAt": "2025-11-14T03:35:18.502272Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "[RU] Рамад Вали - Раби Моше Давид Вали",
-          "description": "[EN] Ramad Vali | Chayei Sarah | Sarah, Machpela, and the Soul’s Journey | Rav Eliyahu Bari\n\nAn English series exploring the mystical teachings of Rabbi Moshe David Vali on Parashat Chayei Sarah. These classes examine Sarah’s spiritual life, the Cave of Machpela, the relationship between body and soul, and the hidden purpose of burial in the Holy Land.\n\nIn this series:\n\n• why the Torah records Sarah’s 127 years in such detail\n• how Sarah’s spiritual life is connected to the birth of Isaac\n• whether Sarah rectified the sin of Chava\n• why Avraham urgently sought the Cave of Machpela\n• the mystical connection between the soul and the place of burial\n• why Avraham insisted on purchasing the cave in full\n• the spiritual meaning of Sarah’s burial and Avraham’s inheritance\n• how Ramad Vali’s commentary reveals hidden dimensions of Genesis\n\nVideos:\n\n1. Ramad Vali — Chayei Sarah — Did Sarah Fix the Sin of Chava?\n   https://www.youtube.com/watch?v=vkv6v62XG38\n\n2. Ramad Vali — Chayei Sarah — The Secret of the Cave of Machpela\n   https://www.youtube.com/watch?v=DTm7X4Sp8-I\n\nSubscribe to Rabbi Eliyahu Bari for Torah, Kabbalah, Or HaChaim, and Jewish mystical commentary in English and Russian.\n\n#RamadVali #ChayeiSarah #Sarah #Avraham #Machpela #Zohar #TorahStudy",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
-              "width": 480,
-              "height": 360
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "defaultLanguage": "ru",
-          "localized": {
-            "title": "[RU] Рамад Вали - Раби Моше Давид Вали",
-            "description": "[EN] Ramad Vali | Chayei Sarah | Sarah, Machpela, and the Soul’s Journey | Rav Eliyahu Bari\n\nAn English series exploring the mystical teachings of Rabbi Moshe David Vali on Parashat Chayei Sarah. These classes examine Sarah’s spiritual life, the Cave of Machpela, the relationship between body and soul, and the hidden purpose of burial in the Holy Land.\n\nIn this series:\n\n• why the Torah records Sarah’s 127 years in such detail\n• how Sarah’s spiritual life is connected to the birth of Isaac\n• whether Sarah rectified the sin of Chava\n• why Avraham urgently sought the Cave of Machpela\n• the mystical connection between the soul and the place of burial\n• why Avraham insisted on purchasing the cave in full\n• the spiritual meaning of Sarah’s burial and Avraham’s inheritance\n• how Ramad Vali’s commentary reveals hidden dimensions of Genesis\n\nVideos:\n\n1. Ramad Vali — Chayei Sarah — Did Sarah Fix the Sin of Chava?\n   https://www.youtube.com/watch?v=vkv6v62XG38\n\n2. Ramad Vali — Chayei Sarah — The Secret of the Cave of Machpela\n   https://www.youtube.com/watch?v=DTm7X4Sp8-I\n\nSubscribe to Rabbi Eliyahu Bari for Torah, Kabbalah, Or HaChaim, and Jewish mystical commentary in English and Russian.\n\n#RamadVali #ChayeiSarah #Sarah #Avraham #Machpela #Zohar #TorahStudy"
-          }
-        },
-        "status": {
-          "privacyStatus": "public"
-        },
-        "contentDetails": {
-          "itemCount": 0
-        }
-      },
       {
         "kind": "youtube#playlist",
         "etag": "VN7aNY59ngyhegLBD09GUWb41o0",
