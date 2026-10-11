@@ -3191,7 +3191,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "wVJPX2ZyaDmK1HYUcLRpU8lfXEY",
+        "etag": "Vzfs8KnNM7jorSZud924At3GAm4",
         "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GMDBDNkJGMzYzREUyMTYw",
         "snippet": {
           "publishedAt": "2026-09-09T21:35:46Z",
@@ -16043,61 +16043,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Fv_6SaDwdq8mJjyXiguazCUM0GM",
-        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5EQkE3RTJCQTJEQkFBQTcz",
-        "snippet": {
-          "publishedAt": "2023-05-21T15:30:59Z",
-          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "НА БИТВУ С ГРЕКАМИ ПОРА ОТПРАВИТЬСЯ",
-          "description": "Музыка М. Таривердиева, стихи М. Гутермана, исполняет И. Зельман. \n\nНа битву с греками пора отправиться,\nУже в кипящем масле пончик жарится,\nМука пшеничная, блины крахмальные,\nИ что мы делаем, И что мы делаем, И что мы делаем,\nМы зажигаем свечи ханукальные.\nНу а еще поётся песня грустная,\nПро то, как Б-г прощает нас без устали.\nНу что с евреями при этом станется?\nИсчезнет Персия, Исчезнет Греция, Исчезнут Римляне,\nИсчезнут все они - еврей останется!\nНачнут выпытывать вокруг бродящие:\nЗачем вам свечи, на окне стоящие?\nНавру с три короба, Пусть удивляются\nА что мы празднуем - их не касается.\nИ если с маслом опустела фляжечка,\nИ пригорюнился еврей-бедняжечка,\nМы не советуем ему печалиться,\nПусть масло кончится, но свет останется.\nИ не боимся в эти дни поправиться,\nИ будем кушать всё, что в масле жарится,\nМука пшеничная, блины крахмальные,\nИ что мы делаем, И что мы делаем, И что мы делаем,\nМы зажигаем свечи ханукальные.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Тора ве-Даат",
-          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-          "position": 29,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "cSjd3IIk3-8"
-          },
-          "videoOwnerChannelTitle": "Тора ве-Даат",
-          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-        },
-        "contentDetails": {
-          "videoId": "cSjd3IIk3-8",
-          "videoPublishedAt": "2017-12-20T05:10:11Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "J7LlGlIAO8FaNHhHb5ku99Pjrbg",
+        "etag": "Q8LoRe5TtTe98Uvoa6fd7-RxpXc",
         "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5FRjdGNDMzN0I2RTI3MDlG",
         "snippet": {
           "publishedAt": "2023-05-21T15:30:59Z",
@@ -16133,7 +16079,7 @@
           },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-          "position": 30,
+          "position": 29,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "MkMEN-QvJpU"
@@ -16144,6 +16090,60 @@
         "contentDetails": {
           "videoId": "MkMEN-QvJpU",
           "videoPublishedAt": "2022-12-23T06:15:08Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "u633B8ORzgNGHduBiyaxznt-GZ0",
+        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5EQkE3RTJCQTJEQkFBQTcz",
+        "snippet": {
+          "publishedAt": "2023-05-21T15:30:59Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "НА БИТВУ С ГРЕКАМИ ПОРА ОТПРАВИТЬСЯ",
+          "description": "Музыка М. Таривердиева, стихи М. Гутермана, исполняет И. Зельман. \n\nНа битву с греками пора отправиться,\nУже в кипящем масле пончик жарится,\nМука пшеничная, блины крахмальные,\nИ что мы делаем, И что мы делаем, И что мы делаем,\nМы зажигаем свечи ханукальные.\nНу а еще поётся песня грустная,\nПро то, как Б-г прощает нас без устали.\nНу что с евреями при этом станется?\nИсчезнет Персия, Исчезнет Греция, Исчезнут Римляне,\nИсчезнут все они - еврей останется!\nНачнут выпытывать вокруг бродящие:\nЗачем вам свечи, на окне стоящие?\nНавру с три короба, Пусть удивляются\nА что мы празднуем - их не касается.\nИ если с маслом опустела фляжечка,\nИ пригорюнился еврей-бедняжечка,\nМы не советуем ему печалиться,\nПусть масло кончится, но свет останется.\nИ не боимся в эти дни поправиться,\nИ будем кушать всё, что в масле жарится,\nМука пшеничная, блины крахмальные,\nИ что мы делаем, И что мы делаем, И что мы делаем,\nМы зажигаем свечи ханукальные.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/cSjd3IIk3-8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+          "position": 30,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "cSjd3IIk3-8"
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+        },
+        "contentDetails": {
+          "videoId": "cSjd3IIk3-8",
+          "videoPublishedAt": "2017-12-20T05:10:11Z"
         },
         "status": {
           "privacyStatus": "public"
