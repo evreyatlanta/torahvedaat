@@ -3067,12 +3067,12 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "o4-sSuMekYAtjJSrTb5P195dffk",
+        "etag": "yB1jH5B6oPjgmuC5PHx6pXBp1NU",
         "nextPageToken": "EAAaHlBUOkNESWlFREU1TVRORE9FRkROVGN3TTBNMk56TQ",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "Vzfs8KnNM7jorSZud924At3GAm4",
+            "etag": "YqotUA0TZ9QkX7y4zSyUSP_nhjs",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GMDBDNkJGMzYzREUyMTYw",
             "snippet": {
               "publishedAt": "2026-09-09T21:35:46Z",
