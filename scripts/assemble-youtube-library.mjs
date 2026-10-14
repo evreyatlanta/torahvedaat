@@ -1,3 +1,4 @@
+import { newestFirst } from '../js/media/order.js';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
@@ -13,7 +14,7 @@ export function assembleLibrary(channelMedia, playlistCounts = []) {
         : record);
     }
   }
-  const items = [...unique.values()];
+  const items = [...unique.values()].sort(newestFirst);
   const counts = new Map();
   for (const item of items) for (const tag of new Set(item.tags)) {
     counts.set(tag, (counts.get(tag) || 0) + 1);

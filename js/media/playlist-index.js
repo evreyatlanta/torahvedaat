@@ -1,6 +1,7 @@
+import { newestFirst } from './order.js';
 export class VideoPlaylistIndex {
     constructor(items, tree) {
-        this.media = new Map(items.map(item => [item.id, item]));
+        this.media = new Map([...items].sort(newestFirst).map(item => [item.id, item]));
         this.memberships = new Map();
         this.playlists = new Map();
         const visit = (node, parents) => {
@@ -8,7 +9,8 @@ export class VideoPlaylistIndex {
             const childIds = (node.children || []).flatMap(child => visit(child, titlePath));
             const inherited = new Set(childIds);
             const ids = [...new Set([...(node.items || []), ...childIds])]
-                .filter(id => this.media.has(id));
+                .filter(id => this.media.has(id))
+                .sort((a, b) => newestFirst(this.media.get(a), this.media.get(b)));
             this.playlists.set(node.id, { id: node.id, title: node.title,
                 path: titlePath.join(' → '), count: ids.length, items: ids });
             ids.forEach((videoId, index) => {

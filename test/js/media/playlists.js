@@ -1,3 +1,4 @@
+import { newestFirst } from '/js/media/order.js';
 import { element } from '../schedule/elements.js';
 
 export function playlistsForTag(nodes, tag) {
@@ -24,7 +25,7 @@ export function playlistItems(node, items) {
     }
     collect(node);
     const records = new Map(items.map(item => [item.id, item]));
-    return [...ids].map(id => records.get(id)).filter(Boolean);
+    return [...ids].map(id => records.get(id)).filter(Boolean).sort(newestFirst);
 }
 
 export function renderPlaylistTree(target, nodes, categoryId, counts, onSelect) {

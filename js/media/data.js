@@ -1,3 +1,4 @@
+import { newestFirst } from './order.js';
 import { readArray } from '../data.js';
 
 export async function loadMediaLibrary() {
@@ -5,7 +6,7 @@ export async function loadMediaLibrary() {
         readMedia('/data/media.js'),
         readArray('/data/playlist.js')
     ]);
-    return { media: media.items, playlists, counts: { playlists: media.playlists, tags: media.tags } };
+    return { media: media.items.sort(newestFirst), playlists, counts: { playlists: media.playlists, tags: media.tags } };
 }
 
 async function readMedia(path) {

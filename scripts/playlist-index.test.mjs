@@ -56,3 +56,22 @@ test('Hides all ancestors even with duplicate direct membership; retains indepen
     assert.equal(index.playlists.get('root').count, 2);
     assert.deepEqual(index.playlists.get('branch').items, ['shared']);
 });
+
+
+test('Sorts all playlist levels and search by date, keeping undated entries last', () => {
+    const items = [
+        { id: 'old', date: '2020-01-01', title: 'Video old', source: 'youtube', type: 'video' },
+        { id: 'unknown', title: 'Video unknown', source: 'youtube', type: 'video' },
+        { id: 'new', date: '2026-10-14', title: 'Video new', source: 'youtube', type: 'video' }
+    ];
+    const tree = [{ id: 'root', title: 'Root', items: ['old'], children: [
+        { id: 'child', title: 'Child', items: ['unknown', 'new'], children: [] }
+    ] }];
+    const index = new VideoPlaylistIndex(items, tree);
+    assert.deepEqual(index.playlists.get('root').items, ['new', 'old', 'unknown']);
+    assert.deepEqual(index.playlists.get('child').items, ['new', 'unknown']);
+    assert.equal(index.forVideo('new')[0].position, 1);
+    assert.equal(index.forVideo('new')[0].previous, null);
+    assert.equal(index.forVideo('new')[0].next.id, 'unknown');
+    assert.deepEqual(index.search('video').videos.map(item => item.id), ['new', 'old', 'unknown']);
+});
