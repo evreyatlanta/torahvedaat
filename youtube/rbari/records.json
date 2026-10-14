@@ -1,6 +1,65 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "EFtx3hY7kqL8Yx64dD-1CCEbhaQ",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkVwR3NqeTZmSVBR",
+    "snippet": {
+      "publishedAt": "2026-10-14T00:59:48Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Шаар аГилгулим 26.17: Даат и облачения души | Рав Элиягу Бари",
+      "description": "Почему особые капли пяти зивугов связаны с самим Даат, а обычный порядок нисхождения начинается с пробуждения снизу? Рав Элиягу Бари разбирает раздел 26.17 «Шаар аГилгулим» — различие духовного истока и сохранение первоначальной чистоты.\n\nВ уроке рассматриваются итарута де-нуква — пробуждение снизу — и итарута де-дхура — пробуждение сверху. Объясняется, как хасадим и гвурот распространяются через ВаК, шесть нижних качеств Зеир Анпина, и чем облачение в них отличается от прохождения через них без задержки.\n\nОсобое внимание уделяется каплям, происходящим непосредственно из Хеседа и Гвуры внутри Даат. В предоставленном объяснении речь идёт прежде всего об истоке облачений душ. Понятия Нуквы, зивуга и «капель, излитых напрасно» разбираются как язык духовных отношений; их не следует понимать как буквальные телесные образы.\n\nПочему высокая духовная исходная точка не означает лёгкого пути исправления? Заключение раздела связывает сохранение чистоты истока с возможностью тяжёлого тиккуна, когда влияние не принимается Нуквой на соответствующем уровне.\n\nИсточник урока: «Шаар аГилгулим», Начало 26, раздел 17, по предоставленной русской построчной лекции. Продвинутый разбор учения Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Даат #РавЭлиягуБари\n\nХЭШТЕГИ\n#ШаарГилгулим #Аризаль #Каббала #Даат #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/EpGsjy6fIPQ/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "EpGsjy6fIPQ"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "EpGsjy6fIPQ",
+      "videoPublishedAt": "2026-10-14T00:59:48Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "MSUnkSoludELq5_kGg-_V24IdKI",
     "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm53VVVlWHhBNE1n",
     "snippet": {
