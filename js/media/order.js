@@ -1,7 +1,7 @@
-// Newest timestamps first; matching timestamps use natural title order.
+// Newest calendar dates first; matching days use natural title order.
 const titleOrder = new Intl.Collator('ru', { numeric: true, sensitivity: 'base' });
 export function newestFirst(a, b) {
-    const timestamp = item => Number.isFinite(Date.parse(item.date)) ? Date.parse(item.date) : -Infinity;
+    const timestamp = item => Number.isFinite(Date.parse(String(item.date || '').slice(0, 10))) ? Date.parse(String(item.date).slice(0, 10)) : -Infinity;
     const left = timestamp(a), right = timestamp(b);
     return left === right ? titleOrder.compare(a.title || '', b.title || '') : left > right ? -1 : 1;
 }
