@@ -1,8 +1,9 @@
-// Invalid or missing dates sort last; equal dates keep their existing order.
+// Newest timestamps first; matching timestamps use natural title order.
+const titleOrder = new Intl.Collator('ru', { numeric: true, sensitivity: 'base' });
 export function newestFirst(a, b) {
     const timestamp = item => Number.isFinite(Date.parse(item.date)) ? Date.parse(item.date) : -Infinity;
     const left = timestamp(a), right = timestamp(b);
-    return left === right ? 0 : left > right ? -1 : 1;
+    return left === right ? titleOrder.compare(a.title || '', b.title || '') : left > right ? -1 : 1;
 }
 
 export function applyFixedDates(items, dates) {

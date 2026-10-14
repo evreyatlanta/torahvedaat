@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { VideoPlaylistIndex } from '../js/media/playlist-index.js';
 
 test('Shows deepest memberships and neighbors while preserving parent search counts', () => {
-    const items = ['new', 'middle', 'old'].map(id => ({ id, title: id }));
+    const items = ['new', 'middle', 'old'].map((id, index) => ({ id, title: id, date: ['2026-10-14', '2026-10-13', '2026-10-12'][index] }));
     const tree = [{ id: 'root', title: 'Root', items: ['middle'], children: [
         { id: 'one', title: 'One', items: ['new', 'middle', 'old', 'missing'], children: [] },
         { id: 'two', title: 'Two', items: ['middle', 'old'], children: [] }
@@ -39,7 +39,8 @@ test('Search matches title words without case or ё distinction, returns capped 
     assert.equal(index.search('бари уроки').playlists[0].id, 'course');
     assert.equal(index.search('unknown').videoCount, 0);
     assert.deepEqual(index.search('   '), { videos: [], playlists: [], videoCount: 0, playlistCount: 0 });
-    assert.equal(index.playlists.get('course').items[0], '0');
+    assert.equal(index.playlists.get('course').items[0], 'audio');
+    assert.equal(index.playlists.get('course').items[1], '0');
 });
 
 
