@@ -1,3 +1,4 @@
+import { applyFixedDates } from './order.js';
 import { videoHistory, playbackTime } from './video-history.js';
 import { trackYoutubePlayer, pauseHistoryVideos, stopHistoryVideo } from './youtube-history-player.js';
 import { VideoPlaylistIndex } from './playlist-index.js';
@@ -270,11 +271,11 @@ export class VideoPlayerPanel {
     }
 
     async catalog() {
-        if (!this.catalogPromise) this.catalogPromise = Promise.all(['media.js', 'playlist.js'].map(async file => {
+        if (!this.catalogPromise) this.catalogPromise = Promise.all(['media.js', 'playlist.js', 'sort-date.js'].map(async file => {
             const response = await fetch(`${this.dataRoot}${file}`);
             if (!response.ok) throw new Error('Media data unavailable');
             return response.json();
-        })).then(([library, tree]) => new VideoPlaylistIndex(library.items, tree))
+        })).then(([library, tree, dates]) => new VideoPlaylistIndex(applyFixedDates(library.items, dates), tree))
             .catch(error => { this.catalogPromise = null; throw error; });
         return this.catalogPromise;
     }

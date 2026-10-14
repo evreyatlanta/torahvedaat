@@ -1,12 +1,13 @@
-import { newestFirst } from '/js/media/order.js';
+import { newestFirst, applyFixedDates, loadFixedDates } from '/js/media/order.js';
 import { readArray } from '../data.js';
 
 export async function loadMediaLibrary() {
-    const [media, playlists] = await Promise.all([
+    const [media, playlists, dates] = await Promise.all([
         readMedia('/test/data/media.js'),
-        readArray('/test/data/playlist.js')
+        readArray('/test/data/playlist.js'),
+        loadFixedDates('/test/data/sort-date.js')
     ]);
-    return { media: media.items.sort(newestFirst), playlists, counts: { playlists: media.playlists, tags: media.tags } };
+    return { media: applyFixedDates(media.items, dates).sort(newestFirst), playlists, counts: { playlists: media.playlists, tags: media.tags } };
 }
 
 async function readMedia(path) {
