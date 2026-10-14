@@ -30567,1033 +30567,482 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "EsnjRX0i7EY49VE4yxgPDcjvueA",
+        "etag": "H9nMeasL80W7gQ52yDKuJGvtKDg",
         "prevPageToken": "EAEaH1BUOkNNZ0JJaEE0UVVFME16TkRSa000UmpBME5qY3k",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "UlBnE9C7pWvbr_NhVtQXVAwlojY",
+            "etag": "HQOmZj2TLP_aoyTfucqlc4TD6Vc",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS44QUE0MzNDRkM4RjA0Njcy",
             "snippet": {
               "publishedAt": "2025-07-02T20:54:42Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 201. Теhилим. 78-й Псалом. Часть 4",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/qcE27CStkcY/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/qcE27CStkcY/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/qcE27CStkcY/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/qcE27CStkcY/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/qcE27CStkcY/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 200,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "qcE27CStkcY"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "qcE27CStkcY",
-              "videoPublishedAt": "2025-07-02T21:09:03Z"
+              "videoId": "qcE27CStkcY"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "zfOdFxoFQNJvmU2pyECKilTek2E",
+            "etag": "qQuAhXG2vzhxZv3OS1wruna81tQ",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS5EMzdGRjBBQzVCNEY2NDhG",
             "snippet": {
               "publishedAt": "2025-07-14T05:01:58Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 202. Теhилим. 78-й Псалом. Часть 5",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/j7a3_Lqekj0/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/j7a3_Lqekj0/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/j7a3_Lqekj0/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/j7a3_Lqekj0/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/j7a3_Lqekj0/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 201,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "j7a3_Lqekj0"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "j7a3_Lqekj0",
-              "videoPublishedAt": "2025-07-14T04:48:11Z"
+              "videoId": "j7a3_Lqekj0"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ypTETrtsAmQZdUbxviFc4fWk6gA",
+            "etag": "y98e9jHUjm7iUhiMnSUZKbh5vDU",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS44OEYxMzRDRDg1REM4QjIw",
             "snippet": {
               "publishedAt": "2025-07-16T20:43:02Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 203. Теhилим. 78-й Псалом Часть 6. 79-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/FTpp16zl_zg/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/FTpp16zl_zg/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/FTpp16zl_zg/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/FTpp16zl_zg/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/FTpp16zl_zg/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 202,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FTpp16zl_zg"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "FTpp16zl_zg",
-              "videoPublishedAt": "2025-07-16T20:46:47Z"
+              "videoId": "FTpp16zl_zg"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "QbywAENshqLHgla3m5nxigIMDoY",
+            "etag": "6JQJ67FocycARkOdJAQxhHK8Bek",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS40Mzg1NEVCNkVCNjNGNDk0",
             "snippet": {
               "publishedAt": "2025-07-23T18:56:50Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 204. Теhилим. 79-й Псалом. Часть 2",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/DqX7B5JxsZU/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/DqX7B5JxsZU/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/DqX7B5JxsZU/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/DqX7B5JxsZU/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/DqX7B5JxsZU/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 203,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "DqX7B5JxsZU"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "DqX7B5JxsZU",
-              "videoPublishedAt": "2025-07-23T19:00:11Z"
+              "videoId": "DqX7B5JxsZU"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ymBZRnoIMsLvBdXWVnssbE7wBq4",
+            "etag": "V7ACOaRle1kZrew00B88MV1DnkA",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS4zODMyNzgxRTc3QzBBMjJE",
             "snippet": {
               "publishedAt": "2025-08-20T11:54:49Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 205. Теhилим. 79-й Псалом. Часть 3",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/gRON8ah8jjI/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/gRON8ah8jjI/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/gRON8ah8jjI/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/gRON8ah8jjI/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/gRON8ah8jjI/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 204,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "gRON8ah8jjI"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "gRON8ah8jjI",
-              "videoPublishedAt": "2025-08-20T12:19:19Z"
+              "videoId": "gRON8ah8jjI"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "n3_aYcMGGEgDkqfgQpdGfjlEmC0",
+            "etag": "7A7HIvrpdlePsKJvEbsNSdtsDoE",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS5EQTkxMkVFODRENEJBMERF",
             "snippet": {
               "publishedAt": "2025-09-03T18:06:43Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 206. Теhилим. 80-й Псалом. Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/KUu3xIXq71w/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/KUu3xIXq71w/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/KUu3xIXq71w/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/KUu3xIXq71w/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/KUu3xIXq71w/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 205,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "KUu3xIXq71w"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "KUu3xIXq71w",
-              "videoPublishedAt": "2025-09-03T18:09:55Z"
+              "videoId": "KUu3xIXq71w"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "9Ou7cZB0vnpv2RjmRrcrVnwYXMg",
+            "etag": "DqbwACAiHeuJc4KMMtgTucYqQ84",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS44Q0M3MkM5NzExMTIyRDg3",
             "snippet": {
               "publishedAt": "2025-09-10T12:56:46Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 207. Теhилим. 80-й Псалом. Часть 2",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/zB_cGLBuPDI/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/zB_cGLBuPDI/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/zB_cGLBuPDI/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/zB_cGLBuPDI/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/zB_cGLBuPDI/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 206,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "zB_cGLBuPDI"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "zB_cGLBuPDI",
-              "videoPublishedAt": "2025-09-10T13:00:10Z"
+              "videoId": "zB_cGLBuPDI"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "AkMfGjKfRkFrqz9Nbg2XhZn53Dw",
+            "etag": "JXfRYiQ0Q3jI-6Q9Ghg9L9cPacg",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS4zNjNFN0I4ODYzQTQ3QTg2",
             "snippet": {
               "publishedAt": "2025-10-30T22:03:22Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 208. Теhилим. 80-й Псалом. Часть 3",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/vbKnrNj-Dk8/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/vbKnrNj-Dk8/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/vbKnrNj-Dk8/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/vbKnrNj-Dk8/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/vbKnrNj-Dk8/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 207,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "vbKnrNj-Dk8"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "vbKnrNj-Dk8",
-              "videoPublishedAt": "2025-10-30T22:12:58Z"
+              "videoId": "vbKnrNj-Dk8"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "wEb9NjPYQh5Sus5hS5NB296DS5I",
+            "etag": "7l7wMmjwQQoy30rYBHgaWmyU914",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS44Q0Q0NjMwREMzREQ1RkE4",
             "snippet": {
               "publishedAt": "2025-11-06T18:48:15Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 209. Теhилим. 81-й Псалом. Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/qWQotMQGgis/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/qWQotMQGgis/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/qWQotMQGgis/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/qWQotMQGgis/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/qWQotMQGgis/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 208,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "qWQotMQGgis"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "qWQotMQGgis",
-              "videoPublishedAt": "2025-11-06T18:51:55Z"
+              "videoId": "qWQotMQGgis"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "lE_iobjE30nbJ-5fAZB7CW3-NyU",
+            "etag": "FrEhz7CqvzgrGsVTZqLgaX-SGhM",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS43OEQ1OTk4ODU2N0E5RUYz",
             "snippet": {
               "publishedAt": "2025-11-13T19:08:46Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 210. Теhилим. 81-й Псалом. Часть 2",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/KA7gI7ewb0Y/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/KA7gI7ewb0Y/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/KA7gI7ewb0Y/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/KA7gI7ewb0Y/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/KA7gI7ewb0Y/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 209,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "KA7gI7ewb0Y"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "KA7gI7ewb0Y",
-              "videoPublishedAt": "2025-11-13T19:13:27Z"
+              "videoId": "KA7gI7ewb0Y"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "_YPqf_lgwwwZpN7DHRQQ1gOQlas",
+            "etag": "igSEIWy37GZws_sSKFWZN07OeSA",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS40QkU3RjBCMjgzQUIzNjg2",
             "snippet": {
               "publishedAt": "2025-11-19T23:49:27Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 211. Теhилим. 81-й Псалом Часть 3. 82-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/m1l89xc2SiE/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/m1l89xc2SiE/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/m1l89xc2SiE/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/m1l89xc2SiE/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/m1l89xc2SiE/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 210,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "m1l89xc2SiE"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "m1l89xc2SiE",
-              "videoPublishedAt": "2025-11-19T23:54:24Z"
+              "videoId": "m1l89xc2SiE"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "UeQ6ct-dX2vBx30ZZEje0ubXmsM",
+            "etag": "RLUOB9lJz1RJoc6yEfcA-VoDTYo",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS5GOUJEOERGNDg1N0QyNDA3",
             "snippet": {
               "publishedAt": "2025-11-26T22:01:09Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 212. Теhилим. 82-й Псалом Часть 2. 83-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/m7AcN1AkHHs/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/m7AcN1AkHHs/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/m7AcN1AkHHs/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/m7AcN1AkHHs/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/m7AcN1AkHHs/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 211,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "m7AcN1AkHHs"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "m7AcN1AkHHs",
-              "videoPublishedAt": "2025-11-26T22:04:38Z"
+              "videoId": "m7AcN1AkHHs"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "-40PFI1Nzy7xwI824eqIb0DEoaY",
+            "etag": "NEndrVacMjr6GqP7qtVWfPvjP6o",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS5GNzRBRjZBMTFFRDU2OERD",
             "snippet": {
               "publishedAt": "2025-12-04T00:34:35Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 213. Теhилим. 83-й Псалом Часть 2. 84-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/lVJu4MRTiEw/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/lVJu4MRTiEw/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/lVJu4MRTiEw/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/lVJu4MRTiEw/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/lVJu4MRTiEw/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 212,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "lVJu4MRTiEw"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "lVJu4MRTiEw",
-              "videoPublishedAt": "2025-12-04T01:04:58Z"
+              "videoId": "lVJu4MRTiEw"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "6rGrRTvQDwWMl3qWjRBJZVZdkMQ",
+            "etag": "RL3lFED1gfZBnTqWRB-0Jk6EFKA",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS4zMzg4MjBBNzZCQzY5MDk4",
             "snippet": {
               "publishedAt": "2025-12-10T19:27:05Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 214. Теhилим. 84-й Псалом. Часть 2",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/8fnQJaIkJ20/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/8fnQJaIkJ20/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/8fnQJaIkJ20/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/8fnQJaIkJ20/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/8fnQJaIkJ20/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 213,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "8fnQJaIkJ20"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "8fnQJaIkJ20",
-              "videoPublishedAt": "2025-12-10T19:39:03Z"
+              "videoId": "8fnQJaIkJ20"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "uwx7_r1F6sJ_lvEIM3muzyESTvA",
+            "etag": "zU-tgAnplAfZdCP245oDZ65Q9pc",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS4yOUY5MUNBMTM5RDMyREQ5",
             "snippet": {
               "publishedAt": "2025-12-18T01:00:30Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 215. Теhилим. 84-й Псалом. Часть 3",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/CapDzAQT5yI/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/CapDzAQT5yI/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/CapDzAQT5yI/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/CapDzAQT5yI/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/CapDzAQT5yI/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 214,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "CapDzAQT5yI"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "CapDzAQT5yI",
-              "videoPublishedAt": "2025-12-18T01:44:55Z"
+              "videoId": "CapDzAQT5yI"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "KVddPkLBJE82UDmuL0rN9Z9gJlo",
+            "etag": "Lrus13gMphkObxmE-Rj1NF1ac-o",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS41NEM3RjdGQ0FDRjkwNUQ5",
             "snippet": {
               "publishedAt": "2025-12-24T20:36:01Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 216. Теhилим. 84-й Псалом Часть 4. 85-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/zBt67IHCm7A/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/zBt67IHCm7A/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/zBt67IHCm7A/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/zBt67IHCm7A/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/zBt67IHCm7A/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 215,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "zBt67IHCm7A"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "zBt67IHCm7A",
-              "videoPublishedAt": "2025-12-24T20:41:13Z"
+              "videoId": "zBt67IHCm7A"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "QXEeJlvDBboa_UrGLU-ovHhjlls",
+            "etag": "P_XIYxOOtLBbm7hbBgD7dn2aADg",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS40N0VCMzcxQTEyREU1NDND",
             "snippet": {
               "publishedAt": "2025-12-30T22:26:43Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 217. Теhилим. 85-й Псалом Часть 2. 86-й Псалом Часть 1",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/4IshEopKxdk/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/4IshEopKxdk/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/4IshEopKxdk/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/4IshEopKxdk/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/4IshEopKxdk/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 216,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "4IshEopKxdk"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "4IshEopKxdk",
-              "videoPublishedAt": "2025-12-30T23:17:35Z"
+              "videoId": "4IshEopKxdk"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "atumremnRkI4-8EYeCZQfolJu2g",
+            "etag": "0Fl2WS-EYUidAT0AWGoPpjvZusE",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS44ODU0NUVGNEZGMDI3QTdF",
             "snippet": {
               "publishedAt": "2026-01-08T03:50:30Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 218. Теhилим. 86-й Псалом. Часть 2",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/lLJgM_dwqGs/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/lLJgM_dwqGs/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/lLJgM_dwqGs/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/lLJgM_dwqGs/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/lLJgM_dwqGs/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 217,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "lLJgM_dwqGs"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "lLJgM_dwqGs",
-              "videoPublishedAt": "2026-01-08T04:03:16Z"
+              "videoId": "lLJgM_dwqGs"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Oj2qxDiU8egI9merk6JEv6WomrA",
+            "etag": "MDPNcGPKJSty2jm5PU2bQuiStnI",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS43OEM5M0IwMkQ1MzBCMUI1",
             "snippet": {
               "publishedAt": "2026-02-11T21:07:48Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Урок 219. Теhилим. 86-й Псалом. Часть 3",
-              "description": "",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/iHM75bEDuYc/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/iHM75bEDuYc/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/iHM75bEDuYc/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/iHM75bEDuYc/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/iHM75bEDuYc/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
+              "title": "Deleted video",
+              "description": "This video is unavailable.",
+              "thumbnails": {},
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
               "position": 218,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "iHM75bEDuYc"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+              }
             },
             "contentDetails": {
-              "videoId": "iHM75bEDuYc",
-              "videoPublishedAt": "2026-02-11T21:11:58Z"
+              "videoId": "iHM75bEDuYc"
             },
             "status": {
-              "privacyStatus": "public"
+              "privacyStatus": "privacyStatusUnspecified"
             }
           }
         ],
