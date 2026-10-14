@@ -20,7 +20,7 @@ test('Specific video rule wins over playlist categories, other tags are combined
   ]));
   assert.deepEqual(media.tags, ['music', 'topic', 'rbari', 'another']);
   assert.equal(media.id, 'video-id');
-  assert.equal(media.date, '2026-10-07');
+  assert.equal(media.date, '2026-10-07T12:00:00Z');
   assert.equal(JSON.stringify({ records, playlists }), original);
 });
 

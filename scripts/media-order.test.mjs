@@ -9,3 +9,9 @@ test('Fixed dates change display and ordering without modifying source records',
     assert.equal(items[0].date, '2026-10-14');
     assert.deepEqual(applyFixedDates(items, {}), items);
 });
+
+test('Videos published on the same day sort by exact timestamp', () => {
+    const items = [{ id: 'early', date: '2026-10-14T09:00:00Z' },
+        { id: 'late', date: '2026-10-14T18:30:00Z' }];
+    assert.deepEqual(items.sort(newestFirst).map(item => item.id), ['late', 'early']);
+});

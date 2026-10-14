@@ -92,7 +92,7 @@ export function buildChannelMedia(records, playlists, channel, rules) {
     const thumbnails = record.snippet?.thumbnails || {};
     const thumbnail = thumbnails.high || thumbnails.medium || thumbnails.default;
     if (thumbnail?.url) media.thumbnailUrl = thumbnail.url;
-    if (publishedAt) media.date = publishedAt.slice(0, 10);
+    if (publishedAt) media.date = publishedAt;
     result.push(media);
   }
   return result;
