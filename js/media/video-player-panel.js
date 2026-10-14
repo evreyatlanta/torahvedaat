@@ -1,4 +1,4 @@
-import { applyFixedDates } from './order.js';
+import { applyFixedDates, displayDate } from './order.js';
 import { videoHistory, playbackTime } from './video-history.js';
 import { trackYoutubePlayer, pauseHistoryVideos, stopHistoryVideo } from './youtube-history-player.js';
 import { VideoPlaylistIndex } from './playlist-index.js';
@@ -166,7 +166,7 @@ export class VideoPlayerPanel {
     videoResult(item) {
         const row = element('article', null, 'video-player-history-row');
         if (item.id === this.currentId) row.classList.add('is-playing');
-        if (item.date) row.append(element('time', item.date, 'media-history-note'));
+        if (item.date) row.append(element('time', displayDate(item.date), 'media-history-note'));
         row.append(this.videoTitle(item));
         const saved = this.history.get(item.id);
         if (saved?.position && !saved.completed) row.append(element('p',

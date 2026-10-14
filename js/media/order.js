@@ -19,3 +19,7 @@ export async function loadFixedDates(path) {
     if (!dates || typeof dates !== 'object' || Array.isArray(dates)) throw new Error('Invalid date overrides');
     return dates;
 }
+
+export function displayDate(value) {
+    return String(value || '').slice(0, 10);
+}

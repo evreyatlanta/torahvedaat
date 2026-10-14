@@ -1,3 +1,4 @@
+import { displayDate } from '/js/media/order.js';
 import { element } from '../schedule/elements.js';
 import { youtubePlayer } from '/js/media/youtube-player.js';
 
@@ -7,7 +8,7 @@ export function renderMediaRecords(target, items, title) {
     for (const item of items) {
         const card = element('article', null, 'media-record');
         if (item.title) card.append(element('h4', item.title));
-        if (item.date) card.append(element('p', item.date));
+        if (item.date) card.append(element('p', displayDate(item.date)));
         const player = youtubePlayer(item);
         if (player) card.append(player);
         const paragraphs = (item.description ?? []).filter(paragraph => paragraph?.trim());
