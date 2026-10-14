@@ -1,4 +1,4 @@
-import { newestFirst } from '../js/media/order.js';
+import { compareMedia, applySortValues } from '../js/media/order.js';
 import { readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { pathToFileURL } from 'node:url';
@@ -14,7 +14,7 @@ export function assembleLibrary(channelMedia, playlistCounts = []) {
         : record);
     }
   }
-  const items = [...unique.values()].sort(newestFirst);
+  const items = [...unique.values()].sort(compareMedia);
   const counts = new Map();
   for (const item of items) for (const tag of new Set(item.tags)) {
     counts.set(tag, (counts.get(tag) || 0) + 1);
@@ -42,6 +42,11 @@ export async function assembleYoutubeLibrary(root, dataDirectory) {
   }
   const output = path.join(dataDirectory, 'media.js');
   const library = assembleLibrary(records);
+  const sortValues = await read(path.join(dataDirectory, 'sort.js')).catch(error => {
+    if (error.code === 'ENOENT') return {};
+    throw error;
+  });
+  library.items = applySortValues(library.items, sortValues).sort(compareMedia);
   const playlistsFile = path.join(dataDirectory, 'playlist.js');
   const bindings = applyGroupRules(await read(path.join(dataDirectory, 'media-tree.js')), sourcePlaylists,
     await read(path.join(root, 'rules.json')), library.items, folderMedia,

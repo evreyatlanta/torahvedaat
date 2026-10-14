@@ -1,25 +1,25 @@
-// Newest calendar dates first; matching days use natural title order.
 const titleOrder = new Intl.Collator('ru', { numeric: true, sensitivity: 'base' });
-export function newestFirst(a, b) {
-    const timestamp = item => Number.isFinite(Date.parse(String(item.date || '').slice(0, 10))) ? Date.parse(String(item.date).slice(0, 10)) : -Infinity;
-    const left = timestamp(a), right = timestamp(b);
-    return left === right ? titleOrder.compare(a.title || '', b.title || '') : left > right ? -1 : 1;
+export const DEFAULT_MEDIA_SORT = 1000000;
+export function compareMedia(a, b) {
+    const rank = item => Number.isFinite(item.sort) ? item.sort : DEFAULT_MEDIA_SORT;
+    const difference = rank(a) - rank(b);
+    if (difference) return difference;
+    const day = item => {
+        const value = Date.parse(String(item.date || '').slice(0, 10));
+        return Number.isFinite(value) ? value : Infinity;
+    };
+    const left = day(a), right = day(b);
+    return left === right ? titleOrder.compare(a.title || '', b.title || '') : left < right ? -1 : 1;
 }
-
-export function applyFixedDates(items, dates) {
-    return items.map(item => Object.hasOwn(dates, item.id) &&
-        typeof dates[item.id] === 'string' && Number.isFinite(Date.parse(dates[item.id]))
-        ? { ...item, date: dates[item.id] } : item);
+export function applySortValues(items, values) {
+    return items.map(item => ({ ...item, sort: Object.hasOwn(values, item.id) && Number.isFinite(values[item.id])
+        ? values[item.id] : DEFAULT_MEDIA_SORT }));
 }
-
-export async function loadFixedDates(path) {
+export async function loadSortValues(path) {
     const response = await fetch(path);
-    if (!response.ok) throw new Error('Date overrides unavailable: ' + path);
-    const dates = await response.json();
-    if (!dates || typeof dates !== 'object' || Array.isArray(dates)) throw new Error('Invalid date overrides');
-    return dates;
+    if (!response.ok) throw new Error('Sort values unavailable: ' + path);
+    const values = await response.json();
+    if (!values || typeof values !== 'object' || Array.isArray(values)) throw new Error('Invalid sort values');
+    return values;
 }
-
-export function displayDate(value) {
-    return String(value || '').slice(0, 10);
-}
+export function displayDate(value) { return String(value || '').slice(0, 10); }

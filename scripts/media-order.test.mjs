@@ -1,26 +1,17 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { applyFixedDates, newestFirst } from '../js/media/order.js';
-test('Fixed dates change display and ordering without modifying source records', () => {
-    const items = [{ id: 'a', date: '2026-10-14' }, { id: 'b', date: '2020-01-01' }, { id: 'c' }];
-    const result = applyFixedDates(items, { a: '2019-01-01', b: '2026-10-15', c: 'invalid' }).sort(newestFirst);
-    assert.deepEqual(result.map(x => x.id), ['b', 'a', 'c']);
-    assert.equal(result[0].date, '2026-10-15');
-    assert.equal(items[0].date, '2026-10-14');
-    assert.deepEqual(applyFixedDates(items, {}), items);
+import { applySortValues, compareMedia, DEFAULT_MEDIA_SORT } from '../js/media/order.js';
+test('Explicit ranks first, unlisted new videos use million; source dates stay unchanged', () => {
+ const items = [{id:'new',date:'2026-10-14'}, {id:'two',date:'2010-01-01'}, {id:'one',date:'2020-01-01'}];
+ const result=applySortValues(items,{one:1,two:2}).sort(compareMedia);
+ assert.deepEqual(result.map(x=>x.id),['one','two','new']);
+ assert.equal(result[2].sort,DEFAULT_MEDIA_SORT);
+ assert.equal(result[0].date,'2020-01-01');
+ assert.equal(items[0].sort,undefined);
 });
-
-test('Videos published on the same day ignore time and use title order', () => {
-    const items = [{ id: 'early', title: 'Урок 1', date: '2026-10-14T09:00:00Z' },
-        { id: 'late', title: 'Урок 2', date: '2026-10-14T18:30:00Z' }];
-    assert.deepEqual(items.sort(newestFirst).map(item => item.id), ['early', 'late']);
-});
-
-test('Equal days use natural ascending titles without overriding different days', () => {
- const items = [
-  { id: 'ten', title: 'Урок 10', date: '2026-10-14T12:00:00Z' },
-  { id: 'two', title: 'Урок 2', date: '2026-10-14T12:00:00Z' },
-  { id: 'new', title: 'Урок 99', date: '2026-10-15T12:00:01Z' }
- ];
- assert.deepEqual(items.sort(newestFirst).map(x => x.id), ['new', 'two', 'ten']);
+test('Matching ranks use calendar date ascending then natural title; times ignored', () => {
+ const items=[{id:'new',date:'2026-10-15',title:'Урок 1'},
+ {id:'ten',date:'2026-10-14T01:00:00Z',title:'Урок 10'},
+ {id:'two',date:'2026-10-14T19:00:00Z',title:'Урок 2'}, {id:'unknown'}];
+ assert.deepEqual(items.sort(compareMedia).map(x=>x.id),['two','ten','new','unknown']);
 });
