@@ -293,7 +293,8 @@ export class VideoPlayerPanel {
             if (!matches.length) this.playlistsContent.append(element('p', 'Это видео не входит в плейлисты сайта.'));
             for (const playlist of matches) {
                 const row = element('section', null, 'video-playlist-choice');
-                const ids = catalog.playlists.get(playlist.id).items;
+                // Browse lessons from earlier to later; the media page keeps newest-first order.
+                const ids = [...catalog.playlists.get(playlist.id).items].reverse();
                 let position = ids.indexOf(videoId);
                 const previous = button('←', () => { position--; update(); }, 'video-playlist-arrow');
                 const next = button('→', () => { position++; update(); }, 'video-playlist-arrow');

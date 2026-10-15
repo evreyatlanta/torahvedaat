@@ -15,13 +15,13 @@ test('Shows deepest memberships and neighbors while preserving parent search cou
     assert.equal(one.path, 'Root → One');
     assert.equal(one.count, 3);
     assert.equal(one.position, 2);
-    assert.equal(one.previous.id, 'new');
-    assert.equal(one.next.id, 'old');
+    assert.equal(one.previous.id, 'old');
+    assert.equal(one.next.id, 'new');
     assert.equal(memberships.some(item => item.id === 'root'), false);
     assert.equal(index.playlists.get('root').count, 3);
-    assert.equal(index.forVideo('new').find(item => item.id === 'one').previous, null);
-    assert.equal(index.forVideo('new').find(item => item.id === 'one').next.id, 'middle');
-    assert.equal(index.forVideo('old').find(item => item.id === 'one').next, null);
+    assert.equal(index.forVideo('new').find(item => item.id === 'one').next, null);
+    assert.equal(index.forVideo('new').find(item => item.id === 'one').previous.id, 'middle');
+    assert.equal(index.forVideo('old').find(item => item.id === 'one').previous, null);
     assert.deepEqual(index.forVideo('absent'), []);
 });
 
@@ -71,8 +71,8 @@ test('Sorts all playlist levels and search by date, keeping undated entries last
     const index = new VideoPlaylistIndex(items, tree);
     assert.deepEqual(index.playlists.get('root').items, ['new', 'old', 'unknown']);
     assert.deepEqual(index.playlists.get('child').items, ['new', 'unknown']);
-    assert.equal(index.forVideo('new')[0].position, 1);
-    assert.equal(index.forVideo('new')[0].previous, null);
-    assert.equal(index.forVideo('new')[0].next.id, 'unknown');
+    assert.equal(index.forVideo('new')[0].position, 2);
+    assert.equal(index.forVideo('new')[0].next, null);
+    assert.equal(index.forVideo('new')[0].previous.id, 'unknown');
     assert.deepEqual(index.search('video').videos.map(item => item.id), ['new', 'old', 'unknown']);
 });
