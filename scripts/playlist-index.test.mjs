@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import { VideoPlaylistIndex } from '../js/media/playlist-index.js';
 
 test('Shows deepest memberships and neighbors while preserving parent search counts', () => {
-    const items = ['new', 'middle', 'old'].map((id, index) => ({ id, title: id, date: ['2026-10-12', '2026-10-13', '2026-10-14'][index] }));
+    const items = ['new', 'middle', 'old'].map((id, index) => ({ id, title: id, date: ['2026-10-14', '2026-10-13', '2026-10-12'][index] }));
     const tree = [{ id: 'root', title: 'Root', items: ['middle'], children: [
         { id: 'one', title: 'One', items: ['new', 'middle', 'old', 'missing'], children: [] },
         { id: 'two', title: 'Two', items: ['middle', 'old'], children: [] }
@@ -69,10 +69,10 @@ test('Sorts all playlist levels and search by date, keeping undated entries last
         { id: 'child', title: 'Child', items: ['unknown', 'new'], children: [] }
     ] }];
     const index = new VideoPlaylistIndex(items, tree);
-    assert.deepEqual(index.playlists.get('root').items, ['old', 'new', 'unknown']);
+    assert.deepEqual(index.playlists.get('root').items, ['new', 'old', 'unknown']);
     assert.deepEqual(index.playlists.get('child').items, ['new', 'unknown']);
     assert.equal(index.forVideo('new')[0].position, 1);
     assert.equal(index.forVideo('new')[0].previous, null);
     assert.equal(index.forVideo('new')[0].next.id, 'unknown');
-    assert.deepEqual(index.search('video').videos.map(item => item.id), ['old', 'new', 'unknown']);
+    assert.deepEqual(index.search('video').videos.map(item => item.id), ['new', 'old', 'unknown']);
 });
