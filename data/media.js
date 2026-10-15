@@ -31783,6 +31783,38 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/EpGsjy6fIPQ/hqdefault.jpg",
       "date": "2026-10-14T00:59:48Z",
       "sort": 1000000
+    },
+    {
+      "id": "FsXwPE7qkJ4",
+      "type": "video",
+      "source": "youtube",
+      "title": "Книга Двенадцати. Урок 90. Книга Пророка Зехарии: \"И НАПОЛНЯТСЯ УЛИЦЫ ГОРОДА ДЕТЬМИ\"",
+      "url": "https://www.youtube.com/watch?v=FsXwPE7qkJ4",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/FsXwPE7qkJ4/hqdefault.jpg",
+      "date": "2026-10-15T01:55:26Z",
+      "sort": 1000000
+    },
+    {
+      "id": "XWEM33X_yK0",
+      "type": "video",
+      "source": "youtube",
+      "title": "Комментарии для Субботнего Стола - глава \"НОАХ\"",
+      "url": "https://www.youtube.com/watch?v=XWEM33X_yK0",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/XWEM33X_yK0/hqdefault.jpg",
+      "date": "2026-10-15T02:01:04Z",
+      "sort": 1000000
     }
   ],
   "playlists": [
@@ -32196,11 +32228,11 @@
     },
     {
       "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-      "count": 89
+      "count": 90
     },
     {
       "id": "neviim",
-      "count": 638
+      "count": 639
     },
     {
       "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
@@ -32228,7 +32260,7 @@
     },
     {
       "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-      "count": 37
+      "count": 38
     },
     {
       "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
@@ -32240,7 +32272,7 @@
     },
     {
       "id": "parsha",
-      "count": 84
+      "count": 85
     },
     {
       "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
@@ -32256,7 +32288,7 @@
     },
     {
       "id": "rzelman",
-      "count": 1156
+      "count": 1158
     },
     {
       "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
@@ -32286,7 +32318,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 1156
+      "count": 1158
     },
     {
       "tag": "show",
@@ -32294,11 +32326,11 @@
     },
     {
       "tag": "torah",
-      "count": 1500
+      "count": 1502
     },
     {
       "tag": "toravedaat",
-      "count": 1618
+      "count": 1620
     }
   ]
 }
