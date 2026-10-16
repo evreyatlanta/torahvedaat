@@ -12,6 +12,22 @@
         "items": [],
         "children": [
           {
+            "id": "PLLiDPzJHV2BE",
+            "title": "[RU] Зоар - Ноах 5787",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "_bQzIvKDsfY",
+              "wYXnzsaK-EM",
+              "qF1DHAcbs50",
+              "DqKx6c4Zm74",
+              "e3f_WBVpXgE"
+            ],
+            "children": []
+          },
+          {
             "id": "PLRCDo5wsgbrI",
             "title": "[RU] Суккот",
             "tags": [
@@ -219,6 +235,11 @@
               "rbari"
             ],
             "items": [
+              "_bQzIvKDsfY",
+              "wYXnzsaK-EM",
+              "qF1DHAcbs50",
+              "DqKx6c4Zm74",
+              "e3f_WBVpXgE",
               "EpGsjy6fIPQ",
               "nwUUeXxA4Mg",
               "FqS83LBWVrg",
@@ -337,6 +358,11 @@
               "rbari"
             ],
             "items": [
+              "_bQzIvKDsfY",
+              "wYXnzsaK-EM",
+              "qF1DHAcbs50",
+              "DqKx6c4Zm74",
+              "e3f_WBVpXgE",
               "nwUUeXxA4Mg",
               "wc6gJhr5j5Y",
               "dLlDz5FSCvo",

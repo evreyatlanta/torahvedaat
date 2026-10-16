@@ -1,12 +1,282 @@
 [
   {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "-zRHEO4KpCLQ-nJ6uZabuQEmSVU",
-    "nextPageToken": "EAAaHlBUOkNESWlFRFEwUVRrd1JFUTRSRFV3TmpRek5UZw",
+    "etag": "MZf6oI8v3VaP4BWlUJOVYa14-1Q",
+    "nextPageToken": "EAAaHlBUOkNESWlFRVpDUVVZMk1qUkRSVGc1TmtORk16Yw",
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "cEgRu6vGPeXZ2z8HPIB2wXXfCSA",
+        "etag": "sCw5ya2gS3yys3sqIHU4CLvj-_E",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkRxS3g2YzRabTc0",
+        "snippet": {
+          "publishedAt": "2026-10-16T02:02:55Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари",
+          "description": "Как у человечества появляется будущее после Потопа? Рассуждение Зоара об Адаме завершается историей Ноаха и ковчега.\n\nВ заключительном уроке Рав Элиягу Бари разбирает конец параграфа 38 главы Ноах книги Зоар: от рождения детей вне Ган Эдена до расселения человечества по четырём сторонам мира. Рассматриваем образ укоренения, праведность Ноаха и ковчег как место сохранения жизни. Соединяем идеи пяти уроков и размышляем об основании, которое передаём следующему поколению.\n\nВ этом уроке:\n• Что значит поколениям укорениться в этом мире\n• Почему Зоар называет Ноаха праведником\n• Вход в ковчег, выход из него и продолжение человечества\n• Применение идей урока к семье, учёбе и передаче Торы\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §38, от детей Адама вне сада до четырёх сторон мира; арамейский текст на печатной странице 287, продолжение английского перевода на странице 288.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DqKx6c4Zm74"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "DqKx6c4Zm74",
+          "videoPublishedAt": "2026-10-16T02:02:55Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "RQnAoeuY9GgMvBUT1x2f5xq97Nc",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmUzZl9XQlZwWGdF",
+        "snippet": {
+          "publishedAt": "2026-10-16T02:00:59Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари",
+          "description": "Почему человеческая жизнь утратила постоянство, которое Зоар описывает в Ган Эдене? Как качество источника связано с хрупкостью жизни?\n\nРав Элиягу Бари читает окончание параграфа 37 и начало параграфа 38 главы Ноах книги Зоар. Разбираем понятие «другая сторона», утрату непрерывного существования и возможность жизни со стороны святости. Сулам различает два вида соединения: духовное соединение ангелов и соединение Йесод для душ. Объясняем эти слова обычным языком в контексте вопроса о продолжении жизни.\n\nВ этом уроке:\n• Ситра ахра — другая сторона — и утрата постоянства\n• Жизнь со стороны святости и сравнение с высшими ангелами\n• Что означает зивуг — соединение — в этом отрывке\n• Два вида соединения в пояснении Сулама\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §37 и начало §38, включая пояснение Сулама о двух видах соединения; печатная страница 287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "e3f_WBVpXgE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "e3f_WBVpXgE",
+          "videoPublishedAt": "2026-10-16T02:00:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "fvUgozvB0jxerE4FGbjt3haSCrA",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndZWG56c2FLLUVN",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:58:37Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари",
+          "description": "Означает ли связь желания с рождением детей, что без греха новая жизнь была бы невозможна? В ответе Зоара решающее значение имеют слова «таким образом».\n\nРав Элиягу Бари продолжает вопрос рабби Хизкии и разбирает начало ответа в главе Ноах книги Зоар. Выясняем, почему рядом с историей Адама появляется грех золотого тельца, что Сулам поясняет о силе влечения и как Зоар говорит о потомстве со стороны святости. Рассуждение различает знакомый нам способ продолжения жизни и возможность иного духовного источника.\n\nВ этом уроке:\n• Сопоставление Адама и Исраэля после греха золотого тельца\n• Йецер а-ра — дурное начало в этом рассуждении\n• Почему важны слова «таким образом» и «со стороны»\n• Продолжение жизни со стороны духа святости\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §36 и начало §37, до слов о потомстве со стороны святости; печатные страницы 286–287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wYXnzsaK-EM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "wYXnzsaK-EM",
+          "videoPublishedAt": "2026-10-16T01:58:37Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "rK_00Gsjobmoo29-J9Xkr54KgiQ",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9iUXpJdktEc2ZZ",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:55:11Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари",
+          "description": "Были бы у Адама дети, если бы он не согрешил? Вопрос рабби Хизкии заставляет внимательнее посмотреть на то, как мы представляем себе жизнь в Ган Эдене.\n\nРав Элиягу Бари разбирает окончание параграфа 35 и начало параграфа 36 главы Ноах книги Зоар. Начинаем со слов Торы об образе Элоким и прослеживаем переход от жизни в саду к жизни за его пределами. Затем рассматриваем вопрос рабби Хизкии: откуда могло бы появиться потомство без влечения, с которым связано продолжение жизни в знакомом нам мире?\n\nВ этом уроке:\n• Образ Элоким и духовное достоинство человека\n• Стих Берешит 1:27 в рассуждении Зоара\n• Выход Адама из Ган Эдена и утрата постоянства жизни\n• Вопрос рабби Хизкии о влечении и потомстве\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §35 и начало §36, до вопроса об Адаме без потомства; печатная страница 286. Стих Торы: Берешит 1:27.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_bQzIvKDsfY"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "_bQzIvKDsfY",
+          "videoPublishedAt": "2026-10-16T01:55:11Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "AMwi82xe1p7EDJOLlUFQinH_j1E",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFGMURIQWNiczUw",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:51:53Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари",
+          "description": "Какой могла быть человеческая жизнь, если бы Адам сохранил связь с Ган Эденом? Почему Зоар говорит о неугасающем свете луны и сравнивает возможности человека с ангелами?\n\nРав Элиягу Бари начинает серию из пяти уроков по главе Ноах книги Зоар. Читаем начало параграфа 35 по фразам и разбираем связь между источником жизни, её непрерывностью, светом и мудростью. Зоар описывает возможность, которая открывалась бы перед потомством Адама при сохранении его первоначального состояния.\n\nВ этом уроке:\n• Ган Эден и духовный источник человеческой жизни\n• Свет луны и пояснение Сулама о Малхут\n• Поколения, которые могли бы существовать непрерывно\n• Свет, сияние и мудрость в сравнении человека с ангелами\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. §35, от начала до слов о свете, сиянии и мудрости; печатная страница 286.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qF1DHAcbs50"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qF1DHAcbs50",
+          "videoPublishedAt": "2026-10-16T01:51:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "liyZYVIat01Iyyk-27OHuvHrVZ0",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkVwR3NqeTZmSVBR",
         "snippet": {
           "publishedAt": "2026-10-14T00:59:48Z",
@@ -47,7 +317,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 0,
+          "position": 5,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "EpGsjy6fIPQ"
@@ -65,7 +335,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "EMNJnZSyWp3hhsz1UVsz76iSNVs",
+        "etag": "aYjhkRNPQd3YK4_6-MpWdinN_DE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm53VVVlWHhBNE1n",
         "snippet": {
           "publishedAt": "2026-10-09T02:09:15Z",
@@ -101,7 +371,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 1,
+          "position": 6,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "nwUUeXxA4Mg"
@@ -119,7 +389,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bVZU34CJD0lJRpGtiWr5vNwRQcg",
+        "etag": "2FxTa-bXbBWkn4UBd6vfaSGaWOg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLktsUHBtTm8zODMw",
         "snippet": {
           "publishedAt": "2026-10-02T02:43:01Z",
@@ -155,7 +425,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 2,
+          "position": 7,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "KlPpmNo3830"
@@ -173,7 +443,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OC7kTxlv43nXPlSnxS0Cez-cj-U",
+        "etag": "9Cuo3HD5vWWCDWpnJ4N2BheGbQQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkZxUzgzTEJXVnJn",
         "snippet": {
           "publishedAt": "2026-10-02T01:59:51Z",
@@ -209,7 +479,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 3,
+          "position": 8,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "FqS83LBWVrg"
@@ -227,7 +497,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QT9B53_-fChWSMpI3DN1hvBHSqc",
+        "etag": "oJ0eRQpzSMi0BPo7ZwYsZ52O9UY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnp4WEpfOGJfZ1JB",
         "snippet": {
           "publishedAt": "2026-10-02T01:16:30Z",
@@ -263,7 +533,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 4,
+          "position": 9,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zxXJ_8b_gRA"
@@ -281,7 +551,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "XUjdAvaD-CV-t1IzjwiYhcVW5_A",
+        "etag": "RYRxP4U8T7tMBPr9FSJmZPS5iPE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkJ3QzlMTnBDWVdn",
         "snippet": {
           "publishedAt": "2026-09-29T01:15:28Z",
@@ -317,7 +587,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 5,
+          "position": 10,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "BwC9LNpCYWg"
@@ -335,7 +605,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "MR3IjsqG6jWIOu57YnxqsuLLirQ",
+        "etag": "lWpdPAOL0CxqJeavEYvP8ec27xE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9yWUNCY3QwemFB",
         "snippet": {
           "publishedAt": "2026-09-29T01:10:42Z",
@@ -371,7 +641,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 6,
+          "position": 11,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_rYCBct0zaA"
@@ -389,7 +659,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "y5w53JmC6ZjAPEwzqeUVodDLX4k",
+        "etag": "qpu2MCJXgWiUJbRMpf4VUAgECgc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmkyVUlXRTRkdktN",
         "snippet": {
           "publishedAt": "2026-09-29T01:06:30Z",
@@ -425,7 +695,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 7,
+          "position": 12,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "i2UIWE4dvKM"
@@ -443,7 +713,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "08_op3fWVIgcHCvBd24O4Gx0i-8",
+        "etag": "FZpnIsyT8Iz0APsZQy62tY0eoEs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndyVFlYN1Y3TVpB",
         "snippet": {
           "publishedAt": "2026-09-29T01:01:35Z",
@@ -479,7 +749,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 8,
+          "position": 13,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wrTYX7V7MZA"
@@ -497,7 +767,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ym9iunQZMPf3xuAWuGKDjTqYczc",
+        "etag": "1d28lns3azBpTI4FhA3oXOfjOBU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk4taEFWVlZpc1pj",
         "snippet": {
           "publishedAt": "2026-09-25T13:24:46Z",
@@ -533,7 +803,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 9,
+          "position": 14,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "N-hAVVVisZc"
@@ -551,7 +821,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "WGd9cO7B8Lp9HJ6-NVqBJXqP52U",
+        "etag": "nJfZrAWh0qPKu5-qRJP6TRjgzs8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndhdlBaZ2RudmFr",
         "snippet": {
           "publishedAt": "2026-09-25T01:16:02Z",
@@ -587,7 +857,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 10,
+          "position": 15,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wavPZgdnvak"
@@ -605,7 +875,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1fkbWAuxWfldYTuQ5bXnci-W8Rk",
+        "etag": "JzmGBb5-FUdhXU8zpbGb_u0Q57Q",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjRfWWF2Wm80R25v",
         "snippet": {
           "publishedAt": "2026-09-25T01:12:37Z",
@@ -641,7 +911,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 11,
+          "position": 16,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "4_YavZo4Gno"
@@ -659,7 +929,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OsSRG1ulvhsC3Jc0_cgBX69_UNE",
+        "etag": "l0pkx6eskWuesW5p6KJj3tWKw-c",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkxsdmt1QjhYcUJr",
         "snippet": {
           "publishedAt": "2026-09-23T01:14:00Z",
@@ -695,7 +965,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 12,
+          "position": 17,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "LlvkuB8XqBk"
@@ -713,7 +983,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "XAOJBDdaE2AXoNNjKuP5Scdu3MI",
+        "etag": "1VpgWFNd6JJ4T7CrMgytN3a97ow",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm9KVFhEX0R1NG1Z",
         "snippet": {
           "publishedAt": "2026-09-18T01:14:51Z",
@@ -749,7 +1019,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 13,
+          "position": 18,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "oJTXD_Du4mY"
@@ -767,7 +1037,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "2nJud4u9ci71lK7cODVLOAL9hwQ",
+        "etag": "C9UWziuGAH7eaLpsm3MClGF2X8Y",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlg3cFg3dV9IYUFB",
         "snippet": {
           "publishedAt": "2026-09-18T01:03:17Z",
@@ -803,7 +1073,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 14,
+          "position": 19,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "X7pX7u_HaAA"
@@ -821,7 +1091,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ycsje2M_NPKBZ9TWriQ_lw_Umg8",
+        "etag": "npE9GGvt6yMrZ-yZu9SfJBBHwDA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnF0MTNqUHJ6eUUw",
         "snippet": {
           "publishedAt": "2026-09-18T00:59:43Z",
@@ -857,7 +1127,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 15,
+          "position": 20,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qt13jPrzyE0"
@@ -875,7 +1145,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "j6nv9CXxMJZ-kTc_V4BD5xHuPX8",
+        "etag": "WhJ9WPMafihvH_B3cnhtma-ikhs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpJV0w3VXdKOU1V",
         "snippet": {
           "publishedAt": "2026-09-16T23:46:02Z",
@@ -911,7 +1181,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 16,
+          "position": 21,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZIWL7UwJ9MU"
@@ -929,7 +1199,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "h_s5uIItw169BoblGYrMxlUPDJY",
+        "etag": "_kdlgoufi1Nrs0ZPg0oa3U0dwek",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnRPSlcydnluUTIw",
         "snippet": {
           "publishedAt": "2026-09-16T23:42:35Z",
@@ -965,7 +1235,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 17,
+          "position": 22,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "tOJW2vynQ20"
@@ -983,7 +1253,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "eNEh2oNBsNGJmghOA2kVLkeep9U",
+        "etag": "Mxhbm4WxD60sNGvKi2B_SXQ_vx0",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnNVd0tqS3NuMjlJ",
         "snippet": {
           "publishedAt": "2026-09-16T21:28:54Z",
@@ -1019,7 +1289,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 18,
+          "position": 23,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "sUwKjKsn29I"
@@ -1037,7 +1307,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "HJpkuWIx3_yPHhcldpjFyzZLGIM",
+        "etag": "D--086FdLQ1XDv9xBZffC7GAo-8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkxTWlgtY3B0Um04",
         "snippet": {
           "publishedAt": "2026-09-16T01:08:46Z",
@@ -1073,7 +1343,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 19,
+          "position": 24,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "LSZX-cptRm8"
@@ -1091,7 +1361,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "X7xd1Wfj5LUilfppQlNklxmEIi8",
+        "etag": "y60GOM26cLNxRv_JpnIg6W02Uh0",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmE0bW9vd3BGc0tN",
         "snippet": {
           "publishedAt": "2026-09-09T02:14:16Z",
@@ -1127,7 +1397,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 20,
+          "position": 25,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "a4moowpFsKM"
@@ -1145,7 +1415,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "frgmgZDkUc2iE6ialCNgOtdMgZY",
+        "etag": "srWO3ymWkKWY7fmb4o2p0a4Axvk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmFvejJQeGFfQjdz",
         "snippet": {
           "publishedAt": "2026-09-08T04:00:06Z",
@@ -1181,7 +1451,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 21,
+          "position": 26,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "aoz2Pxa_B7s"
@@ -1199,7 +1469,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Z_o7EGLCQj5MshrUJRkscGelPqE",
+        "etag": "lVDefii1ZH9dkKqQlQNzsldJjD4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmp0YmtNN1JSS0Nz",
         "snippet": {
           "publishedAt": "2026-09-08T04:00:06Z",
@@ -1235,7 +1505,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 22,
+          "position": 27,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "jtbkM7RRKCs"
@@ -1253,7 +1523,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "XYXgK9Ix2fPhRW5vxD2jZ_yYO80",
+        "etag": "FQsmoJkqPWlikiQd02Ki2xxf6Sg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnNScFZ1VktrZzRB",
         "snippet": {
           "publishedAt": "2026-09-07T11:42:06Z",
@@ -1289,7 +1559,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 23,
+          "position": 28,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "sRpVuVKkg4A"
@@ -1307,7 +1577,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "TNhDPKmB1Ehdw6Z38aQdnvL49kk",
+        "etag": "2xUNfEt0vRJqOb9ggfEAGefjtLA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnRodmxadXNzTFpr",
         "snippet": {
           "publishedAt": "2026-09-07T04:00:06Z",
@@ -1343,7 +1613,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 24,
+          "position": 29,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "thvlZussLZk"
@@ -1361,7 +1631,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "7fBEt_datcnT4dtoFH-omGxCm-8",
+        "etag": "gx-iq-YF28KqzEVR5nviRlNsJYw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpBb19fZFBkdlJJ",
         "snippet": {
           "publishedAt": "2026-09-06T22:56:26Z",
@@ -1397,7 +1667,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 25,
+          "position": 30,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZAo__dPdvRI"
@@ -1415,7 +1685,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "4qgkjweD1Ck6LIbhejx3PcqX4Lc",
+        "etag": "AOekZUWeVIjekXtPPzMuWUaixYY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnJqQk1sRF9MSzVR",
         "snippet": {
           "publishedAt": "2026-09-06T14:00:06Z",
@@ -1451,7 +1721,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 26,
+          "position": 31,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "rjBMlD_LK5Q"
@@ -1469,7 +1739,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "pYPiB7d1QSZWg5AmdZ4_yoPGPg0",
+        "etag": "wBPfd1N7uFK5jD82_WStDnJyyDE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjdyTGFVc0M3OWYw",
         "snippet": {
           "publishedAt": "2026-09-04T14:00:05Z",
@@ -1505,7 +1775,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 27,
+          "position": 32,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7rLaUsC79f0"
@@ -1523,7 +1793,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "06oeJa14nDi3Vud6ESNqU6mS1YA",
+        "etag": "1N5zwyBwZy5PzVIo0BAFQYgLOQg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmRibmdvZ3k0VjI0",
         "snippet": {
           "publishedAt": "2026-09-04T03:20:41Z",
@@ -1559,7 +1829,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 28,
+          "position": 33,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "dbngogy4V24"
@@ -1577,7 +1847,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "6BfKCB89mSy8cbDej5upMNgW1UY",
+        "etag": "JGBrp0Dy341dw9XMrEXpa4281Zg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlJiek1DQks2UlRn",
         "snippet": {
           "publishedAt": "2026-09-04T01:29:01Z",
@@ -1613,7 +1883,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 29,
+          "position": 34,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "RbzMCBK6RTg"
@@ -1631,7 +1901,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Y1RDL5XAof-va4olenHAELMQEhw",
+        "etag": "hkAe40v6tulNUm2Yed3c9siQKH8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkVBbU1NdkZRVVRR",
         "snippet": {
           "publishedAt": "2026-09-04T01:20:11Z",
@@ -1667,7 +1937,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 30,
+          "position": 35,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "EAmMMvFQUTQ"
@@ -1685,7 +1955,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "JQXVtwdJtqAzTaP_yv_uqPcDDpY",
+        "etag": "c6Tab50daKc9iPQ_loaNdINxYiY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnptcnYxbWNxcHpr",
         "snippet": {
           "publishedAt": "2026-09-02T22:31:16Z",
@@ -1721,7 +1991,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 31,
+          "position": 36,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zmrv1mcqpzk"
@@ -1739,7 +2009,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "TfESsp8fJnkxD0qX8PaTIdcR7ag",
+        "etag": "Np10adyApjgWhYDxlGJ0GtiRP4k",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkdvcHhYUzNJOWZV",
         "snippet": {
           "publishedAt": "2026-09-01T02:55:05Z",
@@ -1775,7 +2045,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 32,
+          "position": 37,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "GopxXS3I9fU"
@@ -1793,7 +2063,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "3QHzzG9L0HdFJLePN0Ev2RR0mBM",
+        "etag": "BY2gXU57693koNV3iuhf-hzeL7Q",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkRBZTljVFdRa01z",
         "snippet": {
           "publishedAt": "2026-09-01T02:40:45Z",
@@ -1829,7 +2099,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 33,
+          "position": 38,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "DAe9cTWQkMs"
@@ -1847,7 +2117,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "wqQZXV67IS4eoMT_S5EC1hcWWVQ",
+        "etag": "TYW4IUVCvm8nyj9DjBTK3bs6z5E",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjV6emQ5VFNJRDl3",
         "snippet": {
           "publishedAt": "2026-08-28T01:26:41Z",
@@ -1883,7 +2153,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 34,
+          "position": 39,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "5zzd9TSID9w"
@@ -1901,7 +2171,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "fIKtywXhXevyhOJJFgd0kwePvok",
+        "etag": "4p8uxSO5pDGwf14sXGa8rTgASZw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnl1NXg1UEpmQXpz",
         "snippet": {
           "publishedAt": "2026-08-28T01:24:01Z",
@@ -1937,7 +2207,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 35,
+          "position": 40,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "yu5x5PJfAzs"
@@ -1955,7 +2225,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "v4rbl_xbfeyo3NgfcVuKKllNsJU",
+        "etag": "OSKkksViJRmePBfQde47HHAqvWk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmhKZ251NlVzQXdN",
         "snippet": {
           "publishedAt": "2026-08-28T01:20:25Z",
@@ -1991,7 +2261,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 36,
+          "position": 41,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "hJgnu6UsAwM"
@@ -2009,7 +2279,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "oNPH5ly1OlTgtTeTYAq_8ZMaHKA",
+        "etag": "Gfji4t7yPnTSetjINnm9pxJIo7I",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmRMbER6NUZTQ3Zv",
         "snippet": {
           "publishedAt": "2026-08-28T01:16:56Z",
@@ -2045,7 +2315,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 37,
+          "position": 42,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "dLlDz5FSCvo"
@@ -2063,7 +2333,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "dSeQc8Zo863c64V5TEMmwyhVk5M",
+        "etag": "-IJfSAG1HP0BV5vVw6jqTjTSwPY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndjNmdKaHI1ajVZ",
         "snippet": {
           "publishedAt": "2026-08-28T01:13:16Z",
@@ -2099,7 +2369,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 38,
+          "position": 43,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wc6gJhr5j5Y"
@@ -2117,7 +2387,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ZvTm_-xFP0BSGiPxV6MjDgNv0qU",
+        "etag": "0-UrsuFau-Re-qioDT6zk3kj3A8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpxRjBlV0l5dWp3",
         "snippet": {
           "publishedAt": "2026-08-21T20:02:56Z",
@@ -2153,7 +2423,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 39,
+          "position": 44,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZqF0eWIyujw"
@@ -2171,7 +2441,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ULu00rphOCJ7mAZD8ALKOG2Ikcg",
+        "etag": "wzJZuVN-BtWc8cXhFXdgsst43-0",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmdtLUFmb1h5Tzlz",
         "snippet": {
           "publishedAt": "2026-08-21T02:22:21Z",
@@ -2207,7 +2477,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 40,
+          "position": 45,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "gm-AfoXyO9s"
@@ -2225,7 +2495,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "i4rXyT8y3uSyohr4Z6cubwj6GGw",
+        "etag": "5b32mezyhmkcTHdPWmWW_U0er2Y",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnY0NDlLS051RjJv",
         "snippet": {
           "publishedAt": "2026-08-19T01:15:36Z",
@@ -2261,7 +2531,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 41,
+          "position": 46,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v449KKNuF2o"
@@ -2279,7 +2549,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Q_X_Glv8in5I4kjxzl1kcvgRrB4",
+        "etag": "i6wrg7b9ZY5RzWbcZdLShRWBw-U",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnVLazBXWVpkWDdF",
         "snippet": {
           "publishedAt": "2026-08-13T16:22:24Z",
@@ -2315,7 +2585,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 42,
+          "position": 47,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "uKk0WYZdX7E"
@@ -2333,7 +2603,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "J5Y8ybKF5IXZ-UPNj0G-xrSAoNE",
+        "etag": "JHZY4Qy_5K_F7eYv6HFACo-EF2A",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFTZE5jZThrMUZN",
         "snippet": {
           "publishedAt": "2026-08-13T16:20:22Z",
@@ -2369,7 +2639,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 43,
+          "position": 48,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qSdNce8k1FM"
@@ -2387,7 +2657,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "dLLtVDpKtP7_aWct2O1B5AgtXWk",
+        "etag": "7y879r-UVmMx1KSxjLl-Zs13bcw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmxmdkwzV3VwaTZr",
         "snippet": {
           "publishedAt": "2026-08-13T16:18:35Z",
@@ -2423,7 +2693,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 44,
+          "position": 49,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "lfvL3Wupi6k"
@@ -2438,280 +2708,10 @@
         "status": {
           "privacyStatus": "public"
         }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "ER-WQIxXPR4npQeqDoph87SuMJw",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmVaWEZoOE5XbTY0",
-        "snippet": {
-          "publishedAt": "2026-08-13T16:15:22Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар, Шофтим - 2/5 – Четыре смерти Самаэля – Рав Элиягу Бари",
-          "description": "Смотрите всю серию по порядку:\nhttps://www.youtube.com/playlist?list=PLOqlYONP4E44\n\n▶ ПОЛНАЯ СЕРИЯ «ЗОАР, ШОФТИМ»: https://www.youtube.com/playlist?list=PLOqlYONP4E44\n▶ СМОТРЕТЬ часть 3: https://youtu.be/lfvL3Wupi6k\n\nЧто означает загадочное выражение Зоара «четыре смерти Самаэля» и почему оно связано с мечом, удушением, камнем и огнём? В этой серии из пяти уроков Рав Элиягу Бари раскрывает Зоар на недельную главу Шофтим и объясняет, как Божественное Имя, чтение Шма, молитва Амида, кавана и исполнение заповедей устраняют власть нечистоты над человеком.\n\nЭтот отрывок следует понимать на языке нистара — скрытой части Торы. Зоар не призывает причинять физический вред. Самаэль представляет обвиняющую силу, духовный корень разделения, искушения и сопротивления святости. Его «смерть» означает прекращение его влияния на мысли, желания, тело и поступки человека.\n\nПервая духовная казнь — меч. Зоар раскрывает Имя Йуд–hей–вав–hей как строение духовного меча: йуд становится остриём, вав — телом, а две буквы hей — двумя краями. Этот меч не уничтожает человека, а рассекает смешение святости и нечистоты, отделяет истину от иллюзии и раскрывает, что ни одна сила не действует независимо от Божественного управления.\n\nДва края меча связаны со словами: «Справедливости, справедливости ищи». Один суд совершается наверху, другой раскрывается внизу. Это не отменяет свободу выбора и ответственность человека, но исключает представление о самостоятельной власти, существующей отдельно от Творца.\n\nИмя Адонай называется ножнами меча. Четырёхбуквенное Имя выражает направляющий свет, а Адонай — Малхут, сосуд, принимающий этот свет. Во время чтения Шма человек провозглашает абсолютное единство Творца и разрушает иллюзию независимости Другой стороны.\n\nВ молитве Амида совершается положительное соединение: через Есод Зеир Анпин соединяется с Малхут, а меч входит в ножны. Четырёхбуквенное Имя соединяется с Адонай, свет входит в сосуд, и освобождённое от нечистоты место наполняется святостью.\n\nВторая казнь — удушение Самаэля. Она означает лишение Другой стороны самостоятельного дыхания и духовного питания. Зоар связывает это с двумя формулами единства: «Шма Исраэль» и «Благословенно Имя славы Царства Его навеки». Высшее единство должно раскрыться в нижнем царстве, чтобы разделение потеряло основу своего существования.\n\nГлавное качество нечистоты — разделение. Она может создавать временные союзы, но не обладает истинным единством. Когда человек произносит Шма с правильной каваной, он свидетельствует, что не существует второй независимой власти.\n\nТретья казнь — камень. Камнем становится буква йуд — малая точка, содержащая потенциал всего Божественного Имени. Пять пальцев соответствуют первой hей, вытянутая рука — букве вав, а плечо — последней hей. Всё движение человека образует структуру Имени, однако настоящей силой, бросающей духовный камень, является мысль.\n\nЗоар подчёркивает значение каваны. Внешнее действие без осознанного намерения не раскрывает полной духовной силы. Камень разрушает власть нечистоты не физическим ударом, а сосредоточенным осознанием единства Творца. Малая буква йуд оказывается сильнее огромной системы разделения, потому что выражает точку абсолютного единства.\n\nЧетвёртая казнь — огонь заповедей. Человеческое тело становится деревом, органы — дровами, а каждая исполненная заповедь зажигает святой огонь в соответствующей части тела. Руки дают цдаку, ноги ведут к исполнению заповеди, уста произносят слова Торы и молитвы, а глаза служат святости посредством правильного взгляда.\n\nТело не является врагом души. Оно способно стать светильником святости. Двести сорок восемь заповедей «делай» соответствуют частям человеческого тела, и каждая заповедь превращает отдельный орган в свечу. Святой огонь очищает человеческую природу, но не уничтожает её.\n\nЗоар раскрывает внутренний смысл горящего куста, который видел Моше. Куст — это человек. Огонь святости горит в нём, но не сжигает его. Сгорают только колючки: дурные привычки, духовное сопротивление, обвинение и силы, прилепившиеся к телу. Сам человек сохраняется и начинает служить своему истинному предназначению.\n\nГлавная идея серии состоит в том, что Тора не разрушает человеческую природу. Она отделяет человека от того, что мешает раскрытию души. Меч рассекает смешение, Шма прекращает разделение, камень сосредоточенной мысли разрушает ложную самостоятельность, а огонь заповедей превращает тело в сосуд святости.\n\n— НАВИГАЦИЯ ПО СЕРИИ «ЗОАР, ШОФТИМ» —\n1) Часть 1: https://youtu.be/rpVu9b0d2sw\n2) Часть 2: https://youtu.be/eZXFh8NWm64\n3) Часть 3: https://youtu.be/lfvL3Wupi6k\n4) Часть 4: https://youtu.be/qSdNce8k1FM\n5) Часть 5: https://youtu.be/uKk0WYZdX7E\n\n#Зоар #Шофтим #Самаэль #Шма #Амида #Каббала #Тора #Заповеди #ТайныТоры #РавЭлиягуБари",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/eZXFh8NWm64/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/eZXFh8NWm64/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/eZXFh8NWm64/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/eZXFh8NWm64/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/eZXFh8NWm64/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 45,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "eZXFh8NWm64"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "eZXFh8NWm64",
-          "videoPublishedAt": "2026-08-13T16:15:22Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "9nSn6BHEhsAE7ADl51bi7rcWQ0M",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnJwVnU5YjBkMnN3",
-        "snippet": {
-          "publishedAt": "2026-08-13T16:05:27Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар, Шофтим - 1/5 – Четыре смерти Самаэля – Рав Элиягу Бари",
-          "description": "Смотрите всю серию по порядку:\nhttps://www.youtube.com/playlist?list=PLOqlYONP4E44\n\n▶ ПОЛНАЯ СЕРИЯ «ЗОАР, ШОФТИМ»: https://www.youtube.com/playlist?list=PLOqlYONP4E44\n▶ СМОТРЕТЬ следующую часть: https://youtu.be/eZXFh8NWm64\n\nЧто означает загадочное выражение Зоара «четыре смерти Самаэля» и почему оно связано с мечом, удушением, камнем и огнём? В этой серии из пяти уроков Рав Элиягу Бари раскрывает Зоар на недельную главу Шофтим и объясняет, как Божественное Имя, чтение Шма, молитва Амида, кавана и исполнение заповедей устраняют власть нечистоты над человеком.\n\nЭтот отрывок следует понимать на языке нистара — скрытой части Торы. Зоар не призывает причинять физический вред. Самаэль представляет обвиняющую силу, духовный корень разделения, искушения и сопротивления святости. Его «смерть» означает прекращение его влияния на мысли, желания, тело и поступки человека.\n\nПервая духовная казнь — меч. Зоар раскрывает Имя Йуд–hей–вав–hей как строение духовного меча: йуд становится остриём, вав — телом, а две буквы hей — двумя краями. Этот меч не уничтожает человека, а рассекает смешение святости и нечистоты, отделяет истину от иллюзии и раскрывает, что ни одна сила не действует независимо от Божественного управления.\n\nДва края меча связаны со словами: «Справедливости, справедливости ищи». Один суд совершается наверху, другой раскрывается внизу. Это не отменяет свободу выбора и ответственность человека, но исключает представление о самостоятельной власти, существующей отдельно от Творца.\n\nИмя Адонай называется ножнами меча. Четырёхбуквенное Имя выражает направляющий свет, а Адонай — Малхут, сосуд, принимающий этот свет. Во время чтения Шма человек провозглашает абсолютное единство Творца и разрушает иллюзию независимости Другой стороны.\n\nВ молитве Амида совершается положительное соединение: через Есод Зеир Анпин соединяется с Малхут, а меч входит в ножны. Четырёхбуквенное Имя соединяется с Адонай, свет входит в сосуд, и освобождённое от нечистоты место наполняется святостью.\n\nВторая казнь — удушение Самаэля. Она означает лишение Другой стороны самостоятельного дыхания и духовного питания. Зоар связывает это с двумя формулами единства: «Шма Исраэль» и «Благословенно Имя славы Царства Его навеки». Высшее единство должно раскрыться в нижнем царстве, чтобы разделение потеряло основу своего существования.\n\nГлавное качество нечистоты — разделение. Она может создавать временные союзы, но не обладает истинным единством. Когда человек произносит Шма с правильной каваной, он свидетельствует, что не существует второй независимой власти.\n\nТретья казнь — камень. Камнем становится буква йуд — малая точка, содержащая потенциал всего Божественного Имени. Пять пальцев соответствуют первой hей, вытянутая рука — букве вав, а плечо — последней hей. Всё движение человека образует структуру Имени, однако настоящей силой, бросающей духовный камень, является мысль.\n\nЗоар подчёркивает значение каваны. Внешнее действие без осознанного намерения не раскрывает полной духовной силы. Камень разрушает власть нечистоты не физическим ударом, а сосредоточенным осознанием единства Творца. Малая буква йуд оказывается сильнее огромной системы разделения, потому что выражает точку абсолютного единства.\n\nЧетвёртая казнь — огонь заповедей. Человеческое тело становится деревом, органы — дровами, а каждая исполненная заповедь зажигает святой огонь в соответствующей части тела. Руки дают цдаку, ноги ведут к исполнению заповеди, уста произносят слова Торы и молитвы, а глаза служат святости посредством правильного взгляда.\n\nТело не является врагом души. Оно способно стать светильником святости. Двести сорок восемь заповедей «делай» соответствуют частям человеческого тела, и каждая заповедь превращает отдельный орган в свечу. Святой огонь очищает человеческую природу, но не уничтожает её.\n\nЗоар раскрывает внутренний смысл горящего куста, который видел Моше. Куст — это человек. Огонь святости горит в нём, но не сжигает его. Сгорают только колючки: дурные привычки, духовное сопротивление, обвинение и силы, прилепившиеся к телу. Сам человек сохраняется и начинает служить своему истинному предназначению.\n\nГлавная идея серии состоит в том, что Тора не разрушает человеческую природу. Она отделяет человека от того, что мешает раскрытию души. Меч рассекает смешение, Шма прекращает разделение, камень сосредоточенной мысли разрушает ложную самостоятельность, а огонь заповедей превращает тело в сосуд святости.\n\n— НАВИГАЦИЯ ПО СЕРИИ «ЗОАР, ШОФТИМ» —\n1) Часть 1: https://youtu.be/rpVu9b0d2sw\n2) Часть 2: https://youtu.be/eZXFh8NWm64\n3) Часть 3: https://youtu.be/lfvL3Wupi6k\n4) Часть 4: https://youtu.be/qSdNce8k1FM\n5) Часть 5: https://youtu.be/uKk0WYZdX7E\n\n#Зоар #Шофтим #Самаэль #Шма #Амида #Каббала #Тора #Заповеди #ТайныТоры #РавЭлиягуБари",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 46,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "rpVu9b0d2sw"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "rpVu9b0d2sw",
-          "videoPublishedAt": "2026-08-13T16:05:27Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "9AD_p838j6vScN4f4GBUbTYu9-g",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLks0by13T2YzLXFj",
-        "snippet": {
-          "publishedAt": "2026-08-06T23:35:05Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Тайна стад Израиля: как они выжили 40 лет? – Рав Элиягу Бари",
-          "description": "Смотрите всю серию по порядку:\nhttps://www.youtube.com/playlist?list=PLDKe3hTC3Ilu879Vth6afbxPepGrSRdbP\n\nЧем питались животные еврейского народа в течение сорока лет странствий по пустыне, если Тора подробно рассказывает о мане для людей, но ничего не говорит о корме для многочисленных стад? Этот неожиданный вопрос открывает глубокий урок о точности изучения Торы, Божественном провидении и необходимости отличать прямой источник от красивого предположения. \n\nКогда мы представляем Исход из Египта, перед нами возникают ман, колодец Мирьям и Облака Славы. Но сыны Израиля вышли не одни: Тора подчёркивает, что вместе с ними шло много мелкого и крупного скота. Животные сопровождали народ, участвовали в его материальной жизни и позднее становились частью служения Всевышнему. \n\nМоше говорит фараону, что народ уйдёт вместе со своим скотом. В Рефидиме евреи опасаются, что без воды погибнут они, их дети и животные. Почти через сорок лет, у Мей-Мерива, Всевышний повелевает Моше дать воду общине и её скоту. Раши видит здесь милость Всевышнего даже к имуществу Израиля. \n\nС водой ответ ясен: животные пили чудесную воду. Но чем они питались? Ман назван хлебом с Небес и пищей для сынов Израиля. Его количество рассчитывалось по людям, а прямого утверждения, что овцы и коровы тоже ели ман, в Торе нет. Поэтому удобное объяснение нельзя выдавать за установленный факт. \n\nГемара и мидраш рассказывают, что оставшийся ман таял под солнцем и стекал в ручьи. Дикие олени и газели пили эту воду, а люди, которые ели их мясо, ощущали вкус мана. Это показывает, что животные могли косвенно получать пользу от мана, но источник говорит о диких животных, а не о постоянном кормлении домашнего скота Израиля. \n\nВозможно, часть животных паслась естественным образом. Пустыня не всегда безжизненна: после дождей появляется растительность, а овцы и козы способны питаться травами и кустарниками. Народ мог использовать запасы, приобретать корм у соседей и управлять стадами в соответствии с доступными ресурсами. \n\nК завершению странствий Тора сообщает, что колена Реувена и Гада обладали огромным количеством скота. Но перед этим Израиль захватил многочисленные стада после войны с Мидьяном. Поэтому нельзя считать, что все животные у Иордана были теми же, что вышли из Египта. За сорок лет одни рождались, другие умирали, продавались, приобретались или использовались в пищу и для жертв. \n\nОсобого внимания заслуживают Зоар и Аризаль. Каббалистические источники глубоко раскрывают смысл пустыни, мана, колодца Мирьям, Облаков Славы и возвышения святых искр. Но прямого текста, объясняющего практическую систему кормления стад Израиля в пустыне, мы не находим. Общие идеи можно применять, но нельзя представлять собственную интерпретацию как прямые слова источников. \n\nИменно здесь проявляется принцип честного изучения Торы. Не каждый вопрос обязан иметь эффектный мистический ответ. Можно представить, что животные ели ман, что для них чудесно вырастала трава или что Облака Славы создавали пастбища. Но воображение, каким бы красивым оно ни было, не заменяет источник. \n\nВозможно, молчание Торы учит, что Божественное провидение не всегда отменяет природу. Иногда Всевышний совершает открытое чудо, как с маном и водой из скалы. Иногда Его руководство действует через пастбища, переходы, торговлю и обычные процессы жизни. Чудо и природа не противоречат друг другу, потому что оба пути под властью Творца. \n\nГлавный урок не только в том, чем питались животные, но и почему Тора включает их в историю освобождения. Моше не оставляет их в Египте. Народ беспокоится о них во время жажды. Всевышний даёт им воду. Исход затрагивает не только души, но и имущество, хозяйство и материальный мир, который должен быть направлен на служение Всевышнему. \n\n— IN THIS VIDEO — 1) Почему вопрос о питании животных возникает из текста Торы. 2) Что источники говорят о воде, мане, выпасе и стадах Израиля. 3) Как отличать слова мудрецов от предположений и интерпретаций. \n\nЧестный ответ звучит так: мы не знаем наверняка, чем питалось каждое животное в каждый год странствий. Но Тора ясно показывает, что Всевышний не забыл о них, а освобождение Израиля включало возвышение не только души человека, но и окружающего материального мира. \n\nПоставьте лайк, подпишитесь на канал, напишите в комментариях, какое объяснение кажется вам наиболее убедительным, и поделитесь уроком с теми, кто ценит глубокое и ответственное изучение Торы. \n\n#Тора #Пустыня #ИсходИзЕгипта #Ман #ЖивотныеВТоре #Раши #Зоар #Аризаль #УрокиТоры #РавЭлиягуБари",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/K4o-wOf3-qc/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/K4o-wOf3-qc/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/K4o-wOf3-qc/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/K4o-wOf3-qc/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/K4o-wOf3-qc/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 47,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "K4o-wOf3-qc"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "K4o-wOf3-qc",
-          "videoPublishedAt": "2026-08-06T23:35:05Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "OFMQfxdePS1PKg5JormQ9BHVeHM",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmM2R0lXOHpLVzVJ",
-        "snippet": {
-          "publishedAt": "2026-07-30T12:20:04Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар - Экев ч.3  – Лицо человека и тайна Меркавы – Рав Элиягу Бари",
-          "description": "Почему в пророческом видении Йехезкеля лев, бык и орёл обращены именно к лицу человека и почему человеческий образ включает в себя все остальные духовные формы? В этом уроке Рав Элиягу Бари раскрывает глубокое объяснение Зоhара на недельную главу Экев с комментарием «Сулам» Бааль hа-Сулама и показывает внутреннее устройство высшей Колесницы — Меркавы. \n\nЗоhар начинает со слов Торы: «Творец, ваш Элоhим, есть Элоhим над элоhим, Владыка над владыками, Эль великий, могучий и грозный». Эти определения являются не только словами восхваления. Каждое из них указывает на отдельное духовное качество, особый способ Божественного раскрытия и одну из главных форм высшей Колесницы. \n\nВ видении пророка Йехезкеля появляются четыре лица: лицо быка, лицо орла, лицо льва и лицо человека. Речь не идёт о физических существах или земной анатомии. Зоhар описывает духовную структуру, через которую высшее управление раскрывается в мире. Каждое лицо представляет определённую силу, однако ни одна из этих сил не существует отдельно от остальных. \n\nОсобое место занимает лицо человека. Лев выражает могущество, бык — силу и устойчивость, орёл — высоту и стремительный подъём. Но только человеческий образ способен объединить разные и даже противоположные качества в одну осознанную структуру. Поэтому три лица обращены к человеку: отдельная сила получает правильное направление лишь тогда, когда включается в целостность. \n\nЗоhар подчёркивает, что полный духовный образ Адама включает мужское и женское начала. Человек называется человеком не как изолированная половина, а как единство взаимодополняющих сторон. Именно эта способность соединять, принимать и направлять противоположности делает лицо человека всеобъемлющей формой, в которой находят своё правильное место лев, бык и орёл. \n\nКомментарий Бааль hа-Сулама раскрывает также тайну слова «шинан» из стиха: «Колесниц Творца — дважды десять тысяч, тысячи тысяч». Буквы этого слова намекают на быка, льва, орла и человека. Из четырёх основных корней происходят тысячи и десятки тысяч частных духовных сил, подобно множеству ветвей, выходящих из нескольких главных стволов. \n\nЕдинство не уничтожает различия. Каждая форма сохраняет собственное назначение, но одновременно включает элементы остальных. Милость нуждается в границе, могущество — в правильном направлении, возвышение — в сосуде, а строгость — в милосердии. Зоhар учит, что совершенная духовная структура строится не на господстве одного качества, а на правильном включении всех сил друг в друга. \n\nЧетыре лица связаны с четырьмя высшими Именами: Эль, Великий, Могучий и Грозный. Имя Эль связано с формой быка, Имя Великий — с орлом, Имя Могучий — со львом, а Имя Грозный — с лицом человека. Имя здесь означает не отдельную силу, а определённый способ раскрытия Единого Творца. \n\nКаждое лицо обращено к человеку, потому что могущество без целостного сознания может стать слепой силой, возвышение без ответственности — отрывом от реальности, а устойчивость без направления — тяжестью. Лицо человека принимает эти качества, объединяет их и подчиняет высшей цели. Поэтому именно человеческий образ становится центром духовной Колесницы. \n\nВсе четыре формы в конечном счёте включены в четырёхбуквенное Имя Йуд–hей–вав–hей. Это означает, что различные качества, направления и проявления не являются независимыми источниками власти. Они представляют разные пути раскрытия Единого Творца. Четыре лица, четыре стороны света и четыре высших Имени образуют одну согласованную систему Божественного управления. \n\nЗоhар описывает, как эти формы выгравированы в Престоле. Престол представляет духовный сосуд, который поднимается к высшему источнику, принимает свет и изобилие, а затем спускается наполненным. Он уподобляется дереву, покрытому ветвями и плодами. Полученное наверху не остаётся скрытым, а передаётся нижним мирам. \n\nКогда Престол спускается, четыре формы раскрываются сияющими, освещающими и наполненными жизненностью. Они «сеют семена по миру», то есть передают корни благословения, понимания и духовного роста. Семя может быть малым и скрытым, но в нём уже содержится будущий плод. Так высшая Колесница становится источником раскрытия в нижнем мире. \n\nЭтот отрывок содержит важный урок для внутренней работы человека. Недостаточно развивать только милость, только дисциплину, только силу или только стремление к духовному подъёму. Настоящая цель состоит в том, чтобы соединить разные качества и поставить каждое из них на правильное место. Именно тогда человек становится подобием духовной формы Адама. \n\nУрок поможет понять тайну Меркавы, четыре лица из пророчества Йехезкеля, связь между человеком, львом, быком и орлом, значение слов «Эль великий, могучий и грозный», а также роль четырёхбуквенного Имени в единстве всех духовных сил. Поставьте лайк, подпишитесь на канал, поделитесь видео и напишите в комментариях, какое из четырёх качеств человеку труднее всего правильно включить в свою жизнь. \n\n#Зоhар #Сулам #Экев #Меркава #Каббала #Тора #Йехезкель #ЛицоЧеловека #ТайныТоры #РавБари",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/c6GIW8zKW5I/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/c6GIW8zKW5I/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/c6GIW8zKW5I/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/c6GIW8zKW5I/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/c6GIW8zKW5I/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 48,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "c6GIW8zKW5I"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "c6GIW8zKW5I",
-          "videoPublishedAt": "2026-07-30T12:20:04Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "EVBH-qHmvSpGFPBJ8PkG2MTuN5s",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkF3akNROUVwQ3Nv",
-        "snippet": {
-          "publishedAt": "2026-07-30T12:19:18Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар - Экев ч.2  – Лицо человека и тайна Меркавы – Рав Элиягу Бари",
-          "description": "Почему в пророческом видении Йехезкеля лев, бык и орёл обращены именно к лицу человека и почему человеческий образ включает в себя все остальные духовные формы? В этом уроке Рав Элиягу Бари раскрывает глубокое объяснение Зоhара на недельную главу Экев с комментарием «Сулам» Бааль hа-Сулама и показывает внутреннее устройство высшей Колесницы — Меркавы. \n\nЗоhар начинает со слов Торы: «Творец, ваш Элоhим, есть Элоhим над элоhим, Владыка над владыками, Эль великий, могучий и грозный». Эти определения являются не только словами восхваления. Каждое из них указывает на отдельное духовное качество, особый способ Божественного раскрытия и одну из главных форм высшей Колесницы. \n\nВ видении пророка Йехезкеля появляются четыре лица: лицо быка, лицо орла, лицо льва и лицо человека. Речь не идёт о физических существах или земной анатомии. Зоhар описывает духовную структуру, через которую высшее управление раскрывается в мире. Каждое лицо представляет определённую силу, однако ни одна из этих сил не существует отдельно от остальных. \n\nОсобое место занимает лицо человека. Лев выражает могущество, бык — силу и устойчивость, орёл — высоту и стремительный подъём. Но только человеческий образ способен объединить разные и даже противоположные качества в одну осознанную структуру. Поэтому три лица обращены к человеку: отдельная сила получает правильное направление лишь тогда, когда включается в целостность. \n\nЗоhар подчёркивает, что полный духовный образ Адама включает мужское и женское начала. Человек называется человеком не как изолированная половина, а как единство взаимодополняющих сторон. Именно эта способность соединять, принимать и направлять противоположности делает лицо человека всеобъемлющей формой, в которой находят своё правильное место лев, бык и орёл. \n\nКомментарий Бааль hа-Сулама раскрывает также тайну слова «шинан» из стиха: «Колесниц Творца — дважды десять тысяч, тысячи тысяч». Буквы этого слова намекают на быка, льва, орла и человека. Из четырёх основных корней происходят тысячи и десятки тысяч частных духовных сил, подобно множеству ветвей, выходящих из нескольких главных стволов. \n\nЕдинство не уничтожает различия. Каждая форма сохраняет собственное назначение, но одновременно включает элементы остальных. Милость нуждается в границе, могущество — в правильном направлении, возвышение — в сосуде, а строгость — в милосердии. Зоhар учит, что совершенная духовная структура строится не на господстве одного качества, а на правильном включении всех сил друг в друга. \n\nЧетыре лица связаны с четырьмя высшими Именами: Эль, Великий, Могучий и Грозный. Имя Эль связано с формой быка, Имя Великий — с орлом, Имя Могучий — со львом, а Имя Грозный — с лицом человека. Имя здесь означает не отдельную силу, а определённый способ раскрытия Единого Творца. \n\nКаждое лицо обращено к человеку, потому что могущество без целостного сознания может стать слепой силой, возвышение без ответственности — отрывом от реальности, а устойчивость без направления — тяжестью. Лицо человека принимает эти качества, объединяет их и подчиняет высшей цели. Поэтому именно человеческий образ становится центром духовной Колесницы. \n\nВсе четыре формы в конечном счёте включены в четырёхбуквенное Имя Йуд–hей–вав–hей. Это означает, что различные качества, направления и проявления не являются независимыми источниками власти. Они представляют разные пути раскрытия Единого Творца. Четыре лица, четыре стороны света и четыре высших Имени образуют одну согласованную систему Божественного управления. \n\nЗоhар описывает, как эти формы выгравированы в Престоле. Престол представляет духовный сосуд, который поднимается к высшему источнику, принимает свет и изобилие, а затем спускается наполненным. Он уподобляется дереву, покрытому ветвями и плодами. Полученное наверху не остаётся скрытым, а передаётся нижним мирам. \n\nКогда Престол спускается, четыре формы раскрываются сияющими, освещающими и наполненными жизненностью. Они «сеют семена по миру», то есть передают корни благословения, понимания и духовного роста. Семя может быть малым и скрытым, но в нём уже содержится будущий плод. Так высшая Колесница становится источником раскрытия в нижнем мире. \n\nЭтот отрывок содержит важный урок для внутренней работы человека. Недостаточно развивать только милость, только дисциплину, только силу или только стремление к духовному подъёму. Настоящая цель состоит в том, чтобы соединить разные качества и поставить каждое из них на правильное место. Именно тогда человек становится подобием духовной формы Адама. \n\nУрок поможет понять тайну Меркавы, четыре лица из пророчества Йехезкеля, связь между человеком, львом, быком и орлом, значение слов «Эль великий, могучий и грозный», а также роль четырёхбуквенного Имени в единстве всех духовных сил. Поставьте лайк, подпишитесь на канал, поделитесь видео и напишите в комментариях, какое из четырёх качеств человеку труднее всего правильно включить в свою жизнь. \n\n#Зоhар #Сулам #Экев #Меркава #Каббала #Тора #Йехезкель #ЛицоЧеловека #ТайныТоры #РавБари",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/AwjCQ9EpCso/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/AwjCQ9EpCso/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/AwjCQ9EpCso/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/AwjCQ9EpCso/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/AwjCQ9EpCso/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 49,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "AwjCQ9EpCso"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "AwjCQ9EpCso",
-          "videoPublishedAt": "2026-07-30T12:19:18Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
       }
     ],
     "pageInfo": {
-      "totalResults": 340,
+      "totalResults": 345,
       "resultsPerPage": 50
     }
   }

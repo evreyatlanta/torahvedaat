@@ -2,6 +2,330 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
+      "etag": "qxurtXwoQDk04ukEjJnuiPs4jYo",
+      "id": "PLLiDPzJHV2BE",
+      "snippet": {
+        "publishedAt": "2026-10-16T01:48:40.07132626Z",
+        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+        "title": "[RU] Зоар - Ноах 5787",
+        "description": "Серия уроков Рава Элиягу Бари: «Зоар - Ноах 5787».\n\nВ плейлисте:\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\n\nСмотрите уроки по порядку, чтобы последовательно раскрыть тему.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rabbi Eliyahu Bari",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "[RU] Зоар - Ноах 5787",
+          "description": "Серия уроков Рава Элиягу Бари: «Зоар - Ноах 5787».\n\nВ плейлисте:\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\n\nСмотрите уроки по порядку, чтобы последовательно раскрыть тему."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "9mgdOh79NQVSwdYdSZu8oWNESEI",
+        "id": "UExMaURQekpIVjJCRS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:48:45Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари",
+          "description": "Какой могла быть человеческая жизнь, если бы Адам сохранил связь с Ган Эденом? Почему Зоар говорит о неугасающем свете луны и сравнивает возможности человека с ангелами?\n\nРав Элиягу Бари начинает серию из пяти уроков по главе Ноах книги Зоар. Читаем начало параграфа 35 по фразам и разбираем связь между источником жизни, её непрерывностью, светом и мудростью. Зоар описывает возможность, которая открывалась бы перед потомством Адама при сохранении его первоначального состояния.\n\nВ этом уроке:\n• Ган Эден и духовный источник человеческой жизни\n• Свет луны и пояснение Сулама о Малхут\n• Поколения, которые могли бы существовать непрерывно\n• Свет, сияние и мудрость в сравнении человека с ангелами\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. §35, от начала до слов о свете, сиянии и мудрости; печатная страница 286.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLLiDPzJHV2BE",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qF1DHAcbs50"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qF1DHAcbs50",
+          "videoPublishedAt": "2026-10-16T01:51:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "jDfP9HY20CVNaWuKtsXk58UMdj4",
+        "id": "UExMaURQekpIVjJCRS4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:53:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари",
+          "description": "Были бы у Адама дети, если бы он не согрешил? Вопрос рабби Хизкии заставляет внимательнее посмотреть на то, как мы представляем себе жизнь в Ган Эдене.\n\nРав Элиягу Бари разбирает окончание параграфа 35 и начало параграфа 36 главы Ноах книги Зоар. Начинаем со слов Торы об образе Элоким и прослеживаем переход от жизни в саду к жизни за его пределами. Затем рассматриваем вопрос рабби Хизкии: откуда могло бы появиться потомство без влечения, с которым связано продолжение жизни в знакомом нам мире?\n\nВ этом уроке:\n• Образ Элоким и духовное достоинство человека\n• Стих Берешит 1:27 в рассуждении Зоара\n• Выход Адама из Ган Эдена и утрата постоянства жизни\n• Вопрос рабби Хизкии о влечении и потомстве\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §35 и начало §36, до вопроса об Адаме без потомства; печатная страница 286. Стих Торы: Берешит 1:27.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLLiDPzJHV2BE",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_bQzIvKDsfY"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "_bQzIvKDsfY",
+          "videoPublishedAt": "2026-10-16T01:55:11Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "kb3kshKpi7fG7c8uqiVHrotxCKA",
+        "id": "UExMaURQekpIVjJCRS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:57:26Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари",
+          "description": "Означает ли связь желания с рождением детей, что без греха новая жизнь была бы невозможна? В ответе Зоара решающее значение имеют слова «таким образом».\n\nРав Элиягу Бари продолжает вопрос рабби Хизкии и разбирает начало ответа в главе Ноах книги Зоар. Выясняем, почему рядом с историей Адама появляется грех золотого тельца, что Сулам поясняет о силе влечения и как Зоар говорит о потомстве со стороны святости. Рассуждение различает знакомый нам способ продолжения жизни и возможность иного духовного источника.\n\nВ этом уроке:\n• Сопоставление Адама и Исраэля после греха золотого тельца\n• Йецер а-ра — дурное начало в этом рассуждении\n• Почему важны слова «таким образом» и «со стороны»\n• Продолжение жизни со стороны духа святости\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §36 и начало §37, до слов о потомстве со стороны святости; печатные страницы 286–287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLLiDPzJHV2BE",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wYXnzsaK-EM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "wYXnzsaK-EM",
+          "videoPublishedAt": "2026-10-16T01:58:37Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "C_xzcD-xMOjlJe3mtY_NdBHD6oQ",
+        "id": "UExMaURQekpIVjJCRS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:59:49Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари",
+          "description": "Почему человеческая жизнь утратила постоянство, которое Зоар описывает в Ган Эдене? Как качество источника связано с хрупкостью жизни?\n\nРав Элиягу Бари читает окончание параграфа 37 и начало параграфа 38 главы Ноах книги Зоар. Разбираем понятие «другая сторона», утрату непрерывного существования и возможность жизни со стороны святости. Сулам различает два вида соединения: духовное соединение ангелов и соединение Йесод для душ. Объясняем эти слова обычным языком в контексте вопроса о продолжении жизни.\n\nВ этом уроке:\n• Ситра ахра — другая сторона — и утрата постоянства\n• Жизнь со стороны святости и сравнение с высшими ангелами\n• Что означает зивуг — соединение — в этом отрывке\n• Два вида соединения в пояснении Сулама\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §37 и начало §38, включая пояснение Сулама о двух видах соединения; печатная страница 287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLLiDPzJHV2BE",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "e3f_WBVpXgE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "e3f_WBVpXgE",
+          "videoPublishedAt": "2026-10-16T02:00:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "ypqGbZta1ARrTB9PxNatiu2IkU8",
+        "id": "UExMaURQekpIVjJCRS4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2026-10-16T02:02:34Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари",
+          "description": "Как у человечества появляется будущее после Потопа? Рассуждение Зоара об Адаме завершается историей Ноаха и ковчега.\n\nВ заключительном уроке Рав Элиягу Бари разбирает конец параграфа 38 главы Ноах книги Зоар: от рождения детей вне Ган Эдена до расселения человечества по четырём сторонам мира. Рассматриваем образ укоренения, праведность Ноаха и ковчег как место сохранения жизни. Соединяем идеи пяти уроков и размышляем об основании, которое передаём следующему поколению.\n\nВ этом уроке:\n• Что значит поколениям укорениться в этом мире\n• Почему Зоар называет Ноаха праведником\n• Вход в ковчег, выход из него и продолжение человечества\n• Применение идей урока к семье, учёбе и передаче Торы\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §38, от детей Адама вне сада до четырёх сторон мира; арамейский текст на печатной странице 287, продолжение английского перевода на странице 288.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLLiDPzJHV2BE",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DqKx6c4Zm74"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "DqKx6c4Zm74",
+          "videoPublishedAt": "2026-10-16T02:02:55Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ]
+  },
+  {
+    "playlist": {
+      "kind": "youtube#playlist",
       "etag": "Yur9vgoqrcKZIs4PKWHPYyx9vuE",
       "id": "PLUtAxWyvdZ0Y",
       "snippet": {
@@ -1997,7 +2321,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Sv-YXyflxtIxw3l_UMAQ-5mVuqM",
+        "etag": "KMPlyyeRGbGkIsVfWb1Er87C0UE",
         "id": "UExMa18yQXVDSXgtYy41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-09-01T02:52:59Z",
@@ -4211,7 +4535,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ansStgV8gO5CKw2btGO4lzmRVbs",
+        "etag": "E3yD_xisxwwBIoIHVtJmd0rjLeU",
         "id": "UExTTW43SjZuclJfcy4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-09-01T02:51:38Z",
@@ -10820,7 +11144,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "QmTvAPozrCA87jNnglB0Ry514Ng",
+      "etag": "dA8AF-XOGj19mXEdXd4zVggOpsQ",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -10865,7 +11189,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 91
+        "itemCount": 96
       }
     },
     "items": [
@@ -14681,7 +15005,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "q2vvx4jCLCO7b3J11fxx6wVIyCk",
+        "etag": "1n9rAIbxrCnski9rwJ6rAKEHFRQ",
         "id": "UExFcFhSVGNrdzZndy42RTNCOEMxREI3Q0VDMjU2",
         "snippet": {
           "publishedAt": "2026-09-01T02:50:41Z",
@@ -15788,6 +16112,276 @@
         "status": {
           "privacyStatus": "public"
         }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "kN3_v4ljykXs7xPREeno6P7jzJw",
+        "id": "UExFcFhSVGNrdzZndy4yM0EyQ0U1M0I2RkIwNTQ0",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:45:08Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари",
+          "description": "Какой могла быть человеческая жизнь, если бы Адам сохранил связь с Ган Эденом? Почему Зоар говорит о неугасающем свете луны и сравнивает возможности человека с ангелами?\n\nРав Элиягу Бари начинает серию из пяти уроков по главе Ноах книги Зоар. Читаем начало параграфа 35 по фразам и разбираем связь между источником жизни, её непрерывностью, светом и мудростью. Зоар описывает возможность, которая открывалась бы перед потомством Адама при сохранении его первоначального состояния.\n\nВ этом уроке:\n• Ган Эден и духовный источник человеческой жизни\n• Свет луны и пояснение Сулама о Малхут\n• Поколения, которые могли бы существовать непрерывно\n• Свет, сияние и мудрость в сравнении человека с ангелами\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. §35, от начала до слов о свете, сиянии и мудрости; печатная страница 286.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 91,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qF1DHAcbs50"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qF1DHAcbs50",
+          "videoPublishedAt": "2026-10-16T01:51:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "85utklryVC7mlJvmI2JsKKTpq7w",
+        "id": "UExFcFhSVGNrdzZndy5ERENFNTk4Q0Q2MTZDMTA5",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:53:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари",
+          "description": "Были бы у Адама дети, если бы он не согрешил? Вопрос рабби Хизкии заставляет внимательнее посмотреть на то, как мы представляем себе жизнь в Ган Эдене.\n\nРав Элиягу Бари разбирает окончание параграфа 35 и начало параграфа 36 главы Ноах книги Зоар. Начинаем со слов Торы об образе Элоким и прослеживаем переход от жизни в саду к жизни за его пределами. Затем рассматриваем вопрос рабби Хизкии: откуда могло бы появиться потомство без влечения, с которым связано продолжение жизни в знакомом нам мире?\n\nВ этом уроке:\n• Образ Элоким и духовное достоинство человека\n• Стих Берешит 1:27 в рассуждении Зоара\n• Выход Адама из Ган Эдена и утрата постоянства жизни\n• Вопрос рабби Хизкии о влечении и потомстве\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §35 и начало §36, до вопроса об Адаме без потомства; печатная страница 286. Стих Торы: Берешит 1:27.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 92,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_bQzIvKDsfY"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "_bQzIvKDsfY",
+          "videoPublishedAt": "2026-10-16T01:55:11Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "a-yvIseFiiqR_wxJC-rsIYfdJsc",
+        "id": "UExFcFhSVGNrdzZndy41RDUzRjJFQ0Y0MUI3NzU1",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:57:26Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари",
+          "description": "Означает ли связь желания с рождением детей, что без греха новая жизнь была бы невозможна? В ответе Зоара решающее значение имеют слова «таким образом».\n\nРав Элиягу Бари продолжает вопрос рабби Хизкии и разбирает начало ответа в главе Ноах книги Зоар. Выясняем, почему рядом с историей Адама появляется грех золотого тельца, что Сулам поясняет о силе влечения и как Зоар говорит о потомстве со стороны святости. Рассуждение различает знакомый нам способ продолжения жизни и возможность иного духовного источника.\n\nВ этом уроке:\n• Сопоставление Адама и Исраэля после греха золотого тельца\n• Йецер а-ра — дурное начало в этом рассуждении\n• Почему важны слова «таким образом» и «со стороны»\n• Продолжение жизни со стороны духа святости\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §36 и начало §37, до слов о потомстве со стороны святости; печатные страницы 286–287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 93,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wYXnzsaK-EM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "wYXnzsaK-EM",
+          "videoPublishedAt": "2026-10-16T01:58:37Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "QizScbIAIjXy95OzwRH6ydLIIns",
+        "id": "UExFcFhSVGNrdzZndy5FRjdGNDMzN0I2RTI3MDlG",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:59:49Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари",
+          "description": "Почему человеческая жизнь утратила постоянство, которое Зоар описывает в Ган Эдене? Как качество источника связано с хрупкостью жизни?\n\nРав Элиягу Бари читает окончание параграфа 37 и начало параграфа 38 главы Ноах книги Зоар. Разбираем понятие «другая сторона», утрату непрерывного существования и возможность жизни со стороны святости. Сулам различает два вида соединения: духовное соединение ангелов и соединение Йесод для душ. Объясняем эти слова обычным языком в контексте вопроса о продолжении жизни.\n\nВ этом уроке:\n• Ситра ахра — другая сторона — и утрата постоянства\n• Жизнь со стороны святости и сравнение с высшими ангелами\n• Что означает зивуг — соединение — в этом отрывке\n• Два вида соединения в пояснении Сулама\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §37 и начало §38, включая пояснение Сулама о двух видах соединения; печатная страница 287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 94,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "e3f_WBVpXgE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "e3f_WBVpXgE",
+          "videoPublishedAt": "2026-10-16T02:00:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Y62dmoS3zGU_hQKov_SPQtzemmE",
+        "id": "UExFcFhSVGNrdzZndy41ODIyMTgwQzA4NjJCQkZC",
+        "snippet": {
+          "publishedAt": "2026-10-16T02:02:34Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари",
+          "description": "Как у человечества появляется будущее после Потопа? Рассуждение Зоара об Адаме завершается историей Ноаха и ковчега.\n\nВ заключительном уроке Рав Элиягу Бари разбирает конец параграфа 38 главы Ноах книги Зоар: от рождения детей вне Ган Эдена до расселения человечества по четырём сторонам мира. Рассматриваем образ укоренения, праведность Ноаха и ковчег как место сохранения жизни. Соединяем идеи пяти уроков и размышляем об основании, которое передаём следующему поколению.\n\nВ этом уроке:\n• Что значит поколениям укорениться в этом мире\n• Почему Зоар называет Ноаха праведником\n• Вход в ковчег, выход из него и продолжение человечества\n• Применение идей урока к семье, учёбе и передаче Торы\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §38, от детей Адама вне сада до четырёх сторон мира; арамейский текст на печатной странице 287, продолжение английского перевода на странице 288.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 95,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DqKx6c4Zm74"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "DqKx6c4Zm74",
+          "videoPublishedAt": "2026-10-16T02:02:55Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
       }
     ]
   },
@@ -16118,7 +16712,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "rgY23edQaOcK-S6_iH9_VTmXtLA",
+      "etag": "mJZaGn0HGU_uLIBNztYo-3qkTRk",
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
       "snippet": {
         "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -16163,7 +16757,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 35
+        "itemCount": 40
       }
     },
     "items": [
@@ -18082,6 +18676,276 @@
         "contentDetails": {
           "videoId": "nwUUeXxA4Mg",
           "videoPublishedAt": "2026-10-09T02:09:15Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "FAFkU_nQqETFfOLEcccvgFOZ5Wc",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC45RjNFMDhGQ0Q2RkFCQTc1",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:45:08Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари",
+          "description": "Какой могла быть человеческая жизнь, если бы Адам сохранил связь с Ган Эденом? Почему Зоар говорит о неугасающем свете луны и сравнивает возможности человека с ангелами?\n\nРав Элиягу Бари начинает серию из пяти уроков по главе Ноах книги Зоар. Читаем начало параграфа 35 по фразам и разбираем связь между источником жизни, её непрерывностью, светом и мудростью. Зоар описывает возможность, которая открывалась бы перед потомством Адама при сохранении его первоначального состояния.\n\nВ этом уроке:\n• Ган Эден и духовный источник человеческой жизни\n• Свет луны и пояснение Сулама о Малхут\n• Поколения, которые могли бы существовать непрерывно\n• Свет, сияние и мудрость в сравнении человека с ангелами\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. §35, от начала до слов о свете, сиянии и мудрости; печатная страница 286.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 35,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qF1DHAcbs50"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qF1DHAcbs50",
+          "videoPublishedAt": "2026-10-16T01:51:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "_eQQUuvBntUrXQSR5VnDix5yqVA",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC40QTA3NTU2RkM1QzlCMzYx",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:53:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари",
+          "description": "Были бы у Адама дети, если бы он не согрешил? Вопрос рабби Хизкии заставляет внимательнее посмотреть на то, как мы представляем себе жизнь в Ган Эдене.\n\nРав Элиягу Бари разбирает окончание параграфа 35 и начало параграфа 36 главы Ноах книги Зоар. Начинаем со слов Торы об образе Элоким и прослеживаем переход от жизни в саду к жизни за его пределами. Затем рассматриваем вопрос рабби Хизкии: откуда могло бы появиться потомство без влечения, с которым связано продолжение жизни в знакомом нам мире?\n\nВ этом уроке:\n• Образ Элоким и духовное достоинство человека\n• Стих Берешит 1:27 в рассуждении Зоара\n• Выход Адама из Ган Эдена и утрата постоянства жизни\n• Вопрос рабби Хизкии о влечении и потомстве\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §35 и начало §36, до вопроса об Адаме без потомства; печатная страница 286. Стих Торы: Берешит 1:27.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_bQzIvKDsfY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 36,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "_bQzIvKDsfY"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "_bQzIvKDsfY",
+          "videoPublishedAt": "2026-10-16T01:55:11Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "wfhcexn2UHEj9OBk69PlJ-uqaKE",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5BRjJDODk5REM0NjkzMUIy",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:57:26Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари",
+          "description": "Означает ли связь желания с рождением детей, что без греха новая жизнь была бы невозможна? В ответе Зоара решающее значение имеют слова «таким образом».\n\nРав Элиягу Бари продолжает вопрос рабби Хизкии и разбирает начало ответа в главе Ноах книги Зоар. Выясняем, почему рядом с историей Адама появляется грех золотого тельца, что Сулам поясняет о силе влечения и как Зоар говорит о потомстве со стороны святости. Рассуждение различает знакомый нам способ продолжения жизни и возможность иного духовного источника.\n\nВ этом уроке:\n• Сопоставление Адама и Исраэля после греха золотого тельца\n• Йецер а-ра — дурное начало в этом рассуждении\n• Почему важны слова «таким образом» и «со стороны»\n• Продолжение жизни со стороны духа святости\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §36 и начало §37, до слов о потомстве со стороны святости; печатные страницы 286–287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wYXnzsaK-EM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 37,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "wYXnzsaK-EM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "wYXnzsaK-EM",
+          "videoPublishedAt": "2026-10-16T01:58:37Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "1tj-fiWRtE2HFNcpKf02ukz9_mY",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4xOTEzQzhBQzU3MDNDNjcz",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:59:49Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари",
+          "description": "Почему человеческая жизнь утратила постоянство, которое Зоар описывает в Ган Эдене? Как качество источника связано с хрупкостью жизни?\n\nРав Элиягу Бари читает окончание параграфа 37 и начало параграфа 38 главы Ноах книги Зоар. Разбираем понятие «другая сторона», утрату непрерывного существования и возможность жизни со стороны святости. Сулам различает два вида соединения: духовное соединение ангелов и соединение Йесод для душ. Объясняем эти слова обычным языком в контексте вопроса о продолжении жизни.\n\nВ этом уроке:\n• Ситра ахра — другая сторона — и утрата постоянства\n• Жизнь со стороны святости и сравнение с высшими ангелами\n• Что означает зивуг — соединение — в этом отрывке\n• Два вида соединения в пояснении Сулама\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §37 и начало §38, включая пояснение Сулама о двух видах соединения; печатная страница 287.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/e3f_WBVpXgE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 38,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "e3f_WBVpXgE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "e3f_WBVpXgE",
+          "videoPublishedAt": "2026-10-16T02:00:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "bC0Br0oi42fdtVTl5pRihfe4V5k",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5GNDg1Njc1QzZERjlFRjE5",
+        "snippet": {
+          "publishedAt": "2026-10-16T02:02:34Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари",
+          "description": "Как у человечества появляется будущее после Потопа? Рассуждение Зоара об Адаме завершается историей Ноаха и ковчега.\n\nВ заключительном уроке Рав Элиягу Бари разбирает конец параграфа 38 главы Ноах книги Зоар: от рождения детей вне Ган Эдена до расселения человечества по четырём сторонам мира. Рассматриваем образ укоренения, праведность Ноаха и ковчег как место сохранения жизни. Соединяем идеи пяти уроков и размышляем об основании, которое передаём следующему поколению.\n\nВ этом уроке:\n• Что значит поколениям укорениться в этом мире\n• Почему Зоар называет Ноаха праведником\n• Вход в ковчег, выход из него и продолжение человечества\n• Применение идей урока к семье, учёбе и передаче Торы\n\nСерия «От Адама до Ноаха: новое начало человечества». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Ноах, глава 6. Окончание §38, от детей Адама вне сада до четырёх сторон мира; арамейский текст на печатной странице 287, продолжение английского перевода на странице 288.\n\nЧитаем арамейский текст по фразам с переводом. Пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #Ноах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DqKx6c4Zm74/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 39,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "DqKx6c4Zm74"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "DqKx6c4Zm74",
+          "videoPublishedAt": "2026-10-16T02:02:55Z"
         },
         "status": {
           "privacyStatus": "public"

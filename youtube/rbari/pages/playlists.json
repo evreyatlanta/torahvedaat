@@ -1,13 +1,63 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "UZ0jYOGTKBilAOz0bRP4q-lVyy8",
+    "etag": "-Y1ZqUX6cBbwQZueGshd56yg-NQ",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 92,
+      "totalResults": 93,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "qxurtXwoQDk04ukEjJnuiPs4jYo",
+        "id": "PLLiDPzJHV2BE",
+        "snippet": {
+          "publishedAt": "2026-10-16T01:48:40.07132626Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Зоар - Ноах 5787",
+          "description": "Серия уроков Рава Элиягу Бари: «Зоар - Ноах 5787».\n\nВ плейлисте:\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\n\nСмотрите уроки по порядку, чтобы последовательно раскрыть тему.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "[RU] Зоар - Ноах 5787",
+            "description": "Серия уроков Рава Элиягу Бари: «Зоар - Ноах 5787».\n\nВ плейлисте:\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\n\nСмотрите уроки по порядку, чтобы последовательно раскрыть тему."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "Yur9vgoqrcKZIs4PKWHPYyx9vuE",
@@ -1055,7 +1105,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "QmTvAPozrCA87jNnglB0Ry514Ng",
+        "etag": "dA8AF-XOGj19mXEdXd4zVggOpsQ",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -1100,7 +1150,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 91
+          "itemCount": 96
         }
       },
       {
@@ -1155,7 +1205,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "rgY23edQaOcK-S6_iH9_VTmXtLA",
+        "etag": "mJZaGn0HGU_uLIBNztYo-3qkTRk",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -1200,7 +1250,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 35
+          "itemCount": 40
         }
       },
       {
@@ -2442,7 +2492,18 @@
         "contentDetails": {
           "itemCount": 14
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "GCFv6nuOH_7naBSzvgbi_LNhDkM",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 93,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "7iO-LYQEr-yIKSjX10Ft3Lb0Gs4",
@@ -2482,18 +2543,7 @@
         "contentDetails": {
           "itemCount": 3
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "RLuAFEDoSZhg-_ypnW9Ft80lzYs",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 92,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "VN7aNY59ngyhegLBD09GUWb41o0",
