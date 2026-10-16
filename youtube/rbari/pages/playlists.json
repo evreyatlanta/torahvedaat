@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "-Y1ZqUX6cBbwQZueGshd56yg-NQ",
+    "etag": "7R05PYTgW7BeAsJTx1erKfgBTA0",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 93,
@@ -60,10 +60,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "Yur9vgoqrcKZIs4PKWHPYyx9vuE",
+        "etag": "SwQmsLt7VWJ0ffbz3yFp0q52REE",
         "id": "PLUtAxWyvdZ0Y",
         "snippet": {
-          "publishedAt": "2026-09-25T13:22:04.76227457Z",
+          "publishedAt": "2026-09-25T13:22:04.762274Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] The Arizal on Sukkot | Rav Eliyahu Bari | 5-Part Series",
           "description": "Explore the Arizal’s teachings on Sukkot, Hoshana Rabbah, and Shemini Atzeret with Rav Eliyahu Bari. Based on Sha’ar HaKavanot as transmitted by Rabbi Chaim Vital, these five classes follow the journey from judgment and forgiveness to the embrace of kindness, the sukkah’s surrounding light, the four species, the second seal, and the joy of union. A continuation of the Rosh Hashanah and Yom Kippur series.",
@@ -110,10 +110,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "8cghwF-V3tM6_AlEgywNA4u4wLc",
+        "etag": "0wqsoqckIOQj3GWf9PX-kxGXEBE",
         "id": "PLRCDo5wsgbrI",
         "snippet": {
-          "publishedAt": "2026-09-23T01:03:02.791256206Z",
+          "publishedAt": "2026-09-23T01:03:02.791256Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Суккот",
           "description": "Суккот по Аризалю — серия уроков рава Элиягу Бари о пути от Йом-Кипура через дни Суккота к Шмини Ацерет и радости Торы. Начните с обзорного урока, затем смотрите пять тематических занятий по порядку.\n\nВ плейлисте:\n1. Суккот по Аризалю: от Неилы до Симхат Торы — обзор серии.\n2. Почему Суккот следует за Йом-Кипуром? — первая часть.\n3. Сукка — свет, внутри которого мы живём.\n4. Четыре вида растений: как приходит внутренний свет.\n5. Ошана Раба: вторая печать и пять ветвей ивы.\n6. Шмини Ацерет: радость Торы.\n\nСмотрите всю серию по порядку, чтобы проследить духовную последовательность праздников Тишрея в свете учения Аризаля.",
