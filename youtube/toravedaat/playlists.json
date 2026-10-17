@@ -17539,110 +17539,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "edC5gtsHx4e_YpKos8YoEK_cDP8",
-        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC45RTgxNDRBMzUwRjQ0MDhC",
-        "snippet": {
-          "publishedAt": "2023-05-21T15:17:42Z",
-          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "\"Устная Тора\" - песня-переделка (муз. М. Табачников, сл. М. Гутерман)",
-          "description": "Две Торы Всевышний евреям вручил,\nИ созданы обе искусно.\nОдну записать Он Моше поручил,\nВторую поведать нам устно,\nТо есть, Устную Тору.\n\nЕе сберегали мы тысячу лет,\nИ все ж не утратили чудом,\nПотом записали короткий конспект\nИ названа книга Талмудом.\nВ ней Устная Тора.\n\nВот книга, в которой я плыл и тонул,\nНе знал ее с детства, к несчастью,\nНо всякий, кто мудрость Талмуда вдохнул,\nЕй вдоволь не мог надышаться.\nВ ней Устная Тора.\n\nВы можете сами зайти в Интернет,\nНо, если б вы знали, как дорог\nС доставкой заказанный полный комплект\nС Талмудом, где Устная Тора.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/aFR19-S8itw/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/aFR19-S8itw/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/aFR19-S8itw/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/aFR19-S8itw/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            }
-          },
-          "channelTitle": "Тора ве-Даат",
-          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-          "position": 56,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "aFR19-S8itw"
-          },
-          "videoOwnerChannelTitle": "Тора ве-Даат",
-          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-        },
-        "contentDetails": {
-          "videoId": "aFR19-S8itw",
-          "videoPublishedAt": "2015-08-31T04:02:53Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "Hnndkz815_IPrtcuT2yQ0lP-Sro",
-        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5BRDg1NUY1OTY2QzgzOEM0",
-        "snippet": {
-          "publishedAt": "2023-05-21T15:30:59Z",
-          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Повесил свой талит на спинку стула бааль-а-байс. (муз. группы \"Воскресение\")",
-          "description": "Повесил свой талит \nНа спинку стула бааль-а-байс, \nВ стакан с соленою водой,\nОн окунул карпас. \nТы подсядь к нему поближе, \nАгаду услышать, \nОн пока еще совсем не пьян. \nПро Моше и фараона, \nО добре и зле, \nО лютой ненависти и святой любви, \nЧто творится, что творилось \nНа чужой земле,\nВсё в этом Седере, ты только улови. \n\nВокруг тебя шумят дела, \nБегут твои года, \nЗачем явился ты на свет, \nТы помнил не всегда. \nЭтой ночью всё живое, \nСпящее в тебе разбудят, \nЕсли ты ещё не слишком пьян. \nПро Моше и фараона, \nО добре и зле, \nО лютой ненависти и святой любви, \nЧто творится, что творилось \nНа чужой земле \nВсё в этом Седере, ты только улови. \n\nУстал рассказчик, хоть кого \nСостарят боль и страх. \nПоел марор, хлебнул вина, \nЛишь горечь на губах. \nИ уснул, не попрощавшись, \nПозабыв афикоман, \nВидно был старик сегодня пьян. \nА история осталась крошками в маце, \nСреди людского шума еле уловима. \nПро Моше и фараона,\nО добре и зле, \nО лютой ненависти и святой любви.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Тора ве-Даат",
-          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-          "position": 57,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "SdPfCe95I2o"
-          },
-          "videoOwnerChannelTitle": "Тора ве-Даат",
-          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-        },
-        "contentDetails": {
-          "videoId": "SdPfCe95I2o",
-          "videoPublishedAt": "2017-05-15T04:05:06Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "WgshbOkRZGswSErz0V4JCEXTdP4",
+        "etag": "rs5M-GKR-O1usUFCKbt8-E5JR7o",
         "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5CMDk1Q0MxREYyOTVEOTZF",
         "snippet": {
           "publishedAt": "2025-02-10T17:28:15Z",
@@ -17678,7 +17575,7 @@
           },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-          "position": 58,
+          "position": 56,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "oc9OjrEQEW0"
@@ -17689,6 +17586,109 @@
         "contentDetails": {
           "videoId": "oc9OjrEQEW0",
           "videoPublishedAt": "2025-02-10T17:27:31Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "BlJKswMoyohEkEOml9Bo8Zm-AVI",
+        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC45RTgxNDRBMzUwRjQ0MDhC",
+        "snippet": {
+          "publishedAt": "2023-05-21T15:17:42Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "\"Устная Тора\" - песня-переделка (муз. М. Табачников, сл. М. Гутерман)",
+          "description": "Две Торы Всевышний евреям вручил,\nИ созданы обе искусно.\nОдну записать Он Моше поручил,\nВторую поведать нам устно,\nТо есть, Устную Тору.\n\nЕе сберегали мы тысячу лет,\nИ все ж не утратили чудом,\nПотом записали короткий конспект\nИ названа книга Талмудом.\nВ ней Устная Тора.\n\nВот книга, в которой я плыл и тонул,\nНе знал ее с детства, к несчастью,\nНо всякий, кто мудрость Талмуда вдохнул,\nЕй вдоволь не мог надышаться.\nВ ней Устная Тора.\n\nВы можете сами зайти в Интернет,\nНо, если б вы знали, как дорог\nС доставкой заказанный полный комплект\nС Талмудом, где Устная Тора.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/aFR19-S8itw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/aFR19-S8itw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/aFR19-S8itw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/aFR19-S8itw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+          "position": 57,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "aFR19-S8itw"
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+        },
+        "contentDetails": {
+          "videoId": "aFR19-S8itw",
+          "videoPublishedAt": "2015-08-31T04:02:53Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "TK2DU7UIx2FmfWj5klG8shNNzXg",
+        "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5BRDg1NUY1OTY2QzgzOEM0",
+        "snippet": {
+          "publishedAt": "2023-05-21T15:30:59Z",
+          "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+          "title": "Повесил свой талит на спинку стула бааль-а-байс. (муз. группы \"Воскресение\")",
+          "description": "Повесил свой талит \nНа спинку стула бааль-а-байс, \nВ стакан с соленою водой,\nОн окунул карпас. \nТы подсядь к нему поближе, \nАгаду услышать, \nОн пока еще совсем не пьян. \nПро Моше и фараона, \nО добре и зле, \nО лютой ненависти и святой любви, \nЧто творится, что творилось \nНа чужой земле,\nВсё в этом Седере, ты только улови. \n\nВокруг тебя шумят дела, \nБегут твои года, \nЗачем явился ты на свет, \nТы помнил не всегда. \nЭтой ночью всё живое, \nСпящее в тебе разбудят, \nЕсли ты ещё не слишком пьян. \nПро Моше и фараона, \nО добре и зле, \nО лютой ненависти и святой любви, \nЧто творится, что творилось \nНа чужой земле \nВсё в этом Седере, ты только улови. \n\nУстал рассказчик, хоть кого \nСостарят боль и страх. \nПоел марор, хлебнул вина, \nЛишь горечь на губах. \nИ уснул, не попрощавшись, \nПозабыв афикоман, \nВидно был старик сегодня пьян. \nА история осталась крошками в маце, \nСреди людского шума еле уловима. \nПро Моше и фараона,\nО добре и зле, \nО лютой ненависти и святой любви.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SdPfCe95I2o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Тора ве-Даат",
+          "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+          "position": 58,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SdPfCe95I2o"
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+        },
+        "contentDetails": {
+          "videoId": "SdPfCe95I2o",
+          "videoPublishedAt": "2017-05-15T04:05:06Z"
         },
         "status": {
           "privacyStatus": "public"
