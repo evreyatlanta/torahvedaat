@@ -12,6 +12,54 @@
         "items": [],
         "children": [
           {
+            "id": "PLIJRKGPY1TE4",
+            "title": "[RU] Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "_bQzIvKDsfY",
+              "wYXnzsaK-EM",
+              "qF1DHAcbs50",
+              "DqKx6c4Zm74",
+              "e3f_WBVpXgE",
+              "C9qPutqPxeM",
+              "A4wQheMjTss",
+              "ItkJDFoMVL8",
+              "p5NrMFNEGkQ"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLBed1BtS3g_0",
+            "title": "[RU] Берешит | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "qF1DHAcbs50",
+              "nwUUeXxA4Mg",
+              "A1rAcSQnBAA",
+              "KCe4a7586p8"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLLBb1uiUMWsU",
+            "title": "[RU]  Зоар - Лех Леха",
+            "tags": [],
+            "items": [
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU",
+              "v3Szcm2FVrA",
+              "7X1uOA16Aus",
+              "E2aDC4hMn4I"
+            ],
+            "children": []
+          },
+          {
             "id": "PLLiDPzJHV2BE",
             "title": "[RU] Зоар - Ноах 5787",
             "tags": [
@@ -330,7 +378,12 @@
               "80l1w0OKEaQ",
               "qSHQsu0zSjc",
               "6VE49soNFLo",
-              "BSgukvt6_1o"
+              "BSgukvt6_1o",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
+              "v3Szcm2FVrA",
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU"
             ],
             "children": []
           },
@@ -397,7 +450,12 @@
               "GOkbY7J_Fh0",
               "zeVH5dD0TEk",
               "7nK-H-Ou86s",
-              "OUpQ6mK0Bhk"
+              "OUpQ6mK0Bhk",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
+              "v3Szcm2FVrA",
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU"
             ],
             "children": []
           },

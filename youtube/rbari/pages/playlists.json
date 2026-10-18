@@ -1,13 +1,151 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "pG2IXGo4cCvqnZG5lam1rZM_tUM",
+    "etag": "GgDbfMJDyONHlRFG-sdZ_yf0XVw",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 93,
+      "totalResults": 96,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "0nWV1fQZyO2ID7yxHoxrF_1XZS4",
+        "id": "PLIJRKGPY1TE4",
+        "snippet": {
+          "publishedAt": "2026-10-18T21:45:14.78972Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "description": "Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПлейлист с уроками Рава Элиягу Бари по недельной главе Ноах на основе разных классических и каббалистических источников: книги Зоар (с комментарием Сулам), комментария Ор аХаим аКадош и классических мидрашей (Талмуд, Кли Якар, Сфат Эмет).\n\nУроки в плейлисте:\n\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=qF1DHAcbs50\n\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=_bQzIvKDsfY\n\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=wYXnzsaK-EM\n\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=e3f_WBVpXgE\n\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=DqKx6c4Zm74\n\n6. Ор аХаим - Ноах - Вавилонская башня: ересь или цивилизация? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=ItkJDFoMVL8\n\n7. Ор аХаим - Ноах - Авраам, Сара и тайна невозможного рождения - Рав Элиягу Бари\nhttps://youtube.com/watch?v=A4wQheMjTss\n\n8. Ор аХаим - Ноах - Почему неудачи требуют смены места? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=p5NrMFNEGkQ\n\n9. Как внук Яаков спас Авраама из огня Нимрода – Рав Элиягу Бари\nhttps://youtube.com/watch?v=C9qPutqPxeM\n\nСвязанные плейлисты:\n• [RU] Зоар - Ноах 5787: https://youtube.com/playlist?list=PLLiDPzJHV2BE\n• [RU] Ор аХаим глава Ноах: https://youtube.com/playlist?list=PLDKe3hTC3Iltki4AJ0FIYm3Z8muem_ebZ\n• [RU] Понимание тяжёлых мидрашей: https://youtube.com/playlist?list=PLDKe3hTC3Ilu879Vth6afbxPepGrSRdbP\n\nТемы: Ноах, Ковчег Ноаха, Потоп, Вавилонская башня, Авраам, Ур Касдим, Зоар, Ор аХаим, Мидраш, Сфат Эмет, каббала, недельная глава Торы, Рав Элиягу Бари.\n\nПодписывайтесь на канал, чтобы получать новые уроки по недельной главе, Зоару, Ор аХаиму и внутренней Торе.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qF1DHAcbs50/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "[RU] Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "description": "Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПлейлист с уроками Рава Элиягу Бари по недельной главе Ноах на основе разных классических и каббалистических источников: книги Зоар (с комментарием Сулам), комментария Ор аХаим аКадош и классических мидрашей (Талмуд, Кли Якар, Сфат Эмет).\n\nУроки в плейлисте:\n\n1. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=qF1DHAcbs50\n\n2. Были бы у Адама дети, если бы он не согрешил? | Зоар 2/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=_bQzIvKDsfY\n\n3. Желание, святость и начало новой жизни | Зоар 3/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=wYXnzsaK-EM\n\n4. Почему человеческая жизнь стала хрупкой | Зоар 4/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=e3f_WBVpXgE\n\n5. Ковчег Ноаха: новое начало человечества | Зоар 5/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=DqKx6c4Zm74\n\n6. Ор аХаим - Ноах - Вавилонская башня: ересь или цивилизация? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=ItkJDFoMVL8\n\n7. Ор аХаим - Ноах - Авраам, Сара и тайна невозможного рождения - Рав Элиягу Бари\nhttps://youtube.com/watch?v=A4wQheMjTss\n\n8. Ор аХаим - Ноах - Почему неудачи требуют смены места? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=p5NrMFNEGkQ\n\n9. Как внук Яаков спас Авраама из огня Нимрода – Рав Элиягу Бари\nhttps://youtube.com/watch?v=C9qPutqPxeM\n\nСвязанные плейлисты:\n• [RU] Зоар - Ноах 5787: https://youtube.com/playlist?list=PLLiDPzJHV2BE\n• [RU] Ор аХаим глава Ноах: https://youtube.com/playlist?list=PLDKe3hTC3Iltki4AJ0FIYm3Z8muem_ebZ\n• [RU] Понимание тяжёлых мидрашей: https://youtube.com/playlist?list=PLDKe3hTC3Ilu879Vth6afbxPepGrSRdbP\n\nТемы: Ноах, Ковчег Ноаха, Потоп, Вавилонская башня, Авраам, Ур Касдим, Зоар, Ор аХаим, Мидраш, Сфат Эмет, каббала, недельная глава Торы, Рав Элиягу Бари.\n\nПодписывайтесь на канал, чтобы получать новые уроки по недельной главе, Зоару, Ор аХаиму и внутренней Торе."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 9
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "NKNoHyJIyq13qBTbEmMfyF3zi34",
+        "id": "PLBed1BtS3g_0",
+        "snippet": {
+          "publishedAt": "2026-10-18T21:42:23.946443Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Берешит | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "description": "Берешит | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПлейлист с уроками Рава Элиягу Бари по недельной главе Берешит на основе разных классических и каббалистических источников: книги Зоар (с комментарием Сулам и учением Аризаля) и комментария Ор аХаим аКадош.\n\nУроки в плейлисте:\n\n1. Зоhар: роза среди колючек и 13 мер милосердия | Рав Элиягу Бари\nhttps://youtube.com/watch?v=nwUUeXxA4Mg\n\n2. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=qF1DHAcbs50\n\n3. Ор аХаим глава Берешит - о слове Берешит: 22 тайны первых букв Торы. Рав Элиягу Бари.\nhttps://youtube.com/watch?v=KCe4a7586p8\n\n4. Ор аХаим - Берешит - Почему земля нарушила волю Всевышнего? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=A1rAcSQnBAA\n\nСвязанные плейлисты:\n• [RU] Ор аХаим глава Берешит: https://youtube.com/playlist?list=PLDKe3hTC3IluNgsQ-cP2KQCYllfFVHyVI\n• [RU] Зоар о недельной главе: https://youtube.com/playlist?list=PLDKe3hTC3IludiafvzeX5e332vc69yG0T\n\nТемы: Берешит, сотворение мира, Адам, Ган Эден, Зоар, Бааль а-Сулам, Аризаль, Ор аХаим, 22 буквы Торы, 13 мер милосердия, каббала, недельная глава Торы, Рав Элиягу Бари.\n\nПодписывайтесь на канал, чтобы получать новые уроки по недельной главе, Зоару, Ор аХаиму и внутренней Торе.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/nwUUeXxA4Mg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "[RU] Берешит | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "description": "Берешит | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПлейлист с уроками Рава Элиягу Бари по недельной главе Берешит на основе разных классических и каббалистических источников: книги Зоар (с комментарием Сулам и учением Аризаля) и комментария Ор аХаим аКадош.\n\nУроки в плейлисте:\n\n1. Зоhар: роза среди колючек и 13 мер милосердия | Рав Элиягу Бари\nhttps://youtube.com/watch?v=nwUUeXxA4Mg\n\n2. Жизнь в Эдене: что изменилось после греха Адама? | Зоар 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=qF1DHAcbs50\n\n3. Ор аХаим глава Берешит - о слове Берешит: 22 тайны первых букв Торы. Рав Элиягу Бари.\nhttps://youtube.com/watch?v=KCe4a7586p8\n\n4. Ор аХаим - Берешит - Почему земля нарушила волю Всевышнего? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=A1rAcSQnBAA\n\nСвязанные плейлисты:\n• [RU] Ор аХаим глава Берешит: https://youtube.com/playlist?list=PLDKe3hTC3IluNgsQ-cP2KQCYllfFVHyVI\n• [RU] Зоар о недельной главе: https://youtube.com/playlist?list=PLDKe3hTC3IludiafvzeX5e332vc69yG0T\n\nТемы: Берешит, сотворение мира, Адам, Ган Эден, Зоар, Бааль а-Сулам, Аризаль, Ор аХаим, 22 буквы Торы, 13 мер милосердия, каббала, недельная глава Торы, Рав Элиягу Бари.\n\nПодписывайтесь на канал, чтобы получать новые уроки по недельной главе, Зоару, Ор аХаиму и внутренней Торе."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "rj53HCspwvKi63z70NOlc9wBzG0",
+        "id": "PLLBb1uiUMWsU",
+        "snippet": {
+          "publishedAt": "2026-10-18T19:24:30.970758643Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU]  Зоар - Лех Леха",
+          "description": "Чем сильное сердце отличается от закрытого? Как стремление Авраама приблизиться к Всевышнему становится праведной жизнью?\n\nРав Элиягу Бари разбирает начало главы Лех Леха книги Зоар в пяти уроках. Обсуждаем готовность услышать Тору, тшуву, связь праведности и мира, а также любовь, которая определяет выбор Авраама.\n\nУроки:\n1. 1 из 5 — Сильное сердце или закрытое сердце\n2. 2 из 5 — Тшува и путь возвращения\n3. 3 из 5 — Праведность и мир\n4. 4 из 5 — Авраам выбирает праведность\n5. 5 из 5 — Авраам и любовь к Всевышнему\n\nИсточник: Зоар, Лех Леха, глава 1, §§1–3; предоставленные печатные страницы 3–4.\n\nПострочное изучение исходного текста с переводом и объяснением. Язык уроков: русский.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "[RU]  Зоар - Лех Леха",
+            "description": "Чем сильное сердце отличается от закрытого? Как стремление Авраама приблизиться к Всевышнему становится праведной жизнью?\n\nРав Элиягу Бари разбирает начало главы Лех Леха книги Зоар в пяти уроках. Обсуждаем готовность услышать Тору, тшуву, связь праведности и мира, а также любовь, которая определяет выбор Авраама.\n\nУроки:\n1. 1 из 5 — Сильное сердце или закрытое сердце\n2. 2 из 5 — Тшува и путь возвращения\n3. 3 из 5 — Праведность и мир\n4. 4 из 5 — Авраам выбирает праведность\n5. 5 из 5 — Авраам и любовь к Всевышнему\n\nИсточник: Зоар, Лех Леха, глава 1, §§1–3; предоставленные печатные страницы 3–4.\n\nПострочное изучение исходного текста с переводом и объяснением. Язык уроков: русский."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "qxurtXwoQDk04ukEjJnuiPs4jYo",
@@ -60,10 +198,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "SwQmsLt7VWJ0ffbz3yFp0q52REE",
+        "etag": "Yur9vgoqrcKZIs4PKWHPYyx9vuE",
         "id": "PLUtAxWyvdZ0Y",
         "snippet": {
-          "publishedAt": "2026-09-25T13:22:04.762274Z",
+          "publishedAt": "2026-09-25T13:22:04.76227457Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] The Arizal on Sukkot | Rav Eliyahu Bari | 5-Part Series",
           "description": "Explore the Arizal’s teachings on Sukkot, Hoshana Rabbah, and Shemini Atzeret with Rav Eliyahu Bari. Based on Sha’ar HaKavanot as transmitted by Rabbi Chaim Vital, these five classes follow the journey from judgment and forgiveness to the embrace of kindness, the sukkah’s surrounding light, the four species, the second seal, and the joy of union. A continuation of the Rosh Hashanah and Yom Kippur series.",
@@ -110,10 +248,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "0wqsoqckIOQj3GWf9PX-kxGXEBE",
+        "etag": "8cghwF-V3tM6_AlEgywNA4u4wLc",
         "id": "PLRCDo5wsgbrI",
         "snippet": {
-          "publishedAt": "2026-09-23T01:03:02.791256Z",
+          "publishedAt": "2026-09-23T01:03:02.791256206Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Суккот",
           "description": "Суккот по Аризалю — серия уроков рава Элиягу Бари о пути от Йом-Кипура через дни Суккота к Шмини Ацерет и радости Торы. Начните с обзорного урока, затем смотрите пять тематических занятий по порядку.\n\nВ плейлисте:\n1. Суккот по Аризалю: от Неилы до Симхат Торы — обзор серии.\n2. Почему Суккот следует за Йом-Кипуром? — первая часть.\n3. Сукка — свет, внутри которого мы живём.\n4. Четыре вида растений: как приходит внутренний свет.\n5. Ошана Раба: вторая печать и пять ветвей ивы.\n6. Шмини Ацерет: радость Торы.\n\nСмотрите всю серию по порядку, чтобы проследить духовную последовательность праздников Тишрея в свете учения Аризаля.",
@@ -210,10 +348,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "KFKFICu_6kbrcmiUv3DLppKsmzg",
+        "etag": "OPNF_G2OSQ04YaEKcm443m_vT60",
         "id": "PLQmxxjCCamiU",
         "snippet": {
-          "publishedAt": "2026-09-16T21:27:02.067926Z",
+          "publishedAt": "2026-09-16T21:27:02.067926924Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] Yom Kippur",
           "description": "A lesson series by Rav Eliyahu Bari: Yom Kippur.\n\nIn this playlist:\n1. The Arizal’s Secret of Yom Kippur 1 of 3 | What Happens in the Spiritual Worlds? Rav Eliyahu Bari\n2. Arizal - Yom Kippur 2/3: Sweetening Judgment & the Avodah | Rav Eliyahu Bari\n3. Arizal - Yom Kippur 3/3: Kapparah, Neilah & the Road to Sukkot | Rav Eliyahu Bari\n\nWatch the lessons in order to follow the subject step by step.",
@@ -260,10 +398,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "L3aUcPdcvEQj-MK9OKUyEd_-9SY",
+        "etag": "3nDstpvPfPfs177LqMW0xXgP0Fc",
         "id": "PLKTLsA4MaNkc",
         "snippet": {
-          "publishedAt": "2026-09-04T03:19:09.424306Z",
+          "publishedAt": "2026-09-04T03:19:09.424306938Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] Rosh Hashanah | Rav Eliyahu Bari",
           "description": "Rosh Hashanah According to the Arizal | A Five-Part Kabbalah Series\n\nWhat is really happening in the inner spiritual structure of Rosh Hashanah?\n\nIn this five-part series, Rav Eliyahu Bari follows the Arizal's teaching from Shaar HaKavanot through one continuous process: Dormita, Nesirah, the building of Nukva, the awakening of the shofar, the two forms of Din, and Tashlich.\n\nWatch the lessons in order:\n\n1. Dormita: Why Rosh Hashanah begins with spiritual sleep and the withdrawal of Mochin.\n2. Nesirah: Why separation is necessary before a deeper face-to-face unity can emerge.\n3. The Shofar: How a sound below participates in awakening above.\n4. Dina Kashya and Dina Rafya: Why Rosh Hashanah has two days and how judgment is tempered.\n5. Tashlich: The sweetening of Din at its higher root through Rachamim.\n\nThe series explores the teachings of the Arizal and Rabbi Chaim Vital on Zeir Anpin, Nukva, Mochin, Din, Gevurah, Malchut, Teshuvah, Shofar, Tashlich, and the Thirteen Attributes of Mercy.\n\nBegin with Episode 1 and watch the full series in sequence.\n\nRav Eliyahu Bari presents Torah and Kabbalah classes in English and Russian.\n\n#RoshHashanah #Arizal #Kabbalah",
@@ -310,10 +448,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "WOog1KJkmLPobVh2AVIsAokEH-g",
+        "etag": "zO8W0xvMDdJ-YfOx8jZD7B3NY6M",
         "id": "PLA-KgKbWI6BM",
         "snippet": {
-          "publishedAt": "2026-09-04T01:18:28.69426Z",
+          "publishedAt": "2026-09-04T01:18:28.694260393Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Рош хаШана | Рав Элиягу Бари",
           "description": "Рош hа-Шана по Аризалю: Дормита и Несира | Рав Элиягу Бари\n\nПервые два урока русского цикла по «Шаар hа-Каванот» рабби Хаима Виталя и учению Аризаля о внутренней духовной работе Рош hа-Шана.\n\nПочему день пробуждения и шофара начинается с духовного сна? Что такое Дормита, удаление Мохин, Зеир Анпин и Нуква? Почему Несира — разделение — необходима, чтобы прийти к более глубокому единству паним бе-паним, лицом к лицу?\n\nВ серии раскрываются:\n1. Дормита: духовный сон, удаление Мохин и начало нового построения.\n2. Несира: связь разделения, Дина, Гвуры и построения Нуквы.\n\nСмотрите уроки по порядку, чтобы проследить путь:\nДормита → Несира → новое построение → пробуждение → паним бе-паним.\n\nРав Элиягу Бари представляет уроки по Торе, Каббале и внутренней духовной работе.\n\n#РошАшана #Аризаль #Каббала #Дормита #Несира #РавЭлиягуБари",
@@ -360,10 +498,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "v4X4j6dKwd95lUyEt_v6RWqnxLc",
+        "etag": "l3hjTLxnnjovyLW5CHmutUKlmao",
         "id": "PLLk_2AuCIx-c",
         "snippet": {
-          "publishedAt": "2026-09-01T02:52:50.034222Z",
+          "publishedAt": "2026-09-01T02:52:50.034222361Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Обычаи Шаббата: смысл и объяснение",
           "description": "Откройте для себя глубокий смысл обычаев, которые формируют Шаббат.\n\n«Обычаи Шаббата: смысл и объяснение» — серия уроков Рава Элиягу Бари о галахическом, духовном и каббалистическом смысле знакомых традиций Шаббата: Кидуша, свечей, вина, хлеба, трапез, молитв и других священных обычаев.\n\nПочему мы соблюдаем эти обычаи? Каковы их источники? И какие глубокие идеи скрываются за действиями, которые иногда кажутся привычными и простыми?\n\nВ каждом уроке мы обращаемся к Галахе, Торе, Каббале и еврейской мысли, чтобы глубже понять Шаббат и наполнить знакомые традиции новым смыслом.\n\nЭта серия предназначена как для тех, кто только начинает знакомиться с обычаями Шаббата, так и для тех, кто соблюдает их всю жизнь и хочет открыть их духовную глубину.\n\nРав Элиягу Бари",
@@ -410,10 +548,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "nNgX6xLCVrkdKqeXH49ZPP2bnR0",
+        "etag": "KEo-DknWm-Yzhc2vJkvEDE5pg6k",
         "id": "PLRXUfyQHmnEY",
         "snippet": {
-          "publishedAt": "2026-09-01T02:37:10.719228Z",
+          "publishedAt": "2026-09-01T02:37:10.719228211Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] Shabbat Customs Explained",
           "description": "Explore the deeper meaning behind the customs that shape **Shabbat**.\n\n**Shabbat Customs Explained** is a series with **Rav Eliyahu Bari** exploring the halachic, spiritual, and Kabbalistic dimensions of familiar Shabbat practices — from Kiddush and the Shabbat table to candles, wine, bread, prayer, meals, and other sacred customs.\n\nWhy do we perform these customs? What are their sources? And what deeper ideas are hidden within actions that may seem simple or routine?\n\nEach class moves beyond the surface to explore how **Halachah, Torah, Kabbalah, and Jewish thought** illuminate the meaning of Shabbat and transform familiar practices into opportunities for greater understanding and connection to Hashem.\n\nWhether you are discovering these customs for the first time or have observed them your entire life, this playlist offers an opportunity to experience Shabbat with greater knowledge, meaning, and spiritual depth.\n\n**Topics include:**\nShabbat customs • Halachah • Kabbalah • Kiddush • Shabbat candles • Shabbat meals • Jewish traditions • Jewish spirituality • Torah insights • the teachings of the Arizal • and the deeper meaning of Shabbat observance.\n\n**Rav Eliyahu Bari**\n\n#Shabbat #Torah #Kabbalah #Halachah #JewishTradition #JewishSpirituality #RavEliyahuBari",
@@ -460,10 +598,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "SUkehaa83li_0pyhKdwDxn9b-tY",
+        "etag": "TtgJ8rifCuAdcaKMMRdV7YX-LEI",
         "id": "PLKZvm5RI0lTQ",
         "snippet": {
-          "publishedAt": "2026-08-28T01:11:38.224389Z",
+          "publishedAt": "2026-08-28T01:11:38.22438916Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Зоар - Ки Теице - Самаэль и его нуква",
           "description": "Цикл из пяти уроков по Зоhару на недельную главу Ки Теце. Подробный построчный разбор Рая Меhемна с переводом и объяснениями Сулама — Бааль hа-Сулама. Разбираем природу сил нечистоты, Самаэля, «чужих служанок», авода зара и духовный механизм, при котором служебная сила начинает восприниматься как самостоятельная власть.\n\nДля тех, кто хочет серьёзно изучать Зоhар, Каббалу и внутреннюю Тору вместе с первоисточником.\n\nРав Элиягу Бари",
@@ -560,10 +698,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "imoetsPUKBPlpK-b3wLPZb9ANZU",
+        "etag": "DluVG9qh3PWExJNj_4k2ihPnpI4",
         "id": "PLd788WkCJ-I4",
         "snippet": {
-          "publishedAt": "2026-07-24T20:29:00.625409Z",
+          "publishedAt": "2026-07-24T20:29:00.625409733Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[EN] Tu B'Av: The Happiest Day You Never Knew | Rav Eliyahu Bari",
           "description": "Tu B'Av — the fifteenth of Av — is one of the two happiest days on the Jewish calendar, ranked beside Yom Kippur. Yet most people have never heard of it.\n\nThis 10-part series uncovers what Tu B'Av really is: not a holiday of fleeting romance, but a day of reconciliation, repair, and the eternal bond between Israel and Hashem. From the daughters of Jerusalem dancing in borrowed white dresses, through the six repairs recorded in the Talmud, to the teachings of the Kabbalists and Chassidic masters.\n\nWHAT'S IN THIS SERIES:\n1. The Happiest Day — the day ranked with Yom Kippur that almost vanished from memory\n2. Six Days After the Saddest Day — how Tisha B'Av turns into Tu B'Av\n3. Why They Danced in Borrowed White Dresses — the Mishnah's lesson in dignity\n4. Don't Marry for Looks — choosing a spouse by character, not beauty\n5. The Jewish Holiday With Almost No Rules — and why that saved it\n6. Six Broken Things Fixed on One Day — the Talmud's six reasons\n7. The Tribe That Was Almost Erased — Binyamin brought home\n8. The Fullest Moon After the Darkest Month — the mystics' reading\n9. Your Match Was Announced 40 Days Before Creation — the Bnei Yissaschar\n10. The Real Tu B'Av — what the day is truly about\n\nWatch in order for the full journey, or start with any part on its own.\n\nPresented by Rav Eliyahu Bari.\nSubscribe for weekly Torah, Talmud, Zohar and Chassidus classes.\n\n#TuBAv #Torah #Judaism #Talmud #Kabbalah #JewishWisdom #JewishHolidays",
@@ -1105,7 +1243,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "dA8AF-XOGj19mXEdXd4zVggOpsQ",
+        "etag": "izoQQeGDEo84A_gK09sHt1E3fgU",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -1150,7 +1288,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 96
+          "itemCount": 101
         }
       },
       {
@@ -1205,7 +1343,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "mJZaGn0HGU_uLIBNztYo-3qkTRk",
+        "etag": "4YSmm4_eaBPnermWr6x0DD6hyL4",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -1250,7 +1388,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 40
+          "itemCount": 45
         }
       },
       {
@@ -2347,7 +2485,18 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "venMt-xwtaL25Gah2gCenrw7Gi0",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 96,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "0DPmCTEYyIQuTcPuw8bjdkkl9aQ",
@@ -2492,18 +2641,7 @@
         "contentDetails": {
           "itemCount": 14
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "GCFv6nuOH_7naBSzvgbi_LNhDkM",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 93,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "7iO-LYQEr-yIKSjX10Ft3Lb0Gs4",
