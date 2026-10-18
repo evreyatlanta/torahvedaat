@@ -3121,7 +3121,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "rIonUPBLFlSC-IBvrJoW1DWMUF0",
+        "etag": "gzwSsl_9cn-YuxrXq3fAIoHufVs",
         "nextPageToken": "EAAaHlBUOkNESWlFRVkwT0RVMk56VkROa1JHT1VWR01Uaw",
         "items": [
           {
@@ -3234,7 +3234,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "EYzwxrIYujP691u_8wlr2ifXhpg",
+            "etag": "sRG2otswPh_dUirVxY9I36dcU5A",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
               "publishedAt": "2026-09-03T03:35:24Z",
