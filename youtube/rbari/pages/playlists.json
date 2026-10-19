@@ -1,13 +1,101 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "or63x3Y7G-eTBQmGHRlgyJDd50o",
+    "etag": "1Ke4iqOM0d2-hkYBwPeGN6JYhPE",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 105,
+      "totalResults": 107,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "yBc-nyfsSY7T9mE7EIyjxYvLsSE",
+        "id": "PLFOcmq4hiabM",
+        "snippet": {
+          "publishedAt": "2026-10-19T07:04:03.944598Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
+          "description": "All Torah lessons by Rabbi Eliyahu Bari on the weekly Torah portion Parashat Toldot (Book of Genesis) in one playlist — featuring deep commentary from the Ramchal (Rabbi Moshe Chaim Luzzatto) and RaMaD Vali (Rabbi Moshe David Valle).\n\nIncluded in this playlist:\n• Ramchal on Parashat Toldot: The inner meaning of the three wells of Avraham and Yitzchak's spiritual work\n• RaMaD Vali on Parashat Toldot: Deep kabbalistic insights into Yitzchak, Rivka, Yaakov, and Esav\n\nSubscribe and share these Torah teachings!\n#Torah #ParashatToldot #Toldot #Ramchal #RaMaDVali #Kabbalah #JewishWisdom #RabbiEliyahuBari",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fCErmoG2udM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fCErmoG2udM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fCErmoG2udM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
+            "description": "All Torah lessons by Rabbi Eliyahu Bari on the weekly Torah portion Parashat Toldot (Book of Genesis) in one playlist — featuring deep commentary from the Ramchal (Rabbi Moshe Chaim Luzzatto) and RaMaD Vali (Rabbi Moshe David Valle).\n\nIncluded in this playlist:\n• Ramchal on Parashat Toldot: The inner meaning of the three wells of Avraham and Yitzchak's spiritual work\n• RaMaD Vali on Parashat Toldot: Deep kabbalistic insights into Yitzchak, Rivka, Yaakov, and Esav\n\nSubscribe and share these Torah teachings!\n#Torah #ParashatToldot #Toldot #Ramchal #RaMaDVali #Kabbalah #JewishWisdom #RabbiEliyahuBari"
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 2
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "n666wL3Ntn1PgGiJkFdseefLqz4",
+        "id": "PLZGuISxARz2g",
+        "snippet": {
+          "publishedAt": "2026-10-19T07:03:26.522762Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "description": "Все уроки рава Элиягу Бари по недельной главе Торы Экев (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Экев (уроки 1–3): тайна божественной колесницы (Меркава), сокровенные ступени души и духовная работа в мире действия\n• Ор а-Хаим а-Кадош на главу Экев (уроки 1–2): внутренний смысл заповедей, которые человек попирает пятой («экев»), путь смирения и благословение Земли Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Экев #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P2QLztULqgU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P2QLztULqgU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P2QLztULqgU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P2QLztULqgU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P2QLztULqgU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "description": "Все уроки рава Элиягу Бари по недельной главе Торы Экев (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Экев (уроки 1–3): тайна божественной колесницы (Меркава), сокровенные ступени души и духовная работа в мире действия\n• Ор а-Хаим а-Кадош на главу Экев (уроки 1–2): внутренний смысл заповедей, которые человек попирает пятой («экев»), путь смирения и благословение Земли Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Экев #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари"
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "lpjuJSNDTmJuG_kYNc5kn4q7FTE",
@@ -2321,7 +2409,19 @@
         "contentDetails": {
           "itemCount": 3
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "L6YAoH6vW5puZubhdzaqTBXw5ow",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 107,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "O7rxdLoxvzHN2HOP4rAk7SjSvTc",
@@ -2421,19 +2521,7 @@
         "contentDetails": {
           "itemCount": 1
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "vC46we3h2g66cUwqOmG2sGcWc74",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 105,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "2QfMCGgXytKons2J_gmeFd541hk",
@@ -4578,7 +4666,18 @@
         "contentDetails": {
           "itemCount": 3
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "xifEeOK81BvsHTdGmTrVa8pwYqQ",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 107,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "ROctKWgi--BIjBXXefBhKr-Efck",
@@ -4658,18 +4757,7 @@
         "contentDetails": {
           "itemCount": 4
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "jGL0Qsi7hK3TA5BZcWz94wo-mx0",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 105,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "6kwy2qoxmUq8gQKbagkMOm-FTXI",
