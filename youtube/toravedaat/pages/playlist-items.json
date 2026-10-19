@@ -14476,7 +14476,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "D5BqcurtXZ-cIWs9PO67RtQwfhc",
+        "etag": "hy_Vq3yBRBtG3X8fg3G8i76RfiE",
         "nextPageToken": "EAAaHlBUOkNESWlFRVkzUVRCR1F6RkJNa1l4TVVJME56VQ",
         "items": [
           {
@@ -16810,56 +16810,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CYQuIKt9SsIjPiA0nRl4jSpXxe0",
-            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5ENDU4Q0M4RDExNzM1Mjcy",
-            "snippet": {
-              "publishedAt": "2023-05-21T15:17:48Z",
-              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Не секрет, что еврей забывает про Б-га...",
-              "description": "I\n\nНе секрет, что еврей забывает про Б-га,\nЕсли сытно и сладко живет.  \nИ поэтому мы всё бредем по дорогам,\nХоть и знаем, конечно, какой мы народ... \n\nприпев:\nПод громкое трубление,\nПод мертвых воскрешение,\nИ под левитов пение\nОднажды на заре\nУвидим Храм на маленькой,\nАрабами измочаленной,\nРазвалинами заваленной, \nНа Храмовой Горе.\n\nII\n\nНе секрет, что галут не придумали люди,\nсам Вс-вышний придумал галут,\nИ поэтому мы торопиться не будем,\nНо вернемся немедля, когда позовут\n\nприпев:\nПод громкое трубление, \nПод мертвых воскрешение,\nИ под левитов пение\nПридет и победит\nОбычный царь для маленького\nДревнего Израиля,\nВеликого Израиля\nМашиах бен Давид\n\n\nIII\n\nНе секрет, что забот у еврея немало,\nНо взгляните с другой стороны:\nВедь однажды все те, кто дойдут до финала\nНа торжественный ужин будут приглашены.\n\nприпев:\nПод громкое трубление, \nПод мертвых воскрешение,\nИ под левитов пение \nАшем посадит нас\nВ большой шалаш для маленькой\nДля праведной такой компании\nДля скромной такой компании\nВ огромный такой шалаш.\n\nАх, было б только с кем!\nАх, было б только с кем!\nАх, было б только с кем сидеть в сукке!",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                }
-              },
-              "channelTitle": "Тора ве-Даат",
-              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 46,
-              "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "yidXzOXUDnQ"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-            },
-            "contentDetails": {
-              "videoId": "yidXzOXUDnQ",
-              "videoPublishedAt": "2013-09-25T03:58:58Z"
-            },
-            "status": {
-              "privacyStatus": "public"
-            }
-          },
-          {
-            "kind": "youtube#playlistItem",
-            "etag": "6LRbdihI3WGNdvEyEmeWAt_JZQI",
+            "etag": "v66UdsPpFV038PZFrkS4TP71r_w",
             "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC42RDgxQ0M2OUIwREZCNjZF",
             "snippet": {
               "publishedAt": "2023-12-14T02:12:36Z",
@@ -16895,7 +16846,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 47,
+              "position": 46,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "mp0wtxW5rDg"
@@ -16906,6 +16857,55 @@
             "contentDetails": {
               "videoId": "mp0wtxW5rDg",
               "videoPublishedAt": "2020-07-02T16:12:15Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "SdcbNcB8SmB9z9yk7rRUJaPWlzU",
+            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5ENDU4Q0M4RDExNzM1Mjcy",
+            "snippet": {
+              "publishedAt": "2023-05-21T15:17:48Z",
+              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+              "title": "Не секрет, что еврей забывает про Б-га...",
+              "description": "I\n\nНе секрет, что еврей забывает про Б-га,\nЕсли сытно и сладко живет.  \nИ поэтому мы всё бредем по дорогам,\nХоть и знаем, конечно, какой мы народ... \n\nприпев:\nПод громкое трубление,\nПод мертвых воскрешение,\nИ под левитов пение\nОднажды на заре\nУвидим Храм на маленькой,\nАрабами измочаленной,\nРазвалинами заваленной, \nНа Храмовой Горе.\n\nII\n\nНе секрет, что галут не придумали люди,\nсам Вс-вышний придумал галут,\nИ поэтому мы торопиться не будем,\nНо вернемся немедля, когда позовут\n\nприпев:\nПод громкое трубление, \nПод мертвых воскрешение,\nИ под левитов пение\nПридет и победит\nОбычный царь для маленького\nДревнего Израиля,\nВеликого Израиля\nМашиах бен Давид\n\n\nIII\n\nНе секрет, что забот у еврея немало,\nНо взгляните с другой стороны:\nВедь однажды все те, кто дойдут до финала\nНа торжественный ужин будут приглашены.\n\nприпев:\nПод громкое трубление, \nПод мертвых воскрешение,\nИ под левитов пение \nАшем посадит нас\nВ большой шалаш для маленькой\nДля праведной такой компании\nДля скромной такой компании\nВ огромный такой шалаш.\n\nАх, было б только с кем!\nАх, было б только с кем!\nАх, было б только с кем сидеть в сукке!",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/yidXzOXUDnQ/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
+              "channelTitle": "Тора ве-Даат",
+              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+              "position": 47,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "yidXzOXUDnQ"
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+            },
+            "contentDetails": {
+              "videoId": "yidXzOXUDnQ",
+              "videoPublishedAt": "2013-09-25T03:58:58Z"
             },
             "status": {
               "privacyStatus": "public"
@@ -17027,7 +17027,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "1V8kokWaxXhHjs9ubn0y1z3voV4",
+        "etag": "UElgmVVHKDtoqcEGIxnMxwqS_pw",
         "prevPageToken": "EAEaHlBUOkNESWlFRVkzUVRCR1F6RkJNa1l4TVVJME56VQ",
         "items": [
           {
@@ -17292,56 +17292,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "_uGOVw2M0pIsEIOZdPaaqRsjDAQ",
-            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC4yQUJFNUVCMzVDNjcxRTlF",
-            "snippet": {
-              "publishedAt": "2023-05-21T15:23:52Z",
-              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "\"Счастлив бар Йохай\" (музыка Ю. Визбора)",
-              "description": "Всем нашим встречам разлуки, увы, суждены.\nВ день Лаг-ба-Омера все веселиться должны.\nЛейся вино и костер до небес полыхай!\nКак завещал, умирая, Шимон бар Йохай!\n\nСчастлив Бар Йохай, елЕем он помазан,\nВсе его друзья скажут это сразу.\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\n\nАнгелы крылья сложили, их кончен полет.\nКлара у Карла украла ковер-самолет.\nПьяница в пятницу пятится вспять от крыла.\nЭто все шутки, гораздо сложней Каббала!\n\nСчастлив Бар Йохай, елЕем он помазан,\nВсе его друзья скажут это сразу.\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\n\nНе утешайте меня, мне слова не нужны!\nМне б отыскать тот костер в середине весны.\nГде-то в пещере увижу кусочек огня,\nА у огня ожидает, представьте, меня\n\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\nСчастлив Бар Йохай, елеем он помазан,\nВсе его друзья скажут это сразу.",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                }
-              },
-              "channelTitle": "Тора ве-Даат",
-              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 55,
-              "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "24rkLKHRvao"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-            },
-            "contentDetails": {
-              "videoId": "24rkLKHRvao",
-              "videoPublishedAt": "2014-05-25T04:23:35Z"
-            },
-            "status": {
-              "privacyStatus": "public"
-            }
-          },
-          {
-            "kind": "youtube#playlistItem",
-            "etag": "rs5M-GKR-O1usUFCKbt8-E5JR7o",
+            "etag": "K7wB37Tbfvn27jHM0KSQwGVxzIA",
             "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5CMDk1Q0MxREYyOTVEOTZF",
             "snippet": {
               "publishedAt": "2025-02-10T17:28:15Z",
@@ -17377,7 +17328,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 56,
+              "position": 55,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "oc9OjrEQEW0"
@@ -17388,6 +17339,55 @@
             "contentDetails": {
               "videoId": "oc9OjrEQEW0",
               "videoPublishedAt": "2025-02-10T17:27:31Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "dpDVdZUBp5ZsqkDBnqqK35SrnKU",
+            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC4yQUJFNUVCMzVDNjcxRTlF",
+            "snippet": {
+              "publishedAt": "2023-05-21T15:23:52Z",
+              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+              "title": "\"Счастлив бар Йохай\" (музыка Ю. Визбора)",
+              "description": "Всем нашим встречам разлуки, увы, суждены.\nВ день Лаг-ба-Омера все веселиться должны.\nЛейся вино и костер до небес полыхай!\nКак завещал, умирая, Шимон бар Йохай!\n\nСчастлив Бар Йохай, елЕем он помазан,\nВсе его друзья скажут это сразу.\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\n\nАнгелы крылья сложили, их кончен полет.\nКлара у Карла украла ковер-самолет.\nПьяница в пятницу пятится вспять от крыла.\nЭто все шутки, гораздо сложней Каббала!\n\nСчастлив Бар Йохай, елЕем он помазан,\nВсе его друзья скажут это сразу.\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\n\nНе утешайте меня, мне слова не нужны!\nМне б отыскать тот костер в середине весны.\nГде-то в пещере увижу кусочек огня,\nА у огня ожидает, представьте, меня\n\nШимон Бар Йохай, мудростью наполнен.\nГде, в каких краях про него не помнят?\nСчастлив Бар Йохай, елеем он помазан,\nВсе его друзья скажут это сразу.",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/24rkLKHRvao/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
+              "channelTitle": "Тора ве-Даат",
+              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+              "position": 56,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "24rkLKHRvao"
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+            },
+            "contentDetails": {
+              "videoId": "24rkLKHRvao",
+              "videoPublishedAt": "2014-05-25T04:23:35Z"
             },
             "status": {
               "privacyStatus": "public"
