@@ -12,6 +12,157 @@
         "items": [],
         "children": [
           {
+            "id": "PLZhI5m_XJd_o",
+            "title": "[RU] Ваэтханан | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "Im_ZLGUlbUg",
+              "V4SaQLiPe_A",
+              "shBULqYc6oo",
+              "s8SCfSh7XNE",
+              "X772sTo_W9g"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLGN7HNgTRBwM",
+            "title": "[RU] Матот | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "K4o-wOf3-qc",
+              "0aM02bVcTyk",
+              "AVQ0t_Ia3Dk",
+              "TpVPWpd0HLQ",
+              "QBLK0xL6JEY",
+              "M2a23RIBmL4"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLeY9nWGdKkOM",
+            "title": "[RU] Балак | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "s-Ivei9MKuc",
+              "f_PuTW3KXOw",
+              "juZTnkAMUT8",
+              "6aLHh7-W1fE",
+              "sFnzMjyATr0",
+              "T0WmePFX0x0",
+              "ngeegY5V3yY",
+              "VeQK5RyogKY",
+              "5aZlVFVuBrY",
+              "sNObQpGEtaY",
+              "Rh_k1-dMmXE"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLET-y9lHJn1s",
+            "title": "[RU] Хукат | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "B3UXlGwliRU",
+              "uQdv9-wHOgE",
+              "l9u5YB7DV9o",
+              "E89fxDMSwaM",
+              "YsjmdxmKNN4",
+              "1E-WJVT8pWY",
+              "bO7HxdcDy8k",
+              "LYflZcI8_Gs"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLJXEeOuRA6kY",
+            "title": "[RU] Бешалах | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "K4o-wOf3-qc",
+              "-Dbza-9osik"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLCvEm7XJ2JVw",
+            "title": "[RU] Ваигаш | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "2slBn6gBo_4",
+              "w944Cst3SmY",
+              "XNJ5Is0p8PY"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLWQRSAjNAAqU",
+            "title": "[RU] Ваейшев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "xPzX9OZqz4o",
+              "B-HDFHnDXGw",
+              "JJu7atOJ7Og"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLdUsTa4pFIfk",
+            "title": "[RU] Толдот | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "C9qPutqPxeM",
+              "G1inPocBlRk",
+              "Y73sM3Uwryg",
+              "vLaFRoJQowo"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLXI1gHgOzBos",
+            "title": "[RU] Лех Леха | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "C9qPutqPxeM",
+              "t1HQBlmwQv8",
+              "UhkrLNWtDxA",
+              "aQvMzArvd5c",
+              "hpie9RNaonk",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
+              "v3Szcm2FVrA",
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU"
+            ],
+            "children": []
+          },
+          {
             "id": "PLIJRKGPY1TE4",
             "title": "[RU] Ноах | разные комментаторы о недельной главе | Рав Элиягу Бари",
             "tags": [
@@ -399,7 +550,11 @@
               "GOkbY7J_Fh0",
               "zeVH5dD0TEk",
               "7nK-H-Ou86s",
-              "OUpQ6mK0Bhk"
+              "OUpQ6mK0Bhk",
+              "fJ5tx29eg0w",
+              "pPimoTDDSXA",
+              "LkWh7_Ckx9c",
+              "RQstVIeku8c"
             ],
             "children": []
           },
