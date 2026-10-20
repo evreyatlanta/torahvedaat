@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "M9-8FB625KN8hGpB27JlltGJ2cw",
+    "etag": "MZDSxHXFvIIZ95-gcOqM8XgGKl0",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 107,
@@ -10,12 +10,12 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "scSWderJLAUvuB15fwUJ1AXasyY",
+        "etag": "Jnd-V2fIkSXKucHRDdRE-OGqV_o",
         "id": "PLFOcmq4hiabM",
         "snippet": {
           "publishedAt": "2026-10-19T07:04:03.944598Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
+          "title": "[EN] Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
           "description": "All Torah lessons by Rabbi Eliyahu Bari on the weekly Torah portion Parashat Toldot (Book of Genesis) in one playlist — featuring deep commentary from the Ramchal (Rabbi Moshe Chaim Luzzatto) and RaMaD Vali (Rabbi Moshe David Valle).\n\nIncluded in this playlist:\n• Ramchal on Parashat Toldot: The inner meaning of the three wells of Avraham and Yitzchak's spiritual work\n• RaMaD Vali on Parashat Toldot: Deep kabbalistic insights into Yitzchak, Rivka, Yaakov, and Esav\n\nSubscribe and share these Torah teachings!\n#Torah #ParashatToldot #Toldot #Ramchal #RaMaDVali #Kabbalah #JewishWisdom #RabbiEliyahuBari",
           "thumbnails": {
             "default": {
@@ -46,7 +46,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "localized": {
-            "title": "Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
+            "title": "[EN] Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
             "description": "All Torah lessons by Rabbi Eliyahu Bari on the weekly Torah portion Parashat Toldot (Book of Genesis) in one playlist — featuring deep commentary from the Ramchal (Rabbi Moshe Chaim Luzzatto) and RaMaD Vali (Rabbi Moshe David Valle).\n\nIncluded in this playlist:\n• Ramchal on Parashat Toldot: The inner meaning of the three wells of Avraham and Yitzchak's spiritual work\n• RaMaD Vali on Parashat Toldot: Deep kabbalistic insights into Yitzchak, Rivka, Yaakov, and Esav\n\nSubscribe and share these Torah teachings!\n#Torah #ParashatToldot #Toldot #Ramchal #RaMaDVali #Kabbalah #JewishWisdom #RabbiEliyahuBari"
           }
         },
@@ -59,12 +59,12 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "n666wL3Ntn1PgGiJkFdseefLqz4",
+        "etag": "YSN1Dd76XSQFoVEcKd3L9hrl6Mg",
         "id": "PLZGuISxARz2g",
         "snippet": {
           "publishedAt": "2026-10-19T07:03:26.522762Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "title": "[RU] Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
           "description": "Все уроки рава Элиягу Бари по недельной главе Торы Экев (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Экев (уроки 1–3): тайна божественной колесницы (Меркава), сокровенные ступени души и духовная работа в мире действия\n• Ор а-Хаим а-Кадош на главу Экев (уроки 1–2): внутренний смысл заповедей, которые человек попирает пятой («экев»), путь смирения и благословение Земли Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Экев #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари",
           "thumbnails": {
             "default": {
@@ -95,7 +95,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "localized": {
-            "title": "Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "title": "[RU] Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
             "description": "Все уроки рава Элиягу Бари по недельной главе Торы Экев (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Экев (уроки 1–3): тайна божественной колесницы (Меркава), сокровенные ступени души и духовная работа в мире действия\n• Ор а-Хаим а-Кадош на главу Экев (уроки 1–2): внутренний смысл заповедей, которые человек попирает пятой («экев»), путь смирения и благословение Земли Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Экев #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари"
           }
         },

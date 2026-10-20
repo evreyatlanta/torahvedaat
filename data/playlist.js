@@ -12,6 +12,22 @@
         "items": [],
         "children": [
           {
+            "id": "PLZGuISxARz2g",
+            "title": "[RU] Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "P2QLztULqgU",
+              "AwjCQ9EpCso",
+              "c6GIW8zKW5I",
+              "hklliv3Ha3Q",
+              "gNYSVf8IfuY"
+            ],
+            "children": []
+          },
+          {
             "id": "PLZhI5m_XJd_o",
             "title": "[RU] Ваэтханан | разные комментаторы о недельной главе | Рав Элиягу Бари",
             "tags": [
@@ -1632,6 +1648,19 @@
         ],
         "items": [],
         "children": [
+          {
+            "id": "PLFOcmq4hiabM",
+            "title": "[EN] Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "fUY-h_f0Utg",
+              "fCErmoG2udM"
+            ],
+            "children": []
+          },
           {
             "id": "PLUtAxWyvdZ0Y",
             "title": "[EN] The Arizal on Sukkot | Rav Eliyahu Bari | 5-Part Series",
