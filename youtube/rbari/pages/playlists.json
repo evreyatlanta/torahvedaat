@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "1Ke4iqOM0d2-hkYBwPeGN6JYhPE",
+    "etag": "M9-8FB625KN8hGpB27JlltGJ2cw",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 107,
@@ -10,7 +10,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "yBc-nyfsSY7T9mE7EIyjxYvLsSE",
+        "etag": "scSWderJLAUvuB15fwUJ1AXasyY",
         "id": "PLFOcmq4hiabM",
         "snippet": {
           "publishedAt": "2026-10-19T07:04:03.944598Z",
@@ -32,6 +32,16 @@
               "url": "https://i.ytimg.com/vi/fCErmoG2udM/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fCErmoG2udM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fCErmoG2udM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -299,7 +309,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "1z3f_o4FuGxgfUrZJxOtOBfbiDM",
+        "etag": "6Ef9aXXCEGQq9-yUBcx8vgV-3Kc",
         "id": "PLJXEeOuRA6kY",
         "snippet": {
           "publishedAt": "2026-10-19T00:02:15.731298Z",
@@ -321,6 +331,16 @@
               "url": "https://i.ytimg.com/vi/-Dbza-9osik/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-Dbza-9osik/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-Dbza-9osik/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -338,7 +358,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "4UXo0eE_AQQF_wa1Oo5-g988eTk",
+        "etag": "72KYtzZrP2ZLKgzi535zP9msHZY",
         "id": "PLCvEm7XJ2JVw",
         "snippet": {
           "publishedAt": "2026-10-19T00:02:11.116177Z",
@@ -360,6 +380,16 @@
               "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -377,7 +407,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "yTPLN_X-X22KLICGGnJbltakztk",
+        "etag": "_RWYwsqFSK9TwvW5MOQls5YkDp4",
         "id": "PLWQRSAjNAAqU",
         "snippet": {
           "publishedAt": "2026-10-19T00:02:05.167681Z",
@@ -399,6 +429,16 @@
               "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -416,7 +456,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "soNWUCduK4OX2NTvVD7uC5YsUm8",
+        "etag": "KE7TTgV1eKVrrZ7F33Oxd9P7KdA",
         "id": "PLdUsTa4pFIfk",
         "snippet": {
           "publishedAt": "2026-10-19T00:02:01.147586Z",
@@ -438,6 +478,16 @@
               "url": "https://i.ytimg.com/vi/vLaFRoJQowo/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vLaFRoJQowo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vLaFRoJQowo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -455,7 +505,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "-X50jTsSHbFyx5D05f-VoO3Jh5I",
+        "etag": "z14Bn2INci5MaC4d0UrQ-72Ddks",
         "id": "PLXI1gHgOzBos",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:02.902054Z",
@@ -477,6 +527,16 @@
               "url": "https://i.ytimg.com/vi/hpie9RNaonk/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hpie9RNaonk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hpie9RNaonk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -1687,7 +1747,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "0CWxaAP1RuohDFpp-VE6I-A4Ags",
+        "etag": "gOCrKG-SGW7-MLjeEEIeVsQOfYU",
         "id": "PLUIXQYx0pcpM",
         "snippet": {
           "publishedAt": "2026-06-15T23:05:04.377737Z",
@@ -1709,6 +1769,16 @@
               "url": "https://i.ytimg.com/vi/Vb51obLFEpw/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vb51obLFEpw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vb51obLFEpw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -1777,7 +1847,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "84CijCcUIb6Z7QLbcSfKmDhMObM",
+        "etag": "hamP3W03A0yhkE7oaBetI_39SSw",
         "id": "PLDKe3hTC3Ilv0x0W8KLdXG-kC9M4KEe2v",
         "snippet": {
           "publishedAt": "2026-06-12T01:34:53.80851Z",
@@ -1799,6 +1869,16 @@
               "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -1867,7 +1947,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "nVwyapHYIgyhYrmweoAuaO1Sq08",
+        "etag": "1dpy2W7FqeMl9ZB58YxW9Ek7D9s",
         "id": "PLDKe3hTC3IltPlysWnZuLOqA4OjpGokRV",
         "snippet": {
           "publishedAt": "2026-06-05T01:55:55.437284Z",
@@ -1889,6 +1969,16 @@
               "url": "https://i.ytimg.com/vi/UhGNcuojLUs/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UhGNcuojLUs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UhGNcuojLUs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -2414,7 +2504,7 @@
   },
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "L6YAoH6vW5puZubhdzaqTBXw5ow",
+    "etag": "CCmccuXquj5ljVqhlN2u93_TwoM",
     "nextPageToken": "CGQQAA",
     "prevPageToken": "CDIQAQ",
     "pageInfo": {
@@ -3119,7 +3209,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "7iO-LYQEr-yIKSjX10Ft3Lb0Gs4",
+        "etag": "zLOAWSryDJDLCasuvE6hVLnhuTM",
         "id": "PLDKe3hTC3IlsqrZV4iVEQjZAqDuYTHHVs",
         "snippet": {
           "publishedAt": "2025-11-14T03:38:49.389201Z",
@@ -3141,6 +3231,16 @@
               "url": "https://i.ytimg.com/vi/vkv6v62XG38/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vkv6v62XG38/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vkv6v62XG38/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3209,7 +3309,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "uYBT3YcbuaiAL9KBKn09XD_hWPo",
+        "etag": "lkO_bMgWIclQ5QkqVVsoLBqAQl0",
         "id": "PLDKe3hTC3IlsuH0x51FiGDMKWQ4dmMPQG",
         "snippet": {
           "publishedAt": "2025-08-01T02:17:43.184997Z",
@@ -3231,6 +3331,16 @@
               "url": "https://i.ytimg.com/vi/KGKlMTLTRHE/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KGKlMTLTRHE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KGKlMTLTRHE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3249,7 +3359,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "0pEiyg_V9VIVvv-5zPPC7n-7-jo",
+        "etag": "OJxoEzFj34afx19R6KW73nzsBZw",
         "id": "PLDKe3hTC3IlvwX-VzvbP2OAVnAQj46u0B",
         "snippet": {
           "publishedAt": "2025-07-25T15:25:02.071044Z",
@@ -3271,6 +3381,16 @@
               "url": "https://i.ytimg.com/vi/Vb51obLFEpw/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Vb51obLFEpw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Vb51obLFEpw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3289,7 +3409,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "_860hRkfpQm5WozhrY_ZNEQxo5c",
+        "etag": "66teP7RXEhpfFFEHiDSFtKAGl1k",
         "id": "PLDKe3hTC3IluAr9X5WIm25j-552T4eytK",
         "snippet": {
           "publishedAt": "2025-07-18T02:09:29.887397Z",
@@ -3311,6 +3431,16 @@
               "url": "https://i.ytimg.com/vi/JylnIayy9UA/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JylnIayy9UA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JylnIayy9UA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3329,7 +3459,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "bh9-i0Let6Tf34QH7136F7_ZsEQ",
+        "etag": "HAHmWSHW7aNiD_Ooe0AH7TWaO-o",
         "id": "PLDKe3hTC3IlsBPgKecmGazyVC7oGavKcx",
         "snippet": {
           "publishedAt": "2025-07-03T18:05:59.656234Z",
@@ -3351,6 +3481,16 @@
               "url": "https://i.ytimg.com/vi/N50ldnrQK3Q/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/N50ldnrQK3Q/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/N50ldnrQK3Q/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3369,7 +3509,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "Q6Sk3or1ceAB9BOvg0uW81VkI3E",
+        "etag": "5eTVwCjY8KW5BZmHpw2G2phuUOQ",
         "id": "PLDKe3hTC3Ils4maTQTR_Osi-m_w9BdU6v",
         "snippet": {
           "publishedAt": "2025-07-03T18:05:48.736569Z",
@@ -3391,6 +3531,16 @@
               "url": "https://i.ytimg.com/vi/52cdq2BeDJI/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/52cdq2BeDJI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/52cdq2BeDJI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3459,7 +3609,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "wT7i9Ege04pKGWY3c0iQwmKnsRM",
+        "etag": "sJyQfdbQ2r67YrFHhrUXXBbDM6c",
         "id": "PLDKe3hTC3IlulFc_9UoXXvMIcYXjs0dK4",
         "snippet": {
           "publishedAt": "2025-07-03T18:05:20.661458Z",
@@ -3481,6 +3631,16 @@
               "url": "https://i.ytimg.com/vi/-n7aRYcwbwo/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-n7aRYcwbwo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-n7aRYcwbwo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3849,7 +4009,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "C2RhWI_D4qe9QlmVtJ0G90CTfJY",
+        "etag": "wIlOzGC4DzM6Jyd4lh7pwQpYGco",
         "id": "PLDKe3hTC3IltVIrcovJUwXJinAdcwEAXk",
         "snippet": {
           "publishedAt": "2025-07-03T18:03:09.921372Z",
@@ -3871,6 +4031,16 @@
               "url": "https://i.ytimg.com/vi/SEFkePZ7MZQ/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SEFkePZ7MZQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SEFkePZ7MZQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3889,7 +4059,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "TCsrLEZfYmE6Q46OPOKdoix9nbk",
+        "etag": "p2Pj91DSvFFRFtrOg4QcRjyor40",
         "id": "PLDKe3hTC3Ils6rEe1NhE0CG7V0Bq8OnsE",
         "snippet": {
           "publishedAt": "2025-07-03T18:02:39.536953Z",
@@ -3911,6 +4081,16 @@
               "url": "https://i.ytimg.com/vi/vK5F-RvQowM/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vK5F-RvQowM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vK5F-RvQowM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -3929,7 +4109,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "t5NUYiOeMHpIoGtQLV5eCEASh1U",
+        "etag": "FuuUf9wm99rLubBfEIB2IoDonBU",
         "id": "PLDKe3hTC3IlsnWP4BZ3kliQSW5rGwbMS8",
         "snippet": {
           "publishedAt": "2025-07-03T18:02:26.444473Z",
@@ -3951,6 +4131,16 @@
               "url": "https://i.ytimg.com/vi/jhGpQOVZMtQ/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jhGpQOVZMtQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jhGpQOVZMtQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4019,7 +4209,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "lROLQYJ2aYzw4H9T4M3NAI8xIao",
+        "etag": "WyPDUQmHFzHRFKev7y0LqdKsr8Q",
         "id": "PLDKe3hTC3Ilt77oMS0KZ0syWkAIduuGE8",
         "snippet": {
           "publishedAt": "2025-07-03T18:02:00.42092Z",
@@ -4041,6 +4231,16 @@
               "url": "https://i.ytimg.com/vi/GbnfaZWryNA/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/GbnfaZWryNA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/GbnfaZWryNA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4059,7 +4259,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "gYJE0ROGE4BeNEIxe-OcIJD4VWE",
+        "etag": "WpsB-87uVDQKLuKFZh8yF5IXyak",
         "id": "PLDKe3hTC3Ils93IDwnSst4ry2rESUtgC6",
         "snippet": {
           "publishedAt": "2025-07-03T18:01:37.136238Z",
@@ -4081,6 +4281,16 @@
               "url": "https://i.ytimg.com/vi/-Dbza-9osik/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-Dbza-9osik/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-Dbza-9osik/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4099,7 +4309,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "7sIUi5Ng7N_BXNpM1oJqx4u1o4I",
+        "etag": "XeVze1qOpNT-qEO_4iocX-KSUyY",
         "id": "PLDKe3hTC3IluXA9Op0aV1UisHpUK3P0v2",
         "snippet": {
           "publishedAt": "2025-07-03T18:01:22.215059Z",
@@ -4121,6 +4331,16 @@
               "url": "https://i.ytimg.com/vi/kXCe10HrRQs/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/kXCe10HrRQs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/kXCe10HrRQs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4139,7 +4359,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "rP8Ul8Bc0OZWSyDgfFOAJUKYxdw",
+        "etag": "9UNRaZu8rCRKc1ZLrPXlrwY-Wz4",
         "id": "PLDKe3hTC3Ilte2RNErAyajooqMffI4JV0",
         "snippet": {
           "publishedAt": "2025-07-03T17:58:20.709162Z",
@@ -4161,6 +4381,16 @@
               "url": "https://i.ytimg.com/vi/AJjrZiqN9Tg/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AJjrZiqN9Tg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AJjrZiqN9Tg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4179,7 +4409,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "zIRu1Rm0rNNwUDp921mqK66IKnU",
+        "etag": "ZgKgsayBCAxDfBJpatBBPVp6PTU",
         "id": "PLDKe3hTC3IltuHDNfsRh3daK3PDA93Ois",
         "snippet": {
           "publishedAt": "2025-07-02T23:23:40.738172Z",
@@ -4201,6 +4431,16 @@
               "url": "https://i.ytimg.com/vi/d7J4yTuyq0g/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/d7J4yTuyq0g/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/d7J4yTuyq0g/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4219,7 +4459,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "V4j21JckeSgB1Nv2yfgUpQXLIO4",
+        "etag": "ppV5_tl_zGJbxDNV-gGw5KNC7j8",
         "id": "PLDKe3hTC3Ilv0XQs9C466VE2kbbiKIBF-",
         "snippet": {
           "publishedAt": "2025-07-02T23:23:20.002291Z",
@@ -4241,6 +4481,16 @@
               "url": "https://i.ytimg.com/vi/uBupGJoCd0c/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/uBupGJoCd0c/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/uBupGJoCd0c/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4259,7 +4509,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "Lz4zfY8_UKtfH3IzrQYU_0aWC0c",
+        "etag": "FaCqGJAanStrdVMblJ_AR0ZlCIo",
         "id": "PLDKe3hTC3IlvJ__jDUOHGvjohA2ApIprq",
         "snippet": {
           "publishedAt": "2025-07-02T23:23:06.382015Z",
@@ -4281,6 +4531,16 @@
               "url": "https://i.ytimg.com/vi/lCYM0c-VlS4/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/lCYM0c-VlS4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/lCYM0c-VlS4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4299,7 +4559,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "Kk1SoABgE3RK1M3KG54C9p4zVoI",
+        "etag": "hEatvO6bmC4RTzUOzq5gcDNXEJc",
         "id": "PLDKe3hTC3Ilv94IEj4neAG-RoOoCDK4NT",
         "snippet": {
           "publishedAt": "2025-07-02T23:22:54.446106Z",
@@ -4321,6 +4581,16 @@
               "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/XNJ5Is0p8PY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4339,7 +4609,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "0ropb2pRGDuc20U8ZnZt_Ni-AMg",
+        "etag": "J7rFCBM1dPLlbjfKMb62oBcUs2I",
         "id": "PLDKe3hTC3IlsTJAAi-RJizZDbudlm9zvb",
         "snippet": {
           "publishedAt": "2025-07-02T23:22:41.064504Z",
@@ -4361,6 +4631,16 @@
               "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JJu7atOJ7Og/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4379,7 +4659,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "Gjz3nYPJJ7uBqfUXBW8NMuEWI7U",
+        "etag": "tPOOnVG5g7Qj4ciwZNwxi5OPoyU",
         "id": "PLDKe3hTC3IlsKQgD6x3bykGyIiTcuvLcq",
         "snippet": {
           "publishedAt": "2025-07-02T23:22:29.843569Z",
@@ -4401,6 +4681,16 @@
               "url": "https://i.ytimg.com/vi/vLaFRoJQowo/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vLaFRoJQowo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vLaFRoJQowo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4419,7 +4709,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "5_nD2pzcRM4wCKU0iUkP5DP2Tyg",
+        "etag": "o-pCNxiRLVB7unEA4oNmrbEWhFQ",
         "id": "PLDKe3hTC3IluY7YgMWCkDRcNku3BOea0w",
         "snippet": {
           "publishedAt": "2025-07-02T23:22:16.273689Z",
@@ -4441,6 +4731,16 @@
               "url": "https://i.ytimg.com/vi/dqv2uBLY31s/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/dqv2uBLY31s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/dqv2uBLY31s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4459,7 +4759,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "bhqwVt00TbdwgegB6znRmCJ_cBs",
+        "etag": "mE_Xqee_wufETeAMRbdk87kQ1Gc",
         "id": "PLDKe3hTC3Ilvh-b5eY01MvngllffZZlnm",
         "snippet": {
           "publishedAt": "2025-07-02T23:22:04.253558Z",
@@ -4481,6 +4781,16 @@
               "url": "https://i.ytimg.com/vi/YpHl47L45ak/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/YpHl47L45ak/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/YpHl47L45ak/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4499,7 +4809,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "cx3eljzQydYOtHfcK3leZPw1LDQ",
+        "etag": "CrJCVsCpS2PZSE4NdylHJXWP5u0",
         "id": "PLDKe3hTC3IluMGZFyTOEEXhbtn-O4EESt",
         "snippet": {
           "publishedAt": "2025-07-02T23:21:51.707812Z",
@@ -4521,6 +4831,16 @@
               "url": "https://i.ytimg.com/vi/hpie9RNaonk/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hpie9RNaonk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hpie9RNaonk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4539,7 +4859,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "L_ZXSBmD7WHrd5WQ-_nb8WvZBD8",
+        "etag": "XyzMQj4gTOl_s702QS0G8f7RKwQ",
         "id": "PLDKe3hTC3IluNgsQ-cP2KQCYllfFVHyVI",
         "snippet": {
           "publishedAt": "2025-07-02T23:21:37.459563Z",
@@ -4561,6 +4881,16 @@
               "url": "https://i.ytimg.com/vi/KCe4a7586p8/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/KCe4a7586p8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/KCe4a7586p8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4629,7 +4959,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "OOzQAMjQDUz27ge7BHAmKpDQ-04",
+        "etag": "NPhRxffigUb5Uu_uyINJ9M7Ckiw",
         "id": "PLDKe3hTC3IltKiLuwnM_Ryt7kkhYfujFX",
         "snippet": {
           "publishedAt": "2025-07-02T23:20:40.049447Z",
@@ -4651,6 +4981,16 @@
               "url": "https://i.ytimg.com/vi/VPMh4sZHMng/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VPMh4sZHMng/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VPMh4sZHMng/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4671,7 +5011,7 @@
   },
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "xifEeOK81BvsHTdGmTrVa8pwYqQ",
+    "etag": "ApIz7Q1SggQN0eWN1crb0g5h1JU",
     "prevPageToken": "CGQQAQ",
     "pageInfo": {
       "totalResults": 107,
@@ -4680,7 +5020,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "ROctKWgi--BIjBXXefBhKr-Efck",
+        "etag": "yovZkBPyGLzu6xhggDOpiPKbUN0",
         "id": "PLDKe3hTC3IltdVKnXNLd232C9sMS88DPY",
         "snippet": {
           "publishedAt": "2025-06-27T01:33:14.397602Z",
@@ -4702,6 +5042,16 @@
               "url": "https://i.ytimg.com/vi/sG7IFp4y0oo/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/sG7IFp4y0oo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/sG7IFp4y0oo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4720,7 +5070,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "_5r2IW_DTABZcPLoMt0oBgaaSE4",
+        "etag": "mEfh_X3WPhElcp4cqeppc4753yE",
         "id": "PLDKe3hTC3IlsC14JwBSuvt1XjzHEf_sdF",
         "snippet": {
           "publishedAt": "2025-06-20T14:25:38.880072Z",
@@ -4742,6 +5092,16 @@
               "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fJ5tx29eg0w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4760,7 +5120,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "6kwy2qoxmUq8gQKbagkMOm-FTXI",
+        "etag": "SEUsXnlNwOyybnpgr-xR5rflQ2M",
         "id": "PLDKe3hTC3IltBl9neHYks7va7x_CdpR3j",
         "snippet": {
           "publishedAt": "2025-06-13T01:43:59.605232Z",
@@ -4782,6 +5142,16 @@
               "url": "https://i.ytimg.com/vi/UhGNcuojLUs/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/UhGNcuojLUs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/UhGNcuojLUs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
@@ -4800,7 +5170,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "O7_bW7_iqHYonj1vlPpqOA1N1cY",
+        "etag": "LaUQYu0nvFUav26mUxFoipM8rIQ",
         "id": "PLDKe3hTC3IlvFzDCibG4kgRegEiVrrCOc",
         "snippet": {
           "publishedAt": "2025-06-06T02:17:57.680077Z",
@@ -4822,6 +5192,16 @@
               "url": "https://i.ytimg.com/vi/Wf3eeKgwihc/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Wf3eeKgwihc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Wf3eeKgwihc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",
