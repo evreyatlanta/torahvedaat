@@ -1,10 +1,10 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "MZDSxHXFvIIZ95-gcOqM8XgGKl0",
+    "etag": "RoRiji1pYhzow-qwLeaRm4R64S8",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 107,
+      "totalResults": 109,
       "resultsPerPage": 50
     },
     "items": [
@@ -55,6 +55,104 @@
         },
         "contentDetails": {
           "itemCount": 2
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "9vdYhPaTF9-X5c_nSvnzE7wWdVY",
+        "id": "PLWHkoWktkUpY",
+        "snippet": {
+          "publishedAt": "2026-10-19T07:03:38.367898Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Ки Теце | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "description": "Все уроки рава Элиягу Бари по недельной главе Торы Ки Теце (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Ки Теце (уроки 1–5): духовный выход на войну с дурным началом, образ Верного Пастыря (Моше Рабейну), тайна заповеди отсылания матери-птицы (Шилуах а-Кан) и исправление душ\n• Ор а-Хаим а-Кадош на главу Ки Теце (уроки 1–3): тайны духовной борьбы, возвращение потерянного и внутренняя чистота стана Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #КиТеце #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wc6gJhr5j5Y/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wc6gJhr5j5Y/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wc6gJhr5j5Y/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wc6gJhr5j5Y/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wc6gJhr5j5Y/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "Ки Теце | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "description": "Все уроки рава Элиягу Бари по недельной главе Торы Ки Теце (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Ки Теце (уроки 1–5): духовный выход на войну с дурным началом, образ Верного Пастыря (Моше Рабейну), тайна заповеди отсылания матери-птицы (Шилуах а-Кан) и исправление душ\n• Ор а-Хаим а-Кадош на главу Ки Теце (уроки 1–3): тайны духовной борьбы, возвращение потерянного и внутренняя чистота стана Израиля\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #КиТеце #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари"
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 8
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "JrG4LLcSKsl9yrPyTb7N-KkiAIc",
+        "id": "PLFfdqq19Kqm4",
+        "snippet": {
+          "publishedAt": "2026-10-19T07:03:32.266825Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Шофтим | разные комментаторы о недельной главе | Рав Элиягу Бари",
+          "description": "Все уроки рава Элиягу Бари по недельной главе Торы Шофтим (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Шофтим (уроки 1–5): огненная связь заповедей с Творцом, проклятие Билъама и благословение Моше, заслуга праведника в поколении, пророчество о двух Машиахах и тайна неделания мицвот ради награды\n• Ор а-Хаим а-Кадош на главу Шофтим (уроки 1–3): тайна судей и стражей, 365 запретов и 248 заповедей, и духовное единство судей и праведников\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Шофтим #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/rpVu9b0d2sw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "Шофтим | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "description": "Все уроки рава Элиягу Бари по недельной главе Торы Шофтим (Книга Дварим) в одном плейлисте — с комментариями книги Зоар и Ор а-Хаим а-Кадош.\n\nВ этот плейлист входят:\n• Зоар на главу Шофтим (уроки 1–5): огненная связь заповедей с Творцом, проклятие Билъама и благословение Моше, заслуга праведника в поколении, пророчество о двух Машиахах и тайна неделания мицвот ради награды\n• Ор а-Хаим а-Кадош на главу Шофтим (уроки 1–3): тайна судей и стражей, 365 запретов и 248 заповедей, и духовное единство судей и праведников\n\nПодписывайтесь на канал и делитесь уроками Торы!\n#Тора #НедельнаяГлава #Шофтим #Зоар #ОрАхаим #Каббала #Иудаизм #РавЭлиягуБари"
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 8
         }
       },
       {
@@ -2399,7 +2497,19 @@
         "contentDetails": {
           "itemCount": 6
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "_LV8c_Oa4cRf-4U0CieyEO5XcbQ",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 109,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "_FPNqmFcAD7lZUZEWyTSma1d15c",
@@ -2499,19 +2609,7 @@
         "contentDetails": {
           "itemCount": 3
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "CCmccuXquj5ljVqhlN2u93_TwoM",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 107,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "O7rxdLoxvzHN2HOP4rAk7SjSvTc",
@@ -4906,7 +5004,18 @@
         "contentDetails": {
           "itemCount": 2
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "gTGmJkuRyjTig7E2RVlvizZNqRI",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 109,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "HV0lEf6yK8-U5rghe0E9mIyLpsU",
@@ -5006,18 +5115,7 @@
         "contentDetails": {
           "itemCount": 3
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "ApIz7Q1SggQN0eWN1crb0g5h1JU",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 107,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "yovZkBPyGLzu6xhggDOpiPKbUN0",
