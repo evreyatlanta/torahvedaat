@@ -12,6 +12,44 @@
         "items": [],
         "children": [
           {
+            "id": "PLWHkoWktkUpY",
+            "title": "[RU] Ки Теце | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "wc6gJhr5j5Y",
+              "dLlDz5FSCvo",
+              "hJgnu6UsAwM",
+              "yu5x5PJfAzs",
+              "5zzd9TSID9w",
+              "1II0w9FN8BU",
+              "vbHFR7hGGrU",
+              "-n7aRYcwbwo"
+            ],
+            "children": []
+          },
+          {
+            "id": "PLFfdqq19Kqm4",
+            "title": "[RU] Шофтим | разные комментаторы о недельной главе | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "qSdNce8k1FM",
+              "rpVu9b0d2sw",
+              "eZXFh8NWm64",
+              "lfvL3Wupi6k",
+              "uKk0WYZdX7E",
+              "UJHcnxZHlaU",
+              "u9OXNPbei7s",
+              "2qolfg3Grkk"
+            ],
+            "children": []
+          },
+          {
             "id": "PLZGuISxARz2g",
             "title": "[RU] Экев | разные комментаторы о недельной главе | Рав Элиягу Бари",
             "tags": [
