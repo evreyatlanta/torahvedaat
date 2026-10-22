@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "6mavNSx8hME5GgEANjPtPHRXfeQ",
+    "etag": "AzroTYQc-2VRH6w0XeAfOdwNKiY",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 109,
@@ -603,7 +603,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "z14Bn2INci5MaC4d0UrQ-72Ddks",
+        "etag": "U5CpZJyzpOOUa9RloHy1EZo70UI",
         "id": "PLXI1gHgOzBos",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:02.902054Z",
@@ -612,27 +612,27 @@
           "description": "Лех Леха | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПолное собрание уроков Рава Элиягу Бари по недельной главе «Лех Леха» (Книга Берешит) на русском языке. В этом объединённом плейлисте собраны глубокие комментарии из трёх фундаментальных источников еврейской традиции: святой книги Зоар, классического комментария «Ор аХаим а-Кадош» (раби Хаим бен Атар) и сокровенных Мидрашей мудрецов.\n\nВ этом плейлисте (10 уроков):\n\nРаздел I. Зоар о главе «Лех Леха» (5 уроков):\n1. Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=E2aDC4hMn4I\n2. Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=7X1uOA16Aus\n3. Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=v3Szcm2FVrA\n4. Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=OU1ahrIvhF8\n5. Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=OoslvQbYhoU\n\nРаздел II. Ор аХаим о главе «Лех Леха» (4 урока):\n6. Ор аХаим глава Лех Леха - Статус Агарь и Ишмаэля по Ор аХаим: рабыня или свободная женщина? Рав Бари\nhttps://youtube.com/watch?v=hpie9RNaonk\n7. Ор аХаим - Лех Леха - Как Авраам стал истинным наследником земли? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=t1HQBlmwQv8\n8. Ор аХаим - Лех Леха - Талмуд: как Авраам стал владельцем земли? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=aQvMzArvd5c\n9. Ор аХаим - Лех Леха - Кто такой Малки-Цедек и почему он потерял священство? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=UhkrLNWtDxA\n\nРаздел III. Тайны Мидраша (1 урок):\n10. Как внук Яаков спас Авраама из огня Нимрода – Рав Элиягу Бари\nhttps://youtube.com/watch?v=C9qPutqPxeM\n\nТемы плейлиста: недельная глава Лех Леха, Лэх Лэха, Зоар, Ор аХаим, Мидраш, Авраам Авину, Сара, Агарь, Ишмаэль, Малки-Цедек, тшува, праведность, Каббала, внутренняя Тора, Рав Элиягу Бари.\n\nПодписывайтесь на канал Рава Элиягу Бари, чтобы не пропускать новые уроки по недельным главам Торы, Зоару, Ор аХаиму и глубоким тайнам Мидрашей.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/hpie9RNaonk/default.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/hpie9RNaonk/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/hpie9RNaonk/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/hpie9RNaonk/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/hpie9RNaonk/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -750,7 +750,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "rj53HCspwvKi63z70NOlc9wBzG0",
+        "etag": "gffAnzfv4V5KgwqqogGUnLTSiuk",
         "id": "PLLBb1uiUMWsU",
         "snippet": {
           "publishedAt": "2026-10-18T19:24:30.970758643Z",
@@ -759,19 +759,29 @@
           "description": "Чем сильное сердце отличается от закрытого? Как стремление Авраама приблизиться к Всевышнему становится праведной жизнью?\n\nРав Элиягу Бари разбирает начало главы Лех Леха книги Зоар в пяти уроках. Обсуждаем готовность услышать Тору, тшуву, связь праведности и мира, а также любовь, которая определяет выбор Авраама.\n\nУроки:\n1. 1 из 5 — Сильное сердце или закрытое сердце\n2. 2 из 5 — Тшува и путь возвращения\n3. 3 из 5 — Праведность и мир\n4. 4 из 5 — Авраам выбирает праведность\n5. 5 из 5 — Авраам и любовь к Всевышнему\n\nИсточник: Зоар, Лех Леха, глава 1, §§1–3; предоставленные печатные страницы 3–4.\n\nПострочное изучение исходного текста с переводом и объяснением. Язык уроков: русский.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
               "width": 480,
               "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
             }
           },
           "channelTitle": "Rabbi Eliyahu Bari",

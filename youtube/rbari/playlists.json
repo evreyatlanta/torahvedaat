@@ -4168,7 +4168,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "z14Bn2INci5MaC4d0UrQ-72Ddks",
+      "etag": "U5CpZJyzpOOUa9RloHy1EZo70UI",
       "id": "PLXI1gHgOzBos",
       "snippet": {
         "publishedAt": "2026-10-18T23:54:02.902054Z",
@@ -4177,27 +4177,27 @@
         "description": "Лех Леха | разные комментаторы о недельной главе | Рав Элиягу Бари\n\nПолное собрание уроков Рава Элиягу Бари по недельной главе «Лех Леха» (Книга Берешит) на русском языке. В этом объединённом плейлисте собраны глубокие комментарии из трёх фундаментальных источников еврейской традиции: святой книги Зоар, классического комментария «Ор аХаим а-Кадош» (раби Хаим бен Атар) и сокровенных Мидрашей мудрецов.\n\nВ этом плейлисте (10 уроков):\n\nРаздел I. Зоар о главе «Лех Леха» (5 уроков):\n1. Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=E2aDC4hMn4I\n2. Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=7X1uOA16Aus\n3. Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=v3Szcm2FVrA\n4. Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=OU1ahrIvhF8\n5. Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари\nhttps://youtube.com/watch?v=OoslvQbYhoU\n\nРаздел II. Ор аХаим о главе «Лех Леха» (4 урока):\n6. Ор аХаим глава Лех Леха - Статус Агарь и Ишмаэля по Ор аХаим: рабыня или свободная женщина? Рав Бари\nhttps://youtube.com/watch?v=hpie9RNaonk\n7. Ор аХаим - Лех Леха - Как Авраам стал истинным наследником земли? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=t1HQBlmwQv8\n8. Ор аХаим - Лех Леха - Талмуд: как Авраам стал владельцем земли? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=aQvMzArvd5c\n9. Ор аХаим - Лех Леха - Кто такой Малки-Цедек и почему он потерял священство? - Рав Элиягу Бари\nhttps://youtube.com/watch?v=UhkrLNWtDxA\n\nРаздел III. Тайны Мидраша (1 урок):\n10. Как внук Яаков спас Авраама из огня Нимрода – Рав Элиягу Бари\nhttps://youtube.com/watch?v=C9qPutqPxeM\n\nТемы плейлиста: недельная глава Лех Леха, Лэх Лэха, Зоар, Ор аХаим, Мидраш, Авраам Авину, Сара, Агарь, Ишмаэль, Малки-Цедек, тшува, праведность, Каббала, внутренняя Тора, Рав Элиягу Бари.\n\nПодписывайтесь на канал Рава Элиягу Бари, чтобы не пропускать новые уроки по недельным главам Торы, Зоару, Ор аХаиму и глубоким тайнам Мидрашей.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/hpie9RNaonk/default.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/hpie9RNaonk/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/hpie9RNaonk/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/hpie9RNaonk/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/hpie9RNaonk/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -4218,127 +4218,272 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "_9CbBqGqpj5rEKOdScYyE1ORMxQ",
+        "etag": "OX6JyEYUa8Y9Win1DUyMdvN6b6M",
         "id": "UExYSTFnSGdPekJvcy41MjE1MkI0OTQ2QzJGNzNG",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:04Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари",
+          "description": "Чем внутренняя сила отличается от упрямства? Почему начало главы Лех Леха в Зоаре обращает нас к людям, чьи сердца сопротивляются переменам?\n\nРав Элиягу Бари читает начало главы по фразам. Связываем призыв Всевышнего к Авраму с вопросом о его заслуге. Разбираем обращение «слушайте Меня», различие между знанием путей Торы и следованием им, а также пояснение Сулама о внутренних тропах и внешних путях.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §1, от начала до слов о тех, кто видит пути Торы, но не обращает на них внимания; печатная страница 3. Танах: Берешит 12:1; Йешаягу 46:12.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLXI1gHgOzBos",
           "position": 0,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E2aDC4hMn4I"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "E2aDC4hMn4I"
+          "videoId": "E2aDC4hMn4I",
+          "videoPublishedAt": "2026-10-22T11:00:02Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "H92tTMqri7BF_2PJXN46iRsqHB0",
+        "etag": "r8b4mH_3SKHbnYqUjNiUqP7xI-c",
         "id": "UExYSTFnSGdPekJvcy4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:04Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари",
+          "description": "Почему человек может понимать, что правильно, и всё же отказываться меняться? Зоар связывает закрытость сердца с нежеланием возвращаться.\n\nРав Элиягу Бари разбирает окончание первого и начало второго параграфа главы Лех Леха. Рабби Абба связывает отдаление от праведности с отдалением от Торы, а рабби Хизкия раскрывает эту тему через отношения со Всевышним. Объясняем тшуву как возвращение, которое меняет направление жизни и конкретные поступки.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. Окончание §1 и начало §2, до пояснения рабби Хизкии о твёрдом сердце; печатные страницы 3–4.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLXI1gHgOzBos",
           "position": 1,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7X1uOA16Aus"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "7X1uOA16Aus"
+          "videoId": "7X1uOA16Aus",
+          "videoPublishedAt": "2026-10-22T11:05:26Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "EXJg3qVxNxxsmj_x57Owcj-p5wU",
+        "etag": "pBiCJ-EthQHlqjBPK0G8GhC-R6k",
         "id": "UExYSTFnSGdPekJvcy4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:03Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари",
+          "description": "Можно ли требовать мира и при этом не желать исправлять неправду? Зоар связывает отдаление от праведности с отдалением от мира.\n\nРав Элиягу Бари продолжает разбор слов рабби Хизкии во втором параграфе главы Лех Леха. Рассматриваем нежелание приблизиться к Всевышнему и стих Йешаягу об отсутствии мира. Обращаем вопрос к собственным решениям и отношениям: что мы готовы исправить ради настоящего мира?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §2, продолжение и окончание; печатная страница 4. Танах: Йешаягу 48:22.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLXI1gHgOzBos",
           "position": 2,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "v3Szcm2FVrA"
+          "videoId": "v3Szcm2FVrA",
+          "videoPublishedAt": "2026-10-22T11:10:16Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QbsIfa3DSOgHO7pj8jTsf1aLBnU",
+        "etag": "F4caRhs7athQVQ1kSdwlzXC1PBY",
         "id": "UExYSTFnSGdPekJvcy5GNjNDRDREMDQxOThCMDQ2",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:52Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари",
+          "description": "Что значит любить праведность? Стремление Авраама приблизиться к Всевышнему получает выражение в его выборе и поступках.\n\nРав Элиягу Бари разбирает начало третьего параграфа главы Лех Леха книги Зоар. Слова «Ты любил праведность и ненавидел нечестие» раскрывают путь Авраама. Рассматриваем связь желания приблизиться, любви к правде и отказа от зла, а затем размышляем о решениях, в которых эта любовь может проявиться.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, от начала до слов о приближении Авраама к праведности; печатная страница 4. Танах: Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLXI1gHgOzBos",
           "position": 3,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OU1ahrIvhF8"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OU1ahrIvhF8"
+          "videoId": "OU1ahrIvhF8",
+          "videoPublishedAt": "2026-10-22T11:15:17Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "fmrE94tGvFxYFhd9Ikh2Xf_wTdQ",
+        "etag": "76rc49ZtQCVJsyvHvQpBP7KEwY0",
         "id": "UExYSTFnSGdPekJvcy41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-10-18T23:54:03Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар связывает любовь Авраама ко Всевышнему с его любовью к праведности? Что определяет направление его сердца?\n\nВ заключительном уроке Рав Элиягу Бари разбирает окончание третьего параграфа главы Лех Леха. Рассматриваем слова об Аврааме, любящем Всевышнего, и соединяем темы упрямства, возвращения, праведности и мира. В конце задаём вопрос к себе: как истина Торы, которую мы уже понимаем, может изменить конкретный поступок?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, окончание, от слов об Аврааме, любящем Всевышнего, до сопоставления с его поколением; печатная страница 4. Танах: Йешаягу 41:8; Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLXI1gHgOzBos",
           "position": 4,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OoslvQbYhoU"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OoslvQbYhoU"
+          "videoId": "OoslvQbYhoU",
+          "videoPublishedAt": "2026-10-22T11:20:25Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
@@ -4661,7 +4806,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "gIQJUkHe9OslZpo7UgLvMO4H-hc",
+        "etag": "2AIYU9tfhst8vq3vQU5WH6cO-1s",
         "id": "UExJSlJLR1BZMVRFNC41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-10-18T21:45:15Z",
@@ -4769,7 +4914,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "14w6QhSZic-i-ChIN7HHhM2TmWU",
+        "etag": "EnhSQQXcBXtFsrkcTV8JxOVdBMk",
         "id": "UExJSlJLR1BZMVRFNC4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-10-18T21:45:16Z",
@@ -5239,7 +5384,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "tn8mcKk72-D_AqN5rSSv1KaxaPE",
+        "etag": "QBXKp0ZjmLe_qVR5dR-syYuG_fI",
         "id": "UExCZWQxQnRTM2dfMC4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-10-18T21:42:24Z",
@@ -5404,7 +5549,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "rj53HCspwvKi63z70NOlc9wBzG0",
+      "etag": "gffAnzfv4V5KgwqqogGUnLTSiuk",
       "id": "PLLBb1uiUMWsU",
       "snippet": {
         "publishedAt": "2026-10-18T19:24:30.970758643Z",
@@ -5413,19 +5558,29 @@
         "description": "Чем сильное сердце отличается от закрытого? Как стремление Авраама приблизиться к Всевышнему становится праведной жизнью?\n\nРав Элиягу Бари разбирает начало главы Лех Леха книги Зоар в пяти уроках. Обсуждаем готовность услышать Тору, тшуву, связь праведности и мира, а также любовь, которая определяет выбор Авраама.\n\nУроки:\n1. 1 из 5 — Сильное сердце или закрытое сердце\n2. 2 из 5 — Тшува и путь возвращения\n3. 3 из 5 — Праведность и мир\n4. 4 из 5 — Авраам выбирает праведность\n5. 5 из 5 — Авраам и любовь к Всевышнему\n\nИсточник: Зоар, Лех Леха, глава 1, §§1–3; предоставленные печатные страницы 3–4.\n\nПострочное изучение исходного текста с переводом и объяснением. Язык уроков: русский.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/img/no_thumbnail.jpg",
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
             "width": 480,
             "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
           }
         },
         "channelTitle": "Rabbi Eliyahu Bari",
@@ -5445,127 +5600,272 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "z2pbikQ_rYb5tuFVOINXMB2Lwew",
-        "id": "UExMQmIxdWlVTVdzVS41NkI0NEY2RDEwNTU3Q0M2",
+        "etag": "ETS84UJRqMZq01px1k8ROODZD68",
+        "id": "UExMQmIxdWlVTVdzVS4wOTA3OTZBNzVEMTUzOTMy",
         "snippet": {
-          "publishedAt": "2026-10-18T19:24:37Z",
+          "publishedAt": "2026-10-18T19:25:40Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари",
+          "description": "Чем внутренняя сила отличается от упрямства? Почему начало главы Лех Леха в Зоаре обращает нас к людям, чьи сердца сопротивляются переменам?\n\nРав Элиягу Бари читает начало главы по фразам. Связываем призыв Всевышнего к Авраму с вопросом о его заслуге. Разбираем обращение «слушайте Меня», различие между знанием путей Торы и следованием им, а также пояснение Сулама о внутренних тропах и внешних путях.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §1, от начала до слов о тех, кто видит пути Торы, но не обращает на них внимания; печатная страница 3. Танах: Берешит 12:1; Йешаягу 46:12.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLLBb1uiUMWsU",
           "position": 0,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "OU1ahrIvhF8"
-          }
+            "videoId": "E2aDC4hMn4I"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OU1ahrIvhF8"
+          "videoId": "E2aDC4hMn4I",
+          "videoPublishedAt": "2026-10-22T11:00:02Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "NIZnNdLroNNnDfCEjV5M_CGCI5o",
-        "id": "UExMQmIxdWlVTVdzVS4yODlGNEE0NkRGMEEzMEQy",
+        "etag": "waCwYm9K3_W8U5Sn150htCcZk1Y",
+        "id": "UExMQmIxdWlVTVdzVS41MjE1MkI0OTQ2QzJGNzNG",
         "snippet": {
-          "publishedAt": "2026-10-18T19:24:59Z",
+          "publishedAt": "2026-10-18T19:25:23Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари",
+          "description": "Почему человек может понимать, что правильно, и всё же отказываться меняться? Зоар связывает закрытость сердца с нежеланием возвращаться.\n\nРав Элиягу Бари разбирает окончание первого и начало второго параграфа главы Лех Леха. Рабби Абба связывает отдаление от праведности с отдалением от Торы, а рабби Хизкия раскрывает эту тему через отношения со Всевышним. Объясняем тшуву как возвращение, которое меняет направление жизни и конкретные поступки.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. Окончание §1 и начало §2, до пояснения рабби Хизкии о твёрдом сердце; печатные страницы 3–4.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLLBb1uiUMWsU",
           "position": 1,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "OoslvQbYhoU"
-          }
+            "videoId": "7X1uOA16Aus"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OoslvQbYhoU"
+          "videoId": "7X1uOA16Aus",
+          "videoPublishedAt": "2026-10-22T11:05:26Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "9WE_qNXw5gOWzf_qOIH1xjBLLCY",
+        "etag": "pLxy_DUyUr0ffA8E0Y0GMVZW1oU",
         "id": "UExMQmIxdWlVTVdzVS4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-10-18T19:25:11Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари",
+          "description": "Можно ли требовать мира и при этом не желать исправлять неправду? Зоар связывает отдаление от праведности с отдалением от мира.\n\nРав Элиягу Бари продолжает разбор слов рабби Хизкии во втором параграфе главы Лех Леха. Рассматриваем нежелание приблизиться к Всевышнему и стих Йешаягу об отсутствии мира. Обращаем вопрос к собственным решениям и отношениям: что мы готовы исправить ради настоящего мира?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §2, продолжение и окончание; печатная страница 4. Танах: Йешаягу 48:22.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLLBb1uiUMWsU",
           "position": 2,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "v3Szcm2FVrA"
+          "videoId": "v3Szcm2FVrA",
+          "videoPublishedAt": "2026-10-22T11:10:16Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QgGs8MJFVksoJdZEUiPxzbFyheU",
-        "id": "UExMQmIxdWlVTVdzVS41MjE1MkI0OTQ2QzJGNzNG",
+        "etag": "Tbd1Oom4P31sClPKoN-ImrdGa-U",
+        "id": "UExMQmIxdWlVTVdzVS41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
-          "publishedAt": "2026-10-18T19:25:23Z",
+          "publishedAt": "2026-10-18T19:24:37Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари",
+          "description": "Что значит любить праведность? Стремление Авраама приблизиться к Всевышнему получает выражение в его выборе и поступках.\n\nРав Элиягу Бари разбирает начало третьего параграфа главы Лех Леха книги Зоар. Слова «Ты любил праведность и ненавидел нечестие» раскрывают путь Авраама. Рассматриваем связь желания приблизиться, любви к правде и отказа от зла, а затем размышляем о решениях, в которых эта любовь может проявиться.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, от начала до слов о приближении Авраама к праведности; печатная страница 4. Танах: Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLLBb1uiUMWsU",
           "position": 3,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "7X1uOA16Aus"
-          }
+            "videoId": "OU1ahrIvhF8"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "7X1uOA16Aus"
+          "videoId": "OU1ahrIvhF8",
+          "videoPublishedAt": "2026-10-22T11:15:17Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "_GZzW7vPcy83XstikPCOuHA8he0",
-        "id": "UExMQmIxdWlVTVdzVS4wOTA3OTZBNzVEMTUzOTMy",
+        "etag": "-RqPn916t8dXmkvIM_6zB3y-tGs",
+        "id": "UExMQmIxdWlVTVdzVS4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
-          "publishedAt": "2026-10-18T19:25:40Z",
+          "publishedAt": "2026-10-18T19:24:59Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар связывает любовь Авраама ко Всевышнему с его любовью к праведности? Что определяет направление его сердца?\n\nВ заключительном уроке Рав Элиягу Бари разбирает окончание третьего параграфа главы Лех Леха. Рассматриваем слова об Аврааме, любящем Всевышнего, и соединяем темы упрямства, возвращения, праведности и мира. В конце задаём вопрос к себе: как истина Торы, которую мы уже понимаем, может изменить конкретный поступок?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, окончание, от слов об Аврааме, любящем Всевышнего, до сопоставления с его поколением; печатная страница 4. Танах: Йешаягу 41:8; Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLLBb1uiUMWsU",
           "position": 4,
           "resourceId": {
             "kind": "youtube#video",
-            "videoId": "E2aDC4hMn4I"
-          }
+            "videoId": "OoslvQbYhoU"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "E2aDC4hMn4I"
+          "videoId": "OoslvQbYhoU",
+          "videoPublishedAt": "2026-10-22T11:20:25Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       }
     ]
@@ -5624,7 +5924,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "9mgdOh79NQVSwdYdSZu8oWNESEI",
+        "etag": "bHIwxQK4vk5ZA5mEfW725EWASwA",
         "id": "UExMaURQekpIVjJCRS41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-10-16T01:48:45Z",
@@ -5732,7 +6032,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "kb3kshKpi7fG7c8uqiVHrotxCKA",
+        "etag": "5EvTQK8vTzBubeKFTXeC3eRvUMU",
         "id": "UExMaURQekpIVjJCRS4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-10-16T01:57:26Z",
@@ -5786,7 +6086,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "C_xzcD-xMOjlJe3mtY_NdBHD6oQ",
+        "etag": "R7y7nq1TGfFZVKK-jHa7NkFHKBE",
         "id": "UExMaURQekpIVjJCRS41MjE1MkI0OTQ2QzJGNzNG",
         "snippet": {
           "publishedAt": "2026-10-16T01:59:49Z",
@@ -5840,7 +6140,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ypqGbZta1ARrTB9PxNatiu2IkU8",
+        "etag": "wTnm49cbhma8EknDaT71_5wikLI",
         "id": "UExMaURQekpIVjJCRS4wOTA3OTZBNzVEMTUzOTMy",
         "snippet": {
           "publishedAt": "2026-10-16T02:02:34Z",
@@ -21766,7 +22066,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "kN3_v4ljykXs7xPREeno6P7jzJw",
+        "etag": "8B8tDAsRaSu9y6eGLs8V5B2Phcw",
         "id": "UExFcFhSVGNrdzZndy4yM0EyQ0U1M0I2RkIwNTQ0",
         "snippet": {
           "publishedAt": "2026-10-16T01:45:08Z",
@@ -21874,7 +22174,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "a-yvIseFiiqR_wxJC-rsIYfdJsc",
+        "etag": "dVffjbb_P9NPb9cCWT5W5_J6CxY",
         "id": "UExFcFhSVGNrdzZndy41RDUzRjJFQ0Y0MUI3NzU1",
         "snippet": {
           "publishedAt": "2026-10-16T01:57:26Z",
@@ -21928,7 +22228,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QizScbIAIjXy95OzwRH6ydLIIns",
+        "etag": "UZ_7bntvwSmVAih3ihXGTAL_4Q4",
         "id": "UExFcFhSVGNrdzZndy5FRjdGNDMzN0I2RTI3MDlG",
         "snippet": {
           "publishedAt": "2026-10-16T01:59:49Z",
@@ -21982,7 +22282,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Y62dmoS3zGU_hQKov_SPQtzemmE",
+        "etag": "7BAtmKAZP0VNde35nmrFQjcYjDA",
         "id": "UExFcFhSVGNrdzZndy41ODIyMTgwQzA4NjJCQkZC",
         "snippet": {
           "publishedAt": "2026-10-16T02:02:34Z",
@@ -22036,127 +22336,272 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "whuTFcqHnxv3HjYrUSUjNpgF7Iw",
+        "etag": "8_wJO4SWJdDlV_OC9SMNYffu6AQ",
         "id": "UExFcFhSVGNrdzZndy5CNEYyNTVBNDdGMDI1MDNC",
         "snippet": {
           "publishedAt": "2026-10-18T18:51:31Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари",
+          "description": "Чем внутренняя сила отличается от упрямства? Почему начало главы Лех Леха в Зоаре обращает нас к людям, чьи сердца сопротивляются переменам?\n\nРав Элиягу Бари читает начало главы по фразам. Связываем призыв Всевышнего к Авраму с вопросом о его заслуге. Разбираем обращение «слушайте Меня», различие между знанием путей Торы и следованием им, а также пояснение Сулама о внутренних тропах и внешних путях.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §1, от начала до слов о тех, кто видит пути Торы, но не обращает на них внимания; печатная страница 3. Танах: Берешит 12:1; Йешаягу 46:12.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLEpXRTckw6gw",
           "position": 96,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E2aDC4hMn4I"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "E2aDC4hMn4I"
+          "videoId": "E2aDC4hMn4I",
+          "videoPublishedAt": "2026-10-22T11:00:02Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "TN8dXP1zH-ubXZO26QHPtDOlpQw",
+        "etag": "C2O_cnf5Y9ymzPhcx5hI5DhbToE",
         "id": "UExFcFhSVGNrdzZndy5EMUJFNzRCNDRFQjE5RjM4",
         "snippet": {
           "publishedAt": "2026-10-18T18:59:01Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари",
+          "description": "Почему человек может понимать, что правильно, и всё же отказываться меняться? Зоар связывает закрытость сердца с нежеланием возвращаться.\n\nРав Элиягу Бари разбирает окончание первого и начало второго параграфа главы Лех Леха. Рабби Абба связывает отдаление от праведности с отдалением от Торы, а рабби Хизкия раскрывает эту тему через отношения со Всевышним. Объясняем тшуву как возвращение, которое меняет направление жизни и конкретные поступки.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. Окончание §1 и начало §2, до пояснения рабби Хизкии о твёрдом сердце; печатные страницы 3–4.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLEpXRTckw6gw",
           "position": 97,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7X1uOA16Aus"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "7X1uOA16Aus"
+          "videoId": "7X1uOA16Aus",
+          "videoPublishedAt": "2026-10-22T11:05:26Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "CRdlP2BEuOsfZxpe_hxlJIOXTjc",
+        "etag": "mwpxY0fhNx8e2pVCNCGArtIQoFU",
         "id": "UExFcFhSVGNrdzZndy44QjNCNkRENjNFQTBEMUND",
         "snippet": {
           "publishedAt": "2026-10-18T19:05:08Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари",
+          "description": "Можно ли требовать мира и при этом не желать исправлять неправду? Зоар связывает отдаление от праведности с отдалением от мира.\n\nРав Элиягу Бари продолжает разбор слов рабби Хизкии во втором параграфе главы Лех Леха. Рассматриваем нежелание приблизиться к Всевышнему и стих Йешаягу об отсутствии мира. Обращаем вопрос к собственным решениям и отношениям: что мы готовы исправить ради настоящего мира?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §2, продолжение и окончание; печатная страница 4. Танах: Йешаягу 48:22.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLEpXRTckw6gw",
           "position": 98,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "v3Szcm2FVrA"
+          "videoId": "v3Szcm2FVrA",
+          "videoPublishedAt": "2026-10-22T11:10:16Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "oQZzf04cuh1lPzpTldNixxvJeV8",
+        "etag": "Ka5Q8DZu5vSkQPii-QaqjGM8fMw",
         "id": "UExFcFhSVGNrdzZndy5GNzk2RTlDQTNCQzJCQzJG",
         "snippet": {
           "publishedAt": "2026-10-18T19:13:44Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари",
+          "description": "Что значит любить праведность? Стремление Авраама приблизиться к Всевышнему получает выражение в его выборе и поступках.\n\nРав Элиягу Бари разбирает начало третьего параграфа главы Лех Леха книги Зоар. Слова «Ты любил праведность и ненавидел нечестие» раскрывают путь Авраама. Рассматриваем связь желания приблизиться, любви к правде и отказа от зла, а затем размышляем о решениях, в которых эта любовь может проявиться.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, от начала до слов о приближении Авраама к праведности; печатная страница 4. Танах: Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLEpXRTckw6gw",
           "position": 99,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OU1ahrIvhF8"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OU1ahrIvhF8"
+          "videoId": "OU1ahrIvhF8",
+          "videoPublishedAt": "2026-10-22T11:15:17Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "6K6mxTipw1y2fMA0EnvXKUBAE6I",
+        "etag": "To0MQ--1mqZrmhE4PtOr1cLJyY8",
         "id": "UExFcFhSVGNrdzZndy43ODA2MDVCQzY5QzZDMjUw",
         "snippet": {
           "publishedAt": "2026-10-18T19:17:55Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар связывает любовь Авраама ко Всевышнему с его любовью к праведности? Что определяет направление его сердца?\n\nВ заключительном уроке Рав Элиягу Бари разбирает окончание третьего параграфа главы Лех Леха. Рассматриваем слова об Аврааме, любящем Всевышнего, и соединяем темы упрямства, возвращения, праведности и мира. В конце задаём вопрос к себе: как истина Торы, которую мы уже понимаем, может изменить конкретный поступок?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, окончание, от слов об Аврааме, любящем Всевышнего, до сопоставления с его поколением; печатная страница 4. Танах: Йешаягу 41:8; Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLEpXRTckw6gw",
           "position": 100,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OoslvQbYhoU"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OoslvQbYhoU"
+          "videoId": "OoslvQbYhoU",
+          "videoPublishedAt": "2026-10-22T11:20:25Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       }
     ]
@@ -24675,7 +25120,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "FAFkU_nQqETFfOLEcccvgFOZ5Wc",
+        "etag": "o6lI3yvjEtQil3ZJFwilS2R05TU",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC45RjNFMDhGQ0Q2RkFCQTc1",
         "snippet": {
           "publishedAt": "2026-10-16T01:45:08Z",
@@ -24783,7 +25228,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "wfhcexn2UHEj9OBk69PlJ-uqaKE",
+        "etag": "dmqyu39d5eUWgB18wbRXWLXDCHQ",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5BRjJDODk5REM0NjkzMUIy",
         "snippet": {
           "publishedAt": "2026-10-16T01:57:26Z",
@@ -24837,7 +25282,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1tj-fiWRtE2HFNcpKf02ukz9_mY",
+        "etag": "6jshZqBJw8UeVoB1jvrqtg527Fw",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4xOTEzQzhBQzU3MDNDNjcz",
         "snippet": {
           "publishedAt": "2026-10-16T01:59:49Z",
@@ -24891,7 +25336,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bC0Br0oi42fdtVTl5pRihfe4V5k",
+        "etag": "60PjejlREeB-6NI-Piiun2g0xKM",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5GNDg1Njc1QzZERjlFRjE5",
         "snippet": {
           "publishedAt": "2026-10-16T02:02:34Z",
@@ -24945,127 +25390,272 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "k9f6oQps5C4sVvA7eG3hMhLBBFA",
+        "etag": "YN5tGEV59D9uMkKLV22rER6KNGE",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4zQzFBN0RGNzNFREFCMjBE",
         "snippet": {
           "publishedAt": "2026-10-18T18:51:31Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Сильное сердце или закрытое сердце? | Лех Леха 1/5 | Рав Элиягу Бари",
+          "description": "Чем внутренняя сила отличается от упрямства? Почему начало главы Лех Леха в Зоаре обращает нас к людям, чьи сердца сопротивляются переменам?\n\nРав Элиягу Бари читает начало главы по фразам. Связываем призыв Всевышнего к Авраму с вопросом о его заслуге. Разбираем обращение «слушайте Меня», различие между знанием путей Торы и следованием им, а также пояснение Сулама о внутренних тропах и внешних путях.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 1 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §1, от начала до слов о тех, кто видит пути Торы, но не обращает на них внимания; печатная страница 3. Танах: Берешит 12:1; Йешаягу 46:12.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E2aDC4hMn4I/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
           "position": 40,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E2aDC4hMn4I"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "E2aDC4hMn4I"
+          "videoId": "E2aDC4hMn4I",
+          "videoPublishedAt": "2026-10-22T11:00:02Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "KRDxXHvKPrvBt9s7NT8rs56k0_c",
+        "etag": "OYR8xdvmaIrtsIVLp18bc3N6kvc",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC45NkVENTkxRDdCQUFBMDY4",
         "snippet": {
           "publishedAt": "2026-10-18T18:59:01Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Тшува и путь возвращения | Лех Леха 2/5 | Рав Элиягу Бари",
+          "description": "Почему человек может понимать, что правильно, и всё же отказываться меняться? Зоар связывает закрытость сердца с нежеланием возвращаться.\n\nРав Элиягу Бари разбирает окончание первого и начало второго параграфа главы Лех Леха. Рабби Абба связывает отдаление от праведности с отдалением от Торы, а рабби Хизкия раскрывает эту тему через отношения со Всевышним. Объясняем тшуву как возвращение, которое меняет направление жизни и конкретные поступки.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 2 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. Окончание §1 и начало §2, до пояснения рабби Хизкии о твёрдом сердце; печатные страницы 3–4.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/7X1uOA16Aus/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
           "position": 41,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7X1uOA16Aus"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "7X1uOA16Aus"
+          "videoId": "7X1uOA16Aus",
+          "videoPublishedAt": "2026-10-22T11:05:26Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "uRNFNstzFCKEh29DXX_cuZDvSz4",
+        "etag": "kCeUQVYywAtw0g_GWFfUn_SdvSk",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5DNkMwRUI2MkI4QkI4NDFG",
         "snippet": {
           "publishedAt": "2026-10-18T19:05:08Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Праведность и мир | Лех Леха 3/5 | Рав Элиягу Бари",
+          "description": "Можно ли требовать мира и при этом не желать исправлять неправду? Зоар связывает отдаление от праведности с отдалением от мира.\n\nРав Элиягу Бари продолжает разбор слов рабби Хизкии во втором параграфе главы Лех Леха. Рассматриваем нежелание приблизиться к Всевышнему и стих Йешаягу об отсутствии мира. Обращаем вопрос к собственным решениям и отношениям: что мы готовы исправить ради настоящего мира?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 3 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §2, продолжение и окончание; печатная страница 4. Танах: Йешаягу 48:22.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/v3Szcm2FVrA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
           "position": 42,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "v3Szcm2FVrA"
+          "videoId": "v3Szcm2FVrA",
+          "videoPublishedAt": "2026-10-22T11:10:16Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "jjyfEsZnSxZxskL43PtnxOJxJlM",
+        "etag": "_Pgg3MSd97-RwqT1csipY5iH_hM",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5DRUQwODMxQzUyRTlGRkY3",
         "snippet": {
           "publishedAt": "2026-10-18T19:13:44Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам выбирает праведность | Лех Леха 4/5 | Рав Элиягу Бари",
+          "description": "Что значит любить праведность? Стремление Авраама приблизиться к Всевышнему получает выражение в его выборе и поступках.\n\nРав Элиягу Бари разбирает начало третьего параграфа главы Лех Леха книги Зоар. Слова «Ты любил праведность и ненавидел нечестие» раскрывают путь Авраама. Рассматриваем связь желания приблизиться, любви к правде и отказа от зла, а затем размышляем о решениях, в которых эта любовь может проявиться.\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 4 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, от начала до слов о приближении Авраама к праведности; печатная страница 4. Танах: Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OU1ahrIvhF8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
           "position": 43,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OU1ahrIvhF8"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OU1ahrIvhF8"
+          "videoId": "OU1ahrIvhF8",
+          "videoPublishedAt": "2026-10-22T11:15:17Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "_om4FCe4MAoaBdCtHEsKIkAs6vs",
+        "etag": "oSnagX32dzDfGSI29UkFTlUpRxU",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC41MzY4MzcwOUFFRUU3QzEx",
         "snippet": {
           "publishedAt": "2026-10-18T19:17:55Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Private video",
-          "description": "This video is private.",
-          "thumbnails": {},
+          "title": "Зоар - Авраам и любовь к Всевышнему | Лех Леха 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар связывает любовь Авраама ко Всевышнему с его любовью к праведности? Что определяет направление его сердца?\n\nВ заключительном уроке Рав Элиягу Бари разбирает окончание третьего параграфа главы Лех Леха. Рассматриваем слова об Аврааме, любящем Всевышнего, и соединяем темы упрямства, возвращения, праведности и мира. В конце задаём вопрос к себе: как истина Торы, которую мы уже понимаем, может изменить конкретный поступок?\n\nСерия «Лех Леха — закрытое сердце и любовь Авраама». Урок 5 из 5. Язык: русский.\n\nИсточник: Зоар, Лех Леха. §3, окончание, от слов об Аврааме, любящем Всевышнего, до сопоставления с его поколением; печатная страница 4. Танах: Йешаягу 41:8; Теилим 45:8.\n\nЧитаем арамейский текст с переводом. Слова Зоара, пояснения Сулама Бааль Сулама и объяснение преподавателя рассматриваются отдельно.\n\n#Зоар #ЛехЛеха #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OoslvQbYhoU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
           "position": 44,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OoslvQbYhoU"
-          }
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
         },
         "contentDetails": {
-          "videoId": "OoslvQbYhoU"
+          "videoId": "OoslvQbYhoU",
+          "videoPublishedAt": "2026-10-22T11:20:25Z"
         },
         "status": {
-          "privacyStatus": "private"
+          "privacyStatus": "public"
         }
       }
     ]

@@ -4,11 +4,65 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "BFVfl9_3MxFe5iV5HITUl19lNiE",
+        "etag": "BvC-cY5CpIXJTHTkMO43P8uE0P8",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "UoPYChwtY6N8sMbzGQMJoVG_PeU",
+            "etag": "KRCJKp5Sj6JKG9nGAwc3cvSLQSk",
+            "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4xOTEzQzhBQzU3MDNDNjcz",
+            "snippet": {
+              "publishedAt": "2026-10-22T05:15:07Z",
+              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+              "title": "Комментарии для Субботнего Стола - глава \"ЛЕХ ЛЕХА\"",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/1h-rWBglHtg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/1h-rWBglHtg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/1h-rWBglHtg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/1h-rWBglHtg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/1h-rWBglHtg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Тора ве-Даат",
+              "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "1h-rWBglHtg"
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+            },
+            "contentDetails": {
+              "videoId": "1h-rWBglHtg",
+              "videoPublishedAt": "2026-10-22T05:17:50Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "HO3ZTkCr71gXHCL2o2-c5giCJRo",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
               "publishedAt": "2026-10-15T01:58:07Z",
@@ -44,7 +98,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 0,
+              "position": 1,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "XWEM33X_yK0"
@@ -62,7 +116,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "aLbwVZ4sErITiIlt-F-b-iq3TKU",
+            "etag": "qFWvU7VnH2cCYZeMSsjzrFtC9U8",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
               "publishedAt": "2026-10-08T02:06:42Z",
@@ -98,7 +152,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 1,
+              "position": 2,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ew7qn7NuVsY"
@@ -116,7 +170,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YYSgzkYTrH1KJ5p1VfRJf0iIxpE",
+            "etag": "M4UlP6y-yy9ihmvv_N-J19JQ2A4",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
               "publishedAt": "2026-09-23T03:02:55Z",
@@ -152,7 +206,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 2,
+              "position": 3,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "kY3i4HIh-5A"
@@ -170,7 +224,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "DXH1QQVc62K8Yb7JFD5rRtVbjpc",
+            "etag": "X62kE9ir-QaTz0U-3U0RzJqPAY4",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
               "publishedAt": "2026-09-03T03:25:33Z",
@@ -206,7 +260,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 3,
+              "position": 4,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FLLvAD2FUOI"
@@ -224,7 +278,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "F6CC-qab6ziA-LbRLVjJRsc7CWk",
+            "etag": "M4bDIgjJUWh2CfgpVRT78YsQyF4",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
               "publishedAt": "2026-08-27T01:17:43Z",
@@ -260,7 +314,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 4,
+              "position": 5,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "k5NZ28nazos"
@@ -278,7 +332,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YR2I8qPxc7MfhSgxgYxcHSHc_1A",
+            "etag": "2-nxADjhzlLZ7E6b-eFlIEuKJl8",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
               "publishedAt": "2026-08-20T02:38:20Z",
@@ -314,7 +368,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 5,
+              "position": 6,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "f4qxC1l0oEc"
@@ -332,7 +386,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "HcIcp4FWk3-XSAmIPe5rDR8cRoA",
+            "etag": "RgI1Dy5cXrNCLcyENrdxZXiw4Ss",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
               "publishedAt": "2026-08-13T03:05:59Z",
@@ -368,7 +422,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 6,
+              "position": 7,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "vFitY9h-E9s"
@@ -386,7 +440,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "rJOe3-8jt9x-9rRfXlvCs1vDNBE",
+            "etag": "4hfmrpd7zqCXOZxFuq0sg6o47vM",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
               "publishedAt": "2026-08-06T02:39:32Z",
@@ -422,7 +476,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 7,
+              "position": 8,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Bd-5nIpeM6k"
@@ -440,7 +494,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "0KawafuhGtBkW3YiBs6HZtkcea4",
+            "etag": "se4AxJHbOHAAPL_qYES_FQuf-cw",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
               "publishedAt": "2026-07-30T02:39:26Z",
@@ -476,7 +530,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 8,
+              "position": 9,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Q0VVo1PQuIM"
@@ -494,7 +548,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "EM_iXYVoz7fTTGzvwBkK_F6yNNU",
+            "etag": "yPYeZRHHgN6vcjy_BE25HH_kPXY",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
               "publishedAt": "2026-07-09T01:59:31Z",
@@ -530,7 +584,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 9,
+              "position": 10,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FHOezjkZHnk"
@@ -548,7 +602,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "r2zM23V5Npy5taQOYrogRmRmft0",
+            "etag": "FaPbRlaUag2a7aQJb9Bzuykkm8w",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
               "publishedAt": "2026-07-02T03:24:53Z",
@@ -584,7 +638,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 10,
+              "position": 11,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Xp8zIHUcvqo"
@@ -602,7 +656,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "9Hlw6Epd8rw75sDK6MxJDLnMYvQ",
+            "etag": "ZWKh4JrWuxmT3sSmXx3Ybh4uQTY",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
               "publishedAt": "2026-06-25T02:17:01Z",
@@ -638,7 +692,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 11,
+              "position": 12,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "M6GyfJgttJM"
@@ -656,7 +710,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "kLZdolUJo5tiAgn0KWpB70_GCms",
+            "etag": "2r2zQf2kK1i5T7WeTaxryE7Crqg",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
               "publishedAt": "2026-06-18T01:14:35Z",
@@ -692,7 +746,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 12,
+              "position": 13,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "RRYwZsHIO8o"
@@ -710,7 +764,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "quDA4y294PGj1ciCoDKoY21P76A",
+            "etag": "iqVwWlq7jH7OqA5s0YTDn-j49-s",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
               "publishedAt": "2026-06-11T01:06:45Z",
@@ -746,7 +800,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 13,
+              "position": 14,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FQ_mZfCq5Hk"
@@ -764,7 +818,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "3ZnLmSfB_RGIE4trQioaoD33RFw",
+            "etag": "_LD1oS6kyfGSfNyFeyPmHxt5rWY",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
               "publishedAt": "2026-05-28T01:04:49Z",
@@ -800,7 +854,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 14,
+              "position": 15,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Z_RkpOixiG8"
@@ -818,7 +872,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sTwWzLvuDFFtNTVoVvyZ4DGOyJw",
+            "etag": "mUjtGv22YWOfFgXNIgl8sfBBFFU",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
               "publishedAt": "2026-05-21T03:24:29Z",
@@ -854,7 +908,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 15,
+              "position": 16,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "3aSvX6xlHXw"
@@ -872,7 +926,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "X-bLZTbm1eNmyz3jo8X9ibXFtxc",
+            "etag": "maxTOaZvryVn0jHwlh8MTk292Cg",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
               "publishedAt": "2026-05-14T08:14:27Z",
@@ -908,7 +962,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 16,
+              "position": 17,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "SrS14bgP2Eo"
@@ -926,7 +980,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sM1aWFns3TuzRiUtlPNKNhcnzA8",
+            "etag": "w-ajKzgGCW5cc4_haj3MMaZobc0",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
               "publishedAt": "2026-05-07T04:17:35Z",
@@ -962,7 +1016,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 17,
+              "position": 18,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "zCk4g_4Yueg"
@@ -980,7 +1034,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "53uqYsd9C2clBnp_kB4XVVzM0XM",
+            "etag": "1NG_bd8xk8nv47ymVMii_-vr3DU",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
               "publishedAt": "2026-04-30T17:36:09Z",
@@ -1016,7 +1070,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 18,
+              "position": 19,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "z3c1Dc2XcxU"
@@ -1034,7 +1088,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "maoJpv4__W79Sdjq8OgVQt0_FhA",
+            "etag": "rS5PyOo6MGtu8m4WXG9y--T3rL4",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
               "publishedAt": "2026-04-23T02:15:41Z",
@@ -1070,7 +1124,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 19,
+              "position": 20,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "s-F2eyIIhnU"
@@ -1088,7 +1142,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "pzmMZkvW3F3GVx7ZjE_mBy1EhOI",
+            "etag": "JcrGzPgoToaWZhb3PFhMKT3vxqA",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
               "publishedAt": "2026-04-16T02:56:32Z",
@@ -1124,7 +1178,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 20,
+              "position": 21,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "maf_-tKAF24"
@@ -1142,7 +1196,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "qiFVYtmFjIr35cS1fqjlWlX92aY",
+            "etag": "Nw907OYHJNvZ_OZ3uH8WxHtJOX0",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41QTY1Q0UxMTVCODczNThE",
             "snippet": {
               "publishedAt": "2026-03-26T02:47:13Z",
@@ -1178,7 +1232,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 21,
+              "position": 22,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "4AkGr0TC1Jk"
@@ -1196,7 +1250,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "gbOGvIzNiV7Ohrrpa_I1bYEcYUg",
+            "etag": "0MnxZK-KKqpNDbVpzxr6VBElyWs",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
               "publishedAt": "2026-03-19T02:03:02Z",
@@ -1232,7 +1286,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 22,
+              "position": 23,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "f5R7eOFctuw"
@@ -1250,7 +1304,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "uL3MZTBUUXXsHQy2_h6z1_JrYps",
+            "etag": "AwWMWjphavFYPAB7Z-j5KMWgMIQ",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
               "publishedAt": "2026-03-12T03:39:44Z",
@@ -1286,7 +1340,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 23,
+              "position": 24,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "a86HJ68qXOE"
@@ -1304,7 +1358,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CY_dF3o2_6gPnYlU3-V_Rs8eZ7M",
+            "etag": "pFjDlj_lA5BcLaU4SpFCfjI99mg",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
               "publishedAt": "2026-03-05T18:08:34Z",
@@ -1340,7 +1394,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 24,
+              "position": 25,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "QQleeDZ4KW0"
@@ -1358,7 +1412,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "gHoPcwWsPxAGjMsh16r_kB9cBNg",
+            "etag": "Mb-i3NOIDliHn-g22t9zfzob53I",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
               "publishedAt": "2026-02-19T03:42:16Z",
@@ -1394,7 +1448,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 25,
+              "position": 26,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "1KXb2f-r0wY"
@@ -1412,7 +1466,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Nx5I55nCuhTk53u2d6vquPux70o",
+            "etag": "cIW_Uh5jbyBQ3uc1Rg3yIV7TQZU",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
               "publishedAt": "2026-02-12T18:21:24Z",
@@ -1448,7 +1502,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 26,
+              "position": 27,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "zdzkH7aW6ZA"
@@ -1466,7 +1520,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "vj5mh0Flb42Fqh40XD9Qzf17VX4",
+            "etag": "G5woRcgAjyAsjy_06d_mdscBF_M",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
               "publishedAt": "2026-02-05T04:23:26Z",
@@ -1502,7 +1556,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 27,
+              "position": 28,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "sb3pneQ-tgk"
@@ -1520,7 +1574,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "7pCYhz7SuRqSk2Omq51p6uS_6rk",
+            "etag": "3ozmdilWwn5Gv7G4GSsxcox8hAE",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
               "publishedAt": "2026-01-29T03:40:47Z",
@@ -1556,7 +1610,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 28,
+              "position": 29,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "gV-LsDRGLTw"
@@ -1574,7 +1628,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "0xTZu0e5kGptMe40h8gglOcCg0o",
+            "etag": "q_BQkPxhlyV4P9iwYn7AP9WYzrU",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45NDk1REZENzhEMzU5MDQz",
             "snippet": {
               "publishedAt": "2026-01-22T04:12:05Z",
@@ -1610,7 +1664,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 29,
+              "position": 30,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "AGadGVdy81c"
@@ -1628,7 +1682,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "lr2lIOHnSkkHb7Xhd5MhSIRDhAQ",
+            "etag": "mdu4kkWjRMxp9Ge2pmhC_tSwhJM",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
               "publishedAt": "2026-01-15T03:01:28Z",
@@ -1664,7 +1718,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 30,
+              "position": 31,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "CDH-5cHG3-o"
@@ -1682,7 +1736,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "hd5k559fTDBWJgv4UALsopsZAjU",
+            "etag": "75SmS2M0XoKy8ugLMd1Gm_t0sAE",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
               "publishedAt": "2026-01-08T04:26:44Z",
@@ -1718,7 +1772,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 31,
+              "position": 32,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "iY2CMNRj58Y"
@@ -1736,7 +1790,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "BsmNYOQ3pcISp1Hxi52mnkyIdGY",
+            "etag": "HSOiK1iwAz-pedyUygJvw24YJAk",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
               "publishedAt": "2026-01-01T03:25:54Z",
@@ -1772,7 +1826,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 32,
+              "position": 33,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "0-hf4-jR8pw"
@@ -1790,7 +1844,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "S3eW_5f1YMA9nMDyiSEY9dVOR6I",
+            "etag": "0BUTMmunMf9xeLYlLTyjueogE8k",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
               "publishedAt": "2025-12-25T05:39:27Z",
@@ -1826,7 +1880,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 33,
+              "position": 34,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "L9UU4dOTAeg"
@@ -1844,7 +1898,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "vzjRKmEN6ENVZEy3eFA3qN4Sepg",
+            "etag": "40NPfnLwqrc8DAS7UMpQzFH98v8",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
               "publishedAt": "2025-12-18T03:32:24Z",
@@ -1880,7 +1934,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 34,
+              "position": 35,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "U6DghefINus"
@@ -1898,7 +1952,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "esESrAMSRmFY6i92ltlV_vIKzpo",
+            "etag": "9GE7aUlfx4rRqx5L6SXk2ycT0SI",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
               "publishedAt": "2025-12-05T13:51:33Z",
@@ -1934,7 +1988,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 35,
+              "position": 36,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "fq1nP26CydQ"
@@ -1952,7 +2006,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "FZlbOM8BPITfZlOB88GY8Q25KDM",
+            "etag": "nekUEKCGWhN7gbQxHNxDkttlmCE",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
               "publishedAt": "2025-11-28T04:51:38Z",
@@ -1988,7 +2042,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 36,
+              "position": 37,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Ch_gSyO9ROo"
@@ -2006,7 +2060,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "GLKMyA3zqlLiL2rcQGIZDaXvqcQ",
+            "etag": "EYdF7sl_IE83YS5v7mspMuPRi0c",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2025-11-26T20:58:42Z",
@@ -2042,7 +2096,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-              "position": 37,
+              "position": 38,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Xw5TIO6BGnU"
@@ -2060,7 +2114,7 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 38,
+          "totalResults": 39,
           "resultsPerPage": 50
         }
       }
@@ -3121,12 +3175,66 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "LsYWkfpXb5F7NGOWlt5RQ4NEJrg",
-        "nextPageToken": "EAAaHlBUOkNESWlFRVkwT0RVMk56VkROa1JHT1VWR01Uaw",
+        "etag": "pu0xv35EHoey_tjHhAE92ClNDec",
+        "nextPageToken": "EAAaHlBUOkNESWlFRE5ETVVFM1JFWTNNMFZFUVVJeU1FUQ",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "b14va-2Fx4Hito1lARHv5SO5f5g",
+            "etag": "wBAA_xhd5HO_-kAOBVu-0aLT7Xs",
+            "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DQjg2RDQyMEVGQkZFOEVF",
+            "snippet": {
+              "publishedAt": "2026-10-22T05:04:38Z",
+              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+              "title": "Книга Двенадцати. Урок 91. Книга Пророка Зехарии: \"СЕМЬ СОМНЕНИЙ\" (начало)",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Тора ве-Даат",
+              "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "K56ef5_E7Mg"
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+            },
+            "contentDetails": {
+              "videoId": "K56ef5_E7Mg",
+              "videoPublishedAt": "2026-10-22T05:07:30Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "OIyTjlkRt4Qc4R7zpZjn4wNYqp8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wQUE0QzM4MkJGQ0YwQjUx",
             "snippet": {
               "publishedAt": "2026-10-15T01:52:35Z",
@@ -3162,7 +3270,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 0,
+              "position": 1,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FsXwPE7qkJ4"
@@ -3180,7 +3288,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "tOJeywv3VUDDb5Gbws9xS78fWUk",
+            "etag": "cYn3UzBZ5eMkVr9QwtnOBIOZbD4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GMDBDNkJGMzYzREUyMTYw",
             "snippet": {
               "publishedAt": "2026-09-09T21:35:46Z",
@@ -3216,7 +3324,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 1,
+              "position": 2,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "GcASY6bJbjI"
@@ -3234,7 +3342,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sRG2otswPh_dUirVxY9I36dcU5A",
+            "etag": "slkN2r2cuODdHpprtTqhumkamg8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CMUM0NzY5NzdEQzlGRjAx",
             "snippet": {
               "publishedAt": "2026-09-03T03:35:24Z",
@@ -3270,7 +3378,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 2,
+              "position": 3,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "CY0h_gklyJI"
@@ -3288,7 +3396,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "rSt-2pjy2vJ68D-_Io255XJTJPA",
+            "etag": "NVAwxGlbC0UceWJFMeGTPdJu6ho",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5EMzJDRTUwQjBEOUVFQzAw",
             "snippet": {
               "publishedAt": "2026-08-27T01:25:34Z",
@@ -3324,7 +3432,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 3,
+              "position": 4,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "3CTbe8fQx2k"
@@ -3342,7 +3450,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "kQ9wshdZiiiBNJ83X6Rv3a5pCWY",
+            "etag": "fCNt4ZPl1kj45CvVbNScBlBhlWo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi40NzE2MTY1QTM3RUI3QkU3",
             "snippet": {
               "publishedAt": "2026-08-13T03:19:10Z",
@@ -3378,7 +3486,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 4,
+              "position": 5,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "GKlOw0csuJw"
@@ -3396,7 +3504,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "nRM9EowRohSxU1rWjpeCwG0dYN0",
+            "etag": "7boBFIj3vmqCmuIwULkAUIrAskk",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi44MkM2RjVEQkQ5N0I2MjVE",
             "snippet": {
               "publishedAt": "2026-08-05T21:05:53Z",
@@ -3432,7 +3540,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 5,
+              "position": 6,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "9Svj9RWVgD0"
@@ -3450,7 +3558,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "u_LhMby3qAg_GK-jtbuL55spCz0",
+            "etag": "5BWXLTnZEGfqlllxx8_G1Lurwd4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi44QTA1QTQyRTc3M0VGQzYx",
             "snippet": {
               "publishedAt": "2026-07-30T02:26:56Z",
@@ -3486,7 +3594,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 6,
+              "position": 7,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "anx6sIgizX4"
@@ -3504,7 +3612,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "G7OnZwTFIh6T6ws_ZyWeJyQ7_xI",
+            "etag": "qtlXvj78uYi61nmIMqjQP3EHmOg",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wMDFGNzBEOTU4Q0Y1Q0RG",
             "snippet": {
               "publishedAt": "2026-07-23T01:10:31Z",
@@ -3540,7 +3648,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 7,
+              "position": 8,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "fgFg7jHUF3I"
@@ -3558,7 +3666,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "y41V7QoAgtzp8HEps3WUB5vOZH0",
+            "etag": "mVBHsLh-F-c9_Aipl417FBi6BUc",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xNTZBNUQxMDZBQzFGMjkw",
             "snippet": {
               "publishedAt": "2026-07-16T00:13:26Z",
@@ -3594,7 +3702,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 8,
+              "position": 9,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "H1bTQdcQcTw"
@@ -3612,7 +3720,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "9hchYbtbTQ5SbIfEZrUQFAMtP58",
+            "etag": "Zx5JbIrETtWjLZcXVl0bzKTXeIQ",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zQTkzRjgxRTY0OEU0MkM3",
             "snippet": {
               "publishedAt": "2026-07-09T01:53:43Z",
@@ -3648,7 +3756,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 9,
+              "position": 10,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "zcIBZgM63oc"
@@ -3666,7 +3774,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "4Xg1BHQjK5nP2-3DfMhwIGPwwcQ",
+            "etag": "P9Fkg98UMViW8GBBzkM9HIa2bk0",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi44QTY2MEEzNzBFQUJCMUQ2",
             "snippet": {
               "publishedAt": "2026-06-25T02:06:09Z",
@@ -3702,7 +3810,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 10,
+              "position": 11,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "V0yOyanZ2OA"
@@ -3720,7 +3828,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "bIZF1e6LqGmwTXPW3oB7LMMjbRg",
+            "etag": "tiM1uqxISCxuEs8F6hfpGZLTaJk",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xNjIyNEE0MDEyRDlCMjBE",
             "snippet": {
               "publishedAt": "2026-06-18T00:17:55Z",
@@ -3756,7 +3864,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 11,
+              "position": 12,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "SeNv5WOA6FI"
@@ -3774,7 +3882,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "uJCeaKZSwYxNFn9Yp4aI0bgS2sU",
+            "etag": "3xCsZ4pB0PNh-l0tTyTBdX8R9Ys",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CMEVBRUJERkUyNTBENTkz",
             "snippet": {
               "publishedAt": "2026-06-11T00:56:08Z",
@@ -3810,7 +3918,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 12,
+              "position": 13,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "x80Qhic5w70"
@@ -3828,7 +3936,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "EKZKK0ah-s-EB_TpFBFlfJ2Re70",
+            "etag": "j3sOFfvuI0XSAATj_GUyc8DM4Ug",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5FQUY2Qzk4RUFDN0ZFRkZF",
             "snippet": {
               "publishedAt": "2026-06-04T00:08:03Z",
@@ -3864,7 +3972,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 13,
+              "position": 14,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "pvU2uaeopm4"
@@ -3882,7 +3990,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "JdNWxmEMybGNgkBogRl2D5c49Yw",
+            "etag": "T8iykRyPAxSsTelVG1SzucYP5s4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xN0Y2QjVBOEI2MzQ5OUM5",
             "snippet": {
               "publishedAt": "2026-05-27T21:47:16Z",
@@ -3918,7 +4026,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 14,
+              "position": 15,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "idpzHIKKD3k"
@@ -3936,7 +4044,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "aIY0gOOpzrJAJ8eibMOtHoQc8Rc",
+            "etag": "hnsyF482xGdXRJonig7VyqMfL8o",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45NDlDQUFFOThDMTAxQjUw",
             "snippet": {
               "publishedAt": "2026-05-21T03:11:21Z",
@@ -3972,7 +4080,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 15,
+              "position": 16,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "MfwnImlYlOc"
@@ -3990,7 +4098,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "G4HJ2E8jCuOFj70pMW3z8BtZpMw",
+            "etag": "9NQf19e0BXM6HcAZNgY2CRIflxY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yQzk4QTA5QjkzMTFFOEI1",
             "snippet": {
               "publishedAt": "2026-05-13T19:18:17Z",
@@ -4026,7 +4134,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 16,
+              "position": 17,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "GS-qJoty6DM"
@@ -4044,7 +4152,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CEJUs4dSSdSp75bdG8259BzH3tw",
+            "etag": "vfU8IPSq0JGlPOqlIlzYt7c_HSw",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5EQkE3RTJCQTJEQkFBQTcz",
             "snippet": {
               "publishedAt": "2026-05-06T19:29:53Z",
@@ -4080,7 +4188,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 17,
+              "position": 18,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "LFJSboVa6jY"
@@ -4098,7 +4206,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "3EOwZSeuA7j_GVMMenzMkbriN8A",
+            "etag": "c2N3ndlkHFmorIY175yug5FVHGo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi43QzNCNkZENzIyMDY2MjZB",
             "snippet": {
               "publishedAt": "2026-04-29T19:21:10Z",
@@ -4134,7 +4242,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 18,
+              "position": 19,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "DVGVHlfSsCw"
@@ -4152,7 +4260,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "uuaEI_c0kRKIOtVlCoWYRTXlklc",
+            "etag": "6yNjnNPOhRHKFRUr65nFZ39TC94",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi42RTNCOEMxREI3Q0VDMjU2",
             "snippet": {
               "publishedAt": "2026-04-22T18:02:08Z",
@@ -4188,7 +4296,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 19,
+              "position": 20,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "5FbxxwOZ0qI"
@@ -4206,7 +4314,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "xu5BK6LfreKLv4JTeoxXQzTuv5g",
+            "etag": "pKgpBjihmuoZE1LH_nZ2Krmjw24",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi40MDNEMzA0QTBFRThFMzBE",
             "snippet": {
               "publishedAt": "2026-04-16T02:46:19Z",
@@ -4242,7 +4350,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 20,
+              "position": 21,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "_GR18p9jqcQ"
@@ -4260,7 +4368,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "gf-dl2oiq3oIMjP6RpDbZzuvdS4",
+            "etag": "Aml5CbxgigZZpJgCdgMpPvlyLHM",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi42MjYzMTMyQjA0QURCN0JF",
             "snippet": {
               "publishedAt": "2026-04-10T18:48:27Z",
@@ -4296,7 +4404,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 21,
+              "position": 22,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "frLH53nl5KQ"
@@ -4314,7 +4422,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "rSuFUqUEhIalaI1URv3aJNaik7Y",
+            "etag": "qRrAWjVHhemAyY6DvOS0Zp9ygWw",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xM0YyM0RDNDE4REQ1NDA0",
             "snippet": {
               "publishedAt": "2026-03-25T17:32:27Z",
@@ -4350,7 +4458,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 22,
+              "position": 23,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "aN4_4EerPpg"
@@ -4368,7 +4476,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "O_i8x9Pe_L-p5dk81OMxyJ-IHmA",
+            "etag": "00f2DuOTdV-5YNnVRM3_zOEPzsY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5ERkUyQTM0MzEwQjZCMTY5",
             "snippet": {
               "publishedAt": "2026-03-18T22:31:10Z",
@@ -4404,7 +4512,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 23,
+              "position": 24,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "6wLBXS5mUwg"
@@ -4422,7 +4530,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "TOQkOLyRE9HbmLJ1_0bnX0ORWBw",
+            "etag": "ueEg6HR-paGy9cbTJJSdKdC6EEI",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CNTcxMDQ0NThBNzMxODYz",
             "snippet": {
               "publishedAt": "2026-02-18T18:20:10Z",
@@ -4458,7 +4566,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 24,
+              "position": 25,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "D7CoXve2_RA"
@@ -4476,7 +4584,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "jM46frCVu4u6HVTacy6pbRnl8bk",
+            "etag": "-MIJRed6IVMzmxRMm5SkL310HPU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CNTZFOTNGQzZEODg1RUQx",
             "snippet": {
               "publishedAt": "2026-02-11T20:36:14Z",
@@ -4512,7 +4620,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 25,
+              "position": 26,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "LowybUUq7uM"
@@ -4530,7 +4638,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Nx7A1DE3VOvVcWtFKxqEq6PCZ0U",
+            "etag": "UV06PNlJMstq6drDJTrburSt_IU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wRjhFM0MxMTU1MEUzQ0VB",
             "snippet": {
               "publishedAt": "2026-02-04T18:41:55Z",
@@ -4566,7 +4674,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 26,
+              "position": 27,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "w3y9kldIqIE"
@@ -4584,7 +4692,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ovG9pFDmVXJyaAO4lWvg0a_Scq4",
+            "etag": "mnRMWkLr95uAtxD5clCJ_mBfD0Y",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41OURENDc2NEM1MDI5Mjky",
             "snippet": {
               "publishedAt": "2026-01-28T18:44:42Z",
@@ -4620,7 +4728,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 27,
+              "position": 28,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "gHR9koh7EsU"
@@ -4638,7 +4746,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "_RuJ62SgkZhCaHvHSJQ0m1lPpwo",
+            "etag": "R_47sx1DafpY-SdXJye6X28qRhM",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi42QzdBMzlBQzQzRjQ0QkQy",
             "snippet": {
               "publishedAt": "2026-01-21T19:42:28Z",
@@ -4674,7 +4782,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 28,
+              "position": 29,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "OqyvQSKkbR0"
@@ -4692,7 +4800,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CVl4ArdvMLPg0KtttvpEiZeMZVc",
+            "etag": "X9XazQk9s6h2OBLdmFd2GH-skjc",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zMUEyMkQwOTk0NTg4MDgw",
             "snippet": {
               "publishedAt": "2026-01-14T19:52:24Z",
@@ -4728,7 +4836,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 29,
+              "position": 30,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "WIp-rovt88I"
@@ -4746,7 +4854,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "KngP6XJnGmdiK9VyspUybQXYHNM",
+            "etag": "KuuqW9nVkzw5gAvXsnwLKt_U_iE",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
               "publishedAt": "2026-01-08T03:33:12Z",
@@ -4782,7 +4890,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 30,
+              "position": 31,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Cz5ddWwWLhA"
@@ -4800,7 +4908,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "S0j4ZeNB6W5iZ3eyi85MHDD3mrw",
+            "etag": "LiVzd4aWhSqQ662BwwBFsbCKDC8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
               "publishedAt": "2025-12-30T22:12:29Z",
@@ -4836,7 +4944,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 31,
+              "position": 32,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "5CaMwBl647A"
@@ -4854,7 +4962,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "wcJCuISSWj0ezQDG86M8SfcV9Fw",
+            "etag": "AJv6mt5A3ekj4S1c1uqBWLrYIR4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
               "publishedAt": "2025-12-24T19:06:39Z",
@@ -4890,7 +4998,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 32,
+              "position": 33,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "7wcV7tcZazI"
@@ -4908,7 +5016,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "1y2Rin0-I4oScROszR1LoVD77No",
+            "etag": "WLfzVZ_8KX0eWBT0hIho4H1Nnek",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
               "publishedAt": "2025-12-18T00:35:11Z",
@@ -4944,7 +5052,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 33,
+              "position": 34,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "TwMKsDDWeTg"
@@ -4962,7 +5070,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "avsmJeP0o5QcxyWVdDQmM2-BCSQ",
+            "etag": "85e_0g23SMBMVmGdULUatFCADio",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi43NERCMDIzQzFBMERCMEE3",
             "snippet": {
               "publishedAt": "2025-12-10T19:09:35Z",
@@ -4998,7 +5106,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 34,
+              "position": 35,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "g3eziYt6Brg"
@@ -5016,7 +5124,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sBwHx3Oy45S6UyHABFTVLTK7OaY",
+            "etag": "DWpxT1vEY8mNbfCoZjsYU7tsjeA",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41NTZEOThBNThFOUVGQkVB",
             "snippet": {
               "publishedAt": "2025-12-04T00:16:20Z",
@@ -5052,7 +5160,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 35,
+              "position": 36,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "_PUgxYBAr4Q"
@@ -5070,7 +5178,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "wD6rUhfT75bcWGxe5Ytve2ctho4",
+            "etag": "tj-C4-WcSuzJCdi4gIcPjlc8tjg",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
               "publishedAt": "2025-11-26T21:16:14Z",
@@ -5106,7 +5214,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 36,
+              "position": 37,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "dg4IYTYLz-E"
@@ -5124,7 +5232,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "x8V63_QoXL6fQStTiud0xFCefR8",
+            "etag": "qvP651UCAP-0Ir6MiUPW-8Tl-cg",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
               "publishedAt": "2025-11-19T23:30:31Z",
@@ -5160,7 +5268,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 37,
+              "position": 38,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "RUqBtJrOmV4"
@@ -5178,7 +5286,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "EdXocbVUyZepk0Pu-EbTuSyzs28",
+            "etag": "iU8uL18IedumTHJw2_iz8nBkzBs",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
               "publishedAt": "2025-11-13T18:52:14Z",
@@ -5214,7 +5322,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 38,
+              "position": 39,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "_5gtQM27nsY"
@@ -5232,7 +5340,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "_60KZ3DEdz3YrmpUy9bN1VyvBPY",
+            "etag": "auPTuqekfQib3ZDmDEfD7aHv0Ak",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi44QzVGQUU2QjE2NDgxM0M4",
             "snippet": {
               "publishedAt": "2025-11-06T18:29:25Z",
@@ -5268,7 +5376,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 39,
+              "position": 40,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "9yfHCghbgAQ"
@@ -5286,7 +5394,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "0q_wexEW-8QuiRJ9l2xmK4Xra0k",
+            "etag": "Vf6TAwmxY5DlIR8xGPN8ppM6sF0",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5ENjI1QUI0MDI5NEQzODFE",
             "snippet": {
               "publishedAt": "2025-10-30T21:46:56Z",
@@ -5322,7 +5430,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 40,
+              "position": 41,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "C4JEdYi8nic"
@@ -5340,7 +5448,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "6hZEcIVEooxkGLaSCLY-oQvICX0",
+            "etag": "LS0O55-Nj5ZipRGFohFrDsjpWuo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
               "publishedAt": "2025-10-23T20:20:29Z",
@@ -5376,7 +5484,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 41,
+              "position": 42,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "oa2DmDzUoB8"
@@ -5394,7 +5502,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Bj8b5dliKpGWaFT1z-Je4Bjpmvk",
+            "etag": "78E4X0K6MmGByZAXM5G-9Xrzfng",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi40QzRDOEU0QUYwNUIxN0M1",
             "snippet": {
               "publishedAt": "2025-10-17T21:11:29Z",
@@ -5430,7 +5538,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 42,
+              "position": 43,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "PPRTy70_qAg"
@@ -5448,7 +5556,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "nCicm0AE4iUzHR4lXEFgwRiwgmU",
+            "etag": "OU7g71FzrXOBsbGJ1pt5VoALbMI",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yQUJFNUVCMzVDNjcxRTlF",
             "snippet": {
               "publishedAt": "2025-09-29T15:30:29Z",
@@ -5484,7 +5592,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 43,
+              "position": 44,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "dT5OnD2iReU"
@@ -5502,7 +5610,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "MBdGZBboxxXW0tkpkAiDuUwDIM0",
+            "etag": "hoRNUWWUztipL0B22ZxkAh-d9wM",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yQjZFRkExQjFGODk3RUFD",
             "snippet": {
               "publishedAt": "2025-09-28T14:34:46Z",
@@ -5538,7 +5646,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 44,
+              "position": 45,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "veGmBowNzoQ"
@@ -5556,7 +5664,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Tpi7F5AV6VG3w8VwnQFr8uFfsWE",
+            "etag": "DVDwUPcM6wdan33W7ZTVWZ9YEgo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41MzY4MzcwOUFFRUU3QzEx",
             "snippet": {
               "publishedAt": "2025-09-10T12:50:15Z",
@@ -5592,7 +5700,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 45,
+              "position": 46,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "YJj4Ex4cyfg"
@@ -5610,7 +5718,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "66C2UX0qNlcR3c-GRV85OwcTTYo",
+            "etag": "TbyxaQ5vejHmE57FRhRVd-0WovQ",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DRUQwODMxQzUyRTlGRkY3",
             "snippet": {
               "publishedAt": "2025-09-03T17:53:58Z",
@@ -5646,7 +5754,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 46,
+              "position": 47,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "PyilVE9CF50"
@@ -5664,7 +5772,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "RePYWYWgzhbKwHhYIq250qw-QkI",
+            "etag": "PS5_WzYc44bqryhcV7tuF4WfIw8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DNkMwRUI2MkI4QkI4NDFG",
             "snippet": {
               "publishedAt": "2025-08-27T12:15:22Z",
@@ -5700,7 +5808,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 47,
+              "position": 48,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "fp1gYzIQ5zc"
@@ -5718,7 +5826,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "q5yeDpX4ZLoQ4lJn9iZ8HSb3wnw",
+            "etag": "P3N00dreRdvkCvQDEvSoRZELjs8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45NkVENTkxRDdCQUFBMDY4",
             "snippet": {
               "publishedAt": "2025-08-20T11:53:54Z",
@@ -5754,7 +5862,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 48,
+              "position": 49,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "jZjXDaAVAWU"
@@ -5769,10 +5877,21 @@
             "status": {
               "privacyStatus": "public"
             }
-          },
+          }
+        ],
+        "pageInfo": {
+          "totalResults": 91,
+          "resultsPerPage": 50
+        }
+      },
+      {
+        "kind": "youtube#playlistItemListResponse",
+        "etag": "-IwbWnfk4RbXro9fh3m6vE94bLE",
+        "prevPageToken": "EAEaHlBUOkNESWlFRE5ETVVFM1JFWTNNMFZFUVVJeU1FUQ",
+        "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "r4GQ8NHZE907y0eOqVRO5EHadsk",
+            "etag": "6IWz4tEglpq6D27IvXZxxgn14To",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zQzFBN0RGNzNFREFCMjBE",
             "snippet": {
               "publishedAt": "2025-08-13T17:57:44Z",
@@ -5808,7 +5927,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 49,
+              "position": 50,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "p62GyANHIvw"
@@ -5823,21 +5942,10 @@
             "status": {
               "privacyStatus": "public"
             }
-          }
-        ],
-        "pageInfo": {
-          "totalResults": 90,
-          "resultsPerPage": 50
-        }
-      },
-      {
-        "kind": "youtube#playlistItemListResponse",
-        "etag": "5pN_q0GY9cRc-EjxOkOlw_fFHIM",
-        "prevPageToken": "EAEaHlBUOkNESWlFRVkwT0RVMk56VkROa1JHT1VWR01Uaw",
-        "items": [
+          },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YvgeYjvx9jVlB6_aRavyK07paZo",
+            "etag": "eeApBi91t7rQLCj_9GMRG4pL4G4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
               "publishedAt": "2025-07-30T17:57:09Z",
@@ -5873,7 +5981,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 50,
+              "position": 51,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "HmzLxjijsgo"
@@ -5891,7 +5999,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YvJDEtw0SOHjGctt9N1JIvdRP7g",
+            "etag": "rjgApYVtorCoY4eVzrtFHwssvPU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xOTEzQzhBQzU3MDNDNjcz",
             "snippet": {
               "publishedAt": "2025-07-23T18:45:36Z",
@@ -5927,7 +6035,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 51,
+              "position": 52,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "BTMFTeuXu_c"
@@ -5945,7 +6053,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "xG2IbIc-djqJZVzE6KbIpX25MDs",
+            "etag": "gUQoRrIs4u_vLVoG_FdjRVIMVB8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5BRjJDODk5REM0NjkzMUIy",
             "snippet": {
               "publishedAt": "2025-07-07T20:47:17Z",
@@ -5981,7 +6089,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 52,
+              "position": 53,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "C-iEcI5Qan8"
@@ -5999,7 +6107,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "4w8kqzDcsjxqJhXHql_NXl1K1Y8",
+            "etag": "vhtGeHqPZIrUfCAnpTqTvNHE9aM",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi40QTA3NTU2RkM1QzlCMzYx",
             "snippet": {
               "publishedAt": "2025-07-02T20:33:22Z",
@@ -6035,7 +6143,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 53,
+              "position": 54,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "LNsQ_ZkBUh4"
@@ -6053,7 +6161,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "qzj46E59irE1OFie8uSaPqHfTZY",
+            "etag": "4BvwqhdyKpcqmQxfRtUjne_Uj8I",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
               "publishedAt": "2025-06-23T15:33:02Z",
@@ -6089,7 +6197,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 54,
+              "position": 55,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "xb5YIP_-HxM"
@@ -6107,7 +6215,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "aKHVL6VPeIddrW8Um3pi5AC4uHM",
+            "etag": "ducioUn_26ZKGx9JBj8X-8o8qU0",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi42MTI4Njc2QjM1RjU1MjlG",
             "snippet": {
               "publishedAt": "2025-06-17T14:09:33Z",
@@ -6143,7 +6251,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 55,
+              "position": 56,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "WEs04_Tpuxg"
@@ -6161,7 +6269,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "oogWeQxOQnUwfOW3Ef9AUBcdF0M",
+            "etag": "gxbJFav98wAHs2-glxYUCeQr09o",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5CMEQ2Mjk5NTc3NDZFRUNB",
             "snippet": {
               "publishedAt": "2025-06-12T20:59:54Z",
@@ -6197,7 +6305,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 56,
+              "position": 57,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "OKEFK7Qnj58"
@@ -6215,7 +6323,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ia6HU7xseF8mE6JR2Gsj1BGtau4",
+            "etag": "mXCuGdSG4mugcyBaSyVeskDadl8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zRDBDOEZDOUM0MDY5NEEz",
             "snippet": {
               "publishedAt": "2025-05-26T18:04:23Z",
@@ -6251,7 +6359,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 57,
+              "position": 58,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ul-QRLGMMa8"
@@ -6269,7 +6377,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "QXv6q1CgmWTNnX19tEXy5qPL-0w",
+            "etag": "MMdj3DwF3vy921PBZUg1uj3uT7U",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41QUZGQTY5OTE4QTREQUU4",
             "snippet": {
               "publishedAt": "2025-05-25T14:39:14Z",
@@ -6305,7 +6413,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 58,
+              "position": 59,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "AJIhP7f0mhY"
@@ -6323,7 +6431,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "BHtM7Sa4xL6XEGSBawaVJqNOwBY",
+            "etag": "yXJDWGJQYmOOnYqXxbq6_VFTPLY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi43NDhFRTgwOTRERTU4Rjg3",
             "snippet": {
               "publishedAt": "2025-05-14T20:47:46Z",
@@ -6359,7 +6467,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 59,
+              "position": 60,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "CIIcBAzgWHI"
@@ -6377,7 +6485,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "aGzm0ljoNu9CxSgn28s4WM6s5Xw",
+            "etag": "FDlVNksYA8vkGZh72r0S6uivQN8",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi44Mjc5REFBRUE2MTdFRDU0",
             "snippet": {
               "publishedAt": "2025-05-11T02:09:27Z",
@@ -6413,7 +6521,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 60,
+              "position": 61,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "QPwYybjyxWc"
@@ -6431,7 +6539,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "BsvL5zk_3apqr0suDcpUVomMrVQ",
+            "etag": "l3r9ZGbWbIEU4_1UYF6PnAOzhWU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DMkU4NTY1QUFGQTYwMDE3",
             "snippet": {
               "publishedAt": "2025-05-05T19:27:49Z",
@@ -6467,7 +6575,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 61,
+              "position": 62,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "d1S-hi_2nG0"
@@ -6485,7 +6593,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Qq_wgID8XfCvOZPZEyquhm7az3g",
+            "etag": "K69HU2jfVLpylWKfQNWc0N_ngeo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yQUE2Q0JEMTk4NTM3RTZC",
             "snippet": {
               "publishedAt": "2025-04-27T17:12:07Z",
@@ -6521,7 +6629,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 62,
+              "position": 63,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ecplXKdkxGo"
@@ -6539,7 +6647,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "jnvlaRlyGnYp2Sm4QIKinahW5_I",
+            "etag": "DjV2t3bbBSoE40lt9bYuqiGy-NQ",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DQ0MyQ0Y4Mzg0M0VGOEYw",
             "snippet": {
               "publishedAt": "2025-04-06T15:28:36Z",
@@ -6575,7 +6683,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 63,
+              "position": 64,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "tFLIXf27u1A"
@@ -6593,7 +6701,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "7pZDZHdb9NZlomk1ly9hkVUaR1U",
+            "etag": "j-Jm8chQjvmGFxyIl_ubamC9nPg",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi43MTI1NDIwOTMwQjIxMzNG",
             "snippet": {
               "publishedAt": "2025-03-24T18:33:36Z",
@@ -6629,7 +6737,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 64,
+              "position": 65,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "5ANbIwr-uBk"
@@ -6647,7 +6755,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "fCxwPiQvO3NXhXuQEdSePYLRuKo",
+            "etag": "caY8IOu_5KCpt-qxJGtSb0V6XAA",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
               "publishedAt": "2025-03-11T18:11:07Z",
@@ -6683,7 +6791,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 65,
+              "position": 66,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "33mH1DUGUqE"
@@ -6701,7 +6809,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "znLuHKPupMmWQubBUzseU7MHbl0",
+            "etag": "nU3OdusNLHIwHEwOzxEdcM5IBs4",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
               "publishedAt": "2025-03-06T22:36:10Z",
@@ -6737,7 +6845,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 66,
+              "position": 67,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "cGg1U8QEwHM"
@@ -6755,7 +6863,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sSvQa0a6WWLOefdcbqcWnON4HAk",
+            "etag": "pheSHqQ-7Mz7I3TCuf7FzoPtOqY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
               "publishedAt": "2025-02-24T20:04:34Z",
@@ -6791,7 +6899,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 67,
+              "position": 68,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "FPPGWxuBXT0"
@@ -6809,7 +6917,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ds4_P9R32ZZhEXXnoJ1WyGS_ItA",
+            "etag": "2sdsheJwPbKlHeCSuiw1YsM0X2c",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
               "publishedAt": "2025-02-03T19:42:56Z",
@@ -6845,7 +6953,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 68,
+              "position": 69,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "m_J6tCU62fM"
@@ -6863,7 +6971,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "SoAeG9806sl0X89tykvkNVkvGjo",
+            "etag": "BKbTTZhZQt5w5QKOsiO8hHxpRBY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
               "publishedAt": "2025-01-29T03:26:32Z",
@@ -6899,7 +7007,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 69,
+              "position": 70,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "aPiovwm_tNU"
@@ -6917,7 +7025,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "v_3w6zFNnvNK7tiYAmzCEAYi_Kk",
+            "etag": "uSmHl3iF57JEpGKcCAUpjp1NCNw",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
               "publishedAt": "2025-01-29T03:26:32Z",
@@ -6953,7 +7061,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 70,
+              "position": 71,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "UMhtohsaGmI"
@@ -6971,7 +7079,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "-zuQU7QjFxciln1ZT6eAYhMTGtc",
+            "etag": "CZAIka-usELp8B6fEUb4bJQuqWo",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
               "publishedAt": "2025-01-19T13:31:15Z",
@@ -7007,7 +7115,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 71,
+              "position": 72,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "VEG2-DJOldQ"
@@ -7025,7 +7133,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "i76jEWoZsdRw8u-2o6evpDT-YEo",
+            "etag": "XNAGJetsxG2YRnzLApxjS6m9UqE",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yMUQyQTQzMjRDNzMyQTMy",
             "snippet": {
               "publishedAt": "2025-01-12T04:01:00Z",
@@ -7061,7 +7169,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 72,
+              "position": 73,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ezev8X7z1G4"
@@ -7079,7 +7187,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "6H1R2zCf0N5m_YJSW4pxvM3gfyc",
+            "etag": "zb-ACGLSWlsDf4Pih3palAr6Ucw",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41QTY1Q0UxMTVCODczNThE",
             "snippet": {
               "publishedAt": "2024-12-23T13:24:48Z",
@@ -7115,7 +7223,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 73,
+              "position": 74,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "kW5EKtRXC00"
@@ -7133,7 +7241,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "9YZkpoGDeRhKNG26C3QM5z3cmmA",
+            "etag": "JlC_VDciUzKv2zCmeQUpx1DLeRY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
               "publishedAt": "2024-12-22T04:09:05Z",
@@ -7169,7 +7277,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 74,
+              "position": 75,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "s3SYTzOf9Rs"
@@ -7187,7 +7295,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "FKfJb4PRi--WEgvD_FmO6JsBgWo",
+            "etag": "uHKxe8pxs007tv4wpf17Q1M3tJQ",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41Mzk2QTAxMTkzNDk4MDhF",
             "snippet": {
               "publishedAt": "2024-12-15T12:02:54Z",
@@ -7223,7 +7331,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 75,
+              "position": 76,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "jMWcvuhLKC0"
@@ -7241,7 +7349,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "3KTH7K9qFZF2y3kYONLGkPpre14",
+            "etag": "oyajh1os5W4XF9BfNo7gPbpz8hY",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4zMDg5MkQ5MEVDMEM1NTg2",
             "snippet": {
               "publishedAt": "2024-12-08T23:50:55Z",
@@ -7277,7 +7385,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 76,
+              "position": 77,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "UghrEwkZvoQ"
@@ -7295,7 +7403,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "GwzuSskxYwbpwN-ffqtZYqbyHhs",
+            "etag": "AiZH_Peg7xMi-uFxaLF3v6-9sFI",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45ODRDNTg0QjA4NkFBNkQy",
             "snippet": {
               "publishedAt": "2024-12-01T13:54:10Z",
@@ -7331,7 +7439,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 77,
+              "position": 78,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "MSpvUToqBR0"
@@ -7349,7 +7457,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CUjvTjPHsIUoPF0LzbV6w6adHH0",
+            "etag": "hXKU2CctKs0k-LvSPHA3RNNbs9w",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5EMEEwRUY5M0RDRTU3NDJC",
             "snippet": {
               "publishedAt": "2024-11-14T12:47:35Z",
@@ -7385,7 +7493,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 78,
+              "position": 79,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "TegsKlMANpY"
@@ -7403,7 +7511,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YT5xFGTljSIYw0SwbI7dHVBuTQc",
+            "etag": "lxNDmvql1dA12qmvkEo4QT0Aggg",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi40NzZCMERDMjVEN0RFRThB",
             "snippet": {
               "publishedAt": "2024-11-10T15:17:35Z",
@@ -7439,7 +7547,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 79,
+              "position": 80,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "WwO33KpRRQ8"
@@ -7457,7 +7565,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "ni3c1LgGREGssSrCCCEs50ICnIw",
+            "etag": "CC7WzmmkuV000lH_PqcQZ2KZIHw",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5GNjNDRDREMDQxOThCMDQ2",
             "snippet": {
               "publishedAt": "2024-11-03T15:31:58Z",
@@ -7493,7 +7601,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 80,
+              "position": 81,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "mx0CkJKMJnI"
@@ -7511,7 +7619,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Y4mP0tig_oD9n-1__KLoOWTCSBo",
+            "etag": "0nA7OPdRNkATopCR1xB2c31vpaU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi45NDk1REZENzhEMzU5MDQz",
             "snippet": {
               "publishedAt": "2024-10-27T03:19:31Z",
@@ -7547,7 +7655,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 81,
+              "position": 82,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "uFqudgUK-zA"
@@ -7565,7 +7673,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sd2WLgKYW6Apyg6HV5x64bMSFeY",
+            "etag": "UMZscQNiBWcs6ox4V0kux6mofhU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
               "publishedAt": "2024-10-20T03:17:17Z",
@@ -7601,7 +7709,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 82,
+              "position": 83,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "IIbQzqvAmj0"
@@ -7619,7 +7727,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "RnRYMsbQRVAxqSJtPs3IyxwMckU",
+            "etag": "O3723IC4lFr6xE2vjDaEvcslT-A",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41MzJCQjBCNDIyRkJDN0VD",
             "snippet": {
               "publishedAt": "2024-10-13T14:27:56Z",
@@ -7655,7 +7763,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 83,
+              "position": 84,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "NrrIj2s9UyU"
@@ -7673,7 +7781,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Yg4l0dwk3e3inWPBK0OCugOI53Q",
+            "etag": "IKpp5-Jbiz0V6wLQktRgWhVZgTU",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4xMkVGQjNCMUM1N0RFNEUx",
             "snippet": {
               "publishedAt": "2024-09-29T13:12:35Z",
@@ -7709,7 +7817,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 84,
+              "position": 85,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "CqJaY0xyss8"
@@ -7727,7 +7835,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "7vaALorfZn_97Q0ZoKlxWQdmvv8",
+            "etag": "4mZKd8nHhkc6Df0VTyLgq2kZX7w",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
               "publishedAt": "2024-09-22T12:59:52Z",
@@ -7763,7 +7871,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 85,
+              "position": 86,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "e9ZSD_Whquk"
@@ -7781,7 +7889,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "kIMqrQrtCF8qrxIY1QJSXS4qPuw",
+            "etag": "con-fOOZiRofsZmRVKIs6-YS1E0",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
               "publishedAt": "2024-09-06T21:40:23Z",
@@ -7817,7 +7925,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 86,
+              "position": 87,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "dFnb-u63VO4"
@@ -7835,7 +7943,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "d_CNh8_6fIOOEgdWXTBV2WqGkMA",
+            "etag": "zLIA_wsJQa27WqazrbjoaMVj9P0",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
               "publishedAt": "2024-09-01T13:26:03Z",
@@ -7871,7 +7979,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 87,
+              "position": 88,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "5iyxLc-rMP8"
@@ -7889,7 +7997,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "QN7aVvCZVJs6VVhoK5G9TMYxXoM",
+            "etag": "1-PpbR8fIBl4kFs9NTFDEtmBBTQ",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
               "publishedAt": "2024-08-22T00:30:51Z",
@@ -7925,7 +8033,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 88,
+              "position": 89,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ER0LqCpyito"
@@ -7943,7 +8051,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "GDq89JAUGdpJ2B2DnIkry2CO34s",
+            "etag": "hjCWqHmNxCPCoAym-GXzB57dEgs",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2024-08-12T17:44:39Z",
@@ -7979,7 +8087,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-              "position": 89,
+              "position": 90,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "vrvJZk0cK94"
@@ -7997,7 +8105,7 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 90,
+          "totalResults": 91,
           "resultsPerPage": 50
         }
       }

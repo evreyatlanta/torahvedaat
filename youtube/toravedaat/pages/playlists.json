@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "4hOPqgonDJ7rbVpFkCyPtW0sKXs",
+    "etag": "qqF0YIuIjNOZ38SBOPB3RV7yTVU",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 56,
@@ -10,7 +10,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "xCPSmmbtq0ndp4EshxVFtIo7CYk",
+        "etag": "aKjacJkWXpwvZajGcR5sYmijCWc",
         "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
         "snippet": {
           "publishedAt": "2025-11-26T20:58:38.682502Z",
@@ -19,27 +19,27 @@
           "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/XWEM33X_yK0/default.jpg",
+              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/XWEM33X_yK0/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/XWEM33X_yK0/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/XWEM33X_yK0/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/XWEM33X_yK0/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -54,7 +54,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 38
+          "itemCount": 39
         }
       },
       {
@@ -108,7 +108,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "O6Wha5d4tCvgECbF_4243LYbuac",
+        "etag": "O1xMcvAMGofXJ9UBHYomXgLL3TE",
         "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
         "snippet": {
           "publishedAt": "2024-08-12T17:44:33.577274Z",
@@ -117,29 +117,19 @@
           "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/FsXwPE7qkJ4/default.jpg",
+              "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/FsXwPE7qkJ4/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/FsXwPE7qkJ4/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/K56ef5_E7Mg/hqdefault.jpg",
               "width": 480,
               "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/FsXwPE7qkJ4/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/FsXwPE7qkJ4/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
           "channelTitle": "Тора ве-Даат",
@@ -152,7 +142,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 90
+          "itemCount": 91
         }
       },
       {

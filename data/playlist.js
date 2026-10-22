@@ -203,16 +203,16 @@
               "rbari"
             ],
             "items": [
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU",
+              "v3Szcm2FVrA",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
               "C9qPutqPxeM",
               "t1HQBlmwQv8",
               "UhkrLNWtDxA",
               "aQvMzArvd5c",
-              "hpie9RNaonk",
-              "E2aDC4hMn4I",
-              "7X1uOA16Aus",
-              "v3Szcm2FVrA",
-              "OU1ahrIvhF8",
-              "OoslvQbYhoU"
+              "hpie9RNaonk"
             ],
             "children": []
           },
@@ -254,13 +254,16 @@
           {
             "id": "PLLBb1uiUMWsU",
             "title": "[RU]  Зоар - Лех Леха",
-            "tags": [],
+            "tags": [
+              "torah",
+              "rbari"
+            ],
             "items": [
               "OU1ahrIvhF8",
               "OoslvQbYhoU",
               "v3Szcm2FVrA",
-              "7X1uOA16Aus",
-              "E2aDC4hMn4I"
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus"
             ],
             "children": []
           },
@@ -488,6 +491,11 @@
               "rbari"
             ],
             "items": [
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU",
+              "v3Szcm2FVrA",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
               "_bQzIvKDsfY",
               "wYXnzsaK-EM",
               "qF1DHAcbs50",
@@ -583,12 +591,7 @@
               "80l1w0OKEaQ",
               "qSHQsu0zSjc",
               "6VE49soNFLo",
-              "BSgukvt6_1o",
-              "E2aDC4hMn4I",
-              "7X1uOA16Aus",
-              "v3Szcm2FVrA",
-              "OU1ahrIvhF8",
-              "OoslvQbYhoU"
+              "BSgukvt6_1o"
             ],
             "children": []
           },
@@ -620,6 +623,11 @@
               "rbari"
             ],
             "items": [
+              "OU1ahrIvhF8",
+              "OoslvQbYhoU",
+              "v3Szcm2FVrA",
+              "E2aDC4hMn4I",
+              "7X1uOA16Aus",
               "_bQzIvKDsfY",
               "wYXnzsaK-EM",
               "qF1DHAcbs50",
@@ -659,12 +667,7 @@
               "GOkbY7J_Fh0",
               "zeVH5dD0TEk",
               "7nK-H-Ou86s",
-              "OUpQ6mK0Bhk",
-              "E2aDC4hMn4I",
-              "7X1uOA16Aus",
-              "v3Szcm2FVrA",
-              "OU1ahrIvhF8",
-              "OoslvQbYhoU"
+              "OUpQ6mK0Bhk"
             ],
             "children": []
           },
@@ -2911,6 +2914,7 @@
               "toravedaat"
             ],
             "items": [
+              "K56ef5_E7Mg",
               "FsXwPE7qkJ4",
               "GcASY6bJbjI",
               "CY0h_gklyJI",
@@ -3390,6 +3394,7 @@
               "toravedaat"
             ],
             "items": [
+              "1h-rWBglHtg",
               "XWEM33X_yK0",
               "ew7qn7NuVsY",
               "kY3i4HIh-5A",
