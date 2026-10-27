@@ -3709,11 +3709,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "88_f7kR4aCesVwJ3IOsE3TW_QiY",
+        "etag": "ydC9r9VQbxfx9lV63d62DNdBz_U",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "OX6JyEYUa8Y9Win1DUyMdvN6b6M",
+            "etag": "_pROzVMa8WCFxiN1_iGs2UFvJ88",
             "id": "UExYSTFnSGdPekJvcy41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
               "publishedAt": "2026-10-18T23:54:04Z",
@@ -4976,11 +4976,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "1VR-xSLDTY_-CxQy142zlwCKBnA",
+        "etag": "1xZO-voqLiCrAc43bGXFhDkgLP4",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "ETS84UJRqMZq01px1k8ROODZD68",
+            "etag": "BTHj-rKhR2uDmg1cfNnpC4R9UiU",
             "id": "UExMQmIxdWlVTVdzVS4wOTA3OTZBNzVEMTUzOTMy",
             "snippet": {
               "publishedAt": "2026-10-18T19:25:40Z",
@@ -18373,7 +18373,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "1Qn_pGYTLY2QuSkHMhbKZW1KH8s",
+        "etag": "ubRbCYrqv5dUjUPbLNEaCYK208A",
         "nextPageToken": "EAAaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "prevPageToken": "EAEaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
@@ -20839,7 +20839,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "8_wJO4SWJdDlV_OC9SMNYffu6AQ",
+            "etag": "fMOAkw5hC3e0yMiqKFUTUnieE2k",
             "id": "UExFcFhSVGNrdzZndy5CNEYyNTVBNDdGMDI1MDNC",
             "snippet": {
               "publishedAt": "2026-10-18T18:51:31Z",
@@ -21632,7 +21632,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "3sZ-HgSpdaPr5S5o1w-7uzMZs8c",
+        "etag": "nLXt5WigcmbLFQM56Z-XFOi4lz4",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -23826,7 +23826,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YN5tGEV59D9uMkKLV22rER6KNGE",
+            "etag": "6h4KyEpC65hxpS8NXmbeEDSsSWk",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4zQzFBN0RGNzNFREFCMjBE",
             "snippet": {
               "publishedAt": "2026-10-18T18:51:31Z",
