@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "Y4NHnwucVI6KUhYgMTWaKH3WJAs",
+    "etag": "RW0GVnU9hSrXTfbRZ_IgmrN6RnM",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 56,
@@ -10,7 +10,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "aKjacJkWXpwvZajGcR5sYmijCWc",
+        "etag": "Qxtdqq-IdxcnLDxzF1LtD_Y2_tM",
         "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
         "snippet": {
           "publishedAt": "2025-11-26T20:58:38.682502Z",
@@ -19,29 +19,19 @@
           "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/default.jpg",
+              "url": "https://i.ytimg.com/vi/DiK04vjhmEQ/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/DiK04vjhmEQ/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/DiK04vjhmEQ/hqdefault.jpg",
               "width": 480,
               "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/1h-rWBglHtg/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
             }
           },
           "channelTitle": "Тора ве-Даат",
@@ -54,7 +44,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 39
+          "itemCount": 40
         }
       },
       {

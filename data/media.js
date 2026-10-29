@@ -1,6 +1,22 @@
 {
   "items": [
     {
+      "id": "DiK04vjhmEQ",
+      "type": "video",
+      "source": "youtube",
+      "title": "Комментарии для Субботнего Стола - глава \"ВАЙЕРА\"",
+      "url": "https://www.youtube.com/watch?v=DiK04vjhmEQ",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/DiK04vjhmEQ/hqdefault.jpg",
+      "date": "2026-10-29T03:33:53Z",
+      "sort": 1000000
+    },
+    {
       "id": "OU1ahrIvhF8",
       "type": "video",
       "source": "youtube",
@@ -32530,7 +32546,7 @@
     },
     {
       "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-      "count": 39
+      "count": 40
     },
     {
       "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
@@ -32542,7 +32558,7 @@
     },
     {
       "id": "parsha",
-      "count": 86
+      "count": 87
     },
     {
       "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
@@ -32558,7 +32574,7 @@
     },
     {
       "id": "rzelman",
-      "count": 1160
+      "count": 1161
     },
     {
       "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
@@ -32588,7 +32604,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 1160
+      "count": 1161
     },
     {
       "tag": "show",
@@ -32596,11 +32612,11 @@
     },
     {
       "tag": "torah",
-      "count": 1514
+      "count": 1515
     },
     {
       "tag": "toravedaat",
-      "count": 1622
+      "count": 1623
     }
   ]
 }
