@@ -4,11 +4,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "E98gYyPaVUYpoA1k94XTjPdyGwY",
+        "etag": "Y1AH_akvVP6Hy-ED-PpTwmWCgb8",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "qeiagAf8P7BrmAVGMCaOIpoHJyU",
+            "etag": "FUTzDqeTBX-UosvoQqBgolo5EWc",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
               "publishedAt": "2026-10-29T03:30:56Z",
@@ -14638,7 +14638,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "ryzlmS8MG91Z6nalK7W6r2pT_bU",
+        "etag": "7dq8nkGQl1LvTecyanrMVKuHG8A",
         "nextPageToken": "EAAaHlBUOkNESWlFRVkzUVRCR1F6RkJNa1l4TVVJME56VQ",
         "items": [
           {
@@ -14898,61 +14898,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Y_uv9ZsiX8EFpUstoooIKYT1NI4",
-            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC40MzEwNkU4RUE0MjhBRjg4",
-            "snippet": {
-              "publishedAt": "2024-11-07T16:14:36Z",
-              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "БАЛЛАДА О СЕНЬОРЕ",
-              "description": "Музыка: Т. Хренников\nСлова: М. Гутерман\nПоёт: р. Исроэль Зельман\nИдея: р. Арон Цыпин",
-              "thumbnails": {
-                "default": {
-                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/default.jpg",
-                  "width": 120,
-                  "height": 90
-                },
-                "medium": {
-                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/mqdefault.jpg",
-                  "width": 320,
-                  "height": 180
-                },
-                "high": {
-                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/hqdefault.jpg",
-                  "width": 480,
-                  "height": 360
-                },
-                "standard": {
-                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/sddefault.jpg",
-                  "width": 640,
-                  "height": 480
-                },
-                "maxres": {
-                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/maxresdefault.jpg",
-                  "width": 1280,
-                  "height": 720
-                }
-              },
-              "channelTitle": "Тора ве-Даат",
-              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 5,
-              "resourceId": {
-                "kind": "youtube#video",
-                "videoId": "G1dgcHhpWhc"
-              },
-              "videoOwnerChannelTitle": "Тора ве-Даат",
-              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
-            },
-            "contentDetails": {
-              "videoId": "G1dgcHhpWhc",
-              "videoPublishedAt": "2024-11-07T16:15:16Z"
-            },
-            "status": {
-              "privacyStatus": "public"
-            }
-          },
-          {
-            "kind": "youtube#playlistItem",
-            "etag": "zIYenfCm4gRTV2Ar_7MjXjSr0Og",
+            "etag": "EQYD-ukYDmBG3ksTgIUTr6Op4lA",
             "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC5BRUVCN0E0MzEwQzAwNjMy",
             "snippet": {
               "publishedAt": "2023-10-05T04:54:27Z",
@@ -14988,7 +14934,7 @@
               },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
-              "position": 6,
+              "position": 5,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "gtp6D2Y1pjw"
@@ -14999,6 +14945,60 @@
             "contentDetails": {
               "videoId": "gtp6D2Y1pjw",
               "videoPublishedAt": "2019-01-03T20:47:41Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "F5Grn72eoqZLWNLqLrDZPSgrxFw",
+            "id": "UExXMjhxR3hQbW1ib0NSM1RRN1AySjJNaml4RzNHTEZVRC40MzEwNkU4RUE0MjhBRjg4",
+            "snippet": {
+              "publishedAt": "2024-11-07T16:14:36Z",
+              "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+              "title": "БАЛЛАДА О СЕНЬОРЕ",
+              "description": "Музыка: Т. Хренников\nСлова: М. Гутерман\nПоёт: р. Исроэль Зельман\nИдея: р. Арон Цыпин",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/G1dgcHhpWhc/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Тора ве-Даат",
+              "playlistId": "PLW28qGxPmmboCR3TQ7P2J2MjixG3GLFUD",
+              "position": 6,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "G1dgcHhpWhc"
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+            },
+            "contentDetails": {
+              "videoId": "G1dgcHhpWhc",
+              "videoPublishedAt": "2024-11-07T16:15:16Z"
             },
             "status": {
               "privacyStatus": "public"
