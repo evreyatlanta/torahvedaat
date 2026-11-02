@@ -37474,256 +37474,501 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "nsGeb9LfifJdUmrlnzL1BmMulfs",
+        "etag": "UGXQ_YMy0lFX4dDbRiroJgz29Ro",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "n2xJLteycsQYkOg5d1WmWA_KC6A",
+            "etag": "LrHp1hju-LnppC3Js_wccMe64kA",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2018-02-08T20:22:27Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуришпиль 5773/2013 - Мюзикл \"Пуримшпиль\" или Концерт Пуримского Романса",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/dP7bLMc84cg/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/dP7bLMc84cg/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/dP7bLMc84cg/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/dP7bLMc84cg/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 0,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "dP7bLMc84cg"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "dP7bLMc84cg"
+              "videoId": "dP7bLMc84cg",
+              "videoPublishedAt": "2013-05-20T14:25:06Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "LAsDLeYQPWjFLdwAAoQnlgCTl6s",
+            "etag": "VEVtXIDlO_O1IN9Qz_etQRP6fAA",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS5EQUE1NTFDRjcwMDg0NEMz",
             "snippet": {
               "publishedAt": "2018-02-08T20:27:19Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5774/2014 - Маленькие трагедии большого праздника Пурим, Часть 1, \"Скупой Царь\"",
+              "description": "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\".",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/wfLhseUPR2s/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/wfLhseUPR2s/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/wfLhseUPR2s/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/wfLhseUPR2s/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 1,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "wfLhseUPR2s"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "wfLhseUPR2s"
+              "videoId": "wfLhseUPR2s",
+              "videoPublishedAt": "2014-03-24T16:20:47Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "CN5Oz6ZOhl0bROyT-q3LyStSg2Q",
+            "etag": "yXGk1nJgzjn_P4EqGLKzk_waQw8",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS41QTY1Q0UxMTVCODczNThE",
             "snippet": {
               "publishedAt": "2018-02-08T20:27:38Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5774/2014 - Маленькие Трагедии большого праздника Пурим, Часть 2, \"Мордехай и Аман\"",
+              "description": "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\".",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/4faY9B3q0r4/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/4faY9B3q0r4/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/4faY9B3q0r4/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/4faY9B3q0r4/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 2,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "4faY9B3q0r4"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "4faY9B3q0r4"
+              "videoId": "4faY9B3q0r4",
+              "videoPublishedAt": "2014-03-24T16:21:58Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "RTYdK0wRPp-n60ySTIghSxcTJCA",
+            "etag": "NEgAsjy_CO6SPhuBJX384wdoTIk",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS5ENDU4Q0M4RDExNzM1Mjcy",
             "snippet": {
               "publishedAt": "2019-02-17T04:29:10Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5774/2014 - Маленькие Трагедии большого праздника Пурим, Часть 3, \"Каменная Гостья\"",
+              "description": "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\".",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/JfEIqSKRs7I/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/JfEIqSKRs7I/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/JfEIqSKRs7I/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/JfEIqSKRs7I/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 3,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "JfEIqSKRs7I"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "JfEIqSKRs7I"
+              "videoId": "JfEIqSKRs7I",
+              "videoPublishedAt": "2014-03-24T16:22:15Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "wlLKg96nZGOBCZW3nZHUbYJTWns",
+            "etag": "OxJBE5SVFto9-B1ZUjRBnG7dRzo",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS4yMDhBMkNBNjRDMjQxQTg1",
             "snippet": {
               "publishedAt": "2019-02-17T04:29:33Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5774/2014 -  Маленькие Трагедии большого праздника Пурим, Часть 4, \"Пир во время чумы\"",
+              "description": "Предлагаем вам Пуримский Спектакль в четырех частях.\n\nДорогие друзья, на подготовку и съемку спектакля были затрачены значительные материальные средства.\nЕсли вам понравилось представление, вы можете пожертвовать любую сумму по ссылке:  http://www.evreyatlanta.org/donate. При внесении пожертвования сделайте пометку \"пуримшпиль\".",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/JKUgf3la33o/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/JKUgf3la33o/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/JKUgf3la33o/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 4,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "JKUgf3la33o"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "JKUgf3la33o"
+              "videoId": "JKUgf3la33o",
+              "videoPublishedAt": "2014-03-24T19:14:16Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YuQn6HPCNZdvXUBXMsWXjm4d0tg",
+            "etag": "fjnbLZlfpn1mFI8CiLFFwDUpGxU",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS4zRjM0MkVCRTg0MkYyQTM0",
             "snippet": {
               "publishedAt": "2019-02-17T04:35:52Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5775/2015, \"Служебный Аман\" или с легким Пуримом",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/lZf57gxRR0A/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/lZf57gxRR0A/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/lZf57gxRR0A/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 5,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "lZf57gxRR0A"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "lZf57gxRR0A"
+              "videoId": "lZf57gxRR0A",
+              "videoPublishedAt": "2015-03-10T13:12:28Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "XhCSB_Rz02yNN4QwWRCX9JQYA7g",
+            "etag": "9-3jHU6uJSrgHI5sKkVpYfut62Q",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS5GM0Q3M0MzMzY5NTJFNTdE",
             "snippet": {
               "publishedAt": "2019-02-17T04:33:43Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "5776/2016 - Пуримшпили в общине \"Тора ве-даат\", история в картинках",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/wwt75jFH4Hw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/wwt75jFH4Hw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/wwt75jFH4Hw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/wwt75jFH4Hw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 6,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "wwt75jFH4Hw"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "wwt75jFH4Hw"
+              "videoId": "wwt75jFH4Hw",
+              "videoPublishedAt": "2016-03-22T05:20:49Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "f3ipjdKvpTS4dg2IV_DkmijtUbc",
+            "etag": "LxdA42aBu0u8clleu6mbaHKprhE",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS45NzUwQkI1M0UxNThBMkU0",
             "snippet": {
               "publishedAt": "2019-02-17T04:42:20Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пуримшпиль 5777/2017 - 613 Мгновений Весны или ошибка (п)резидента",
+              "description": "Шпионская Пуримская Комедия, премьера состоялась в Атланте, Джорджия, в Университете Эмори, 12 марта 2017 года, в Пурим.\n\nСценарий: Мордехай Гутерман, рав Исроэль Зельман\n\nВ ролях:\n\nАман, пророк Даниэль - рав Исроэль Зельман\nМордехай, царь Ахашверош, охранник тюрьмы - Мордехай Гутерман\n\nцарица Эстер - Шунамит Зельман\n\nоператор звука и освещения: Моше Зельман",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/q7DOoEeUVvU/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/q7DOoEeUVvU/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/q7DOoEeUVvU/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/q7DOoEeUVvU/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/q7DOoEeUVvU/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 7,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "q7DOoEeUVvU"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "q7DOoEeUVvU"
+              "videoId": "q7DOoEeUVvU",
+              "videoPublishedAt": "2017-03-20T21:38:51Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "k7SuK9MWLvl6Qsunhl8u1-e0MkQ",
+            "etag": "SwI0qHL_toq4Jn9FX-glmEt9oVs",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS45RTgxNDRBMzUwRjQ0MDhC",
             "snippet": {
               "publishedAt": "2018-02-28T04:24:48Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "5778/2018 Неполиткорректный Пуримшпиль \"Корона Персидской Империи\" или \"Здравствуйте я ваша Эстер\"",
+              "description": "",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/fhz32vNZv6E/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/fhz32vNZv6E/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/fhz32vNZv6E/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/fhz32vNZv6E/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/fhz32vNZv6E/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 8,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "fhz32vNZv6E"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "fhz32vNZv6E"
+              "videoId": "fhz32vNZv6E",
+              "videoPublishedAt": "2018-02-28T04:24:47Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "MYy9EzNQMk_lgf6AC01zAi8GyyY",
+            "etag": "wLj-1rZrE6op6YOMh5TWdrbhOpM",
             "id": "UExXMjhxR3hQbW1icFJBNFdic2hWMm9mSWk1WDUzbFdaTS5DNzE1RjZEMUZCMjA0RDBB",
             "snippet": {
               "publishedAt": "2023-03-09T15:39:21Z",
               "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-              "title": "Deleted video",
-              "description": "This video is unavailable.",
-              "thumbnails": {},
+              "title": "Пурим 5783, Корней Чуковский - перевод Свитка Эстер",
+              "description": "Как бы перевел \"Свиток Эстер\"\nКорней Иванович Чуковский.\n(Читает Мордехай Гутерман.)\n\nЭй, царица\nХватит злиться.\nСор выносишь из дворца\nВся столица\nВеселится\nРазвлекается.\n\nШлю я к Вашти,\nВашти, вмажьте,\nЧашку бражки\nИ ко мне.\nА в ответ \nот Вашти - нет!\n\nПодлетаю я к жене,\nсаблю вынимаю\nи жене, с чего бы нет,\nголову снимаю.\nВот подарок тебе Вашти-именинница!\n\nБуду снова я жениться!\nКто в царицы мне годится?\nИ корова и волчица, и жучок и червячок и медведица.\nБуду-буду проверять их я\nБуду-буду выбирать их я\nПотому что демократия.\n\nРано-рано два болвана,\nОхранявшие царя,\nСели в баре,\nперебрали\nИ друг другу говорят.\n\nСкоро будем мы царя убивать.\nБудет знать,\nкак людям спать\nне давать.\n\nНе шуметь ему все ночи подряд.\nПесни громкие не петь невпопад. \n\nБудем спать, когда захочется.\nКогда царь от яда кончится.\n\nДружно стукнули стаканами\nпо столу\nИ уснули в стельку пьяными\nна полу. \n\nВдруг из кухни ресторанной\nВ черной шляпе, с бородой\nВыбегает самый главный\nНаблюдатель за едой.\n\nГоворит: Ах вы злодеи,\nнеумытые.\nПродвигаете идеи\nядовитые.\n\nНо на вас я куда надо\nнастучу, настучу.\nИ достойную награду\nполучу, получу. \n\nХоть стучу не за награду я - \nПросто правда сердце радует.\n\nИ пошел Мордехай, настучал Мордехай\nИ царя от погибели спас Мордехай.\nс той поры если ночью царя разбудить,\nто одно только слово он будет твердить\nМордехай, Мордехай, Мордехай!",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/--s3511xuKY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/--s3511xuKY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/--s3511xuKY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/--s3511xuKY/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/--s3511xuKY/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
               "channelTitle": "Тора ве-Даат",
               "playlistId": "PLW28qGxPmmbpRA4WbshV2ofIi5X53lWZM",
               "position": 9,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "--s3511xuKY"
-              }
+              },
+              "videoOwnerChannelTitle": "Тора ве-Даат",
+              "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
             },
             "contentDetails": {
-              "videoId": "--s3511xuKY"
+              "videoId": "--s3511xuKY",
+              "videoPublishedAt": "2023-03-09T15:38:58Z"
             },
             "status": {
-              "privacyStatus": "privacyStatusUnspecified"
+              "privacyStatus": "public"
             }
           }
         ],
