@@ -4,11 +4,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "15WCst_O1SFub9AK5WGbm1Th0q8",
+        "etag": "Zvfg0Q480ZOyI_I3cnVgMp-9POc",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "7n3znUkbDjlfgQnmd8hhhlx3558",
+            "etag": "yo9guTzZhbALuy4BW_dE5xQHfck",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC5GNDg1Njc1QzZERjlFRjE5",
             "snippet": {
               "publishedAt": "2026-10-29T03:30:56Z",
