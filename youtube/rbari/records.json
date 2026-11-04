@@ -1,6 +1,60 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "V8u2SG-OqNDM-DYbvieY3DD0i-8",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmQ1UFNsV1h6ZWpZ",
+    "snippet": {
+      "publishedAt": "2026-11-04T01:28:38Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "У каждой души свой корень | Шаар аГилгулим 26.18 | Рав Элиягу Бари",
+      "description": "Почему связанные облачения ещё не означают общий корень душ? В уроке по «Шаар аГилгулим» 26.18 Рав Элиягу Бари объясняет различие между самой нешамой, её духовным облачением и индивидуальным источником.\n\nОблачение души — левуш — описывается как духовное тело из 248 членов, соответствующих 248 заповедям «делай». Через него нешама раскрывается в мире. В разделе рассматриваются облачения от изначальных хасадим ЗоН мира Ацилут и их соответствие высоким душам, связанным с самим моахом высшего Даат.\n\nГлавный вопрос урока: как общая высокая ступень сочетается с разными корнями? Крепкая связь между каплями, ставшими облачениями, относится к уровню левушим. При этом каждая душа сохраняет свой частный источник. На примере рабби Акивы разбирается, как корень души со стороны Каина может сочетаться с облачением от гвурот Аббы.\n\nТемы урока:\n• Душа и её облачение: что необходимо различать.\n• 248 членов духовного облачения и 248 заповедей «делай».\n• Изначальные хасадим, ЗоН Ацилута и высший Даат.\n• Связь облачений и индивидуальные корни нешамот.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 18. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #КореньДуши #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/d5PSlWXzejY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/d5PSlWXzejY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/d5PSlWXzejY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/d5PSlWXzejY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/d5PSlWXzejY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "d5PSlWXzejY"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "d5PSlWXzejY",
+      "videoPublishedAt": "2026-11-04T01:28:38Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "xDqNvGSGw1NCV6bIFhKEGPhmwAM",
     "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9vc2x2UWJZaG9V",
     "snippet": {

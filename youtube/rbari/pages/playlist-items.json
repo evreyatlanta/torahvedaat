@@ -15632,7 +15632,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "Lmy8KH1RknI0URQGzGiZoOhiiEE",
+        "etag": "aDT2U3Qzw2p2Hl-_0TkUPRyE31Q",
         "nextPageToken": "EAAaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
           {
@@ -18367,13 +18367,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 101,
+          "totalResults": 102,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "H9NwFkC9c_A0hZZrnIexeUgWlhI",
+        "etag": "TmTVPMgi5t7HlG-B_8DKdMZmA4A",
         "nextPageToken": "EAAaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "prevPageToken": "EAEaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
@@ -21055,13 +21055,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 101,
+          "totalResults": 102,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "vlSkXqmY6NEbkbxmMNBFg5Esw5s",
+        "etag": "OdnYyau9zhK8WoE-Z8Qk4j9Pdes",
         "prevPageToken": "EAEaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "items": [
           {
@@ -21117,10 +21117,64 @@
             "status": {
               "privacyStatus": "public"
             }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "U3JmPvz6QYxp2PHdTvFFptpLaLs",
+            "id": "UExFcFhSVGNrdzZndy40OTQ5QjlEMDgzN0FBNUIw",
+            "snippet": {
+              "publishedAt": "2026-11-04T01:27:04Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "У каждой души свой корень | Шаар аГилгулим 26.18 | Рав Элиягу Бари",
+              "description": "Почему связанные облачения ещё не означают общий корень душ? В уроке по «Шаар аГилгулим» 26.18 Рав Элиягу Бари объясняет различие между самой нешамой, её духовным облачением и индивидуальным источником.\n\nОблачение души — левуш — описывается как духовное тело из 248 членов, соответствующих 248 заповедям «делай». Через него нешама раскрывается в мире. В разделе рассматриваются облачения от изначальных хасадим ЗоН мира Ацилут и их соответствие высоким душам, связанным с самим моахом высшего Даат.\n\nГлавный вопрос урока: как общая высокая ступень сочетается с разными корнями? Крепкая связь между каплями, ставшими облачениями, относится к уровню левушим. При этом каждая душа сохраняет свой частный источник. На примере рабби Акивы разбирается, как корень души со стороны Каина может сочетаться с облачением от гвурот Аббы.\n\nТемы урока:\n• Душа и её облачение: что необходимо различать.\n• 248 членов духовного облачения и 248 заповедей «делай».\n• Изначальные хасадим, ЗоН Ацилута и высший Даат.\n• Связь облачений и индивидуальные корни нешамот.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 18. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #КореньДуши #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLEpXRTckw6gw",
+              "position": 101,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "d5PSlWXzejY"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "d5PSlWXzejY",
+              "videoPublishedAt": "2026-11-04T01:28:38Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
           }
         ],
         "pageInfo": {
-          "totalResults": 101,
+          "totalResults": 102,
           "resultsPerPage": 50
         }
       }
@@ -40015,7 +40069,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "EKweisIrlsdiejx9tZE9OVVbaJw",
+        "etag": "8dZ_AJGhu7uUsAA8ATtx7QeTRN4",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -42265,10 +42319,64 @@
             "status": {
               "privacyStatus": "public"
             }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "7h_akGyu1FfUiPc3kgr5adTFfy8",
+            "id": "UExES2UzaFRDM0lsdFl1LXpLSy1aZVVrejZhRU5HWTZ3SC44QzVGQUU2QjE2NDgxM0M4",
+            "snippet": {
+              "publishedAt": "2026-11-04T01:26:27Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "У каждой души свой корень | Шаар аГилгулим 26.18 | Рав Элиягу Бари",
+              "description": "Почему связанные облачения ещё не означают общий корень душ? В уроке по «Шаар аГилгулим» 26.18 Рав Элиягу Бари объясняет различие между самой нешамой, её духовным облачением и индивидуальным источником.\n\nОблачение души — левуш — описывается как духовное тело из 248 членов, соответствующих 248 заповедям «делай». Через него нешама раскрывается в мире. В разделе рассматриваются облачения от изначальных хасадим ЗоН мира Ацилут и их соответствие высоким душам, связанным с самим моахом высшего Даат.\n\nГлавный вопрос урока: как общая высокая ступень сочетается с разными корнями? Крепкая связь между каплями, ставшими облачениями, относится к уровню левушим. При этом каждая душа сохраняет свой частный источник. На примере рабби Акивы разбирается, как корень души со стороны Каина может сочетаться с облачением от гвурот Аббы.\n\nТемы урока:\n• Душа и её облачение: что необходимо различать.\n• 248 членов духовного облачения и 248 заповедей «делай».\n• Изначальные хасадим, ЗоН Ацилута и высший Даат.\n• Связь облачений и индивидуальные корни нешамот.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 18. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #КореньДуши #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/d5PSlWXzejY/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLDKe3hTC3IltYu-zKK-ZeUkz6aENGY6wH",
+              "position": 48,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "d5PSlWXzejY"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "d5PSlWXzejY",
+              "videoPublishedAt": "2026-11-04T01:28:38Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
           }
         ],
         "pageInfo": {
-          "totalResults": 48,
+          "totalResults": 49,
           "resultsPerPage": 50
         }
       }
