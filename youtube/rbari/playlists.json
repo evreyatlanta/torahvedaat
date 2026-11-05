@@ -17095,7 +17095,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "u84Ved39IqqMfHKNtcNIUXQinfg",
+      "etag": "FZSsXEwYYOAWKU_L-v82G0Yvs-I",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -17140,7 +17140,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 102
+        "itemCount": 103
       }
     },
     "items": [
@@ -22657,6 +22657,60 @@
         "status": {
           "privacyStatus": "public"
         }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "xcwVR6KIqWi-vSrn4A1E3CMA8yc",
+        "id": "UExFcFhSVGNrdzZndy5CQzUwREI3MzkxQjdBM0E0",
+        "snippet": {
+          "publishedAt": "2026-11-05T01:12:19Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Душа в час смерти и радость будущего мира | Зоар - Ваера | Рав Элиягу Бари",
+          "description": "Почему отрывок Зоара о смерти приводит нас к радости души праведника? Что остаётся с человеком из поступков всей его жизни?\n\nРав Элиягу Бари читает короткий отрывок главы Ваера по фразам. Три посетителя Авраама становятся отправной точкой духовного толкования о рассмотрении поступков, признании ошибок и переходе души. Разбираем видуй, образ доверенного на хранение и радость души праведника в будущем мире. В конце возвращаемся к сегодняшнему дню: какое доброе дело мы можем сделать сейчас, чтобы оно стало частью такой жизни?\n\nОдин полный урок на русском языке.\n\nИсточник: Зоар, Ваера. Глава 3, §31 полностью; предоставленная печатная страница 261. Стих Торы: Берешит 18:2.\n\nЧитаем исходный текст с переводом и объяснением. Духовные образы рассматриваются в контексте самого отрывка.\n\n#Зоар #Ваера #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 102,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZdLFCglTkPw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "ZdLFCglTkPw",
+          "videoPublishedAt": "2026-11-05T01:14:13Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
       }
     ]
   },
@@ -23203,7 +23257,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "4YSmm4_eaBPnermWr6x0DD6hyL4",
+      "etag": "hF0MIKQ_wpJmQ_rCBWZmZH0KKc0",
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
       "snippet": {
         "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -23248,7 +23302,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 45
+        "itemCount": 46
       }
     },
     "items": [
@@ -25707,6 +25761,60 @@
         "contentDetails": {
           "videoId": "OoslvQbYhoU",
           "videoPublishedAt": "2026-10-22T11:20:25Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "gO3csPKnwp0jGk5l4bK5Rtisxkw",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4yQjZFRkExQjFGODk3RUFD",
+        "snippet": {
+          "publishedAt": "2026-11-05T01:12:35Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Душа в час смерти и радость будущего мира | Зоар - Ваера | Рав Элиягу Бари",
+          "description": "Почему отрывок Зоара о смерти приводит нас к радости души праведника? Что остаётся с человеком из поступков всей его жизни?\n\nРав Элиягу Бари читает короткий отрывок главы Ваера по фразам. Три посетителя Авраама становятся отправной точкой духовного толкования о рассмотрении поступков, признании ошибок и переходе души. Разбираем видуй, образ доверенного на хранение и радость души праведника в будущем мире. В конце возвращаемся к сегодняшнему дню: какое доброе дело мы можем сделать сейчас, чтобы оно стало частью такой жизни?\n\nОдин полный урок на русском языке.\n\nИсточник: Зоар, Ваера. Глава 3, §31 полностью; предоставленная печатная страница 261. Стих Торы: Берешит 18:2.\n\nЧитаем исходный текст с переводом и объяснением. Духовные образы рассматриваются в контексте самого отрывка.\n\n#Зоар #Ваера #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ZdLFCglTkPw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 45,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "ZdLFCglTkPw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "ZdLFCglTkPw",
+          "videoPublishedAt": "2026-11-05T01:14:13Z"
         },
         "status": {
           "privacyStatus": "public"

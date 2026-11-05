@@ -1,6 +1,114 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "M2YnJn6Qrb8vBsrHO-0MzrBVHc8",
+    "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lmp5UUFlejRjREZv",
+    "snippet": {
+      "publishedAt": "2026-11-05T03:25:01Z",
+      "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+      "title": "Комментарии для Субботнего Стола - глава \"ХАЙЕЙ САРА\"",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/jyQAez4cDFo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/jyQAez4cDFo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/jyQAez4cDFo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/jyQAez4cDFo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/jyQAez4cDFo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Тора ве-Даат",
+      "playlistId": "UUj-2E7hjKMb80oThCWjJ3Dw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "jyQAez4cDFo"
+      },
+      "videoOwnerChannelTitle": "Тора ве-Даат",
+      "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+    },
+    "contentDetails": {
+      "videoId": "jyQAez4cDFo",
+      "videoPublishedAt": "2026-11-05T03:25:01Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "4jLMOhXTgtXqbDX7R5h8qamWqWw",
+    "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LlVIUGxRZmNyWGZv",
+    "snippet": {
+      "publishedAt": "2026-11-05T02:18:13Z",
+      "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+      "title": "Книга Двенадцати. Урок 92. Книга Пророка Зехарии: \"СЕМЬ СОМНЕНИЙ\" (продолжение)",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UHPlQfcrXfo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UHPlQfcrXfo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UHPlQfcrXfo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UHPlQfcrXfo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UHPlQfcrXfo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Тора ве-Даат",
+      "playlistId": "UUj-2E7hjKMb80oThCWjJ3Dw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UHPlQfcrXfo"
+      },
+      "videoOwnerChannelTitle": "Тора ве-Даат",
+      "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+    },
+    "contentDetails": {
+      "videoId": "UHPlQfcrXfo",
+      "videoPublishedAt": "2026-11-05T02:18:13Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "ZhVo0vrVDDs0S9zj5kU2fDwRT6A",
     "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LkRpSzA0dmpobUVR",
     "snippet": {

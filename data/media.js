@@ -1,6 +1,54 @@
 {
   "items": [
     {
+      "id": "ZdLFCglTkPw",
+      "type": "video",
+      "source": "youtube",
+      "title": "Душа в час смерти и радость будущего мира | Зоар - Ваера | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=ZdLFCglTkPw",
+      "description": [
+        "Почему отрывок Зоара о смерти приводит нас к радости души праведника? Что остаётся с человеком из поступков всей его жизни?\n\nРав Элиягу Бари читает короткий отрывок главы Ваера по фразам. Три посетителя Авраама становятся отправной точкой духовного толкования о рассмотрении поступков, признании ошибок и переходе души. Разбираем видуй, образ доверенного на хранение и радость души праведника в будущем мире. В конце возвращаемся к сегодняшнему дню: какое доброе дело мы можем сделать сейчас, чтобы оно стало частью такой жизни?\n\nОдин полный урок на русском языке.\n\nИсточник: Зоар, Ваера. Глава 3, §31 полностью; предоставленная печатная страница 261. Стих Торы: Берешит 18:2.\n\nЧитаем исходный текст с переводом и объяснением. Духовные образы рассматриваются в контексте самого отрывка.\n\n#Зоар #Ваера #РавЭлиягуБари"
+      ],
+      "tags": [
+        "torah",
+        "rbari"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/ZdLFCglTkPw/hqdefault.jpg",
+      "date": "2026-11-05T01:14:13Z",
+      "sort": 1000000
+    },
+    {
+      "id": "UHPlQfcrXfo",
+      "type": "video",
+      "source": "youtube",
+      "title": "Книга Двенадцати. Урок 92. Книга Пророка Зехарии: \"СЕМЬ СОМНЕНИЙ\" (продолжение)",
+      "url": "https://www.youtube.com/watch?v=UHPlQfcrXfo",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/UHPlQfcrXfo/hqdefault.jpg",
+      "date": "2026-11-05T02:18:13Z",
+      "sort": 1000000
+    },
+    {
+      "id": "jyQAez4cDFo",
+      "type": "video",
+      "source": "youtube",
+      "title": "Комментарии для Субботнего Стола - глава \"ХАЙЕЙ САРА\"",
+      "url": "https://www.youtube.com/watch?v=jyQAez4cDFo",
+      "description": [],
+      "tags": [
+        "other",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/jyQAez4cDFo/hqdefault.jpg",
+      "date": "2026-11-05T03:25:01Z",
+      "sort": 1000000
+    },
+    {
       "id": "d5PSlWXzejY",
       "type": "video",
       "source": "youtube",
@@ -32171,7 +32219,7 @@
     },
     {
       "id": "PLEpXRTckw6gw",
-      "count": 101
+      "count": 102
     },
     {
       "id": "PLDKe3hTC3Ilv0x0W8KLdXG-kC9M4KEe2v",
@@ -32179,7 +32227,7 @@
     },
     {
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
-      "count": 45
+      "count": 46
     },
     {
       "id": "PLDKe3hTC3IltPlysWnZuLOqA4OjpGokRV",
@@ -32407,7 +32455,7 @@
     },
     {
       "id": "rbari-ru",
-      "count": 268
+      "count": 269
     },
     {
       "id": "PLFOcmq4hiabM",
@@ -32495,7 +32543,7 @@
     },
     {
       "id": "rbari",
-      "count": 348
+      "count": 349
     },
     {
       "id": "PLW28qGxPmmboQc5JYgXPQrz0qFsLrYa59",
@@ -32531,11 +32579,11 @@
     },
     {
       "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-      "count": 91
+      "count": 92
     },
     {
       "id": "neviim",
-      "count": 640
+      "count": 641
     },
     {
       "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
@@ -32591,7 +32639,7 @@
     },
     {
       "id": "rzelman",
-      "count": 1161
+      "count": 1162
     },
     {
       "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
@@ -32609,11 +32657,11 @@
     },
     {
       "tag": "other",
-      "count": 259
+      "count": 260
     },
     {
       "tag": "rbari",
-      "count": 351
+      "count": 352
     },
     {
       "tag": "rkrelin",
@@ -32621,7 +32669,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 1161
+      "count": 1162
     },
     {
       "tag": "show",
@@ -32629,11 +32677,11 @@
     },
     {
       "tag": "torah",
-      "count": 1516
+      "count": 1518
     },
     {
       "tag": "toravedaat",
-      "count": 1623
+      "count": 1625
     }
   ]
 }
