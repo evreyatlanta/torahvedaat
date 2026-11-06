@@ -12,6 +12,22 @@
         "items": [],
         "children": [
           {
+            "id": "PLOJaE88TyUDM",
+            "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "P5HZXXQmyq4",
+              "x5l8XDZtGfk",
+              "qiLApEdyt6w",
+              "OAkeCOWVsaw",
+              "T49xJkZC4HE"
+            ],
+            "children": []
+          },
+          {
             "id": "PLWHkoWktkUpY",
             "title": "[RU] Ки Теце | разные комментаторы о недельной главе | Рав Элиягу Бари",
             "tags": [
@@ -625,6 +641,11 @@
               "rbari"
             ],
             "items": [
+              "P5HZXXQmyq4",
+              "x5l8XDZtGfk",
+              "qiLApEdyt6w",
+              "OAkeCOWVsaw",
+              "T49xJkZC4HE",
               "ZdLFCglTkPw",
               "OU1ahrIvhF8",
               "OoslvQbYhoU",

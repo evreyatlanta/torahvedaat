@@ -2,6 +2,330 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
+      "etag": "mzPww6TNvTmwbwqEFCroUuAOI_M",
+      "id": "PLOJaE88TyUDM",
+      "snippet": {
+        "publishedAt": "2026-11-06T02:21:37.333086471Z",
+        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+        "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
+        "description": "Пять построчных уроков по Зоару, Хаей Сара, Тосефта, §§9–12. Голос пробуждения, охрана врат, открытая книга, Дума и ответственность за прожитое. Арамейский текст, пояснения Сулама и наши учебные примеры разграничены.\n\nУроки серии:\n1. Голос пробуждения\n2. Сон, речь и врата\n3. Открытая книга и счёт жизни\n4. Поворот к жизни\n5. Книга жизни\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rabbi Eliyahu Bari",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
+          "description": "Пять построчных уроков по Зоару, Хаей Сара, Тосефта, §§9–12. Голос пробуждения, охрана врат, открытая книга, Дума и ответственность за прожитое. Арамейский текст, пояснения Сулама и наши учебные примеры разграничены.\n\nУроки серии:\n1. Голос пробуждения\n2. Сон, речь и врата\n3. Открытая книга и счёт жизни\n4. Поворот к жизни\n5. Книга жизни\n\nРав Элиягу Бари. Изучение Зоара на русском языке."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "513jkHTu_muCqPD9sBibWRDcjHE",
+        "id": "UExPSmFFODhUeVVETS41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:21:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Голос пробуждения | Хаей Сара 1/5 | Рав Элиягу Бари",
+          "description": "Как можно услышать призыв к перемене и всё же остаться прежним? Почему Зоар говорит о голосе, который сокрушает скалы, и об открытых ушах? Мы начинаем Тосефту из главы Хаей Сара, параграфы с девятого по двенадцатый. Прочитаем её начало вместе и попробуем понять, какое препятствие может стоять между услышанным словом и нашей жизнью.\n\nВ этом уроке:\n• голос пробуждения\n• сокрушает горы\n• открытые уши\n• клипот\n• внутренняя сторона ступени\n• жизнь Сары\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §9 полностью. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLOJaE88TyUDM",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "P5HZXXQmyq4"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "P5HZXXQmyq4",
+          "videoPublishedAt": "2026-11-06T02:23:38Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "SSBb9WVLUfgBuyUe1OAkQYWPQ34",
+        "id": "UExPSmFFODhUeVVETS4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:24:59Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Сон, речь и врата | Хаей Сара 2/5 | Рав Элиягу Бари",
+          "description": "Почему пробуждение в Зоаре связано с отсечением части и охраной врат? Что означает царь, который говорит, и почему после движения голоса появляется образ порядка? Продолжаем Тосефту главы Хаей Сара, параграф десятый. Разберём её слова по фразам и посмотрим, как раскрытие света связано с границей и способностью его принять.\n\nВ этом уроке:\n• сон и пробуждение\n• говорящий царь\n• охрана врат\n• Нуква и Малхут\n• ограничение левой линии\n• правая и левая линии\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §10 полностью. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLOJaE88TyUDM",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "T49xJkZC4HE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "T49xJkZC4HE",
+          "videoPublishedAt": "2026-11-06T02:25:45Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "F6Yte1JUt7UKzaD7MlC42sKqBg0",
+        "id": "UExPSmFFODhUeVVETS4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:27:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Открытая книга и счёт жизни | Хаей Сара 3/5 | Рав Элиягу Бари",
+          "description": "Зоар говорит, что книга открыта, но люди этого не чувствуют и не знают. Что меняет образ именной записи? Кто такой Дума и как его имя связано с учётом жизни? Мы продолжаем Тосефту главы Хаей Сара, начало одиннадцатого параграфа. Разберём эти образы и попробуем понять, почему отсутствие нашего внимания не отменяет значения прожитого.\n\nВ этом уроке:\n• Дума и счёт жизни\n• открытая книга\n• запись по имени\n• обитатели праха\n• ответственность за поступки\n• ангел Дума\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §11 от начала до возвращения обитателей праха наружу. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLOJaE88TyUDM",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qiLApEdyt6w"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qiLApEdyt6w",
+          "videoPublishedAt": "2026-11-06T02:28:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Rydu1M0uVQGa1MbDRcCVmc4ixIA",
+        "id": "UExPSmFFODhUeVVETS41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:30:18Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Поворот к жизни | Хаей Сара 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли желать добра и отвергать тот порядок, в котором оно приходит? Зоар говорит о приближающемся добре, а затем об отказе от гилгула и ипуха, прохождения и изменения порядка. Что эти слова означают в рассуждении о воскресении мёртвых? Продолжаем Тосефту главы Хаей Сара и внимательно проследим связь между принятием света и сопротивлением ему.\n\nВ этом уроке:\n• средняя линия\n• Йесод\n• добро приближается\n• поворот к жизни\n• гилгула и ипух\n• порядок духовных ступеней\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §11 окончание и §12 до слов о книге Думы. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLOJaE88TyUDM",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OAkeCOWVsaw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "OAkeCOWVsaw",
+          "videoPublishedAt": "2026-11-06T02:31:02Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "nD6MCFsTuajEwSsAxTBOI553kWc",
+        "id": "UExPSmFFODhUeVVETS4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:32:39Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Книга жизни | Хаей Сара 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар завершает отрывок вопросом о том, кто востребует человека? Как противопоставлены молчание Думы и речь Сихона? И что означает заключительный стих о Книге жизни? Мы заканчиваем Тосефту главы Хаей Сара. Соберём вместе её образы и посмотрим, к какой ответственности они обращают нас сегодня.\n\nВ этом уроке:\n• Книга жизни\n• Дума и Сихон\n• Метатрон\n• Теилим 69:29\n• воскресение мёртвых\n• безмолвие и речь\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §12 от вопроса кто востребует их до конца Тосефты. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLOJaE88TyUDM",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "x5l8XDZtGfk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "x5l8XDZtGfk",
+          "videoPublishedAt": "2026-11-06T02:33:10Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ]
+  },
+  {
+    "playlist": {
+      "kind": "youtube#playlist",
       "etag": "Jnd-V2fIkSXKucHRDdRE-OGqV_o",
       "id": "PLFOcmq4hiabM",
       "snippet": {
@@ -23257,7 +23581,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "hF0MIKQ_wpJmQ_rCBWZmZH0KKc0",
+      "etag": "P-ijnbZL0YcU4NiwKSNxniN-6Hs",
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
       "snippet": {
         "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -23302,7 +23626,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 46
+        "itemCount": 51
       }
     },
     "items": [
@@ -25815,6 +26139,276 @@
         "contentDetails": {
           "videoId": "ZdLFCglTkPw",
           "videoPublishedAt": "2026-11-05T01:14:13Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "vjVHg47jt2-CBYsiONArpjwQ-kY",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4yQUJFNUVCMzVDNjcxRTlF",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:20:49Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Голос пробуждения | Хаей Сара 1/5 | Рав Элиягу Бари",
+          "description": "Как можно услышать призыв к перемене и всё же остаться прежним? Почему Зоар говорит о голосе, который сокрушает скалы, и об открытых ушах? Мы начинаем Тосефту из главы Хаей Сара, параграфы с девятого по двенадцатый. Прочитаем её начало вместе и попробуем понять, какое препятствие может стоять между услышанным словом и нашей жизнью.\n\nВ этом уроке:\n• голос пробуждения\n• сокрушает горы\n• открытые уши\n• клипот\n• внутренняя сторона ступени\n• жизнь Сары\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §9 полностью. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 46,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "P5HZXXQmyq4"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "P5HZXXQmyq4",
+          "videoPublishedAt": "2026-11-06T02:23:38Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "R_uVjLguknbtnt7VyWDjzvA1j74",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC40QzRDOEU0QUYwNUIxN0M1",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:24:59Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Сон, речь и врата | Хаей Сара 2/5 | Рав Элиягу Бари",
+          "description": "Почему пробуждение в Зоаре связано с отсечением части и охраной врат? Что означает царь, который говорит, и почему после движения голоса появляется образ порядка? Продолжаем Тосефту главы Хаей Сара, параграф десятый. Разберём её слова по фразам и посмотрим, как раскрытие света связано с границей и способностью его принять.\n\nВ этом уроке:\n• сон и пробуждение\n• говорящий царь\n• охрана врат\n• Нуква и Малхут\n• ограничение левой линии\n• правая и левая линии\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §10 полностью. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/T49xJkZC4HE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 47,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "T49xJkZC4HE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "T49xJkZC4HE",
+          "videoPublishedAt": "2026-11-06T02:25:45Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "mreUjAvG35cKEA4cz_V2GBEmgsQ",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC41RTNBREYwMkI5QzU3RkY2",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:27:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Открытая книга и счёт жизни | Хаей Сара 3/5 | Рав Элиягу Бари",
+          "description": "Зоар говорит, что книга открыта, но люди этого не чувствуют и не знают. Что меняет образ именной записи? Кто такой Дума и как его имя связано с учётом жизни? Мы продолжаем Тосефту главы Хаей Сара, начало одиннадцатого параграфа. Разберём эти образы и попробуем понять, почему отсутствие нашего внимания не отменяет значения прожитого.\n\nВ этом уроке:\n• Дума и счёт жизни\n• открытая книга\n• запись по имени\n• обитатели праха\n• ответственность за поступки\n• ангел Дума\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §11 от начала до возвращения обитателей праха наружу. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/qiLApEdyt6w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 48,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "qiLApEdyt6w"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "qiLApEdyt6w",
+          "videoPublishedAt": "2026-11-06T02:28:59Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "UAvWAA_wrSzHrPj9tCilG5TJ3MU",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5ENjI1QUI0MDI5NEQzODFE",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:30:18Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Поворот к жизни | Хаей Сара 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли желать добра и отвергать тот порядок, в котором оно приходит? Зоар говорит о приближающемся добре, а затем об отказе от гилгула и ипуха, прохождения и изменения порядка. Что эти слова означают в рассуждении о воскресении мёртвых? Продолжаем Тосефту главы Хаей Сара и внимательно проследим связь между принятием света и сопротивлением ему.\n\nВ этом уроке:\n• средняя линия\n• Йесод\n• добро приближается\n• поворот к жизни\n• гилгула и ипух\n• порядок духовных ступеней\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §11 окончание и §12 до слов о книге Думы. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OAkeCOWVsaw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 49,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "OAkeCOWVsaw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "OAkeCOWVsaw",
+          "videoPublishedAt": "2026-11-06T02:31:02Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "KDTKv60vJMez1EyY6LRaOr57DVE",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC44QzVGQUU2QjE2NDgxM0M4",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:32:39Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Книга жизни | Хаей Сара 5/5 | Рав Элиягу Бари",
+          "description": "Почему Зоар завершает отрывок вопросом о том, кто востребует человека? Как противопоставлены молчание Думы и речь Сихона? И что означает заключительный стих о Книге жизни? Мы заканчиваем Тосефту главы Хаей Сара. Соберём вместе её образы и посмотрим, к какой ответственности они обращают нас сегодня.\n\nВ этом уроке:\n• Книга жизни\n• Дума и Сихон\n• Метатрон\n• Теилим 69:29\n• воскресение мёртвых\n• безмолвие и речь\n\nИсточник: Зоар, Хаей Сара, глава 2, Тосефта, §12 от вопроса кто востребует их до конца Тосефты. Читаем арамейский оригинал по фразам, отделяя его от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Хаей Сара — пробуждение и счёт жизни». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/x5l8XDZtGfk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 50,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "x5l8XDZtGfk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "x5l8XDZtGfk",
+          "videoPublishedAt": "2026-11-06T02:33:10Z"
         },
         "status": {
           "privacyStatus": "public"

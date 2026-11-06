@@ -1,13 +1,63 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "bf1OW_3VlS0fYpnm1jWOnfEa9hM",
+    "etag": "Pco-4PnzSFIjzICYpfsScV30lfk",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 109,
+      "totalResults": 110,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "mzPww6TNvTmwbwqEFCroUuAOI_M",
+        "id": "PLOJaE88TyUDM",
+        "snippet": {
+          "publishedAt": "2026-11-06T02:21:37.333086471Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
+          "description": "Пять построчных уроков по Зоару, Хаей Сара, Тосефта, §§9–12. Голос пробуждения, охрана врат, открытая книга, Дума и ответственность за прожитое. Арамейский текст, пояснения Сулама и наши учебные примеры разграничены.\n\nУроки серии:\n1. Голос пробуждения\n2. Сон, речь и врата\n3. Открытая книга и счёт жизни\n4. Поворот к жизни\n5. Книга жизни\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/P5HZXXQmyq4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
+            "description": "Пять построчных уроков по Зоару, Хаей Сара, Тосефта, §§9–12. Голос пробуждения, охрана врат, открытая книга, Дума и ответственность за прожитое. Арамейский текст, пояснения Сулама и наши учебные примеры разграничены.\n\nУроки серии:\n1. Голос пробуждения\n2. Сон, речь и врата\n3. Открытая книга и счёт жизни\n4. Поворот к жизни\n5. Книга жизни\n\nРав Элиягу Бари. Изучение Зоара на русском языке."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "Jnd-V2fIkSXKucHRDdRE-OGqV_o",
@@ -2005,7 +2055,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "hF0MIKQ_wpJmQ_rCBWZmZH0KKc0",
+        "etag": "P-ijnbZL0YcU4NiwKSNxniN-6Hs",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -2050,7 +2100,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 46
+          "itemCount": 51
         }
       },
       {
@@ -2457,7 +2507,19 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "pD2fMnwNR1XhvxGfSb-XYAD23Ow",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 110,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "palk4pEW-BMB6BdZxP4xvQIJiTc",
@@ -2507,19 +2569,7 @@
         "contentDetails": {
           "itemCount": 6
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "_LV8c_Oa4cRf-4U0CieyEO5XcbQ",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 109,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "_FPNqmFcAD7lZUZEWyTSma1d15c",
@@ -4964,7 +5014,18 @@
         "contentDetails": {
           "itemCount": 4
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "F7uFCI3lpNSDouQoYPeVHp7abwI",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 110,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "XyzMQj4gTOl_s702QS0G8f7RKwQ",
@@ -5014,18 +5075,7 @@
         "contentDetails": {
           "itemCount": 2
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "bDhyRra4xMXtVm306YqXKQYgMEU",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 109,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "HV0lEf6yK8-U5rghe0E9mIyLpsU",
