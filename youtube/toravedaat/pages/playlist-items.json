@@ -3229,12 +3229,12 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "eLmNf0rUO8G3zIO4fuXLx_18b08",
+        "etag": "5YscgqJ59rANHJ6Cq50epiP8kfk",
         "nextPageToken": "EAAaHlBUOkNESWlFRGsyUlVRMU9URkVOMEpCUVVFd05qZw",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "DqecH4KSi8070Of0FMcMVrgPjzw",
+            "etag": "DmMpe7PZb-wxKe908arju5SThcs",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
               "publishedAt": "2026-11-05T02:15:33Z",
