@@ -4,7 +4,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "Zvfg0Q480ZOyI_I3cnVgMp-9POc",
+        "etag": "tKlFjx0Hxx6tozsD8e5lEcXc0H8",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -224,7 +224,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Lc7FngY59ZcMOWtf0hqZGrDWyNg",
+            "etag": "vWSt9HuuslwzaCK4MXZGV1mXOkE",
             "id": "UExXMjhxR3hQbW1iclpFbGNhMVN6TERnLUF3cVBDTnhWaC45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
               "publishedAt": "2026-09-23T03:02:55Z",
