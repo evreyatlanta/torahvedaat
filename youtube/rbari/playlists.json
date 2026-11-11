@@ -17419,7 +17419,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "FZSsXEwYYOAWKU_L-v82G0Yvs-I",
+      "etag": "JXy0Ej7fkQ-NITCD7Bq8iw8Vjbc",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -17464,7 +17464,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 103
+        "itemCount": 104
       }
     },
     "items": [
@@ -23031,6 +23031,60 @@
         "contentDetails": {
           "videoId": "ZdLFCglTkPw",
           "videoPublishedAt": "2026-11-05T01:14:13Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "7t7ZH3uevkInzWOcEnMbJItw5FM",
+        "id": "UExFcFhSVGNrdzZndy4yOTZGRTNEQ0ZGNUM5RDgw",
+        "snippet": {
+          "publishedAt": "2026-11-11T01:39:20Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Свет и облачения души | Шаар аГилгулим 26.19–21 | Рав Элиягу Бари",
+          "description": "Чем отличается внутренний свет от внешнего облачения души? В уроке по «Шаар аГилгулим» 26.19–26.21 Рав Элиягу Бари разбирает внутренние и внешние капли, их соответствие и смысл понятия «остаток» — шеэрит.\n\nАризаль различает капли, исходящие от внутренних мохин, и капли от сосудов, которые их облачают. Обе категории связаны с высшим Даат и присутствуют в описанных духовных структурах. Внутренним каплям соответствует внешний ряд, но источник не раскрывает, какие праведники получили эти внешние облачения.\n\nДалее рассматриваются «остаток Исраэля» и «остаток Яакова» — две категории, связанные с разными состояниями и сохранённые для последующих поколений.\n\nВ уроке:\n• Внутреннее и внешнее: свет мохин и сосуды.\n• Соответствие внутренних и внешних капель.\n• Почему нельзя предполагать имена получателей внешних облачений.\n• Шеэрит: остаток Исраэля и остаток Яакова.\n\nИсточник: «Шаар аГилгулим», Начало 26, разделы 19–21. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Душа #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 103,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-ZTvsLuNjzk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-ZTvsLuNjzk",
+          "videoPublishedAt": "2026-11-11T01:40:35Z"
         },
         "status": {
           "privacyStatus": "public"
@@ -44862,7 +44916,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "lvFJZRRvEpsxfpBe2i6_gSo5Atk",
+      "etag": "PnyDPTGTnEuBLdPwSx9z6-wRGJ4",
       "id": "PLDKe3hTC3IltYu-zKK-ZeUkz6aENGY6wH",
       "snippet": {
         "publishedAt": "2024-12-11T02:03:53.336621Z",
@@ -44897,7 +44951,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 49
+        "itemCount": 50
       }
     },
     "items": [
@@ -47199,6 +47253,60 @@
         "contentDetails": {
           "videoId": "d5PSlWXzejY",
           "videoPublishedAt": "2026-11-04T01:28:38Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "MiHhgoV-JrRfHP8IeafuxYaD0zM",
+        "id": "UExES2UzaFRDM0lsdFl1LXpLSy1aZVVrejZhRU5HWTZ3SC4xMzgwMzBERjQ4NjEzNUE5",
+        "snippet": {
+          "publishedAt": "2026-11-11T01:39:20Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Свет и облачения души | Шаар аГилгулим 26.19–21 | Рав Элиягу Бари",
+          "description": "Чем отличается внутренний свет от внешнего облачения души? В уроке по «Шаар аГилгулим» 26.19–26.21 Рав Элиягу Бари разбирает внутренние и внешние капли, их соответствие и смысл понятия «остаток» — шеэрит.\n\nАризаль различает капли, исходящие от внутренних мохин, и капли от сосудов, которые их облачают. Обе категории связаны с высшим Даат и присутствуют в описанных духовных структурах. Внутренним каплям соответствует внешний ряд, но источник не раскрывает, какие праведники получили эти внешние облачения.\n\nДалее рассматриваются «остаток Исраэля» и «остаток Яакова» — две категории, связанные с разными состояниями и сохранённые для последующих поколений.\n\nВ уроке:\n• Внутреннее и внешнее: свет мохин и сосуды.\n• Соответствие внутренних и внешних капель.\n• Почему нельзя предполагать имена получателей внешних облачений.\n• Шеэрит: остаток Исраэля и остаток Яакова.\n\nИсточник: «Шаар аГилгулим», Начало 26, разделы 19–21. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Душа #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-ZTvsLuNjzk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IltYu-zKK-ZeUkz6aENGY6wH",
+          "position": 49,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-ZTvsLuNjzk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-ZTvsLuNjzk",
+          "videoPublishedAt": "2026-11-11T01:40:35Z"
         },
         "status": {
           "privacyStatus": "public"
