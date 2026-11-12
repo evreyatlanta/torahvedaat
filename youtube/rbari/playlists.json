@@ -2,6 +2,330 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
+      "etag": "Cjofupusg1q1b5gMEYzstIXI2vk",
+      "id": "PLZaF3K6WLvVs",
+      "snippet": {
+        "publishedAt": "2026-11-12T00:47:04.491062211Z",
+        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+        "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
+        "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rabbi Eliyahu Bari",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
+          "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 5
+      }
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "0SgZrqjzeBOeyXluqcKGVXpuJ4s",
+        "id": "UExaYUYzSzZXTHZWcy4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:49:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
+          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_4clN1COrs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f_4clN1COrs",
+          "videoPublishedAt": "2026-11-12T00:50:40Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "EVZ5yRGGb2tXx-dxqSYm9dOg0RA",
+        "id": "UExaYUYzSzZXTHZWcy4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:53:36Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
+          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-MyUQ0S0_gs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-MyUQ0S0_gs",
+          "videoPublishedAt": "2026-11-12T00:54:20Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "5qAZVYcmb8FLqLAznkbGd5eNpcU",
+        "id": "UExaYUYzSzZXTHZWcy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:47:10Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Почему Ицхак назвал Ривку сестрой | Толдот 1/5 | Рав Элиягу Бари",
+          "description": "Почему Ицхак называет Ривку сестрой? Тора говорит о его страхе перед жителями места, а Зоар открывает в этих словах ещё одно обращение. Как связаны жена, мудрость и Шехина? Начинаем двенадцатую главу Зоара к Толдот, параграфы с девяносто шестого по сотый. Прочитаем начало вместе и разберёмся, что именно даёт Ицхаку опору.\n\nВ этом уроке:\n• Ицхак и Ривка\n• сестра моя она\n• Шехина и мудрость\n• Мишлей 7:4\n• духовная близость\n• опора в минуту страха\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §96 от начала до повторения слов «сестра моя она». Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "O46qPpA2eoE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "O46qPpA2eoE",
+          "videoPublishedAt": "2026-11-12T00:55:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Tb0Ge5ZvoupSgDexHfmGF4r867Q",
+        "id": "UExaYUYzSzZXTHZWcy41MjE1MkI0OTQ2QzJGNzNG",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:56:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Когда нет доверия | Толдот 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли чувствовать себя в безопасности там, где нет страха перед Всевышним? Почему Зоар связывает это отсутствие с верой и снова возвращается к словам «сестра моя она»? В окончании девяносто восьмого и в девяносто девятом параграфе Толдот рядом стоят опасность, прежнее предупреждение Авимелеху и духовная опора праотца. Разберём эту связь вместе.\n\nВ этом уроке:\n• вера и доверие\n• страх перед Всевышним\n• Авраам и Авимелех\n• мехемнута\n• Берешит 20:11\n• нравственная ответственность\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §98 и §99 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SJ3pnTepiz0"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "SJ3pnTepiz0",
+          "videoPublishedAt": "2026-11-12T00:57:26Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "yoq1XnpuN-Lyrr-2nj1cacu6k6g",
+        "id": "UExaYUYzSzZXTHZWcy4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:59:06Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Святая земля и еврейский дом | Толдот 5/5 | Рав Элиягу Бари",
+          "description": "Как место связано с раскрытием Шехины? И почему после слов о Святой земле Зоар заканчивает разговор присутствием Шехины в Ривке? Завершаем двенадцатую главу Зоара к Толдот, параграф сотый. Внимательно прочитаем объяснение рабби Элазара и соберём вместе то, что отрывок говорит о близости, вере и духовной силе дома.\n\nВ этом уроке:\n• Святая земля\n• еврейский дом\n• Шехина и Ривка\n• Земля Израиля\n• рабби Элазар\n• вера и духовная сила\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §100 полностью и итог всей главы. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jR1YsdLpyEw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "jR1YsdLpyEw",
+          "videoPublishedAt": "2026-11-12T01:01:18Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ]
+  },
+  {
+    "playlist": {
+      "kind": "youtube#playlist",
       "etag": "mzPww6TNvTmwbwqEFCroUuAOI_M",
       "id": "PLOJaE88TyUDM",
       "snippet": {
@@ -107,7 +431,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "SSBb9WVLUfgBuyUe1OAkQYWPQ34",
+        "etag": "zKRePygB9e43FyxkkZsS_dtMDoE",
         "id": "UExPSmFFODhUeVVETS4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-11-06T02:24:59Z",
@@ -4228,7 +4552,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "KE7TTgV1eKVrrZ7F33Oxd9P7KdA",
+      "etag": "moRF4S6ZcFAuRCRw3x95U3fFYNg",
       "id": "PLdUsTa4pFIfk",
       "snippet": {
         "publishedAt": "2026-10-19T00:02:01.147586Z",
@@ -4272,7 +4596,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 4
+        "itemCount": 9
       }
     },
     "items": [
@@ -4482,6 +4806,276 @@
         "contentDetails": {
           "videoId": "C9qPutqPxeM",
           "videoPublishedAt": "2025-11-26T02:51:21Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "yX5D4UTi2qmHD_Ly5Nk8bN8Yx3w",
+        "id": "UExkVXNUYTRwRklmay4wOTA3OTZBNzVEMTUzOTMy",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:47:20Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Почему Ицхак назвал Ривку сестрой | Толдот 1/5 | Рав Элиягу Бари",
+          "description": "Почему Ицхак называет Ривку сестрой? Тора говорит о его страхе перед жителями места, а Зоар открывает в этих словах ещё одно обращение. Как связаны жена, мудрость и Шехина? Начинаем двенадцатую главу Зоара к Толдот, параграфы с девяносто шестого по сотый. Прочитаем начало вместе и разберёмся, что именно даёт Ицхаку опору.\n\nВ этом уроке:\n• Ицхак и Ривка\n• сестра моя она\n• Шехина и мудрость\n• Мишлей 7:4\n• духовная близость\n• опора в минуту страха\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §96 от начала до повторения слов «сестра моя она». Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLdUsTa4pFIfk",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "O46qPpA2eoE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "O46qPpA2eoE",
+          "videoPublishedAt": "2026-11-12T00:55:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "GmIeNC14DT0kCK3_p1TtadM-8t4",
+        "id": "UExkVXNUYTRwRklmay4xMkVGQjNCMUM1N0RFNEUx",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:49:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
+          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLdUsTa4pFIfk",
+          "position": 5,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_4clN1COrs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f_4clN1COrs",
+          "videoPublishedAt": "2026-11-12T00:50:40Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "XepQIQ5OPM01BFX3zlYBl7X8sKY",
+        "id": "UExkVXNUYTRwRklmay41MzJCQjBCNDIyRkJDN0VD",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:53:36Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
+          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLdUsTa4pFIfk",
+          "position": 6,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-MyUQ0S0_gs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-MyUQ0S0_gs",
+          "videoPublishedAt": "2026-11-12T00:54:20Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "aVrs9IhNFgDARGkoO3KfvE6X3wA",
+        "id": "UExkVXNUYTRwRklmay5DQUNERDQ2NkIzRUQxNTY1",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:56:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Когда нет доверия | Толдот 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли чувствовать себя в безопасности там, где нет страха перед Всевышним? Почему Зоар связывает это отсутствие с верой и снова возвращается к словам «сестра моя она»? В окончании девяносто восьмого и в девяносто девятом параграфе Толдот рядом стоят опасность, прежнее предупреждение Авимелеху и духовная опора праотца. Разберём эту связь вместе.\n\nВ этом уроке:\n• вера и доверие\n• страх перед Всевышним\n• Авраам и Авимелех\n• мехемнута\n• Берешит 20:11\n• нравственная ответственность\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §98 и §99 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLdUsTa4pFIfk",
+          "position": 7,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SJ3pnTepiz0"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "SJ3pnTepiz0",
+          "videoPublishedAt": "2026-11-12T00:57:26Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "GKucKR0eHJmBjW9MbHDAGwleR78",
+        "id": "UExkVXNUYTRwRklmay45NDk1REZENzhEMzU5MDQz",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:59:06Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Святая земля и еврейский дом | Толдот 5/5 | Рав Элиягу Бари",
+          "description": "Как место связано с раскрытием Шехины? И почему после слов о Святой земле Зоар заканчивает разговор присутствием Шехины в Ривке? Завершаем двенадцатую главу Зоара к Толдот, параграф сотый. Внимательно прочитаем объяснение рабби Элазара и соберём вместе то, что отрывок говорит о близости, вере и духовной силе дома.\n\nВ этом уроке:\n• Святая земля\n• еврейский дом\n• Шехина и Ривка\n• Земля Израиля\n• рабби Элазар\n• вера и духовная сила\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §100 полностью и итог всей главы. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLdUsTa4pFIfk",
+          "position": 8,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jR1YsdLpyEw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "jR1YsdLpyEw",
+          "videoPublishedAt": "2026-11-12T01:01:18Z"
         },
         "status": {
           "privacyStatus": "public"
@@ -17419,7 +18013,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "JXy0Ej7fkQ-NITCD7Bq8iw8Vjbc",
+      "etag": "OcjY9npGpTkUuk5hdIfTz1MvqqA",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -17464,7 +18058,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 104
+        "itemCount": 109
       }
     },
     "items": [
@@ -23089,6 +23683,276 @@
         "status": {
           "privacyStatus": "public"
         }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "d_-tz2YWxpzJ8X9uaCQ4ax-tOJ4",
+        "id": "UExFcFhSVGNrdzZndy4zNDIxRUJGQThFRTg1QzAy",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:46:39Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Почему Ицхак назвал Ривку сестрой | Толдот 1/5 | Рав Элиягу Бари",
+          "description": "Почему Ицхак называет Ривку сестрой? Тора говорит о его страхе перед жителями места, а Зоар открывает в этих словах ещё одно обращение. Как связаны жена, мудрость и Шехина? Начинаем двенадцатую главу Зоара к Толдот, параграфы с девяносто шестого по сотый. Прочитаем начало вместе и разберёмся, что именно даёт Ицхаку опору.\n\nВ этом уроке:\n• Ицхак и Ривка\n• сестра моя она\n• Шехина и мудрость\n• Мишлей 7:4\n• духовная близость\n• опора в минуту страха\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §96 от начала до повторения слов «сестра моя она». Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 104,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "O46qPpA2eoE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "O46qPpA2eoE",
+          "videoPublishedAt": "2026-11-12T00:55:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "UoW0qvtmdf_PBgUYcF3xgoQylOg",
+        "id": "UExFcFhSVGNrdzZndy4wN0FBRUVFNEVBMTZBQ0Mx",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:49:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
+          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 105,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_4clN1COrs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f_4clN1COrs",
+          "videoPublishedAt": "2026-11-12T00:50:40Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "JrlXcFapv-SJ9xXA4YJgne5jPRE",
+        "id": "UExFcFhSVGNrdzZndy5EODgyNjY4MzA3QzY5RTkx",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:53:36Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
+          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 106,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-MyUQ0S0_gs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-MyUQ0S0_gs",
+          "videoPublishedAt": "2026-11-12T00:54:20Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "DfR8WG6jouj0zBv968Yec2BBMO4",
+        "id": "UExFcFhSVGNrdzZndy5BNzdEQzY0REQzQTEyN0U3",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:56:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Когда нет доверия | Толдот 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли чувствовать себя в безопасности там, где нет страха перед Всевышним? Почему Зоар связывает это отсутствие с верой и снова возвращается к словам «сестра моя она»? В окончании девяносто восьмого и в девяносто девятом параграфе Толдот рядом стоят опасность, прежнее предупреждение Авимелеху и духовная опора праотца. Разберём эту связь вместе.\n\nВ этом уроке:\n• вера и доверие\n• страх перед Всевышним\n• Авраам и Авимелех\n• мехемнута\n• Берешит 20:11\n• нравственная ответственность\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §98 и §99 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 107,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SJ3pnTepiz0"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "SJ3pnTepiz0",
+          "videoPublishedAt": "2026-11-12T00:57:26Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "rP6VF6QiVsDYh-eXVMDxyjiFQHw",
+        "id": "UExFcFhSVGNrdzZndy43RDg3MzJDMTRFMTZFOTAw",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:59:06Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Святая земля и еврейский дом | Толдот 5/5 | Рав Элиягу Бари",
+          "description": "Как место связано с раскрытием Шехины? И почему после слов о Святой земле Зоар заканчивает разговор присутствием Шехины в Ривке? Завершаем двенадцатую главу Зоара к Толдот, параграф сотый. Внимательно прочитаем объяснение рабби Элазара и соберём вместе то, что отрывок говорит о близости, вере и духовной силе дома.\n\nВ этом уроке:\n• Святая земля\n• еврейский дом\n• Шехина и Ривка\n• Земля Израиля\n• рабби Элазар\n• вера и духовная сила\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §100 полностью и итог всей главы. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 108,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jR1YsdLpyEw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "jR1YsdLpyEw",
+          "videoPublishedAt": "2026-11-12T01:01:18Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
       }
     ]
   },
@@ -23635,7 +24499,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "P-ijnbZL0YcU4NiwKSNxniN-6Hs",
+      "etag": "5KnXKMtzfcBdiucjrzq9dV17AKg",
       "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
       "snippet": {
         "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -23680,7 +24544,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 51
+        "itemCount": 56
       }
     },
     "items": [
@@ -26254,7 +27118,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "R_uVjLguknbtnt7VyWDjzvA1j74",
+        "etag": "MG_iEwOHCeirROiEjgnEQ_NKAiA",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC40QzRDOEU0QUYwNUIxN0M1",
         "snippet": {
           "publishedAt": "2026-11-06T02:24:59Z",
@@ -26463,6 +27327,276 @@
         "contentDetails": {
           "videoId": "x5l8XDZtGfk",
           "videoPublishedAt": "2026-11-06T02:33:10Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "JtTAXxB9Ma3YrYvlEJPPnuSDD38",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4zMEQ1MEIyRTFGNzhDQzFB",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:49:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
+          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 51,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_4clN1COrs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f_4clN1COrs",
+          "videoPublishedAt": "2026-11-12T00:50:40Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "jf01jlEoiBfuzKnxCoyHykMEVWU",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC42Qzk5MkEzQjVFQjYwRDA4",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:53:36Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
+          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 52,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-MyUQ0S0_gs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-MyUQ0S0_gs",
+          "videoPublishedAt": "2026-11-12T00:54:20Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "7yhPO46kqgJKg8dkFYsDuko-lUE",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4xMzgwMzBERjQ4NjEzNUE5",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:46:39Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Почему Ицхак назвал Ривку сестрой | Толдот 1/5 | Рав Элиягу Бари",
+          "description": "Почему Ицхак называет Ривку сестрой? Тора говорит о его страхе перед жителями места, а Зоар открывает в этих словах ещё одно обращение. Как связаны жена, мудрость и Шехина? Начинаем двенадцатую главу Зоара к Толдот, параграфы с девяносто шестого по сотый. Прочитаем начало вместе и разберёмся, что именно даёт Ицхаку опору.\n\nВ этом уроке:\n• Ицхак и Ривка\n• сестра моя она\n• Шехина и мудрость\n• Мишлей 7:4\n• духовная близость\n• опора в минуту страха\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §96 от начала до повторения слов «сестра моя она». Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 1 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 53,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "O46qPpA2eoE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "O46qPpA2eoE",
+          "videoPublishedAt": "2026-11-12T00:55:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "dbWcdygv6xh5fvYwP-M9jxWlKU0",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC41NTZEOThBNThFOUVGQkVB",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:56:47Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Когда нет доверия | Толдот 4/5 | Рав Элиягу Бари",
+          "description": "Можно ли чувствовать себя в безопасности там, где нет страха перед Всевышним? Почему Зоар связывает это отсутствие с верой и снова возвращается к словам «сестра моя она»? В окончании девяносто восьмого и в девяносто девятом параграфе Толдот рядом стоят опасность, прежнее предупреждение Авимелеху и духовная опора праотца. Разберём эту связь вместе.\n\nВ этом уроке:\n• вера и доверие\n• страх перед Всевышним\n• Авраам и Авимелех\n• мехемнута\n• Берешит 20:11\n• нравственная ответственность\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §98 и §99 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 4 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/SJ3pnTepiz0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 54,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "SJ3pnTepiz0"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "SJ3pnTepiz0",
+          "videoPublishedAt": "2026-11-12T00:57:26Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "wfetK5V7jzLh7dGaY8eq-NYROfY",
+        "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC43NERCMDIzQzFBMERCMEE3",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:59:06Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Святая земля и еврейский дом | Толдот 5/5 | Рав Элиягу Бари",
+          "description": "Как место связано с раскрытием Шехины? И почему после слов о Святой земле Зоар заканчивает разговор присутствием Шехины в Ривке? Завершаем двенадцатую главу Зоара к Толдот, параграф сотый. Внимательно прочитаем объяснение рабби Элазара и соберём вместе то, что отрывок говорит о близости, вере и духовной силе дома.\n\nВ этом уроке:\n• Святая земля\n• еврейский дом\n• Шехина и Ривка\n• Земля Израиля\n• рабби Элазар\n• вера и духовная сила\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §100 полностью и итог всей главы. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 5 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jR1YsdLpyEw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
+          "position": 55,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "jR1YsdLpyEw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "jR1YsdLpyEw",
+          "videoPublishedAt": "2026-11-12T01:01:18Z"
         },
         "status": {
           "privacyStatus": "public"

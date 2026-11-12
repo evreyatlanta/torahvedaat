@@ -12,6 +12,22 @@
         "items": [],
         "children": [
           {
+            "id": "PLZaF3K6WLvVs",
+            "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "f_4clN1COrs",
+              "SJ3pnTepiz0",
+              "O46qPpA2eoE",
+              "jR1YsdLpyEw",
+              "-MyUQ0S0_gs"
+            ],
+            "children": []
+          },
+          {
             "id": "PLOJaE88TyUDM",
             "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
             "tags": [
@@ -204,6 +220,11 @@
               "rbari"
             ],
             "items": [
+              "f_4clN1COrs",
+              "SJ3pnTepiz0",
+              "O46qPpA2eoE",
+              "jR1YsdLpyEw",
+              "-MyUQ0S0_gs",
               "C9qPutqPxeM",
               "G1inPocBlRk",
               "Y73sM3Uwryg",
@@ -507,6 +528,11 @@
               "rbari"
             ],
             "items": [
+              "f_4clN1COrs",
+              "SJ3pnTepiz0",
+              "O46qPpA2eoE",
+              "jR1YsdLpyEw",
+              "-MyUQ0S0_gs",
               "-ZTvsLuNjzk",
               "ZdLFCglTkPw",
               "d5PSlWXzejY",
@@ -642,6 +668,11 @@
               "rbari"
             ],
             "items": [
+              "f_4clN1COrs",
+              "SJ3pnTepiz0",
+              "O46qPpA2eoE",
+              "jR1YsdLpyEw",
+              "-MyUQ0S0_gs",
               "P5HZXXQmyq4",
               "x5l8XDZtGfk",
               "qiLApEdyt6w",
@@ -3422,6 +3453,7 @@
               "toravedaat"
             ],
             "items": [
+              "l5srL7r80TY",
               "DiK04vjhmEQ",
               "1h-rWBglHtg",
               "XWEM33X_yK0",

@@ -1,13 +1,63 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "2tUtfHC1-rDQWnNwoZDOexv_Q_Q",
+    "etag": "tU9E2-xaJqTqMewPEzN0hQubG_A",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 110,
+      "totalResults": 111,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "Cjofupusg1q1b5gMEYzstIXI2vk",
+        "id": "PLZaF3K6WLvVs",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:47:04.491062211Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
+          "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
+            "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 5
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "mzPww6TNvTmwbwqEFCroUuAOI_M",
@@ -604,7 +654,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "KE7TTgV1eKVrrZ7F33Oxd9P7KdA",
+        "etag": "moRF4S6ZcFAuRCRw3x95U3fFYNg",
         "id": "PLdUsTa4pFIfk",
         "snippet": {
           "publishedAt": "2026-10-19T00:02:01.147586Z",
@@ -648,7 +698,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 4
+          "itemCount": 9
         }
       },
       {
@@ -1955,7 +2005,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "JXy0Ej7fkQ-NITCD7Bq8iw8Vjbc",
+        "etag": "OcjY9npGpTkUuk5hdIfTz1MvqqA",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -2000,7 +2050,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 104
+          "itemCount": 109
         }
       },
       {
@@ -2055,7 +2105,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "P-ijnbZL0YcU4NiwKSNxniN-6Hs",
+        "etag": "5KnXKMtzfcBdiucjrzq9dV17AKg",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -2100,7 +2150,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 51
+          "itemCount": 56
         }
       },
       {
@@ -2457,7 +2507,19 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "Kyktowu_sPG32LbvRCuTn5mNPeI",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 111,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "sUR7mL0jaLNcvh51YILv3EADQHQ",
@@ -2507,19 +2569,7 @@
         "contentDetails": {
           "itemCount": 1
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "pD2fMnwNR1XhvxGfSb-XYAD23Ow",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 110,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "palk4pEW-BMB6BdZxP4xvQIJiTc",
@@ -4964,7 +5014,18 @@
         "contentDetails": {
           "itemCount": 3
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "QL2yWWUphBBtM7TLQ3--QsuASzM",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 111,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "CrJCVsCpS2PZSE4NdylHJXWP5u0",
@@ -5014,18 +5075,7 @@
         "contentDetails": {
           "itemCount": 4
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "qnuf1rqLeIn_RuzyH2mRZzJhB-A",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 110,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "XyzMQj4gTOl_s702QS0G8f7RKwQ",
