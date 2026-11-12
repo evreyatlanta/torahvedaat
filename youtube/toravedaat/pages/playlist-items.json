@@ -9967,7 +9967,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "9u7qh5ST8bu_auUJ1EOsyg-aWv8",
+        "etag": "fb0oHn7XOH03MsDJ6nM9AS_5WU4",
         "nextPageToken": "EAAaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
         "items": [
           {
@@ -10512,7 +10512,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "cQ6XnTAJFoRU2n7Diz37-Srho0U",
+            "etag": "GQoUZ_qHT2OLJNnsgvGqyCqJ6dg",
             "id": "UExXMjhxR3hQbW1icXBHR0xIRlRJZWszVzRvQkllRG1jcC40NzZCMERDMjVEN0RFRThB",
             "snippet": {
               "publishedAt": "2023-11-09T13:13:54Z",
