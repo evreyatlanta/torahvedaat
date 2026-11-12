@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "tU9E2-xaJqTqMewPEzN0hQubG_A",
+    "etag": "nAEpl2Zb1txlnOGd1BApj5TSCTE",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 111,
@@ -60,10 +60,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "mzPww6TNvTmwbwqEFCroUuAOI_M",
+        "etag": "ETq4AmXKiOPxS7acU-143APgtOQ",
         "id": "PLOJaE88TyUDM",
         "snippet": {
-          "publishedAt": "2026-11-06T02:21:37.333086471Z",
+          "publishedAt": "2026-11-06T02:21:37.333086Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Зоар — Хаей Сара: пробуждение и счёт жизни | Рав Элиягу Бари",
           "description": "Пять построчных уроков по Зоару, Хаей Сара, Тосефта, §§9–12. Голос пробуждения, охрана врат, открытая книга, Дума и ответственность за прожитое. Арамейский текст, пояснения Сулама и наши учебные примеры разграничены.\n\nУроки серии:\n1. Голос пробуждения\n2. Сон, речь и врата\n3. Открытая книга и счёт жизни\n4. Поворот к жизни\n5. Книга жизни\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
