@@ -1,6 +1,60 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "dHJVOaBNoVUF0S0n853bIO4zqhs",
+    "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LmZBaC1CcVh0MzBr",
+    "snippet": {
+      "publishedAt": "2026-11-13T16:12:07Z",
+      "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+      "title": "Книга Двенадцати. Урок 93. Книга Пророка Зехарии: \"ВЕЛИКИЙ ИЗРАИЛЬ\"",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fAh-BqXt30k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fAh-BqXt30k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fAh-BqXt30k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fAh-BqXt30k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fAh-BqXt30k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Тора ве-Даат",
+      "playlistId": "UUj-2E7hjKMb80oThCWjJ3Dw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fAh-BqXt30k"
+      },
+      "videoOwnerChannelTitle": "Тора ве-Даат",
+      "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+    },
+    "contentDetails": {
+      "videoId": "fAh-BqXt30k",
+      "videoPublishedAt": "2026-11-13T16:12:07Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "7ciff3djEKXhJywpXg2V1MT37hw",
     "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lmw1c3JMN3I4MFRZ",
     "snippet": {
