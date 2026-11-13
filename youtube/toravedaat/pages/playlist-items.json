@@ -3283,12 +3283,12 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "RE_MiEpOtfD2nSP_yg2zY5c2c1s",
+        "etag": "YTPsGQagU4n5iLzxGqjmGy69y_Q",
         "nextPageToken": "EAAaHlBUOkNESWlFRU0yUXpCRlFqWXlRamhDUWpnME1VWQ",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "D6JPC5qEU3KcRujg3IsnJXJirgs",
+            "etag": "q2JbObt40F1Z0tYrHrbwmlFArEk",
             "id": "UExXMjhxR3hQbW1icTRCbUdnbzA1OHJOLXZFdVJxbVlnUi5ERENFNTk4Q0Q2MTZDMTA5",
             "snippet": {
               "publishedAt": "2026-11-13T16:09:19Z",
