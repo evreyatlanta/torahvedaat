@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "uCedchemW9CYp5pU2b96FmTzlG4",
+    "etag": "-LF4DAQTk_qKpmHkrc0obMqqNXE",
     "nextPageToken": "EAAaHlBUOkNESWlFRFUyT1RZd09VUTJSRFl4T0RVMU5ERQ",
     "items": [
       {
@@ -60,7 +60,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "s6U5NEKpnLgCyEUXV1enGshY1k8",
+        "etag": "cw3J4vH0Y-d6C3QlO2ml0Dpjj8M",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lmw1c3JMN3I4MFRZ",
         "snippet": {
           "publishedAt": "2026-11-12T03:57:48Z",
