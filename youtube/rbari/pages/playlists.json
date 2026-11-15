@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "nAEpl2Zb1txlnOGd1BApj5TSCTE",
+    "etag": "A9yONZoawxPQzQ5AFwgHzUeDTQc",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 111,
@@ -10,10 +10,10 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "Cjofupusg1q1b5gMEYzstIXI2vk",
+        "etag": "KoLw2GboG5GwN1zIQpPwuoFerBQ",
         "id": "PLZaF3K6WLvVs",
         "snippet": {
-          "publishedAt": "2026-11-12T00:47:04.491062211Z",
+          "publishedAt": "2026-11-12T00:47:04.491062Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
           "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
