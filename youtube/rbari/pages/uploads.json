@@ -1,12 +1,66 @@
 [
   {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "yLmShxiDYeYjLBRmZcp6mGfFyDg",
-    "nextPageToken": "EAAaHlBUOkNESWlFRVl4TkRrd09EVkVRME01UmpFMVJqWQ",
+    "etag": "jGQCzdWIgkWy45JVCkoTKcxir-k",
+    "nextPageToken": "EAAaHlBUOkNESWlFRFJDUkVVelJFSTRPVE0zTUVWRk5Eaw",
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "adoHsiQoMutOthmb04bK6NJHTV0",
+        "etag": "nIvmWWmXkyyTrWYNia2mMlioEHw",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmk4TnNoRmd2YkM4",
+        "snippet": {
+          "publishedAt": "2026-11-18T01:46:57Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Когда закончится ночь изгнания? | Шаар аГилгулим 26.22 | Рав Элиягу Бари",
+          "description": "Когда закончится ночь изгнания и что означает обещание «утро наступает, но ещё ночь»? В уроке по «Шаар аГилгулим» 26.22 Рав Элиягу Бари разбирает пророчество Йешайи и объяснение Аризаля о душах последнего поколения.\n\nДвадцать четыре капли третьего зивуга рассматриваются как две группы по двенадцать. Обе связаны с раскрытием после полуночи, но одна сохраняет связь с состоянием первой половины ночи. Различие между «лейль» и «лайла» становится ключом к пониманию слов пророка: «Страж! Сколько от ночи?»\n\nРассматриваем образ утра, которое наступает, когда ночь ещё продолжается, и связь двух упоминаний «остатка» с двумя группами. В центре урока — не попытка вычислить сроки избавления, а духовная работа: тшува, молитва и просьба о Геуле.\n\nВ этом уроке:\n• Две группы по двенадцать и третий зивуг.\n• Лейль и лайла: два значения ночи в объяснении Аризаля.\n• Пророчество Йешайи о страже, ночи и утре.\n• «Остаток обратится»: тшува и молитва в последнем изгнании.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 22. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Геула #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/i8NshFgvbC8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/i8NshFgvbC8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/i8NshFgvbC8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/i8NshFgvbC8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/i8NshFgvbC8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "i8NshFgvbC8"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "i8NshFgvbC8",
+          "videoPublishedAt": "2026-11-18T01:46:57Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "sRA9O_mt9EhwjZhBX1qPirdz7wA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmpSMVlzZExweUV3",
         "snippet": {
           "publishedAt": "2026-11-12T01:01:18Z",
@@ -42,7 +96,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 0,
+          "position": 1,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "jR1YsdLpyEw"
@@ -60,7 +114,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "SA62zKRSQgbRDdYBTvfOGvuGHoA",
+        "etag": "27C1JXQG_tpGXPonE_ddA3Rqqs8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlNKM3BuVGVwaXow",
         "snippet": {
           "publishedAt": "2026-11-12T00:57:26Z",
@@ -96,7 +150,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 1,
+          "position": 2,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "SJ3pnTepiz0"
@@ -114,7 +168,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "LbD7DNXl7UJd4bSocFa0wOI2oZI",
+        "etag": "Y-gzr5EDF9gEqGyAFrCWfd4RCng",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk80NnFQcEEyZW9F",
         "snippet": {
           "publishedAt": "2026-11-12T00:55:34Z",
@@ -150,7 +204,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 2,
+          "position": 3,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "O46qPpA2eoE"
@@ -168,7 +222,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "SV1P9hxQcGb4AvOXBRobzgXK0VQ",
+        "etag": "V7vhVWi-fqi0_m1uh6zlyHzdIUg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLi1NeVVRMFMwX2dz",
         "snippet": {
           "publishedAt": "2026-11-12T00:54:20Z",
@@ -204,7 +258,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 3,
+          "position": 4,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "-MyUQ0S0_gs"
@@ -222,7 +276,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "tuXDe61ofdA6CpZhPM41SOOnaWc",
+        "etag": "ehn9hxewFiwbhZv-gN4Fv2nN8gE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmZfNGNsTjFDT3Jz",
         "snippet": {
           "publishedAt": "2026-11-12T00:50:40Z",
@@ -258,7 +312,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 4,
+          "position": 5,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "f_4clN1COrs"
@@ -276,7 +330,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "-3K1QxGElMsAUwYSHwYcH6oZaFA",
+        "etag": "ZY4k8AEHkLVgVvbCbUKYga5XR64",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLi1aVHZzTHVOanpr",
         "snippet": {
           "publishedAt": "2026-11-11T01:40:35Z",
@@ -312,7 +366,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 5,
+          "position": 6,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "-ZTvsLuNjzk"
@@ -330,7 +384,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1bB5cywm_qjpuzsC8lJVgm9wqsU",
+        "etag": "EL3idVio1e09pa9hpRP5ZCpzd9I",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLng1bDhYRFp0R2Zr",
         "snippet": {
           "publishedAt": "2026-11-06T02:33:10Z",
@@ -366,7 +420,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 6,
+          "position": 7,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "x5l8XDZtGfk"
@@ -384,7 +438,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "yqj9qmS1cWUOR4-YWo4HX6zrL5E",
+        "etag": "L5zfbpdxxHNgZ1jXoqxy6GfKO78",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9Ba2VDT1dWc2F3",
         "snippet": {
           "publishedAt": "2026-11-06T02:31:02Z",
@@ -420,7 +474,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 7,
+          "position": 8,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OAkeCOWVsaw"
@@ -438,7 +492,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "uKI6cz3SvxQFU-uP2BZV07fXUT0",
+        "etag": "b58kyBKOzoJTCNYVwtpsqoTfk5k",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFpTEFwRWR5dDZ3",
         "snippet": {
           "publishedAt": "2026-11-06T02:28:59Z",
@@ -474,7 +528,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 8,
+          "position": 9,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qiLApEdyt6w"
@@ -492,7 +546,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "UyLhoH8Igt6KsLKH-YMIup4_NSM",
+        "etag": "w_-_Cjc5WXey4uoUSUdEMBbw_8Y",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlQ0OXhKa1pDNEhF",
         "snippet": {
           "publishedAt": "2026-11-06T02:25:45Z",
@@ -528,7 +582,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 9,
+          "position": 10,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "T49xJkZC4HE"
@@ -546,7 +600,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "nTKB-WVI8DLB7M1TNw9fqLUZb1M",
+        "etag": "fUvdAlSFfmLnxYlBTJJOIwebjD4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlA1SFpYWFFteXE0",
         "snippet": {
           "publishedAt": "2026-11-06T02:23:38Z",
@@ -582,7 +636,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 10,
+          "position": 11,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "P5HZXXQmyq4"
@@ -600,7 +654,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "D2YINuyukCKkcGk5ToYayHBiCSw",
+        "etag": "4NJN-zboHGwyVC8YcVr1hgsx4GI",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpkTEZDZ2xUa1B3",
         "snippet": {
           "publishedAt": "2026-11-05T01:14:13Z",
@@ -636,7 +690,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 11,
+          "position": 12,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZdLFCglTkPw"
@@ -654,7 +708,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "dGAd5Mm-AH1FcFFODDHdzFdv2og",
+        "etag": "G0GWUTUQJ0Y2ZuGncQYccP4UXPI",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmQ1UFNsV1h6ZWpZ",
         "snippet": {
           "publishedAt": "2026-11-04T01:28:38Z",
@@ -690,7 +744,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 12,
+          "position": 13,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "d5PSlWXzejY"
@@ -708,7 +762,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "GF1-F-Ekocgisg_p923qLOeufGo",
+        "etag": "3HI2jGVU6L2F_-K_99Gvg6tTCu4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9vc2x2UWJZaG9V",
         "snippet": {
           "publishedAt": "2026-10-22T11:20:25Z",
@@ -744,7 +798,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 13,
+          "position": 14,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OoslvQbYhoU"
@@ -762,7 +816,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "lEdfH1zjSXMilpvaDRrLXF9oEvU",
+        "etag": "tMzshUScRrXxM0TvgkjeaayLJUk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9VMWFockl2aEY4",
         "snippet": {
           "publishedAt": "2026-10-22T11:15:17Z",
@@ -798,7 +852,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 14,
+          "position": 15,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OU1ahrIvhF8"
@@ -816,7 +870,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "oF7OdfYZChL72CSTFpm8slv6Hjo",
+        "etag": "azhDnjxXv992p9fgbXACfEaPDRY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnYzU3pjbTJGVnJB",
         "snippet": {
           "publishedAt": "2026-10-22T11:10:16Z",
@@ -852,7 +906,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 15,
+          "position": 16,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
@@ -870,7 +924,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "dAedvF_7br0U-sjZg5Oohv1yUCc",
+        "etag": "m_wys--tSaeX7j1JWZzwDh6l6SU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjdYMXVPQTE2QXVz",
         "snippet": {
           "publishedAt": "2026-10-22T11:05:26Z",
@@ -906,7 +960,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 16,
+          "position": 17,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7X1uOA16Aus"
@@ -924,7 +978,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "nHy-Wo-ABrd_446B1DqhDNWjkSk",
+        "etag": "P8E1jsHsbmqxag9HxI8i1xQWWYc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkUyYURDNGhNbjRJ",
         "snippet": {
           "publishedAt": "2026-10-22T11:00:02Z",
@@ -960,7 +1014,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 17,
+          "position": 18,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E2aDC4hMn4I"
@@ -978,7 +1032,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "0pt2XoqCMP1V0FeGuuDChNUObd8",
+        "etag": "9alttTVuYGos0u6GnWEw2UzGWO8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkRxS3g2YzRabTc0",
         "snippet": {
           "publishedAt": "2026-10-16T02:02:55Z",
@@ -1014,7 +1068,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 18,
+          "position": 19,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "DqKx6c4Zm74"
@@ -1032,7 +1086,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Fz_1jO5Acw5bGpt0AF06f9e7l4g",
+        "etag": "OgjpAIoNuVr3uyac2RJKSQqOUyU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmUzZl9XQlZwWGdF",
         "snippet": {
           "publishedAt": "2026-10-16T02:00:59Z",
@@ -1068,7 +1122,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 19,
+          "position": 20,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "e3f_WBVpXgE"
@@ -1086,7 +1140,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "CHVGC99P-zSBwsDLzIQeIdR5bKQ",
+        "etag": "YyDftSXwk2t5L9YzSu1lLXK50so",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndZWG56c2FLLUVN",
         "snippet": {
           "publishedAt": "2026-10-16T01:58:37Z",
@@ -1122,7 +1176,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 20,
+          "position": 21,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wYXnzsaK-EM"
@@ -1140,7 +1194,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "2yKtvBLRIQwJkZz11QLasrukBy4",
+        "etag": "-VYRAZFr6wPY93kgOWicQSNwwDQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9iUXpJdktEc2ZZ",
         "snippet": {
           "publishedAt": "2026-10-16T01:55:11Z",
@@ -1176,7 +1230,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 21,
+          "position": 22,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_bQzIvKDsfY"
@@ -1194,7 +1248,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "hrjhx_qkx7Wq7OVjt8HjyztiAKs",
+        "etag": "QNDXLGKd-X6jGwUAsheZBRqLA5c",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFGMURIQWNiczUw",
         "snippet": {
           "publishedAt": "2026-10-16T01:51:53Z",
@@ -1230,7 +1284,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 22,
+          "position": 23,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qF1DHAcbs50"
@@ -1248,7 +1302,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bTgXDxPbHtgqx85FaAiW2XkgYCo",
+        "etag": "kMUWP-ACSEZ5efQ4GZ1MZ7n96PA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkVwR3NqeTZmSVBR",
         "snippet": {
           "publishedAt": "2026-10-14T00:59:48Z",
@@ -1289,7 +1343,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 23,
+          "position": 24,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "EpGsjy6fIPQ"
@@ -1307,7 +1361,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "-XGoVi8Lnn9KmLwvrNYsVuLVDWY",
+        "etag": "T6q6tlE2u-FC41Q_zL3eBvRPcPs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm53VVVlWHhBNE1n",
         "snippet": {
           "publishedAt": "2026-10-09T02:09:15Z",
@@ -1343,7 +1397,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 24,
+          "position": 25,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "nwUUeXxA4Mg"
@@ -1361,7 +1415,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "25-a08_R6Wa_lEI-0vQSdjnMpiU",
+        "etag": "H2UQ5-12QX101YZiQiT4uVTWEsk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLktsUHBtTm8zODMw",
         "snippet": {
           "publishedAt": "2026-10-02T02:43:01Z",
@@ -1397,7 +1451,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 25,
+          "position": 26,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "KlPpmNo3830"
@@ -1415,7 +1469,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "8b4zCgICCMKDisy2uPENDlPou5g",
+        "etag": "PWmAyYbNojebtiVnQIBJJ6gmt1Y",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkZxUzgzTEJXVnJn",
         "snippet": {
           "publishedAt": "2026-10-02T01:59:51Z",
@@ -1451,7 +1505,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 26,
+          "position": 27,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "FqS83LBWVrg"
@@ -1469,7 +1523,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "23TilVWLaOhEx8umcePh5ZolKeA",
+        "etag": "6eqCqEPjI45_VYQabJH-39681PU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnp4WEpfOGJfZ1JB",
         "snippet": {
           "publishedAt": "2026-10-02T01:16:30Z",
@@ -1505,7 +1559,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 27,
+          "position": 28,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zxXJ_8b_gRA"
@@ -1523,7 +1577,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "_WLA8_gsP-0-B-UJsIett-ud6eA",
+        "etag": "l4zPtkyDN0-4N--dq0We8bQkHjQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkJ3QzlMTnBDWVdn",
         "snippet": {
           "publishedAt": "2026-09-29T01:15:28Z",
@@ -1559,7 +1613,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 28,
+          "position": 29,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "BwC9LNpCYWg"
@@ -1577,7 +1631,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "5x6hypgojjE6G84TBZDlezzZD3M",
+        "etag": "Xtbgps8r9m0NUyMgerLa9OmyshU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9yWUNCY3QwemFB",
         "snippet": {
           "publishedAt": "2026-09-29T01:10:42Z",
@@ -1613,7 +1667,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 29,
+          "position": 30,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_rYCBct0zaA"
@@ -1631,7 +1685,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "5elsGCBogIFshxiYTM4vr2lhiqs",
+        "etag": "jVk0XWBF6FdfdPAof1wg4ASnytQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmkyVUlXRTRkdktN",
         "snippet": {
           "publishedAt": "2026-09-29T01:06:30Z",
@@ -1667,7 +1721,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 30,
+          "position": 31,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "i2UIWE4dvKM"
@@ -1685,7 +1739,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "AfMTAEXL8enxkmL29bdz2Bq583E",
+        "etag": "5Xzqyvsmy6jP8WwVjHsStj_vgeQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndyVFlYN1Y3TVpB",
         "snippet": {
           "publishedAt": "2026-09-29T01:01:35Z",
@@ -1721,7 +1775,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 31,
+          "position": 32,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wrTYX7V7MZA"
@@ -1739,7 +1793,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "sKo2rd_wU2ned1rf6Y1GeERlWRE",
+        "etag": "Q_sS0zN_q3BT6ifQnJ7GEa10UBA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk4taEFWVlZpc1pj",
         "snippet": {
           "publishedAt": "2026-09-25T13:24:46Z",
@@ -1775,7 +1829,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 32,
+          "position": 33,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "N-hAVVVisZc"
@@ -1793,7 +1847,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Rqk3n3VLW__VGMVPTWMY6Yg7Jto",
+        "etag": "qELZCaTMuzRAVmGG_xmmr7S00MY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndhdlBaZ2RudmFr",
         "snippet": {
           "publishedAt": "2026-09-25T01:16:02Z",
@@ -1829,7 +1883,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 33,
+          "position": 34,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wavPZgdnvak"
@@ -1847,7 +1901,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "7A7UJE7gnNIOoUmnXz2oDRydXRo",
+        "etag": "CW-CoA9XJwdivpe9ba0HFjp5ev8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjRfWWF2Wm80R25v",
         "snippet": {
           "publishedAt": "2026-09-25T01:12:37Z",
@@ -1883,7 +1937,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 34,
+          "position": 35,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "4_YavZo4Gno"
@@ -1901,7 +1955,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "idPlWlOnoZ6mDN8oMWiwZirbi5A",
+        "etag": "T4yQuASiWlGsIPsfFnZz6IXd-40",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkxsdmt1QjhYcUJr",
         "snippet": {
           "publishedAt": "2026-09-23T01:14:00Z",
@@ -1937,7 +1991,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 35,
+          "position": 36,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "LlvkuB8XqBk"
@@ -1955,7 +2009,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "RxAE2LnjJc44M-_Hi1Lp2cF0PeM",
+        "etag": "OtLaTanW24SYt9I3xJ2n6LOy4so",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm9KVFhEX0R1NG1Z",
         "snippet": {
           "publishedAt": "2026-09-18T01:14:51Z",
@@ -1991,7 +2045,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 36,
+          "position": 37,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "oJTXD_Du4mY"
@@ -2009,7 +2063,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ha2WxQjXy2lewA4pzxiOoEk9QCI",
+        "etag": "d6wbEqepYsN898dtJ2BY9LyyXYg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlg3cFg3dV9IYUFB",
         "snippet": {
           "publishedAt": "2026-09-18T01:03:17Z",
@@ -2045,7 +2099,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 37,
+          "position": 38,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "X7pX7u_HaAA"
@@ -2063,7 +2117,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Yhw3mrncmmBBLqxSrdIBqirwlNs",
+        "etag": "FgZbHD_Ek6g_l3trQmc4rtbUrO4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnF0MTNqUHJ6eUUw",
         "snippet": {
           "publishedAt": "2026-09-18T00:59:43Z",
@@ -2099,7 +2153,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 38,
+          "position": 39,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qt13jPrzyE0"
@@ -2117,7 +2171,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "xInZF-ksMHBGp4pCBCjnU_Z-nik",
+        "etag": "v64CbhYTzZ2JxXhAh5ZnfDXQF2U",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpJV0w3VXdKOU1V",
         "snippet": {
           "publishedAt": "2026-09-16T23:46:02Z",
@@ -2153,7 +2207,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 39,
+          "position": 40,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZIWL7UwJ9MU"
@@ -2171,7 +2225,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ilEc2hzITu4Q9YUTvoPmhNljLm0",
+        "etag": "DdRZeW3lFuMUC4oCan5hbJb3KE8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnRPSlcydnluUTIw",
         "snippet": {
           "publishedAt": "2026-09-16T23:42:35Z",
@@ -2207,7 +2261,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 40,
+          "position": 41,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "tOJW2vynQ20"
@@ -2225,7 +2279,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "9bwP7cUO6tqpsmbpZP0xIhJ3nfo",
+        "etag": "vQkG2o_R22Y75hEd7psdp2cwexs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnNVd0tqS3NuMjlJ",
         "snippet": {
           "publishedAt": "2026-09-16T21:28:54Z",
@@ -2261,7 +2315,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 41,
+          "position": 42,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "sUwKjKsn29I"
@@ -2279,7 +2333,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "gXo4jncxvlTi8y83byZ1qJ_x1lE",
+        "etag": "qpyEifFks7uJpiEFw0qK3aDDtCs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkxTWlgtY3B0Um04",
         "snippet": {
           "publishedAt": "2026-09-16T01:08:46Z",
@@ -2315,7 +2369,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 42,
+          "position": 43,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "LSZX-cptRm8"
@@ -2333,7 +2387,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bWkOsgBTN7pxkm_6uDp5PHGP7IA",
+        "etag": "16vAg-OpiwsEZjdFZMlcetHAFfM",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmE0bW9vd3BGc0tN",
         "snippet": {
           "publishedAt": "2026-09-09T02:14:16Z",
@@ -2369,7 +2423,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 43,
+          "position": 44,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "a4moowpFsKM"
@@ -2387,7 +2441,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "pMHfRusdLLEgOy2Op8eO6HriB8M",
+        "etag": "HBiJ7HaTZqlR8q1yrOsG_2Ixx30",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmFvejJQeGFfQjdz",
         "snippet": {
           "publishedAt": "2026-09-08T04:00:06Z",
@@ -2423,7 +2477,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 44,
+          "position": 45,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "aoz2Pxa_B7s"
@@ -2441,7 +2495,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "iYnHmmby33tLQXqiXJKjUTGSKtI",
+        "etag": "9b7H4sx1XlCmUYYnlvDoluI8RJs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmp0YmtNN1JSS0Nz",
         "snippet": {
           "publishedAt": "2026-09-08T04:00:06Z",
@@ -2477,7 +2531,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 45,
+          "position": 46,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "jtbkM7RRKCs"
@@ -2495,7 +2549,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "eX0dfbFc3DVwFNVvsEq0pSxrMDE",
+        "etag": "5IaPP0EQNaF9si5Ucoefg_p2HWY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnNScFZ1VktrZzRB",
         "snippet": {
           "publishedAt": "2026-09-07T11:42:06Z",
@@ -2531,7 +2585,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 46,
+          "position": 47,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "sRpVuVKkg4A"
@@ -2549,7 +2603,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "wQW-0j7ve4Bx_erYDzXANVW2WTc",
+        "etag": "nliGNsKOtBupkHtlcpixB9UHFbA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnRodmxadXNzTFpr",
         "snippet": {
           "publishedAt": "2026-09-07T04:00:06Z",
@@ -2585,7 +2639,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 47,
+          "position": 48,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "thvlZussLZk"
@@ -2603,7 +2657,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "zr-95gOVZ4c4lsQ2U2wfLxDRJAI",
+        "etag": "zGajOgeB-CoBT8pyHqVU7j8p10U",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpBb19fZFBkdlJJ",
         "snippet": {
           "publishedAt": "2026-09-06T22:56:26Z",
@@ -2639,7 +2693,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 48,
+          "position": 49,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZAo__dPdvRI"
@@ -2654,64 +2708,10 @@
         "status": {
           "privacyStatus": "public"
         }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "8YUH0RMijtOSvlHoHC7BUlZIn7A",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnJqQk1sRF9MSzVR",
-        "snippet": {
-          "publishedAt": "2026-09-06T14:00:06Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Rosh Hashanah: The Secret of the Shofar: Awakening Above | Arizal | 3 of 5 | Rav Eliyahu Bari",
-          "description": "Russian version of this lesson:\nhttps://www.youtube.com/watch?v=ZAo__dPdvRI\n\nWatch the complete five-part series in order:\nhttps://www.youtube.com/playlist?list=PLKTLsA4MaNkc\n\nThis is Lesson 3 of 5. Continue to Lesson 4, “Why Rosh Hashanah Has Two Days,” in the playlist.\n\nWhat really happens when we hear the shofar on Rosh Hashanah? Why, after Dormita and Nesirah, does a human sound become part of the process of spiritual awakening? \n\nIn Video 3 of our five-part series “Arizal on Rosh Hashanah,” we turn to the central mitzvah of the day—the shofar—and explore it through the Arizal’s system of kavvanot. \n\nIn the first two videos, we followed the spiritual sequence of Rosh Hashanah. First, Zeir Anpin enters Dormita, a state of spiritual sleep associated with the withdrawal of the Mochin. Then comes Nesirah: Nukva is separated from Zeir Anpin so that the previous state of אחור באחור — achor be-achor, “back-to-back,” can ultimately lead toward פנים בפנים — panim be-panim, “face-to-face.” \n\nBut after Dormita must come awakening. The Mochin must be drawn again. \n\nThis is where the shofar enters. \n\nWe usually understand the shofar as a call directed toward us: wake up, do teshuvah, examine your life. The Rambam famously expresses its message: \n\nעוּרוּ יְשֵׁנִים מִשְּׁנַתְכֶם \n\n“Awake, sleepers, from your sleep.” \n\nBut the Arizal reveals another dimension. In his system, the blowing of the shofar does not only awaken the human being below. The mitzvah of shofar participates in an awakening above and the renewed drawing of the Mochin. \n\nIn this class, we explore why the central mitzvah of Rosh Hashanah is performed not through words, but through kol—a voice without words. A person takes his own breath and sends it through the narrow channel of the shofar, transforming breath into a powerful sound. \n\nThis image resonates with the words of Tehillim: \n\nמִן הַמֵּצַר קָרָאתִי יָּהּ עָנָנִי בַמֶּרְחָב יָהּ \n\n“From the narrow place I called to Yah; Yah answered me with expansiveness.” \n\nRestriction does not necessarily destroy. Sometimes restriction creates form. Without the narrow channel, breath simply disperses; passing through the shofar, it becomes a defined voice. \n\nWe also examine the structure of the sounds themselves: Tekiah, Shevarim, and Teruah. Chazal discuss whether the Teruah required by the Torah is a heavy sighing sound, a short wailing cry, or a combination of both, giving rise to the familiar sequences of Tashrat, Tashat, and Tarat. \n\nThe sound pattern is striking: \n\nTekiah → broken voice → Tekiah. \n\nWholeness, then fracture, and then wholeness again. \n\nThe shofar does not require us to pretend that we are complete. We stand before Hashem with our mistakes, fractures, and unfinished work. But the broken voice is not the final sound. After it comes Tekiah once again. \n\nAt the same time, we distinguish between symbolic interpretation and the specific Lurianic structure. The central point in the Arizal’s kavvanot is not merely the symbolism of human breath or crying. In his system, the mitzvah of shofar participates in the tikkun connected with awakening after Dormita and the renewed drawing of the Mochin. \n\nHuman action below becomes part of the Divinely established order of spiritual rectification. This does not mean, chas v’shalom, that a person “creates” Divinity or controls Hashem. Rather, the correspondence between a mitzvah below and a tikkun above exists because Hashem Himself established the spiritual order of the world in this way. \n\nThe picture of Rosh Hashanah now begins to form one continuous sequence: \n\nDormita → Nesirah → building of Nukva → shofar → awakening → renewed drawing of the Mochin. \n\nBut this raises the next question. \n\nIf the shofar awakens and the process of rebuilding continues, why does Rosh Hashanah require two days? \n\nAccording to the Arizal, the second day is not simply a repetition of the first because of historical calendrical uncertainty. The first and second days perform different spiritual work, and the building of Nukva and rectification of the Dinim unfold in stages. \n\nWhy are the two days spiritually different? \n\nThat is where we continue in Video 4 of “Arizal on Rosh Hashanah.” \n\nVideo 3 of 5 — Arizal on Rosh Hashanah \n\nTopics covered: Arizal, Rosh Hashanah, shofar, Dormita, Nesirah, Mochin, return of the Mochin, Zeir Anpin, Nukva, Malchut, Tekiah, Shevarim, Teruah, Tashrat, Tashat, Tarat, Yom HaDin, Sha’ar HaKavanot, Kabbalah. \n\n#RoshHashanah #Arizal #Kabbalah #Shofar #Mochin #Dormita #JewishMysticism \n\nSHORT DESCRIPTION \n\nWhat happens, according to the Arizal, when we blow the shofar? Explore the mystery of awakening after Dormita, the renewed drawing of the Mochin, the significance of the human voice, and the pattern of Tekiah, Shevarim, and Teruah. \nVideo 3 of 5 in the series “Arizal on Rosh Hashanah.” \n\nHASHTAGS \n\n#RoshHashanah #Arizal #Kabbalah #Shofar #Mochin #Dormita #JewishMysticism",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/rjBMlD_LK5Q/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/rjBMlD_LK5Q/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/rjBMlD_LK5Q/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/rjBMlD_LK5Q/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/rjBMlD_LK5Q/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 49,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "rjBMlD_LK5Q"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "rjBMlD_LK5Q",
-          "videoPublishedAt": "2026-09-06T14:00:06Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
       }
     ],
     "pageInfo": {
-      "totalResults": 363,
+      "totalResults": 364,
       "resultsPerPage": 50
     }
   }

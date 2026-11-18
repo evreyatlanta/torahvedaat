@@ -1,6 +1,60 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "nIvmWWmXkyyTrWYNia2mMlioEHw",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmk4TnNoRmd2YkM4",
+    "snippet": {
+      "publishedAt": "2026-11-18T01:46:57Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Когда закончится ночь изгнания? | Шаар аГилгулим 26.22 | Рав Элиягу Бари",
+      "description": "Когда закончится ночь изгнания и что означает обещание «утро наступает, но ещё ночь»? В уроке по «Шаар аГилгулим» 26.22 Рав Элиягу Бари разбирает пророчество Йешайи и объяснение Аризаля о душах последнего поколения.\n\nДвадцать четыре капли третьего зивуга рассматриваются как две группы по двенадцать. Обе связаны с раскрытием после полуночи, но одна сохраняет связь с состоянием первой половины ночи. Различие между «лейль» и «лайла» становится ключом к пониманию слов пророка: «Страж! Сколько от ночи?»\n\nРассматриваем образ утра, которое наступает, когда ночь ещё продолжается, и связь двух упоминаний «остатка» с двумя группами. В центре урока — не попытка вычислить сроки избавления, а духовная работа: тшува, молитва и просьба о Геуле.\n\nВ этом уроке:\n• Две группы по двенадцать и третий зивуг.\n• Лейль и лайла: два значения ночи в объяснении Аризаля.\n• Пророчество Йешайи о страже, ночи и утре.\n• «Остаток обратится»: тшува и молитва в последнем изгнании.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 22. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Геула #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i8NshFgvbC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i8NshFgvbC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i8NshFgvbC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i8NshFgvbC8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i8NshFgvbC8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "i8NshFgvbC8"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "i8NshFgvbC8",
+      "videoPublishedAt": "2026-11-18T01:46:57Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "adoHsiQoMutOthmb04bK6NJHTV0",
     "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmpSMVlzZExweUV3",
     "snippet": {

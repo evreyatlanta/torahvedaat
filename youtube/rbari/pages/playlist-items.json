@@ -4,7 +4,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "rW6iHa_FvPFyCWPUipORnjBeOcw",
+        "etag": "VuwgaFXFyGj7Rdf4hl8skLX50Pg",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -170,7 +170,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Tb0Ge5ZvoupSgDexHfmGF4r867Q",
+            "etag": "x2t_M9F76BgQlwQArXiPTYbiQHM",
             "id": "UExaYUYzSzZXTHZWcy41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
               "publishedAt": "2026-11-12T00:56:47Z",
@@ -4053,7 +4053,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "PhlNjwDOX52V2R-DnaBbZIyVogQ",
+        "etag": "zECjeDDBp44OulqAjyby6pYpkyE",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -4430,7 +4430,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "aVrs9IhNFgDARGkoO3KfvE6X3wA",
+            "etag": "hE9cGHsLdXf7EHwfQHPjlIa-YTw",
             "id": "UExkVXNUYTRwRklmay5DQUNERDQ2NkIzRUQxNTY1",
             "snippet": {
               "publishedAt": "2026-11-12T00:56:47Z",
@@ -16472,7 +16472,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "frfBlPXi7fTXvepPoRhE9lhTr1A",
+        "etag": "LQQE8qjtjX3xLv9eETPSewQbCQk",
         "nextPageToken": "EAAaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
           {
@@ -19207,13 +19207,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 109,
+          "totalResults": 110,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "O-2iN1EWZjUZ9nvPN7xSq4c94aQ",
+        "etag": "Wh7wpvefgVBJgsLIwzBP7bPT4u4",
         "nextPageToken": "EAAaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "prevPageToken": "EAEaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
@@ -21895,13 +21895,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 109,
+          "totalResults": 110,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "Sa849HmH29cHQuIqvXjihd3VHHU",
+        "etag": "SGjxqD9d2gVLEmdHXWUuKgwxgMY",
         "prevPageToken": "EAEaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "items": [
           {
@@ -22284,7 +22284,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "DfR8WG6jouj0zBv968Yec2BBMO4",
+            "etag": "KXQ774B-YW5Jk6LZcCVD3x6UCwg",
             "id": "UExFcFhSVGNrdzZndy5BNzdEQzY0REQzQTEyN0U3",
             "snippet": {
               "publishedAt": "2026-11-12T00:56:47Z",
@@ -22389,10 +22389,64 @@
             "status": {
               "privacyStatus": "public"
             }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "IkK-sy-SZBqJP68uPxrFiAOjIx8",
+            "id": "UExFcFhSVGNrdzZndy44NjIxNjc5OUQwQkJBODQ5",
+            "snippet": {
+              "publishedAt": "2026-11-18T01:45:41Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Когда закончится ночь изгнания? | Шаар аГилгулим 26.22 | Рав Элиягу Бари",
+              "description": "Когда закончится ночь изгнания и что означает обещание «утро наступает, но ещё ночь»? В уроке по «Шаар аГилгулим» 26.22 Рав Элиягу Бари разбирает пророчество Йешайи и объяснение Аризаля о душах последнего поколения.\n\nДвадцать четыре капли третьего зивуга рассматриваются как две группы по двенадцать. Обе связаны с раскрытием после полуночи, но одна сохраняет связь с состоянием первой половины ночи. Различие между «лейль» и «лайла» становится ключом к пониманию слов пророка: «Страж! Сколько от ночи?»\n\nРассматриваем образ утра, которое наступает, когда ночь ещё продолжается, и связь двух упоминаний «остатка» с двумя группами. В центре урока — не попытка вычислить сроки избавления, а духовная работа: тшува, молитва и просьба о Геуле.\n\nВ этом уроке:\n• Две группы по двенадцать и третий зивуг.\n• Лейль и лайла: два значения ночи в объяснении Аризаля.\n• Пророчество Йешайи о страже, ночи и утре.\n• «Остаток обратится»: тшува и молитва в последнем изгнании.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 22. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Геула #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLEpXRTckw6gw",
+              "position": 109,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "i8NshFgvbC8"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "i8NshFgvbC8",
+              "videoPublishedAt": "2026-11-18T01:46:57Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
           }
         ],
         "pageInfo": {
-          "totalResults": 109,
+          "totalResults": 110,
           "resultsPerPage": 50
         }
       }
@@ -25645,7 +25699,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "b8Lv750DJlEIeICtolA0GqVrw_8",
+        "etag": "yXNgUa9k1hGf7u63cBSCkhLpH0Q",
         "prevPageToken": "EAEaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
         "items": [
           {
@@ -25866,7 +25920,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "dbWcdygv6xh5fvYwP-M9jxWlKU0",
+            "etag": "yX75U-Z2Zf5ervaAmUs1JWZvKKU",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC41NTZEOThBNThFOUVGQkVB",
             "snippet": {
               "publishedAt": "2026-11-12T00:56:47Z",
@@ -41893,7 +41947,8 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "ij8wM0O6c_YgGfwRLcK6l9Uv_ck",
+        "etag": "EsW-SJGmMbyfoa97v_gYewwRPKQ",
+        "nextPageToken": "EAAaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -44254,7 +44309,72 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 50,
+          "totalResults": 51,
+          "resultsPerPage": 50
+        }
+      },
+      {
+        "kind": "youtube#playlistItemListResponse",
+        "etag": "XmweTqUhNGR3r7n0CPBYY7BIUtc",
+        "prevPageToken": "EAEaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
+        "items": [
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "HbjZ2YxbxCD0ujDo9ku9GatrqKg",
+            "id": "UExES2UzaFRDM0lsdFl1LXpLSy1aZVVrejZhRU5HWTZ3SC4zMEQ1MEIyRTFGNzhDQzFB",
+            "snippet": {
+              "publishedAt": "2026-11-18T01:45:41Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Когда закончится ночь изгнания? | Шаар аГилгулим 26.22 | Рав Элиягу Бари",
+              "description": "Когда закончится ночь изгнания и что означает обещание «утро наступает, но ещё ночь»? В уроке по «Шаар аГилгулим» 26.22 Рав Элиягу Бари разбирает пророчество Йешайи и объяснение Аризаля о душах последнего поколения.\n\nДвадцать четыре капли третьего зивуга рассматриваются как две группы по двенадцать. Обе связаны с раскрытием после полуночи, но одна сохраняет связь с состоянием первой половины ночи. Различие между «лейль» и «лайла» становится ключом к пониманию слов пророка: «Страж! Сколько от ночи?»\n\nРассматриваем образ утра, которое наступает, когда ночь ещё продолжается, и связь двух упоминаний «остатка» с двумя группами. В центре урока — не попытка вычислить сроки избавления, а духовная работа: тшува, молитва и просьба о Геуле.\n\nВ этом уроке:\n• Две группы по двенадцать и третий зивуг.\n• Лейль и лайла: два значения ночи в объяснении Аризаля.\n• Пророчество Йешайи о страже, ночи и утре.\n• «Остаток обратится»: тшува и молитва в последнем изгнании.\n\nИсточник: «Шаар аГилгулим», Начало 26, раздел 22. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #Геула #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/i8NshFgvbC8/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLDKe3hTC3IltYu-zKK-ZeUkz6aENGY6wH",
+              "position": 50,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "i8NshFgvbC8"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "i8NshFgvbC8",
+              "videoPublishedAt": "2026-11-18T01:46:57Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          }
+        ],
+        "pageInfo": {
+          "totalResults": 51,
           "resultsPerPage": 50
         }
       }
