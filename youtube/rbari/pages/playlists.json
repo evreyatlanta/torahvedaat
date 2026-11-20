@@ -1,13 +1,63 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "clTTCFv44s4lwoNVsX8JhogUfGM",
+    "etag": "LPkDyxpz6jHfSPw7g6x0TjFr5yo",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 111,
+      "totalResults": 112,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "ZARtFcL-aXdX_mDAw2V-gmZ2B-c",
+        "id": "PLA5K_fTSz0L4",
+        "snippet": {
+          "publishedAt": "2026-11-20T02:32:12.823034453Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
+          "description": "Пять построчных уроков по Зоару, Ваеце, глава 11, Ситрей Тора. Сон и пророчество, лестница Яакова и Синай, служение ангелов, восхождение и нисхождение, врата неба. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Что связывает сон и пророчество\n2. Почему лестница ведёт к Синаю\n3. Кто ведёт ангелов по лестнице\n4. Почему ангелы поднимаются и спускаются\n5. Что такое врата неба\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mMgNsjqgzwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mMgNsjqgzwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mMgNsjqgzwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mMgNsjqgzwE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mMgNsjqgzwE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
+            "description": "Пять построчных уроков по Зоару, Ваеце, глава 11, Ситрей Тора. Сон и пророчество, лестница Яакова и Синай, служение ангелов, восхождение и нисхождение, врата неба. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Что связывает сон и пророчество\n2. Почему лестница ведёт к Синаю\n3. Кто ведёт ангелов по лестнице\n4. Почему ангелы поднимаются и спускаются\n5. Что такое врата неба\n\nРав Элиягу Бари. Изучение Зоара на русском языке."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 4
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "RFC2xnpBlAt7AWgu0qhYDnzpyyk",
@@ -2105,7 +2155,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "5KnXKMtzfcBdiucjrzq9dV17AKg",
+        "etag": "b0-Yd4RSOU3rCyJpNwdzj53-yjA",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -2150,7 +2200,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 56
+          "itemCount": 60
         }
       },
       {
@@ -2457,7 +2507,19 @@
         "contentDetails": {
           "itemCount": 4
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "STaz3ZKEC_u9Oa85SCPPSAvwy1Q",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 112,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "uDD3kb293bzhp58eHVoXgVxbsgU",
@@ -2507,19 +2569,7 @@
         "contentDetails": {
           "itemCount": 1
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "Kyktowu_sPG32LbvRCuTn5mNPeI",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 111,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "sUR7mL0jaLNcvh51YILv3EADQHQ",
@@ -4964,7 +5014,18 @@
         "contentDetails": {
           "itemCount": 2
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "ecdmBZ4eyTwhuhRBNG4RbCDpY4w",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 112,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "mE_Xqee_wufETeAMRbdk87kQ1Gc",
@@ -5014,18 +5075,7 @@
         "contentDetails": {
           "itemCount": 3
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "CAWDUBf6eBo_p25OjH-bpS1mZ9c",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 111,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "CrJCVsCpS2PZSE4NdylHJXWP5u0",

@@ -12,6 +12,21 @@
         "items": [],
         "children": [
           {
+            "id": "PLA5K_fTSz0L4",
+            "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "9bXYAkddqZg",
+              "0xJr8K4Y4Io",
+              "mMgNsjqgzwE",
+              "JiHtgWbbXNk"
+            ],
+            "children": []
+          },
+          {
             "id": "PLZaF3K6WLvVs",
             "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
             "tags": [
@@ -669,6 +684,10 @@
               "rbari"
             ],
             "items": [
+              "9bXYAkddqZg",
+              "0xJr8K4Y4Io",
+              "mMgNsjqgzwE",
+              "JiHtgWbbXNk",
               "f_4clN1COrs",
               "SJ3pnTepiz0",
               "O46qPpA2eoE",
