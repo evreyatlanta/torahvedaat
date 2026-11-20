@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "GBwgFhhGiZme-ndc-pVs9IM0a5s",
+    "etag": "clTTCFv44s4lwoNVsX8JhogUfGM",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 111,
@@ -10,36 +10,36 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "KoLw2GboG5GwN1zIQpPwuoFerBQ",
+        "etag": "RFC2xnpBlAt7AWgu0qhYDnzpyyk",
         "id": "PLZaF3K6WLvVs",
         "snippet": {
-          "publishedAt": "2026-11-12T00:47:04.491062Z",
+          "publishedAt": "2026-11-12T00:47:04.491062211Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
           "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }

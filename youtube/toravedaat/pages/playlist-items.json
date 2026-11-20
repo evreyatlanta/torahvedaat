@@ -25644,7 +25644,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "ymjPHYSxSVGKj8XnSkjdrLImVEo",
+        "etag": "DV0dEeWa05alE-dTx4UivtM1Kuk",
         "nextPageToken": "EAAaH1BUOkNKWUJJaEEyTmpCR01rUkZORGN3TWpNMk56WXg",
         "prevPageToken": "EAEaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "items": [
@@ -27427,7 +27427,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "6zPUZ89YXHYBrXILKWSNNusL23Q",
+            "etag": "jVJUJqdbL-rZvAgVQsASYPL5NNI",
             "id": "UExXMjhxR3hQbW1icnItVXl3Q2RyR196TENQV25VWWtfMS5DODY2Qzc5Mzc1QkZEQ0NF",
             "snippet": {
               "publishedAt": "2023-11-26T22:43:30Z",

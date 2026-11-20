@@ -2,36 +2,36 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "KoLw2GboG5GwN1zIQpPwuoFerBQ",
+      "etag": "RFC2xnpBlAt7AWgu0qhYDnzpyyk",
       "id": "PLZaF3K6WLvVs",
       "snippet": {
-        "publishedAt": "2026-11-12T00:47:04.491062Z",
+        "publishedAt": "2026-11-12T00:47:04.491062211Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
         "title": "[RU] Зоар Толдот — близость, вера и еврейский дом | Рав Элиягу Бари",
         "description": "Пять построчных уроков по Зоару, Толдот, глава 12, §§96–100. Почему Ицхак назвал Ривку сестрой, присутствие Шехины, святость брака, окно Авимелеха, вера и Святая земля. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Почему Ицхак назвал Ривку сестрой\n2. Дом для Шехины\n3. Что открыло окно Авимелеха\n4. Когда нет доверия\n5. Святая земля и еврейский дом\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+            "url": "https://i.ytimg.com/vi/O46qPpA2eoE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O46qPpA2eoE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O46qPpA2eoE/hqdefault.jpg",
             "width": 480,
             "height": 360
           },
           "standard": {
-            "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+            "url": "https://i.ytimg.com/vi/O46qPpA2eoE/sddefault.jpg",
             "width": 640,
             "height": 480
           },
           "maxres": {
-            "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+            "url": "https://i.ytimg.com/vi/O46qPpA2eoE/maxresdefault.jpg",
             "width": 1280,
             "height": 720
           }
@@ -53,115 +53,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "utREvhcznLfoaD1zwp6-_kxu-QU",
-        "id": "UExaYUYzSzZXTHZWcy4yODlGNEE0NkRGMEEzMEQy",
-        "snippet": {
-          "publishedAt": "2026-11-12T00:49:42Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
-          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "PLZaF3K6WLvVs",
-          "position": 0,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "f_4clN1COrs"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "f_4clN1COrs",
-          "videoPublishedAt": "2026-11-12T00:50:40Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "hbyBa-Vp9QUKyzJ4v4e0APFHjcI",
-        "id": "UExaYUYzSzZXTHZWcy4wMTcyMDhGQUE4NTIzM0Y5",
-        "snippet": {
-          "publishedAt": "2026-11-12T00:53:36Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
-          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "PLZaF3K6WLvVs",
-          "position": 1,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "-MyUQ0S0_gs"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "-MyUQ0S0_gs",
-          "videoPublishedAt": "2026-11-12T00:54:20Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "5qAZVYcmb8FLqLAznkbGd5eNpcU",
+        "etag": "D3lZlzi63kDr9zGCaDfv8Oo_D0A",
         "id": "UExaYUYzSzZXTHZWcy41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-11-12T00:47:10Z",
@@ -197,7 +89,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLZaF3K6WLvVs",
-          "position": 2,
+          "position": 0,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "O46qPpA2eoE"
@@ -208,6 +100,114 @@
         "contentDetails": {
           "videoId": "O46qPpA2eoE",
           "videoPublishedAt": "2026-11-12T00:55:34Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "5G6LMQaWFggo0f-rLBPcS6zdX4c",
+        "id": "UExaYUYzSzZXTHZWcy4yODlGNEE0NkRGMEEzMEQy",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:49:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Дом для Шехины | Толдот 2/5 | Рав Элиягу Бари",
+          "description": "Как семейная близость становится местом для Шехины? Почему Зоар приводит сразу четыре обращения из Шир а-Ширим и задерживается на маленьком слове «эт» рядом с именем Ривки? Продолжаем главу Толдот, параграфы девяносто шестой и девяносто седьмой. Разберём связь духовной близости с достоинством и сокровенностью супружеской жизни.\n\nВ этом уроке:\n• Шехина в семье\n• Авраам и Ицхак\n• образ колесницы\n• Зеир Анпин\n• Шир а-Ширим 5:2\n• эт Ривка\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», окончание §96 и §97 полностью. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 2 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f_4clN1COrs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f_4clN1COrs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f_4clN1COrs",
+          "videoPublishedAt": "2026-11-12T00:50:40Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "0x61q1kJtyN-TT0-91_3khjFvtQ",
+        "id": "UExaYUYzSzZXTHZWcy4wMTcyMDhGQUE4NTIzM0Y5",
+        "snippet": {
+          "publishedAt": "2026-11-12T00:53:36Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар: Что открыло окно Авимелеха | Толдот 3/5 | Рав Элиягу Бари",
+          "description": "Окно кажется самой простой деталью рассказа. Почему Зоар читает его как указание на астрологию и связывает с матерью Сисры? Как такое чтение отвечает на вопрос о сокровенности Ицхака и Ривки? В девяносто восьмом параграфе Зоара к Толдот проследим, как одно повторённое выражение связывает два стиха Танаха.\n\nВ этом уроке:\n• окно Авимелеха\n• астрология в Зоаре\n• мать Сисры\n• Шофтим 5:28\n• Берешит 26:8\n• супружеская связь\n\nИсточник: Зоар, Толдот, глава 12 «И сказал: сестра моя она», §98 от начала до слов об обращении Авимелеха к Ицхаку. Печатные страницы исходного отрывка 221–223. Читаем арамейский текст по фразам, отдельно от пояснений Сулама и наших примеров.\n\nСерия из пяти уроков «Толдот — близость, вера и еврейский дом». Урок 3 из 5.\nРав Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-MyUQ0S0_gs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLZaF3K6WLvVs",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "-MyUQ0S0_gs"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "-MyUQ0S0_gs",
+          "videoPublishedAt": "2026-11-12T00:54:20Z"
         },
         "status": {
           "privacyStatus": "public"
@@ -1939,7 +1939,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Pr5R78B6B3WxB0snbGYoP8XWnXo",
+        "etag": "sZZL8H6UjzSoiVVOxRgNCSkexXU",
         "id": "UExaR3VJU3hBUnoyZy4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-10-19T07:03:29Z",
@@ -8138,7 +8138,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "hVqlRdX7tB0Z-IvVINiMCFfSjnE",
+        "etag": "NsXPRRSkUTmaGCjgj3jbY3bDgwM",
         "id": "UExRbXh4akNDYW1pVS4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-09-16T23:41:24Z",
@@ -10676,7 +10676,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "3bzIiIlA8EHHKTBGaJi1Zy-8CDU",
+        "etag": "WQoS2MY2IFdQM1IxcLy4XGiNoo8",
         "id": "UExOc0pkMENaaklZYy4wMTcyMDhGQUE4NTIzM0Y5",
         "snippet": {
           "publishedAt": "2026-07-19T22:27:08Z",
@@ -17407,7 +17407,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "2gUbNr7pjzU5zw4fiDluucBMGc8",
+        "etag": "pyXilD5VpZt_f_mXaUd1oQhSTIg",
         "id": "UExVSVhRWXgwcGNwTS44MkM2RjVEQkQ5N0I2MjVE",
         "snippet": {
           "publishedAt": "2026-09-16T23:41:24Z",
@@ -21334,7 +21334,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "7b2JSdMTGXi28pTouI_Xw4RST8c",
+        "etag": "2SkRy9PzF-ewYPVFMu9oK61EvtU",
         "id": "UExFcFhSVGNrdzZndy4zMUEyMkQwOTk0NTg4MDgw",
         "snippet": {
           "publishedAt": "2026-07-19T22:27:08Z",
@@ -25876,7 +25876,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "IdBZaU4uz6K6u4NTBKOF72t0EQM",
+        "etag": "4guuUONNNhQok9aculMX_JLwGFo",
         "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4zRjM0MkVCRTg0MkYyQTM0",
         "snippet": {
           "publishedAt": "2026-07-19T22:27:08Z",
@@ -31070,7 +31070,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "QBzxhePtKMnTzv-OLfZokkk2I6o",
+        "etag": "iTPfcUCQBGUslsDPn6zjtjDCzN0",
         "id": "UExES2UzaFRDM0lsc3pkLUd3Sld3MVpIeDlsTEpxdHpSTi41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-03-15T17:59:25Z",
@@ -33824,7 +33824,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "5udNFTOLYcQ-IKwAOOzZu580Bk0",
+        "etag": "enSme025_lmqv1fCIbP2954AAvQ",
         "id": "UExES2UzaFRDM0lsdklzTlF6RVBMMFpSWU1zWDBhRDZSVC4zMDg5MkQ5MEVDMEM1NTg2",
         "snippet": {
           "publishedAt": "2026-09-16T23:41:24Z",
