@@ -82707,7 +82707,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "ghsBRYQO8uv3FXzsgmVNtRrrzJU",
+        "etag": "viP6YtZXALurXQO5DR83raS2jM8",
         "items": [
           {
             "kind": "youtube#playlistItem",
@@ -84960,7 +84960,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "flT8TrlrqmpMtdXOCYbVCbpkKVo",
+            "etag": "xBYQLXVL_d1PVvAr7MR_ED7TAbI",
             "id": "UExXMjhxR3hQbW1ib2hYSlEwV3YxRmM1ZFptdHczbVlSNi41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
               "publishedAt": "2015-10-04T19:28:42Z",
