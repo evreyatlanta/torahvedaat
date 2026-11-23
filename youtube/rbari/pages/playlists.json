@@ -1,13 +1,113 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "Ow0IVm8Z4000goZk4NBKpy4Kjk8",
+    "etag": "1GEwIZU8P4DFbOVkjdcWvJbyhdA",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 112,
+      "totalResults": 114,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "Mz81HOHjeuNAIXABh9Jn7QhC7h8",
+        "id": "PLI7DNuVBErJc",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:27:23.884257845Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Речи для мероприятий | Рав Элиягу Бари",
+          "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "ru",
+          "localized": {
+            "title": "Речи для мероприятий | Рав Элиягу Бари",
+            "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 1
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "t38sJ7PyaYPPqUC5KiGvK1mbuKc",
+        "id": "PLWxIcIz9Ryis",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:10:43.993506146Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Event Speeches | Rabbi Eliyahu Bari",
+          "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "Event Speeches | Rabbi Eliyahu Bari",
+            "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 1
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "ZARtFcL-aXdX_mDAw2V-gmZ2B-c",
@@ -2005,7 +2105,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "gOCrKG-SGW7-MLjeEEIeVsQOfYU",
+        "etag": "AwY3zHmIU0Ev60zGaUjaN6ZQUE8",
         "id": "PLUIXQYx0pcpM",
         "snippet": {
           "publishedAt": "2026-06-15T23:05:04.377737Z",
@@ -2050,12 +2150,12 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 91
+          "itemCount": 92
         }
       },
       {
         "kind": "youtube#playlist",
-        "etag": "XQPPKDeyArlOZYEaQww5R2OIsOg",
+        "etag": "yGpYlR7syyM8z_hsFZmHrC4BMs4",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -2100,7 +2200,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 110
+          "itemCount": 111
         }
       },
       {
@@ -2402,7 +2502,19 @@
         "contentDetails": {
           "itemCount": 4
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "l20nfrUQ6TtQXFygSlideosVgqY",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 114,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "c70Q403rvaV8qRoxvv8LXSowATs",
@@ -2507,19 +2619,7 @@
         "contentDetails": {
           "itemCount": 4
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "STaz3ZKEC_u9Oa85SCPPSAvwy1Q",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 112,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "uDD3kb293bzhp58eHVoXgVxbsgU",
@@ -4914,7 +5014,18 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "De5e50cK7fQHyjTLwmArwDnpnwo",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 114,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "tPOOnVG5g7Qj4ciwZNwxi5OPoyU",
@@ -5014,18 +5125,7 @@
         "contentDetails": {
           "itemCount": 2
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "ecdmBZ4eyTwhuhRBNG4RbCDpY4w",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 112,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "mE_Xqee_wufETeAMRbdk87kQ1Gc",

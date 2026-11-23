@@ -1,6 +1,40 @@
 {
   "items": [
     {
+      "id": "c7ldvYPaOKk",
+      "type": "video",
+      "source": "youtube",
+      "title": "Когда дети уходят из дома | Тихий дом · Ваеце | Рав Элиягу Бари",
+      "url": "https://www.youtube.com/watch?v=c7ldvYPaOKk",
+      "description": [
+        "У дома, из которого уехал ребёнок, появляется особый звук — не совсем тишина, а звук двери спальни, которая остаётся открытой, потому что за ней больше никого нет, кто бы её закрыл.\n\nВ этой речи по недельной главе Ваеце рав Элиягу Бари говорит о том, чему Тора учит родителей в опустевшем доме: как отпускать детей с благословением, зачем мы их растили, кто идёт рядом с ними, когда наша смена меняется, и как община и родители поддерживают друг друга.\n\nО ЧЁМ ЭТА РЕЧЬ:\n1. Начало — Тихий дом (Берешит 28:10 с комментарием Раши)\nПочему Тора специально говорит, что Яаков «вышел» из Беэр-Шевы, и объяснение Раши: уход праведника оставляет след в месте, которое он покидает. На один стих Тора обращает взгляд на родителей, оставшихся дома.\n\n2. Как отпускать — Ицхак и Лаван (Берешит 28:1, 28:3–5; 27:44; 31:43; 35:8)\nИцхак сначала зовёт, благословляет и только потом отпускает. Ривка надеется на «несколько дней» (ямим ахадим), которые превращаются в двадцать лет. Лаван смотрит на внуков и повторяет только «моё». Первое испытание умения отпустить — перейти от «моё» к «благословенный».\n\n3. Зачем мы растили детей — имена, которые дала Лея (Берешит 29:32–35 с комментарием Раши)\nОт Реувена, Шимона и Леви, названных из тоски и нужды, к Йеуде, названному из благодарности («На этот раз я возблагодарю Бога»), от которого происходят цари. Почему опустевшее гнездо обнажает наши ожидания и почему ватаамод миледет («остановилась рождать») — это пауза перед новыми плодами, а не конец пути.\n\n4. Кто идёт с ними — лестница (Берешит 28:12, 28:15–16 с комментарием Раши)\nПочему ангелы сначала поднимаются, а затем спускаются: смена караула на границе. Задача родителей не заканчивается, а меняется — от ношения на себе к благословению и молитве, с обещанием «Вот, Я с тобой» и осознанием «Воистину есть Г-сподь на этом месте» и для дороги, и для тихого дома.\n\n5. Куда мы идём дальше — камни и колодец (Берешит 28:11, 28:18; 29:2–8 с комментарием Раши)\nКамни, которые перестают спорить и становятся единой опорой для одинокого путника; пастухи, собирающиеся вместе, чтобы отвалить камень от колодца. Почему родители с выросшими детьми нуждаются в общине — и как их время, терпение и опыт нужны молодым семьям, студентам и новичкам.\n\n6. Завершение — два стана (Берешит 32:1–3 с комментарием Раши)\nДаже Лаван в конце учится поцеловать, благословить и вернуться домой, а Яаков называет место Маханаим («два стана»): стан родителей и стан детей, и оба под охраной. Умение отпустить умножает семью, а не делит её.\n\nИСТОЧНИКИ ТОРЫ (БЕРЕШИТ):\n• 27:44 — Ривка: ямим ахадим («несколько дней»)\n• 28:1, 28:3–5 — Ицхак зовёт, благословляет, отпускает\n• 28:10 с Раши — уход праведника оставляет след\n• 28:11, 28:18 с Раши — камни становятся одним камнем\n• 28:12 с Раши — ангелы поднимаются, затем спускаются\n• 28:15–16 — Иней анохи имах; Ахен еш Ашем бамаком азе\n• 29:2–8 — колодец и собранные стада\n• 29:32–35 с Раши — имена Леи и ватаамод миледет\n• 31:43 — Лаван: «дочери — мои дочери»\n• 32:1–3 с Раши — Лаван целует и возвращается; Маханаим\n• 35:8 с Раши — Алон-Бахут\n\nО ВЫСТУПАЮЩЕМ:\nРав Элиягу Бари — уроки Торы, разборы недельных глав и беседы о еврейской семье, воспитании и жизни общины.\n\n#Ваеце #ОпустевшееГнездо #НедельнаяГлава #ЕврейскаяСемья #УрокТоры #РавЭлиягуБари"
+      ],
+      "tags": [
+        "torah",
+        "rbari"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+      "date": "2026-11-23T01:30:22Z",
+      "sort": 1000000
+    },
+    {
+      "id": "JjnXme7xM1U",
+      "type": "video",
+      "source": "youtube",
+      "title": "When the Children Leave Home | The Quiet House · Vayetze | Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=JjnXme7xM1U",
+      "description": [
+        "There is a particular sound a house makes after a child moves out — not quite silence, but the sound of a bedroom door that stays open because no one is behind it to close it.\n\nIn this Parshat Vayetze talk, Rabbi Eliyahu Bari explores what the Torah teaches parents in the quiet house: how to let go without losing connection, why we raise children, who accompanies them when our shift changes, and how empty nesters and communities hold each other up.\n\nWHAT THIS TALK COVERS:\n1. Opening — The Quiet House (Bereishit 28:10 with Rashi)\nWhy the Torah pauses to tell us Jacob \"went out\" from Beersheba, and Rashi's insight that a righteous person's departure leaves a real mark on the place left behind — acknowledging the parents in the kitchen, not only the child on the road.\n\n2. How to Send — Yitzchak and Lavan (Bereishit 28:1, 28:3–5; 27:44; 31:43; 35:8)\nIsaac calls, blesses, and only then sends. Rebecca hopes for \"a few days\" (yamim achadim) that become twenty years. Laban looks at his grandchildren and can only say \"mine.\" The first test of letting go: moving from \"mine\" to \"blessed.\"\n\n3. Why We Have Kids — Leah's Names (Bereishit 29:32–35 with Rashi)\nFrom Reuven, Shimon, and Levi — named from longing and need — to Yehuda, named in gratitude (\"This time I will thank God\"), from whom kings descend. Why the empty nest exposes what we asked our children to fill, and why vata'amod miledet (\"she stood still from bearing\") is a pause before new fruit, not a finish line.\n\n4. Who Goes With Them — The Ladder (Bereishit 28:12, 28:15–16 with Rashi)\nWhy the angels ascend before they descend: a changing of the guard at the border. Our job does not end when a child leaves home — it shifts from carrying to blessing and praying, with the promise \"Behold, I am with you\" and \"Surely God is in this place\" applying to the quiet house too.\n\n5. Where We Go From Here — The Stones and the Well (Bereishit 28:11, 28:18; 29:2–8 with Rashi)\nStones that stop competing and become one support for a lonely traveler; shepherds gathering together to roll the stone off the well. Why empty nesters need community more than ever — and why young families, students, and newcomers need the time, patience, and experience of parents whose children have grown.\n\n6. Closing — Two Camps (Bereishit 32:1–3 with Rashi)\nEven Laban learns to kiss, bless, and return home, and Jacob names the place Machanayim (\"two camps\"): the parents' camp and the children's camp, both escorted. Letting go does not divide a family; it multiplies its camps.\n\nTORAH SOURCES CITED (BEREISHIT / GENESIS):\n• 27:44 — Rivka: yamim achadim (\"a few days\")\n• 28:1, 28:3–5 — Yitzchak calls, blesses, sends\n• 28:10 with Rashi — A tzaddik's departure leaves a mark\n• 28:11, 28:18 with Rashi — The stones become one stone\n• 28:12 with Rashi — Angels ascend, then descend\n• 28:15–16 — Hinei anochi imach; Achen yesh Hashem bamakom hazeh\n• 29:2–8 — The well and the gathered flocks\n• 29:32–35 with Rashi — Leah's names and vata'amod miledet\n• 31:43 — Lavan: \"The daughters are my daughters\"\n• 32:1–3 with Rashi — Lavan kisses and returns; Machanayim\n• 35:8 with Rashi — Alon Bachut\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks, and Jewish family insights on building grounded, grateful, and connected homes and communities.\n\n#Vayetze #EmptyNest #TorahPortion #JewishParenting #ParshaTalk #RabbiEliyahuBari"
+      ],
+      "tags": [
+        "torah",
+        "rbari"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+      "date": "2026-11-23T01:15:22Z",
+      "sort": 1000000
+    },
+    {
       "id": "9bXYAkddqZg",
       "type": "video",
       "source": "youtube",
@@ -32583,7 +32617,7 @@
     },
     {
       "id": "PLEpXRTckw6gw",
-      "count": 109
+      "count": 110
     },
     {
       "id": "PLDKe3hTC3Ilv0x0W8KLdXG-kC9M4KEe2v",
@@ -32819,7 +32853,7 @@
     },
     {
       "id": "rbari-ru",
-      "count": 285
+      "count": 286
     },
     {
       "id": "PLFOcmq4hiabM",
@@ -32855,7 +32889,7 @@
     },
     {
       "id": "PLUIXQYx0pcpM",
-      "count": 80
+      "count": 81
     },
     {
       "id": "PLDKe3hTC3Ilv2pw0JZLha--hdGnDhZrWC",
@@ -32903,11 +32937,11 @@
     },
     {
       "id": "rbari-en",
-      "count": 80
+      "count": 81
     },
     {
       "id": "rbari",
-      "count": 365
+      "count": 367
     },
     {
       "id": "PLW28qGxPmmboQc5JYgXPQrz0qFsLrYa59",
@@ -33025,7 +33059,7 @@
     },
     {
       "tag": "rbari",
-      "count": 369
+      "count": 371
     },
     {
       "tag": "rkrelin",
@@ -33041,7 +33075,7 @@
     },
     {
       "tag": "torah",
-      "count": 1538
+      "count": 1540
     },
     {
       "tag": "toravedaat",

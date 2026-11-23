@@ -2,6 +2,222 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
+      "etag": "Mz81HOHjeuNAIXABh9Jn7QhC7h8",
+      "id": "PLI7DNuVBErJc",
+      "snippet": {
+        "publishedAt": "2026-11-23T01:27:23.884257845Z",
+        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+        "title": "Речи для мероприятий | Рав Элиягу Бари",
+        "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rabbi Eliyahu Bari",
+        "defaultLanguage": "ru",
+        "localized": {
+          "title": "Речи для мероприятий | Рав Элиягу Бари",
+          "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "Z-TtUAh3HKtyDTJfNYibmK-Wolc",
+        "id": "UExJN0ROdVZCRXJKYy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:27:29Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Когда дети уходят из дома | Тихий дом · Ваеце | Рав Элиягу Бари",
+          "description": "У дома, из которого уехал ребёнок, появляется особый звук — не совсем тишина, а звук двери спальни, которая остаётся открытой, потому что за ней больше никого нет, кто бы её закрыл.\n\nВ этой речи по недельной главе Ваеце рав Элиягу Бари говорит о том, чему Тора учит родителей в опустевшем доме: как отпускать детей с благословением, зачем мы их растили, кто идёт рядом с ними, когда наша смена меняется, и как община и родители поддерживают друг друга.\n\nО ЧЁМ ЭТА РЕЧЬ:\n1. Начало — Тихий дом (Берешит 28:10 с комментарием Раши)\nПочему Тора специально говорит, что Яаков «вышел» из Беэр-Шевы, и объяснение Раши: уход праведника оставляет след в месте, которое он покидает. На один стих Тора обращает взгляд на родителей, оставшихся дома.\n\n2. Как отпускать — Ицхак и Лаван (Берешит 28:1, 28:3–5; 27:44; 31:43; 35:8)\nИцхак сначала зовёт, благословляет и только потом отпускает. Ривка надеется на «несколько дней» (ямим ахадим), которые превращаются в двадцать лет. Лаван смотрит на внуков и повторяет только «моё». Первое испытание умения отпустить — перейти от «моё» к «благословенный».\n\n3. Зачем мы растили детей — имена, которые дала Лея (Берешит 29:32–35 с комментарием Раши)\nОт Реувена, Шимона и Леви, названных из тоски и нужды, к Йеуде, названному из благодарности («На этот раз я возблагодарю Бога»), от которого происходят цари. Почему опустевшее гнездо обнажает наши ожидания и почему ватаамод миледет («остановилась рождать») — это пауза перед новыми плодами, а не конец пути.\n\n4. Кто идёт с ними — лестница (Берешит 28:12, 28:15–16 с комментарием Раши)\nПочему ангелы сначала поднимаются, а затем спускаются: смена караула на границе. Задача родителей не заканчивается, а меняется — от ношения на себе к благословению и молитве, с обещанием «Вот, Я с тобой» и осознанием «Воистину есть Г-сподь на этом месте» и для дороги, и для тихого дома.\n\n5. Куда мы идём дальше — камни и колодец (Берешит 28:11, 28:18; 29:2–8 с комментарием Раши)\nКамни, которые перестают спорить и становятся единой опорой для одинокого путника; пастухи, собирающиеся вместе, чтобы отвалить камень от колодца. Почему родители с выросшими детьми нуждаются в общине — и как их время, терпение и опыт нужны молодым семьям, студентам и новичкам.\n\n6. Завершение — два стана (Берешит 32:1–3 с комментарием Раши)\nДаже Лаван в конце учится поцеловать, благословить и вернуться домой, а Яаков называет место Маханаим («два стана»): стан родителей и стан детей, и оба под охраной. Умение отпустить умножает семью, а не делит её.\n\nИСТОЧНИКИ ТОРЫ (БЕРЕШИТ):\n• 27:44 — Ривка: ямим ахадим («несколько дней»)\n• 28:1, 28:3–5 — Ицхак зовёт, благословляет, отпускает\n• 28:10 с Раши — уход праведника оставляет след\n• 28:11, 28:18 с Раши — камни становятся одним камнем\n• 28:12 с Раши — ангелы поднимаются, затем спускаются\n• 28:15–16 — Иней анохи имах; Ахен еш Ашем бамаком азе\n• 29:2–8 — колодец и собранные стада\n• 29:32–35 с Раши — имена Леи и ватаамод миледет\n• 31:43 — Лаван: «дочери — мои дочери»\n• 32:1–3 с Раши — Лаван целует и возвращается; Маханаим\n• 35:8 с Раши — Алон-Бахут\n\nО ВЫСТУПАЮЩЕМ:\nРав Элиягу Бари — уроки Торы, разборы недельных глав и беседы о еврейской семье, воспитании и жизни общины.\n\n#Ваеце #ОпустевшееГнездо #НедельнаяГлава #ЕврейскаяСемья #УрокТоры #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLI7DNuVBErJc",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "c7ldvYPaOKk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "c7ldvYPaOKk",
+          "videoPublishedAt": "2026-11-23T01:30:22Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ]
+  },
+  {
+    "playlist": {
+      "kind": "youtube#playlist",
+      "etag": "t38sJ7PyaYPPqUC5KiGvK1mbuKc",
+      "id": "PLWxIcIz9Ryis",
+      "snippet": {
+        "publishedAt": "2026-11-23T01:10:43.993506146Z",
+        "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+        "title": "Event Speeches | Rabbi Eliyahu Bari",
+        "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JjnXme7xM1U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JjnXme7xM1U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JjnXme7xM1U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JjnXme7xM1U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Rabbi Eliyahu Bari",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Event Speeches | Rabbi Eliyahu Bari",
+          "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari."
+        }
+      },
+      "status": {
+        "privacyStatus": "public"
+      },
+      "contentDetails": {
+        "itemCount": 1
+      }
+    },
+    "items": [
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "gcBlNHIubhUUEmFx_1Rk99YL4Hc",
+        "id": "UExXeEljSXo5Unlpcy41NkI0NEY2RDEwNTU3Q0M2",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:10:49Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "When the Children Leave Home | The Quiet House · Vayetze | Rav Eliyahu Bari",
+          "description": "There is a particular sound a house makes after a child moves out — not quite silence, but the sound of a bedroom door that stays open because no one is behind it to close it.\n\nIn this Parshat Vayetze talk, Rabbi Eliyahu Bari explores what the Torah teaches parents in the quiet house: how to let go without losing connection, why we raise children, who accompanies them when our shift changes, and how empty nesters and communities hold each other up.\n\nWHAT THIS TALK COVERS:\n1. Opening — The Quiet House (Bereishit 28:10 with Rashi)\nWhy the Torah pauses to tell us Jacob \"went out\" from Beersheba, and Rashi's insight that a righteous person's departure leaves a real mark on the place left behind — acknowledging the parents in the kitchen, not only the child on the road.\n\n2. How to Send — Yitzchak and Lavan (Bereishit 28:1, 28:3–5; 27:44; 31:43; 35:8)\nIsaac calls, blesses, and only then sends. Rebecca hopes for \"a few days\" (yamim achadim) that become twenty years. Laban looks at his grandchildren and can only say \"mine.\" The first test of letting go: moving from \"mine\" to \"blessed.\"\n\n3. Why We Have Kids — Leah's Names (Bereishit 29:32–35 with Rashi)\nFrom Reuven, Shimon, and Levi — named from longing and need — to Yehuda, named in gratitude (\"This time I will thank God\"), from whom kings descend. Why the empty nest exposes what we asked our children to fill, and why vata'amod miledet (\"she stood still from bearing\") is a pause before new fruit, not a finish line.\n\n4. Who Goes With Them — The Ladder (Bereishit 28:12, 28:15–16 with Rashi)\nWhy the angels ascend before they descend: a changing of the guard at the border. Our job does not end when a child leaves home — it shifts from carrying to blessing and praying, with the promise \"Behold, I am with you\" and \"Surely God is in this place\" applying to the quiet house too.\n\n5. Where We Go From Here — The Stones and the Well (Bereishit 28:11, 28:18; 29:2–8 with Rashi)\nStones that stop competing and become one support for a lonely traveler; shepherds gathering together to roll the stone off the well. Why empty nesters need community more than ever — and why young families, students, and newcomers need the time, patience, and experience of parents whose children have grown.\n\n6. Closing — Two Camps (Bereishit 32:1–3 with Rashi)\nEven Laban learns to kiss, bless, and return home, and Jacob names the place Machanayim (\"two camps\"): the parents' camp and the children's camp, both escorted. Letting go does not divide a family; it multiplies its camps.\n\nTORAH SOURCES CITED (BEREISHIT / GENESIS):\n• 27:44 — Rivka: yamim achadim (\"a few days\")\n• 28:1, 28:3–5 — Yitzchak calls, blesses, sends\n• 28:10 with Rashi — A tzaddik's departure leaves a mark\n• 28:11, 28:18 with Rashi — The stones become one stone\n• 28:12 with Rashi — Angels ascend, then descend\n• 28:15–16 — Hinei anochi imach; Achen yesh Hashem bamakom hazeh\n• 29:2–8 — The well and the gathered flocks\n• 29:32–35 with Rashi — Leah's names and vata'amod miledet\n• 31:43 — Lavan: \"The daughters are my daughters\"\n• 32:1–3 with Rashi — Lavan kisses and returns; Machanayim\n• 35:8 with Rashi — Alon Bachut\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks, and Jewish family insights on building grounded, grateful, and connected homes and communities.\n\n#Vayetze #EmptyNest #TorahPortion #JewishParenting #ParshaTalk #RabbiEliyahuBari",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLWxIcIz9Ryis",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JjnXme7xM1U"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "JjnXme7xM1U",
+          "videoPublishedAt": "2026-11-23T01:15:22Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      }
+    ]
+  },
+  {
+    "playlist": {
+      "kind": "youtube#playlist",
       "etag": "ZARtFcL-aXdX_mDAw2V-gmZ2B-c",
       "id": "PLA5K_fTSz0L4",
       "snippet": {
@@ -13576,7 +13792,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "gOCrKG-SGW7-MLjeEEIeVsQOfYU",
+      "etag": "AwY3zHmIU0Ev60zGaUjaN6ZQUE8",
       "id": "PLUIXQYx0pcpM",
       "snippet": {
         "publishedAt": "2026-06-15T23:05:04.377737Z",
@@ -13621,7 +13837,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 91
+        "itemCount": 92
       }
     },
     "items": [
@@ -18055,7 +18271,61 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "WetF718ET4PaoA27IGO_7jNtCd0",
+        "etag": "r0NQOdrzQaFWzEDZdUtGQ6lhEms",
+        "id": "UExVSVhRWXgwcGNwTS4yM0EyQ0U1M0I2RkIwNTQ0",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:10:07Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "When the Children Leave Home | The Quiet House · Vayetze | Rav Eliyahu Bari",
+          "description": "There is a particular sound a house makes after a child moves out — not quite silence, but the sound of a bedroom door that stays open because no one is behind it to close it.\n\nIn this Parshat Vayetze talk, Rabbi Eliyahu Bari explores what the Torah teaches parents in the quiet house: how to let go without losing connection, why we raise children, who accompanies them when our shift changes, and how empty nesters and communities hold each other up.\n\nWHAT THIS TALK COVERS:\n1. Opening — The Quiet House (Bereishit 28:10 with Rashi)\nWhy the Torah pauses to tell us Jacob \"went out\" from Beersheba, and Rashi's insight that a righteous person's departure leaves a real mark on the place left behind — acknowledging the parents in the kitchen, not only the child on the road.\n\n2. How to Send — Yitzchak and Lavan (Bereishit 28:1, 28:3–5; 27:44; 31:43; 35:8)\nIsaac calls, blesses, and only then sends. Rebecca hopes for \"a few days\" (yamim achadim) that become twenty years. Laban looks at his grandchildren and can only say \"mine.\" The first test of letting go: moving from \"mine\" to \"blessed.\"\n\n3. Why We Have Kids — Leah's Names (Bereishit 29:32–35 with Rashi)\nFrom Reuven, Shimon, and Levi — named from longing and need — to Yehuda, named in gratitude (\"This time I will thank God\"), from whom kings descend. Why the empty nest exposes what we asked our children to fill, and why vata'amod miledet (\"she stood still from bearing\") is a pause before new fruit, not a finish line.\n\n4. Who Goes With Them — The Ladder (Bereishit 28:12, 28:15–16 with Rashi)\nWhy the angels ascend before they descend: a changing of the guard at the border. Our job does not end when a child leaves home — it shifts from carrying to blessing and praying, with the promise \"Behold, I am with you\" and \"Surely God is in this place\" applying to the quiet house too.\n\n5. Where We Go From Here — The Stones and the Well (Bereishit 28:11, 28:18; 29:2–8 with Rashi)\nStones that stop competing and become one support for a lonely traveler; shepherds gathering together to roll the stone off the well. Why empty nesters need community more than ever — and why young families, students, and newcomers need the time, patience, and experience of parents whose children have grown.\n\n6. Closing — Two Camps (Bereishit 32:1–3 with Rashi)\nEven Laban learns to kiss, bless, and return home, and Jacob names the place Machanayim (\"two camps\"): the parents' camp and the children's camp, both escorted. Letting go does not divide a family; it multiplies its camps.\n\nTORAH SOURCES CITED (BEREISHIT / GENESIS):\n• 27:44 — Rivka: yamim achadim (\"a few days\")\n• 28:1, 28:3–5 — Yitzchak calls, blesses, sends\n• 28:10 with Rashi — A tzaddik's departure leaves a mark\n• 28:11, 28:18 with Rashi — The stones become one stone\n• 28:12 with Rashi — Angels ascend, then descend\n• 28:15–16 — Hinei anochi imach; Achen yesh Hashem bamakom hazeh\n• 29:2–8 — The well and the gathered flocks\n• 29:32–35 with Rashi — Leah's names and vata'amod miledet\n• 31:43 — Lavan: \"The daughters are my daughters\"\n• 32:1–3 with Rashi — Lavan kisses and returns; Machanayim\n• 35:8 with Rashi — Alon Bachut\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks, and Jewish family insights on building grounded, grateful, and connected homes and communities.\n\n#Vayetze #EmptyNest #TorahPortion #JewishParenting #ParshaTalk #RabbiEliyahuBari",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLUIXQYx0pcpM",
+          "position": 82,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "JjnXme7xM1U"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "JjnXme7xM1U",
+          "videoPublishedAt": "2026-11-23T01:15:22Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "sRmexnZ_fnOoSeq-lXOIk2VAvSI",
         "id": "UExVSVhRWXgwcGNwTS4xMzgwMzBERjQ4NjEzNUE5",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:31Z",
@@ -18065,7 +18335,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 82,
+          "position": 83,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "f-fldiV-iI8"
@@ -18080,7 +18350,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OenDCf6Q0R6SmPEIgrne5Zd01zI",
+        "etag": "8eIc8G8suPFM8VhueD4eaFujAmI",
         "id": "UExVSVhRWXgwcGNwTS4zMEQ1MEIyRTFGNzhDQzFB",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:31Z",
@@ -18090,7 +18360,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 83,
+          "position": 84,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "Uwp_gICTrOY"
@@ -18105,7 +18375,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "IeYu8_s6zFDR2oP8Iipj6lUMvTs",
+        "etag": "-noOPgJyjxAvDl25uPaTeOpL834",
         "id": "UExVSVhRWXgwcGNwTS42Qzk5MkEzQjVFQjYwRDA4",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:31Z",
@@ -18115,7 +18385,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 84,
+          "position": 85,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "V9HLSkdw5wk"
@@ -18130,7 +18400,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "nYRuG0RoJshm_ZSUrCQfF4UWAXc",
+        "etag": "VJR3TZCiVvG3W1QBcF5bSG9C31Q",
         "id": "UExVSVhRWXgwcGNwTS41NTZEOThBNThFOUVGQkVB",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:32Z",
@@ -18140,7 +18410,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 85,
+          "position": 86,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "kyHMXaGfp_A"
@@ -18155,7 +18425,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "KBnSKgbFRt4hiowYOyjsw_JE19A",
+        "etag": "PBFjxWlnW8VOAfVwVdBnQYuL3FE",
         "id": "UExVSVhRWXgwcGNwTS43NERCMDIzQzFBMERCMEE3",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:32Z",
@@ -18165,7 +18435,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 86,
+          "position": 87,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "oiJceFE8zwM"
@@ -18180,7 +18450,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "UTdS_bqdGCSv2JuVVcqt-kl3I6g",
+        "etag": "YBbQCIMWRYLhNbC9Hy2PXL6rWVw",
         "id": "UExVSVhRWXgwcGNwTS5GNjAwN0Y0QTFGOTVDMEMy",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:33Z",
@@ -18190,7 +18460,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 87,
+          "position": 88,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "MOrugV6TkZc"
@@ -18205,7 +18475,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "A4OB-tZ0TCwgpzwSHBEvPG63yf0",
+        "etag": "2gKpqkeD1tFZNh-f5I-MzybspCE",
         "id": "UExVSVhRWXgwcGNwTS5CQkEwRDA0MDkwNUM2MDY1",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:33Z",
@@ -18215,7 +18485,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 88,
+          "position": 89,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "S9iE1RdrBj8"
@@ -18230,7 +18500,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "eqXV3is6AvT3-gQk2acMGP3TlxA",
+        "etag": "TwzlqCnTpzwm3T2Vvx1dRw49zV0",
         "id": "UExVSVhRWXgwcGNwTS4wNEU1MTI4NkZEMzVBN0JF",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:34Z",
@@ -18240,7 +18510,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 89,
+          "position": 90,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ayghgglghGM"
@@ -18255,7 +18525,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VFx9JXuVfYi-GAa_Gh6DK_OtJTo",
+        "etag": "0x9_hQqiIOb0BepIHA5IsF7jU0k",
         "id": "UExVSVhRWXgwcGNwTS4wMTYxQzVBRDI1NEVDQUZE",
         "snippet": {
           "publishedAt": "2026-06-15T23:09:35Z",
@@ -18265,7 +18535,7 @@
           "thumbnails": {},
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "PLUIXQYx0pcpM",
-          "position": 90,
+          "position": 91,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "uYYSdWh74Nk"
@@ -18283,7 +18553,7 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "XQPPKDeyArlOZYEaQww5R2OIsOg",
+      "etag": "yGpYlR7syyM8z_hsFZmHrC4BMs4",
       "id": "PLEpXRTckw6gw",
       "snippet": {
         "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -18328,7 +18598,7 @@
         "privacyStatus": "public"
       },
       "contentDetails": {
-        "itemCount": 110
+        "itemCount": 111
       }
     },
     "items": [
@@ -24273,6 +24543,60 @@
         "contentDetails": {
           "videoId": "i8NshFgvbC8",
           "videoPublishedAt": "2026-11-18T01:46:57Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "1UTa3chzYjBGiJX1t8yzJzINd2A",
+        "id": "UExFcFhSVGNrdzZndy4wRkVBNUY4OTkzN0JCNTA2",
+        "snippet": {
+          "publishedAt": "2026-11-23T01:26:04Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Когда дети уходят из дома | Тихий дом · Ваеце | Рав Элиягу Бари",
+          "description": "У дома, из которого уехал ребёнок, появляется особый звук — не совсем тишина, а звук двери спальни, которая остаётся открытой, потому что за ней больше никого нет, кто бы её закрыл.\n\nВ этой речи по недельной главе Ваеце рав Элиягу Бари говорит о том, чему Тора учит родителей в опустевшем доме: как отпускать детей с благословением, зачем мы их растили, кто идёт рядом с ними, когда наша смена меняется, и как община и родители поддерживают друг друга.\n\nО ЧЁМ ЭТА РЕЧЬ:\n1. Начало — Тихий дом (Берешит 28:10 с комментарием Раши)\nПочему Тора специально говорит, что Яаков «вышел» из Беэр-Шевы, и объяснение Раши: уход праведника оставляет след в месте, которое он покидает. На один стих Тора обращает взгляд на родителей, оставшихся дома.\n\n2. Как отпускать — Ицхак и Лаван (Берешит 28:1, 28:3–5; 27:44; 31:43; 35:8)\nИцхак сначала зовёт, благословляет и только потом отпускает. Ривка надеется на «несколько дней» (ямим ахадим), которые превращаются в двадцать лет. Лаван смотрит на внуков и повторяет только «моё». Первое испытание умения отпустить — перейти от «моё» к «благословенный».\n\n3. Зачем мы растили детей — имена, которые дала Лея (Берешит 29:32–35 с комментарием Раши)\nОт Реувена, Шимона и Леви, названных из тоски и нужды, к Йеуде, названному из благодарности («На этот раз я возблагодарю Бога»), от которого происходят цари. Почему опустевшее гнездо обнажает наши ожидания и почему ватаамод миледет («остановилась рождать») — это пауза перед новыми плодами, а не конец пути.\n\n4. Кто идёт с ними — лестница (Берешит 28:12, 28:15–16 с комментарием Раши)\nПочему ангелы сначала поднимаются, а затем спускаются: смена караула на границе. Задача родителей не заканчивается, а меняется — от ношения на себе к благословению и молитве, с обещанием «Вот, Я с тобой» и осознанием «Воистину есть Г-сподь на этом месте» и для дороги, и для тихого дома.\n\n5. Куда мы идём дальше — камни и колодец (Берешит 28:11, 28:18; 29:2–8 с комментарием Раши)\nКамни, которые перестают спорить и становятся единой опорой для одинокого путника; пастухи, собирающиеся вместе, чтобы отвалить камень от колодца. Почему родители с выросшими детьми нуждаются в общине — и как их время, терпение и опыт нужны молодым семьям, студентам и новичкам.\n\n6. Завершение — два стана (Берешит 32:1–3 с комментарием Раши)\nДаже Лаван в конце учится поцеловать, благословить и вернуться домой, а Яаков называет место Маханаим («два стана»): стан родителей и стан детей, и оба под охраной. Умение отпустить умножает семью, а не делит её.\n\nИСТОЧНИКИ ТОРЫ (БЕРЕШИТ):\n• 27:44 — Ривка: ямим ахадим («несколько дней»)\n• 28:1, 28:3–5 — Ицхак зовёт, благословляет, отпускает\n• 28:10 с Раши — уход праведника оставляет след\n• 28:11, 28:18 с Раши — камни становятся одним камнем\n• 28:12 с Раши — ангелы поднимаются, затем спускаются\n• 28:15–16 — Иней анохи имах; Ахен еш Ашем бамаком азе\n• 29:2–8 — колодец и собранные стада\n• 29:32–35 с Раши — имена Леи и ватаамод миледет\n• 31:43 — Лаван: «дочери — мои дочери»\n• 32:1–3 с Раши — Лаван целует и возвращается; Маханаим\n• 35:8 с Раши — Алон-Бахут\n\nО ВЫСТУПАЮЩЕМ:\nРав Элиягу Бари — уроки Торы, разборы недельных глав и беседы о еврейской семье, воспитании и жизни общины.\n\n#Ваеце #ОпустевшееГнездо #НедельнаяГлава #ЕврейскаяСемья #УрокТоры #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "PLEpXRTckw6gw",
+          "position": 110,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "c7ldvYPaOKk"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "c7ldvYPaOKk",
+          "videoPublishedAt": "2026-11-23T01:30:22Z"
         },
         "status": {
           "privacyStatus": "public"
