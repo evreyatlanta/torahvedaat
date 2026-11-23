@@ -12,6 +12,18 @@
         "items": [],
         "children": [
           {
+            "id": "PLI7DNuVBErJc",
+            "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "c7ldvYPaOKk"
+            ],
+            "children": []
+          },
+          {
             "id": "PLA5K_fTSz0L4",
             "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
             "tags": [
@@ -1769,6 +1781,18 @@
         ],
         "items": [],
         "children": [
+          {
+            "id": "PLWxIcIz9Ryis",
+            "title": "[EN] Event Speeches | Rabbi Eliyahu Bari",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "JjnXme7xM1U"
+            ],
+            "children": []
+          },
           {
             "id": "PLFOcmq4hiabM",
             "title": "[EN] Toldot | Commentators on the Weekly Parsha | Rabbi Eliyahu Bari",

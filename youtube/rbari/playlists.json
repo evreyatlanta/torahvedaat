@@ -2,12 +2,12 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "Mz81HOHjeuNAIXABh9Jn7QhC7h8",
+      "etag": "G6B4SS_D4m7mgNU4bOw5WV7KrF4",
       "id": "PLI7DNuVBErJc",
       "snippet": {
         "publishedAt": "2026-11-23T01:27:23.884257845Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-        "title": "Речи для мероприятий | Рав Элиягу Бари",
+        "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
         "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари.",
         "thumbnails": {
           "default": {
@@ -39,7 +39,7 @@
         "channelTitle": "Rabbi Eliyahu Bari",
         "defaultLanguage": "ru",
         "localized": {
-          "title": "Речи для мероприятий | Рав Элиягу Бари",
+          "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
           "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари."
         }
       },
@@ -53,7 +53,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "Z-TtUAh3HKtyDTJfNYibmK-Wolc",
+        "etag": "c01LZJTm4MErxmr1T8lqoDE1ZSs",
         "id": "UExJN0ROdVZCRXJKYy41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-11-23T01:27:29Z",
@@ -110,12 +110,12 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "t38sJ7PyaYPPqUC5KiGvK1mbuKc",
+      "etag": "M4hRMPsiN82j8jMD6eULAEZqG9A",
       "id": "PLWxIcIz9Ryis",
       "snippet": {
         "publishedAt": "2026-11-23T01:10:43.993506146Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-        "title": "Event Speeches | Rabbi Eliyahu Bari",
+        "title": "[EN] Event Speeches | Rabbi Eliyahu Bari",
         "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari.",
         "thumbnails": {
           "default": {
@@ -147,7 +147,7 @@
         "channelTitle": "Rabbi Eliyahu Bari",
         "defaultLanguage": "en",
         "localized": {
-          "title": "Event Speeches | Rabbi Eliyahu Bari",
+          "title": "[EN] Event Speeches | Rabbi Eliyahu Bari",
           "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari."
         }
       },
@@ -161,7 +161,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "gcBlNHIubhUUEmFx_1Rk99YL4Hc",
+        "etag": "e761AElUqIAzFDf4E9CXFiWNsYY",
         "id": "UExXeEljSXo5Unlpcy41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-11-23T01:10:49Z",
@@ -18271,7 +18271,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "r0NQOdrzQaFWzEDZdUtGQ6lhEms",
+        "etag": "vvHyWkNJ7cAjY8NZc9p_BN9Dcq0",
         "id": "UExVSVhRWXgwcGNwTS4yM0EyQ0U1M0I2RkIwNTQ0",
         "snippet": {
           "publishedAt": "2026-11-23T01:10:07Z",
@@ -24550,7 +24550,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1UTa3chzYjBGiJX1t8yzJzINd2A",
+        "etag": "eAw4q_kdSIEECdIZsGOEnRmSrck",
         "id": "UExFcFhSVGNrdzZndy4wRkVBNUY4OTkzN0JCNTA2",
         "snippet": {
           "publishedAt": "2026-11-23T01:26:04Z",

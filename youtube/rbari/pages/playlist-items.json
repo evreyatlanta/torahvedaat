@@ -4,11 +4,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "diDQ13SumJai1OWS830sHXAztcg",
+        "etag": "vxER3EIDvwJniWw7YBiwbKEdMtM",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "Z-TtUAh3HKtyDTJfNYibmK-Wolc",
+            "etag": "c01LZJTm4MErxmr1T8lqoDE1ZSs",
             "id": "UExJN0ROdVZCRXJKYy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2026-11-23T01:27:29Z",
@@ -73,11 +73,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "xxLIRNkhFV-8Wz4tPUr92Q4Kng4",
+        "etag": "U-6wAdu9dJxjlV3wFmT_Ac58X_A",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "gcBlNHIubhUUEmFx_1Rk99YL4Hc",
+            "etag": "e761AElUqIAzFDf4E9CXFiWNsYY",
             "id": "UExXeEljSXo5Unlpcy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2026-11-23T01:10:49Z",
@@ -14872,7 +14872,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "fv8hvT4fhU1MfLVMcbMTF7FvxwI",
+        "etag": "I5RwjXxwG0UkxhFUvvxzEdO5_zg",
         "prevPageToken": "EAEaHlBUOkNESWlFRFUyUWpRMFJqWkVNVEExTlRkRFF6WQ",
         "items": [
           {
@@ -16605,7 +16605,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "r0NQOdrzQaFWzEDZdUtGQ6lhEms",
+            "etag": "vvHyWkNJ7cAjY8NZc9p_BN9Dcq0",
             "id": "UExVSVhRWXgwcGNwTS4yM0EyQ0U1M0I2RkIwNTQ0",
             "snippet": {
               "publishedAt": "2026-11-23T01:10:07Z",
@@ -22324,7 +22324,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "TXbrPfrPMF2Za_Vt9LqI4tGl-9M",
+        "etag": "C0-UNFh2V1NBm67C-OdAw3CBMFA",
         "prevPageToken": "EAEaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "items": [
           {
@@ -22869,7 +22869,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "1UTa3chzYjBGiJX1t8yzJzINd2A",
+            "etag": "eAw4q_kdSIEECdIZsGOEnRmSrck",
             "id": "UExFcFhSVGNrdzZndy4wRkVBNUY4OTkzN0JCNTA2",
             "snippet": {
               "publishedAt": "2026-11-23T01:26:04Z",
