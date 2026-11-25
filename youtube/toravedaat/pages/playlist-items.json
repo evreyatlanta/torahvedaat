@@ -71436,7 +71436,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "PGWjPL8sufU4oCWReLQ9hgDDSQc",
+        "etag": "o_8LIdkKykqCY8GH1Q-a7wlBqMk",
         "nextPageToken": "EAAaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
         "items": [
           {
@@ -73162,7 +73162,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "k1aBUbb1JrKEWFvcEo9Q19SALQE",
+            "etag": "xdxi5YIYN9TP37ljjtMwbLL6Ts4",
             "id": "UExXMjhxR3hQbW1ib3I2R2VPT3hYNGZFWHBTdnZ4N0lOdS41RTNBREYwMkI5QzU3RkY2",
             "snippet": {
               "publishedAt": "2016-12-14T18:53:01Z",
@@ -85441,7 +85441,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "KwXbHo4qV55ecNlKgHWCH-EqeZk",
+        "etag": "kvE6sxGpi7S4CP6LjOaowJ9T11A",
         "nextPageToken": "EAAaHlBUOkNESWlFRGs0TkVNMU9EUkNNRGcyUVVFMlJESQ",
         "items": [
           {
@@ -86943,7 +86943,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "5jg7V5NOmO3WXmYM_jnI2ZcGtTo",
+            "etag": "BWV0OKRuL0c6or709b1ogKDYSOo",
             "id": "UExXMjhxR3hQbW1ib3ZRZ0tnVF9JYURTemRyeDZDYVhYLS45RjNFMDhGQ0Q2RkFCQTc1",
             "snippet": {
               "publishedAt": "2015-01-05T23:44:41Z",
@@ -90724,7 +90724,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "NducJHZdLD_eWk7vd5IkfvTgcWk",
+        "etag": "xv9Ifz-1N62gHgDTe6f5NIkMayA",
         "nextPageToken": "EAAaH1BUOkNKWUJJaEEwTlRCR1JERTVNRGcyUTBORU9ESTQ",
         "prevPageToken": "EAEaHlBUOkNHUWlFRUpETlRCRVFqY3pPVEZDTjBFelFUUQ",
         "items": [
@@ -92826,7 +92826,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "NsawBHCwOXQeEOAmNxCSsAtSsoE",
+            "etag": "AjL7_b20uOc2mo-70m7h5G1yGXk",
             "id": "UExXMjhxR3hQbW1ib3ZRZ0tnVF9JYURTemRyeDZDYVhYLS41QTQ4QTIyM0Y1RTBGMUNE",
             "snippet": {
               "publishedAt": "2016-12-12T04:28:25Z",
