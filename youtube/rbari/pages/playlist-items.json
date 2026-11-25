@@ -142,11 +142,11 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "W9EfXJP3ZSBzyeMY2i6fjNfutjw",
+        "etag": "jlHoztvKcwqsa37lyVdZ-d2dT48",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "a2VHxHdgn4sax1PI7vbV6qyctV0",
+            "etag": "PW9kugCzE953QLjRPJ4KBvONkYs",
             "id": "UExBNUtfZlRTejBMNC41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2026-11-20T02:32:18Z",
@@ -200,7 +200,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "BFh9cyDcjJ1d6Te4MfpfdTd7XpY",
+            "etag": "n79VlraOis0fECYFA_xQZYrHF40",
             "id": "UExBNUtfZlRTejBMNC4yODlGNEE0NkRGMEEzMEQy",
             "snippet": {
               "publishedAt": "2026-11-20T02:34:58Z",
@@ -254,7 +254,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "Kj_kBBibDNNTiG59O0Ged1STD-c",
+            "etag": "PymUR0ihS5BJfxJVv7vRE5Vb9v0",
             "id": "UExBNUtfZlRTejBMNC4wMTcyMDhGQUE4NTIzM0Y5",
             "snippet": {
               "publishedAt": "2026-11-20T02:37:22Z",
@@ -308,7 +308,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "1ytyhSKjii1QVFfApCTZmfRc_Os",
+            "etag": "AJJiyDt2NqKwn1Iln-Hl0-pD_-Q",
             "id": "UExBNUtfZlRTejBMNC41MjE1MkI0OTQ2QzJGNzNG",
             "snippet": {
               "publishedAt": "2026-11-20T03:08:27Z",
@@ -16895,7 +16895,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "rkD77YrUB1olMkKJyeRdQUW3JIc",
+        "etag": "_Sz08ig2o_lJF89d7fVGrgJ71Ac",
         "nextPageToken": "EAAaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
           {
@@ -19630,13 +19630,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 111,
+          "totalResults": 112,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "dvyItlTFkqTCvReJBPcA6GKOKNI",
+        "etag": "GNEPZv8dOq-1E0ATn8iXfq0-Wpk",
         "nextPageToken": "EAAaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "prevPageToken": "EAEaHlBUOkNESWlFREpDTmtWR1FURkNNVVk0T1RkRlFVTQ",
         "items": [
@@ -22318,13 +22318,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 111,
+          "totalResults": 112,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "C0-UNFh2V1NBm67C-OdAw3CBMFA",
+        "etag": "QFjtFls8GMDjomXaSdPcypxmChk",
         "prevPageToken": "EAEaHlBUOkNHUWlFRGM0TURZd05VSkROamxETmtNeU5UQQ",
         "items": [
           {
@@ -22920,10 +22920,64 @@
             "status": {
               "privacyStatus": "public"
             }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "Sm7FezaHBb-vu66nfUliGFJ-hG8",
+            "id": "UExFcFhSVGNrdzZndy43NjE5NDdDRTdENjQ3RTkw",
+            "snippet": {
+              "publishedAt": "2026-11-25T01:24:48Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Врата Реинкарнации | Свет души и её освобождение из клипот | Шаар аГилгулим 27.1–2 | Рав Элиягу Бари",
+              "description": "Что такое внутренний и окружающий свет души? В уроке по «Шаар аГилгулим» 27.1–2 Рав Элиягу Бари объясняет учение Аризаля об очищении душ, корне Каина и выходе из клипот.\n\nАризаль описывает внутренний свет как раскрытие души и окружающий свет как связанный с ней уровень, ещё не вошедший внутрь. На примере Надава и Авиу рассматривается начало исправления корня Каина и постепенное очищение связанных с ним душ.\n\nПочему души приходят в мир не обязательно в порядке своей высоты? В разделе 27.2 разбирается связь их выхода с соответствующим очищением, а также случай, когда душа, скрытая среди клипот, с Божественной помощью раскрывает свою святость и помогает человеку делать добро.\n\nВ уроке:\n• Внутренний и окружающий свет нешамы.\n• Надав и Авиу и исправление корня Каина.\n• Почему порядок очищения не совпадает с духовной высотой.\n• Выход души из клипот и помощь в добрых делах.\n\nИсточник: «Шаар аГилгулим», Начало 27, разделы 1–2. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #КореньДуши #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLEpXRTckw6gw",
+              "position": 111,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "y9BMUJkwi10"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "y9BMUJkwi10",
+              "videoPublishedAt": "2026-11-25T01:26:31Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
           }
         ],
         "pageInfo": {
-          "totalResults": 111,
+          "totalResults": 112,
           "resultsPerPage": 50
         }
       }
@@ -26176,7 +26230,7 @@
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "4oElTHvbiJy6Wldi0eqnpxd-tnU",
+        "etag": "ymgRkzwP2PVWWgJQ3hbeXicNxHo",
         "prevPageToken": "EAEaHlBUOkNESWlFRGhETlVaQlJUWkNNVFkwT0RFelF6Zw",
         "items": [
           {
@@ -26505,7 +26559,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "i6rfEQfZa_GKZN7XjAGGVYsbXL4",
+            "etag": "iCNEPb21thDj-SrIccvjEGu7NWk",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
               "publishedAt": "2026-11-20T02:30:29Z",
@@ -26559,7 +26613,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "R2PSLwE2UsyPpwhvPilGPa0tVJQ",
+            "etag": "zLvZkfdVj-WLfVIugMYdfDGdPZo",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
               "publishedAt": "2026-11-20T02:34:58Z",
@@ -26613,7 +26667,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "l90yb8kea1Y44C9-PQy-M_fpcao",
+            "etag": "-0N7UAtHzk5p2RjvfUq2woEZKFA",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
               "publishedAt": "2026-11-20T02:37:22Z",
@@ -26667,7 +26721,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "NWI0Cd-52SXRYz0hF7tHluLeKMA",
+            "etag": "oijL-0cFcygicSf4klJxKMNUbD4",
             "id": "UExES2UzaFRDM0lsdWRpYWZ2emVYNWUzMzJ2YzY5eUcwVC4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
               "publishedAt": "2026-11-20T03:08:27Z",
@@ -42640,7 +42694,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "yU9gMrjYW8FWKGJxM18nPj_B3yM",
+        "etag": "Z5bmseQkBruNwpR7OBq2Jpk_uqE",
         "nextPageToken": "EAAaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
         "items": [
           {
@@ -45002,13 +45056,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 51,
+          "totalResults": 52,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "jdBjMRHbY4nG6548BqC0vKURSK0",
+        "etag": "2dApbfrHexzORDaN6tOzryfB6RM",
         "prevPageToken": "EAEaHlBUOkNESWlFRE13UkRVd1FqSkZNVVkzT0VORE1VRQ",
         "items": [
           {
@@ -45064,10 +45118,64 @@
             "status": {
               "privacyStatus": "public"
             }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "cNdB3Gb00dxt6HfPgPtqV0MVqCA",
+            "id": "UExES2UzaFRDM0lsdFl1LXpLSy1aZVVrejZhRU5HWTZ3SC42Qzk5MkEzQjVFQjYwRDA4",
+            "snippet": {
+              "publishedAt": "2026-11-25T01:24:48Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Врата Реинкарнации | Свет души и её освобождение из клипот | Шаар аГилгулим 27.1–2 | Рав Элиягу Бари",
+              "description": "Что такое внутренний и окружающий свет души? В уроке по «Шаар аГилгулим» 27.1–2 Рав Элиягу Бари объясняет учение Аризаля об очищении душ, корне Каина и выходе из клипот.\n\nАризаль описывает внутренний свет как раскрытие души и окружающий свет как связанный с ней уровень, ещё не вошедший внутрь. На примере Надава и Авиу рассматривается начало исправления корня Каина и постепенное очищение связанных с ним душ.\n\nПочему души приходят в мир не обязательно в порядке своей высоты? В разделе 27.2 разбирается связь их выхода с соответствующим очищением, а также случай, когда душа, скрытая среди клипот, с Божественной помощью раскрывает свою святость и помогает человеку делать добро.\n\nВ уроке:\n• Внутренний и окружающий свет нешамы.\n• Надав и Авиу и исправление корня Каина.\n• Почему порядок очищения не совпадает с духовной высотой.\n• Выход души из клипот и помощь в добрых делах.\n\nИсточник: «Шаар аГилгулим», Начало 27, разделы 1–2. Урок на русском языке по учению Аризаля.\n\n#ШаарГилгулим #Аризаль #Каббала #КореньДуши #РавЭлиягуБари",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/y9BMUJkwi10/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLDKe3hTC3IltYu-zKK-ZeUkz6aENGY6wH",
+              "position": 51,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "y9BMUJkwi10"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "y9BMUJkwi10",
+              "videoPublishedAt": "2026-11-25T01:26:31Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
           }
         ],
         "pageInfo": {
-          "totalResults": 51,
+          "totalResults": 52,
           "resultsPerPage": 50
         }
       }
