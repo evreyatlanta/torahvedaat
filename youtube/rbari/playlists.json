@@ -2,13 +2,13 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "JXgHgcC0H8C9oAr2g1JI5rSbrDM",
+      "etag": "3yt00VUwpwN2G-ohniuLQy9Wc48",
       "id": "PLQzIANYbzEIY",
       "snippet": {
         "publishedAt": "2026-11-26T01:32:27.658971731Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
         "title": "[EN] Vayetze",
-        "description": "",
+        "description": "Rav Eliyahu Bari explores Vayetze and the theme of thanksgiving in the Zohar.\n\nIn this playlist: The Throne Stands on Thanksgiving.",
         "thumbnails": {
           "default": {
             "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
@@ -40,7 +40,7 @@
         "defaultLanguage": "en",
         "localized": {
           "title": "[EN] Vayetze",
-          "description": ""
+          "description": "Rav Eliyahu Bari explores Vayetze and the theme of thanksgiving in the Zohar.\n\nIn this playlist: The Throne Stands on Thanksgiving."
         }
       },
       "status": {
@@ -53,7 +53,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "bHLzTCKOs4QJ1-tGg3VGQSRFSDY",
+        "etag": "2-FfP10l6N7Mf-up03tmh0PmgaY",
         "id": "UExReklBTlliekVJWS41NkI0NEY2RDEwNTU3Q0M2",
         "snippet": {
           "publishedAt": "2026-11-26T01:32:33Z",
@@ -110,10 +110,10 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "G6B4SS_D4m7mgNU4bOw5WV7KrF4",
+      "etag": "UsXrOaEAaUZwdin2DRukHaTGteg",
       "id": "PLI7DNuVBErJc",
       "snippet": {
-        "publishedAt": "2026-11-23T01:27:23.884257845Z",
+        "publishedAt": "2026-11-23T01:27:23.884257Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
         "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
         "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари.",
@@ -269,7 +269,7 @@
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "HQ1i5kn9Z3TmwwsTyCxBKc1BYjk",
+        "etag": "O22BvSsyk0HHYA2H5QDgR5rGSA4",
         "id": "UExXeEljSXo5Unlpcy4yODlGNEE0NkRGMEEzMEQy",
         "snippet": {
           "publishedAt": "2026-11-26T01:31:44Z",
@@ -380,10 +380,10 @@
   {
     "playlist": {
       "kind": "youtube#playlist",
-      "etag": "ZARtFcL-aXdX_mDAw2V-gmZ2B-c",
+      "etag": "C19kd4XF_AHPHZ6PEN_XittkPKQ",
       "id": "PLA5K_fTSz0L4",
       "snippet": {
-        "publishedAt": "2026-11-20T02:32:12.823034453Z",
+        "publishedAt": "2026-11-20T02:32:12.823034Z",
         "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
         "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
         "description": "Пять построчных уроков по Зоару, Ваеце, глава 11, Ситрей Тора. Сон и пророчество, лестница Яакова и Синай, служение ангелов, восхождение и нисхождение, врата неба. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Что связывает сон и пророчество\n2. Почему лестница ведёт к Синаю\n3. Кто ведёт ангелов по лестнице\n4. Почему ангелы поднимаются и спускаются\n5. Что такое врата неба\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
@@ -18487,7 +18487,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "x3bU7Eb6ZmnuovQjGHvEM-iMtgU",
+        "etag": "RdLMjDUmCnJsmcBK8sPWbGZmQlE",
         "id": "UExVSVhRWXgwcGNwTS5ERENFNTk4Q0Q2MTZDMTA5",
         "snippet": {
           "publishedAt": "2026-11-26T01:31:17Z",
