@@ -1,6 +1,114 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "SICSAOjkaGhGfexgKoNS_WQjyDI",
+    "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lk0zRVBZcktjNjRr",
+    "snippet": {
+      "publishedAt": "2026-11-26T03:07:53Z",
+      "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+      "title": "Комментарии для Субботнего Стола - глава \"ВАЙИШЛАХ\"",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/M3EPYrKc64k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/M3EPYrKc64k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/M3EPYrKc64k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/M3EPYrKc64k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/M3EPYrKc64k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Тора ве-Даат",
+      "playlistId": "UUj-2E7hjKMb80oThCWjJ3Dw",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "M3EPYrKc64k"
+      },
+      "videoOwnerChannelTitle": "Тора ве-Даат",
+      "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+    },
+    "contentDetails": {
+      "videoId": "M3EPYrKc64k",
+      "videoPublishedAt": "2026-11-26T03:07:53Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "etPemmFRNB2UbZK-ryYzP7g9Tq8",
+    "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LjdWSVhaVnJLNl9Z",
+    "snippet": {
+      "publishedAt": "2026-11-26T02:44:07Z",
+      "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
+      "title": "Книга Двенадцати. Урок 95. Книга Пророка Зехарии: \"МЕССИАНСКИЕ ПЕРЕМЕНЫ\"",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Тора ве-Даат",
+      "playlistId": "UUj-2E7hjKMb80oThCWjJ3Dw",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7VIXZVrK6_Y"
+      },
+      "videoOwnerChannelTitle": "Тора ве-Даат",
+      "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
+    },
+    "contentDetails": {
+      "videoId": "7VIXZVrK6_Y",
+      "videoPublishedAt": "2026-11-26T02:44:07Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "ZEHCoIR8AQAa72A0x5SbjSxy3wM",
     "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lk9RalR6WDdPcjVB",
     "snippet": {

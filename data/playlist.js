@@ -1784,6 +1784,18 @@
         "items": [],
         "children": [
           {
+            "id": "PLQzIANYbzEIY",
+            "title": "[EN] Vayetze",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "j9I-4ZyBKJw"
+            ],
+            "children": []
+          },
+          {
             "id": "PLWxIcIz9Ryis",
             "title": "[EN] Event Speeches | Rabbi Eliyahu Bari",
             "tags": [
@@ -1791,6 +1803,7 @@
               "rbari"
             ],
             "items": [
+              "j9I-4ZyBKJw",
               "JjnXme7xM1U"
             ],
             "children": []
@@ -1930,6 +1943,7 @@
               "rbari"
             ],
             "items": [
+              "j9I-4ZyBKJw",
               "JjnXme7xM1U",
               "_rYCBct0zaA",
               "BwC9LNpCYWg",
@@ -3021,6 +3035,7 @@
               "toravedaat"
             ],
             "items": [
+              "7VIXZVrK6_Y",
               "MvMLQB6hEus",
               "fAh-BqXt30k",
               "UHPlQfcrXfo",
@@ -3504,6 +3519,7 @@
               "toravedaat"
             ],
             "items": [
+              "M3EPYrKc64k",
               "l5srL7r80TY",
               "DiK04vjhmEQ",
               "1h-rWBglHtg",

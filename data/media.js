@@ -1,6 +1,55 @@
 {
   "items": [
     {
+      "id": "7VIXZVrK6_Y",
+      "type": "video",
+      "source": "youtube",
+      "title": "Книга Двенадцати. Урок 95. Книга Пророка Зехарии: \"МЕССИАНСКИЕ ПЕРЕМЕНЫ\"",
+      "url": "https://www.youtube.com/watch?v=7VIXZVrK6_Y",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/7VIXZVrK6_Y/hqdefault.jpg",
+      "date": "2026-11-26T02:44:07Z",
+      "sort": 1000000
+    },
+    {
+      "id": "M3EPYrKc64k",
+      "type": "video",
+      "source": "youtube",
+      "title": "Комментарии для Субботнего Стола - глава \"ВАЙИШЛАХ\"",
+      "url": "https://www.youtube.com/watch?v=M3EPYrKc64k",
+      "description": [],
+      "tags": [
+        "torah",
+        "rzelman",
+        "toravedaat"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/M3EPYrKc64k/hqdefault.jpg",
+      "date": "2026-11-26T03:07:53Z",
+      "sort": 1000000
+    },
+    {
+      "id": "j9I-4ZyBKJw",
+      "type": "video",
+      "source": "youtube",
+      "title": "Zohar - | The Throne Stands on Thanksgiving · Vayetze | Rav Eliyahu Bari",
+      "url": "https://www.youtube.com/watch?v=j9I-4ZyBKJw",
+      "description": [
+        "This Thursday millions of people will sit down and try to say thank you for one evening. For a Jew, thanksgiving is not a holiday. It is our name: Yehudah, from \"This time I will thank Creator.\"\n\nIn this Thanksgiving-week drasha on Parshat Vayetze, Rabbi Eliyahu Bari opens the Zohar's teaching on hodaya: Leah's four sons are the four legs of the Divine Throne, and the Throne only stands with Yehudah. Creator gives through kindness, strength and harmony, but His Kingship stands in the world when the one who receives says, \"This is from You.\"\n\nWHAT THIS TALK COVERS:\n1. Our Name Is Thanksgiving (Bereishit 29:35; Berachot 7b)\nLeah names her fourth son Yehudah, and the Talmud says that from the creation of the world no one thanked Creator until Leah. Noah, Abraham and Eliezer all gave thanks, so what was new?\n\n2. More Than My Share (Rashi on Bereishit 29:35)\nLeah knew Jacob would have twelve sons from four wives. The fourth was more than her portion. Praise says \"Creator is great\"; thanks says \"I did not deserve this.\"\n\n3. The Throne Stands on Yehudah (Zohar I:154b-155a; Zohar I:237a)\nReuven, Shimon, Levi and Yehudah as Chesed, Gevurah, Tiferet and Malchut. Vata'amod, \"she stood\": with Yehudah the Throne stood on its legs. Kingship is given to Yehudah because he is the fourth leg, and \"Yehudah, your brothers shall thank you.\"\n\n4. Bowing in Modim (Berachot 12a; Zohar III:236b, Ra'aya Meheimna)\nWe bow at Baruch and straighten at the Name. Malchut starts out falling and the Name raises her. Only the one who bends in thanks can be lifted.\n\n5. Hodaah: To Thank Is to Admit (Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak)\nHodaah means both thanks and admission. Yehudah says of Tamar, \"She is more righteous than I.\" The person who can admit a mistake can say thank you.\n\n6. The Offering That Never Ends (Vayikra Rabbah 9:7)\nIn the time to come every offering will cease except the thanksgiving offering, because there will always be a Giver and a receiver. Closing: one \"hapa'am odeh\" at the Thanksgiving table, and Modeh Ani in the morning.\n\nSOURCES CITED:\n1. Bereishit 29:35 and Rashi there\n2. Talmud, Berachot 7b\n3. Zohar I:154b-155a (Vayetze)\n4. Zohar I:237a (Vayechi)\n5. Talmud, Berachot 12a; Shulchan Aruch, Orach Chaim 113:1\n6. Zohar III:236b (Pinchas, Ra'aya Meheimna)\n7. Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak (Chanukah)\n8. Vayikra Rabbah 9:7\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks and teachings from the Zohar on building grounded, grateful and connected homes and communities.\n\n#Thanksgiving #Gratitude #Zohar #Vayetze #TorahPortion #RabbiEliyahuBari"
+      ],
+      "tags": [
+        "torah",
+        "rbari"
+      ],
+      "thumbnailUrl": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
+      "date": "2026-11-26T01:40:17Z",
+      "sort": 1000000
+    },
+    {
       "id": "y9BMUJkwi10",
       "type": "video",
       "source": "youtube",
@@ -32877,8 +32926,12 @@
       "count": 287
     },
     {
-      "id": "PLWxIcIz9Ryis",
+      "id": "PLQzIANYbzEIY",
       "count": 1
+    },
+    {
+      "id": "PLWxIcIz9Ryis",
+      "count": 2
     },
     {
       "id": "PLFOcmq4hiabM",
@@ -32914,7 +32967,7 @@
     },
     {
       "id": "PLUIXQYx0pcpM",
-      "count": 81
+      "count": 82
     },
     {
       "id": "PLDKe3hTC3Ilv2pw0JZLha--hdGnDhZrWC",
@@ -32962,11 +33015,11 @@
     },
     {
       "id": "rbari-en",
-      "count": 81
+      "count": 82
     },
     {
       "id": "rbari",
-      "count": 368
+      "count": 369
     },
     {
       "id": "PLW28qGxPmmboQc5JYgXPQrz0qFsLrYa59",
@@ -33002,11 +33055,11 @@
     },
     {
       "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
-      "count": 94
+      "count": 95
     },
     {
       "id": "neviim",
-      "count": 643
+      "count": 644
     },
     {
       "id": "PLW28qGxPmmbrr-UywCdrG_zLCPWnUYk_1",
@@ -33034,7 +33087,7 @@
     },
     {
       "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
-      "count": 41
+      "count": 42
     },
     {
       "id": "PLW28qGxPmmbrkawdHttZ2Q4lWNRJnY9zZ",
@@ -33046,7 +33099,7 @@
     },
     {
       "id": "parsha",
-      "count": 88
+      "count": 89
     },
     {
       "id": "PLW28qGxPmmbrr8UGiTTllSVvpOjcwZq-3",
@@ -33062,7 +33115,7 @@
     },
     {
       "id": "rzelman",
-      "count": 1165
+      "count": 1167
     },
     {
       "id": "PLW28qGxPmmbqZ-8rbQJ_u4dgaXKe6Se0E",
@@ -33084,7 +33137,7 @@
     },
     {
       "tag": "rbari",
-      "count": 372
+      "count": 373
     },
     {
       "tag": "rkrelin",
@@ -33092,7 +33145,7 @@
     },
     {
       "tag": "rzelman",
-      "count": 1165
+      "count": 1167
     },
     {
       "tag": "show",
@@ -33100,11 +33153,11 @@
     },
     {
       "tag": "torah",
-      "count": 1541
+      "count": 1544
     },
     {
       "tag": "toravedaat",
-      "count": 1629
+      "count": 1631
     }
   ]
 }

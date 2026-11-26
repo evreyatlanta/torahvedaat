@@ -1,5 +1,74 @@
 [
   {
+    "id": "PLQzIANYbzEIY",
+    "pages": [
+      {
+        "kind": "youtube#playlistItemListResponse",
+        "etag": "1YViLpCuSn5eAnTI2vQvdJilqeA",
+        "items": [
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "bHLzTCKOs4QJ1-tGg3VGQSRFSDY",
+            "id": "UExReklBTlliekVJWS41NkI0NEY2RDEwNTU3Q0M2",
+            "snippet": {
+              "publishedAt": "2026-11-26T01:32:33Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Zohar - | The Throne Stands on Thanksgiving · Vayetze | Rav Eliyahu Bari",
+              "description": "This Thursday millions of people will sit down and try to say thank you for one evening. For a Jew, thanksgiving is not a holiday. It is our name: Yehudah, from \"This time I will thank Creator.\"\n\nIn this Thanksgiving-week drasha on Parshat Vayetze, Rabbi Eliyahu Bari opens the Zohar's teaching on hodaya: Leah's four sons are the four legs of the Divine Throne, and the Throne only stands with Yehudah. Creator gives through kindness, strength and harmony, but His Kingship stands in the world when the one who receives says, \"This is from You.\"\n\nWHAT THIS TALK COVERS:\n1. Our Name Is Thanksgiving (Bereishit 29:35; Berachot 7b)\nLeah names her fourth son Yehudah, and the Talmud says that from the creation of the world no one thanked Creator until Leah. Noah, Abraham and Eliezer all gave thanks, so what was new?\n\n2. More Than My Share (Rashi on Bereishit 29:35)\nLeah knew Jacob would have twelve sons from four wives. The fourth was more than her portion. Praise says \"Creator is great\"; thanks says \"I did not deserve this.\"\n\n3. The Throne Stands on Yehudah (Zohar I:154b-155a; Zohar I:237a)\nReuven, Shimon, Levi and Yehudah as Chesed, Gevurah, Tiferet and Malchut. Vata'amod, \"she stood\": with Yehudah the Throne stood on its legs. Kingship is given to Yehudah because he is the fourth leg, and \"Yehudah, your brothers shall thank you.\"\n\n4. Bowing in Modim (Berachot 12a; Zohar III:236b, Ra'aya Meheimna)\nWe bow at Baruch and straighten at the Name. Malchut starts out falling and the Name raises her. Only the one who bends in thanks can be lifted.\n\n5. Hodaah: To Thank Is to Admit (Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak)\nHodaah means both thanks and admission. Yehudah says of Tamar, \"She is more righteous than I.\" The person who can admit a mistake can say thank you.\n\n6. The Offering That Never Ends (Vayikra Rabbah 9:7)\nIn the time to come every offering will cease except the thanksgiving offering, because there will always be a Giver and a receiver. Closing: one \"hapa'am odeh\" at the Thanksgiving table, and Modeh Ani in the morning.\n\nSOURCES CITED:\n1. Bereishit 29:35 and Rashi there\n2. Talmud, Berachot 7b\n3. Zohar I:154b-155a (Vayetze)\n4. Zohar I:237a (Vayechi)\n5. Talmud, Berachot 12a; Shulchan Aruch, Orach Chaim 113:1\n6. Zohar III:236b (Pinchas, Ra'aya Meheimna)\n7. Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak (Chanukah)\n8. Vayikra Rabbah 9:7\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks and teachings from the Zohar on building grounded, grateful and connected homes and communities.\n\n#Thanksgiving #Gratitude #Zohar #Vayetze #TorahPortion #RabbiEliyahuBari",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLQzIANYbzEIY",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "j9I-4ZyBKJw"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "j9I-4ZyBKJw",
+              "videoPublishedAt": "2026-11-26T01:40:17Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          }
+        ],
+        "pageInfo": {
+          "totalResults": 1,
+          "resultsPerPage": 50
+        }
+      }
+    ]
+  },
+  {
     "id": "PLI7DNuVBErJc",
     "pages": [
       {
@@ -73,11 +142,65 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "U-6wAdu9dJxjlV3wFmT_Ac58X_A",
+        "etag": "qa4b6o999Ut837wgkO4fayzzBS4",
         "items": [
           {
             "kind": "youtube#playlistItem",
-            "etag": "e761AElUqIAzFDf4E9CXFiWNsYY",
+            "etag": "HQ1i5kn9Z3TmwwsTyCxBKc1BYjk",
+            "id": "UExXeEljSXo5Unlpcy4yODlGNEE0NkRGMEEzMEQy",
+            "snippet": {
+              "publishedAt": "2026-11-26T01:31:44Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Zohar - | The Throne Stands on Thanksgiving · Vayetze | Rav Eliyahu Bari",
+              "description": "This Thursday millions of people will sit down and try to say thank you for one evening. For a Jew, thanksgiving is not a holiday. It is our name: Yehudah, from \"This time I will thank Creator.\"\n\nIn this Thanksgiving-week drasha on Parshat Vayetze, Rabbi Eliyahu Bari opens the Zohar's teaching on hodaya: Leah's four sons are the four legs of the Divine Throne, and the Throne only stands with Yehudah. Creator gives through kindness, strength and harmony, but His Kingship stands in the world when the one who receives says, \"This is from You.\"\n\nWHAT THIS TALK COVERS:\n1. Our Name Is Thanksgiving (Bereishit 29:35; Berachot 7b)\nLeah names her fourth son Yehudah, and the Talmud says that from the creation of the world no one thanked Creator until Leah. Noah, Abraham and Eliezer all gave thanks, so what was new?\n\n2. More Than My Share (Rashi on Bereishit 29:35)\nLeah knew Jacob would have twelve sons from four wives. The fourth was more than her portion. Praise says \"Creator is great\"; thanks says \"I did not deserve this.\"\n\n3. The Throne Stands on Yehudah (Zohar I:154b-155a; Zohar I:237a)\nReuven, Shimon, Levi and Yehudah as Chesed, Gevurah, Tiferet and Malchut. Vata'amod, \"she stood\": with Yehudah the Throne stood on its legs. Kingship is given to Yehudah because he is the fourth leg, and \"Yehudah, your brothers shall thank you.\"\n\n4. Bowing in Modim (Berachot 12a; Zohar III:236b, Ra'aya Meheimna)\nWe bow at Baruch and straighten at the Name. Malchut starts out falling and the Name raises her. Only the one who bends in thanks can be lifted.\n\n5. Hodaah: To Thank Is to Admit (Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak)\nHodaah means both thanks and admission. Yehudah says of Tamar, \"She is more righteous than I.\" The person who can admit a mistake can say thank you.\n\n6. The Offering That Never Ends (Vayikra Rabbah 9:7)\nIn the time to come every offering will cease except the thanksgiving offering, because there will always be a Giver and a receiver. Closing: one \"hapa'am odeh\" at the Thanksgiving table, and Modeh Ani in the morning.\n\nSOURCES CITED:\n1. Bereishit 29:35 and Rashi there\n2. Talmud, Berachot 7b\n3. Zohar I:154b-155a (Vayetze)\n4. Zohar I:237a (Vayechi)\n5. Talmud, Berachot 12a; Shulchan Aruch, Orach Chaim 113:1\n6. Zohar III:236b (Pinchas, Ra'aya Meheimna)\n7. Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak (Chanukah)\n8. Vayikra Rabbah 9:7\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks and teachings from the Zohar on building grounded, grateful and connected homes and communities.\n\n#Thanksgiving #Gratitude #Zohar #Vayetze #TorahPortion #RabbiEliyahuBari",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLWxIcIz9Ryis",
+              "position": 0,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "j9I-4ZyBKJw"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "j9I-4ZyBKJw",
+              "videoPublishedAt": "2026-11-26T01:40:17Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "NlUmwaMuSONV-4oMcLrHItvxS2k",
             "id": "UExXeEljSXo5Unlpcy41NkI0NEY2RDEwNTU3Q0M2",
             "snippet": {
               "publishedAt": "2026-11-23T01:10:49Z",
@@ -113,7 +236,7 @@
               },
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLWxIcIz9Ryis",
-              "position": 0,
+              "position": 1,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "JjnXme7xM1U"
@@ -131,7 +254,7 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 1,
+          "totalResults": 2,
           "resultsPerPage": 50
         }
       }
@@ -12161,7 +12284,7 @@
     "pages": [
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "fQL-k6Ib5EeHPrIo2sso2HoH-Qc",
+        "etag": "PXXJrGd1tcs64cvMg56i2ON4xoc",
         "nextPageToken": "EAAaHlBUOkNESWlFRFUyUWpRMFJqWkVNVEExTlRkRFF6WQ",
         "items": [
           {
@@ -14866,13 +14989,13 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 92,
+          "totalResults": 93,
           "resultsPerPage": 50
         }
       },
       {
         "kind": "youtube#playlistItemListResponse",
-        "etag": "I5RwjXxwG0UkxhFUvvxzEdO5_zg",
+        "etag": "vr11HuvxMuz9kRrDt-VoIl3KrZI",
         "prevPageToken": "EAEaHlBUOkNESWlFRFUyUWpRMFJqWkVNVEExTlRkRFF6WQ",
         "items": [
           {
@@ -16659,7 +16782,61 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "sRmexnZ_fnOoSeq-lXOIk2VAvSI",
+            "etag": "x3bU7Eb6ZmnuovQjGHvEM-iMtgU",
+            "id": "UExVSVhRWXgwcGNwTS5ERENFNTk4Q0Q2MTZDMTA5",
+            "snippet": {
+              "publishedAt": "2026-11-26T01:31:17Z",
+              "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+              "title": "Zohar - | The Throne Stands on Thanksgiving · Vayetze | Rav Eliyahu Bari",
+              "description": "This Thursday millions of people will sit down and try to say thank you for one evening. For a Jew, thanksgiving is not a holiday. It is our name: Yehudah, from \"This time I will thank Creator.\"\n\nIn this Thanksgiving-week drasha on Parshat Vayetze, Rabbi Eliyahu Bari opens the Zohar's teaching on hodaya: Leah's four sons are the four legs of the Divine Throne, and the Throne only stands with Yehudah. Creator gives through kindness, strength and harmony, but His Kingship stands in the world when the one who receives says, \"This is from You.\"\n\nWHAT THIS TALK COVERS:\n1. Our Name Is Thanksgiving (Bereishit 29:35; Berachot 7b)\nLeah names her fourth son Yehudah, and the Talmud says that from the creation of the world no one thanked Creator until Leah. Noah, Abraham and Eliezer all gave thanks, so what was new?\n\n2. More Than My Share (Rashi on Bereishit 29:35)\nLeah knew Jacob would have twelve sons from four wives. The fourth was more than her portion. Praise says \"Creator is great\"; thanks says \"I did not deserve this.\"\n\n3. The Throne Stands on Yehudah (Zohar I:154b-155a; Zohar I:237a)\nReuven, Shimon, Levi and Yehudah as Chesed, Gevurah, Tiferet and Malchut. Vata'amod, \"she stood\": with Yehudah the Throne stood on its legs. Kingship is given to Yehudah because he is the fourth leg, and \"Yehudah, your brothers shall thank you.\"\n\n4. Bowing in Modim (Berachot 12a; Zohar III:236b, Ra'aya Meheimna)\nWe bow at Baruch and straighten at the Name. Malchut starts out falling and the Name raises her. Only the one who bends in thanks can be lifted.\n\n5. Hodaah: To Thank Is to Admit (Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak)\nHodaah means both thanks and admission. Yehudah says of Tamar, \"She is more righteous than I.\" The person who can admit a mistake can say thank you.\n\n6. The Offering That Never Ends (Vayikra Rabbah 9:7)\nIn the time to come every offering will cease except the thanksgiving offering, because there will always be a Giver and a receiver. Closing: one \"hapa'am odeh\" at the Thanksgiving table, and Modeh Ani in the morning.\n\nSOURCES CITED:\n1. Bereishit 29:35 and Rashi there\n2. Talmud, Berachot 7b\n3. Zohar I:154b-155a (Vayetze)\n4. Zohar I:237a (Vayechi)\n5. Talmud, Berachot 12a; Shulchan Aruch, Orach Chaim 113:1\n6. Zohar III:236b (Pinchas, Ra'aya Meheimna)\n7. Bereishit 38:26; Rav Yitzchak Hutner, Pachad Yitzchak (Chanukah)\n8. Vayikra Rabbah 9:7\n\nSPEAKER:\nRabbi Eliyahu Bari shares Torah classes, parsha talks and teachings from the Zohar on building grounded, grateful and connected homes and communities.\n\n#Thanksgiving #Gratitude #Zohar #Vayetze #TorahPortion #RabbiEliyahuBari",
+              "thumbnails": {
+                "default": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
+                  "width": 120,
+                  "height": 90
+                },
+                "medium": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/mqdefault.jpg",
+                  "width": 320,
+                  "height": 180
+                },
+                "high": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
+                  "width": 480,
+                  "height": 360
+                },
+                "standard": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/sddefault.jpg",
+                  "width": 640,
+                  "height": 480
+                },
+                "maxres": {
+                  "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/maxresdefault.jpg",
+                  "width": 1280,
+                  "height": 720
+                }
+              },
+              "channelTitle": "Rabbi Eliyahu Bari",
+              "playlistId": "PLUIXQYx0pcpM",
+              "position": 83,
+              "resourceId": {
+                "kind": "youtube#video",
+                "videoId": "j9I-4ZyBKJw"
+              },
+              "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+              "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+            },
+            "contentDetails": {
+              "videoId": "j9I-4ZyBKJw",
+              "videoPublishedAt": "2026-11-26T01:40:17Z"
+            },
+            "status": {
+              "privacyStatus": "public"
+            }
+          },
+          {
+            "kind": "youtube#playlistItem",
+            "etag": "RQvDA0A3c4-wmHejptgAbTXznf0",
             "id": "UExVSVhRWXgwcGNwTS4xMzgwMzBERjQ4NjEzNUE5",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:31Z",
@@ -16669,7 +16846,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 83,
+              "position": 84,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "f-fldiV-iI8"
@@ -16684,7 +16861,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "8eIc8G8suPFM8VhueD4eaFujAmI",
+            "etag": "jmIjiUM3F5egnmx316OiLHZGrPA",
             "id": "UExVSVhRWXgwcGNwTS4zMEQ1MEIyRTFGNzhDQzFB",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:31Z",
@@ -16694,7 +16871,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 84,
+              "position": 85,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "Uwp_gICTrOY"
@@ -16709,7 +16886,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "-noOPgJyjxAvDl25uPaTeOpL834",
+            "etag": "bKGt2otBVSTf0Z2KFFbNN0_YHGY",
             "id": "UExVSVhRWXgwcGNwTS42Qzk5MkEzQjVFQjYwRDA4",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:31Z",
@@ -16719,7 +16896,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 85,
+              "position": 86,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "V9HLSkdw5wk"
@@ -16734,7 +16911,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "VJR3TZCiVvG3W1QBcF5bSG9C31Q",
+            "etag": "jOnfR9ZIekvUx0lFfTA-AWxtRFY",
             "id": "UExVSVhRWXgwcGNwTS41NTZEOThBNThFOUVGQkVB",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:32Z",
@@ -16744,7 +16921,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 86,
+              "position": 87,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "kyHMXaGfp_A"
@@ -16759,7 +16936,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "PBFjxWlnW8VOAfVwVdBnQYuL3FE",
+            "etag": "pvXtV5WnKQy1lDk0fnTuWGGk7TI",
             "id": "UExVSVhRWXgwcGNwTS43NERCMDIzQzFBMERCMEE3",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:32Z",
@@ -16769,7 +16946,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 87,
+              "position": 88,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "oiJceFE8zwM"
@@ -16784,7 +16961,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "YBbQCIMWRYLhNbC9Hy2PXL6rWVw",
+            "etag": "qFKtcfOMHXdxMzGuzMdWPVLtnnQ",
             "id": "UExVSVhRWXgwcGNwTS5GNjAwN0Y0QTFGOTVDMEMy",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:33Z",
@@ -16794,7 +16971,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 88,
+              "position": 89,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "MOrugV6TkZc"
@@ -16809,7 +16986,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "2gKpqkeD1tFZNh-f5I-MzybspCE",
+            "etag": "OW8eWqmcEAm8tO9I4rHtHzN9mUw",
             "id": "UExVSVhRWXgwcGNwTS5CQkEwRDA0MDkwNUM2MDY1",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:33Z",
@@ -16819,7 +16996,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 89,
+              "position": 90,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "S9iE1RdrBj8"
@@ -16834,7 +17011,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "TwzlqCnTpzwm3T2Vvx1dRw49zV0",
+            "etag": "borp5k_jhQ0UNrwtwvj3DrMKTI8",
             "id": "UExVSVhRWXgwcGNwTS4wNEU1MTI4NkZEMzVBN0JF",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:34Z",
@@ -16844,7 +17021,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 90,
+              "position": 91,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "ayghgglghGM"
@@ -16859,7 +17036,7 @@
           },
           {
             "kind": "youtube#playlistItem",
-            "etag": "0x9_hQqiIOb0BepIHA5IsF7jU0k",
+            "etag": "V1G4rmDGsDMSHeN2hDc5g7XjMj4",
             "id": "UExVSVhRWXgwcGNwTS4wMTYxQzVBRDI1NEVDQUZE",
             "snippet": {
               "publishedAt": "2026-06-15T23:09:35Z",
@@ -16869,7 +17046,7 @@
               "thumbnails": {},
               "channelTitle": "Rabbi Eliyahu Bari",
               "playlistId": "PLUIXQYx0pcpM",
-              "position": 91,
+              "position": 92,
               "resourceId": {
                 "kind": "youtube#video",
                 "videoId": "uYYSdWh74Nk"
@@ -16884,7 +17061,7 @@
           }
         ],
         "pageInfo": {
-          "totalResults": 92,
+          "totalResults": 93,
           "resultsPerPage": 50
         }
       }

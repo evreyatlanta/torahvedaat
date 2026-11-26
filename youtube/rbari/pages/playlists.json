@@ -1,13 +1,63 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "1L08At1J9v_1p5-wCDlHE2QpQjo",
+    "etag": "CKa3ZarPTwCOqoY6zpLkQt7NOp4",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 114,
+      "totalResults": 115,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "JXgHgcC0H8C9oAr2g1JI5rSbrDM",
+        "id": "PLQzIANYbzEIY",
+        "snippet": {
+          "publishedAt": "2026-11-26T01:32:27.658971731Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[EN] Vayetze",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "[EN] Vayetze",
+            "description": ""
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 1
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "G6B4SS_D4m7mgNU4bOw5WV7KrF4",
@@ -60,7 +110,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "M4hRMPsiN82j8jMD6eULAEZqG9A",
+        "etag": "eeXZ28WHSdVcSEIycxUw8fyLoGY",
         "id": "PLWxIcIz9Ryis",
         "snippet": {
           "publishedAt": "2026-11-23T01:10:43.993506146Z",
@@ -69,27 +119,27 @@
           "description": "Torah talks for community events: parsha teachings on family, parenting and community life with Rabbi Eliyahu Bari.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/default.jpg",
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/JjnXme7xM1U/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/j9I-4ZyBKJw/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -105,7 +155,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 1
+          "itemCount": 2
         }
       },
       {
@@ -2105,7 +2155,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "AwY3zHmIU0Ev60zGaUjaN6ZQUE8",
+        "etag": "JkrhE-mPAaJNDOhYM-WJE6BX_eI",
         "id": "PLUIXQYx0pcpM",
         "snippet": {
           "publishedAt": "2026-06-15T23:05:04.377737Z",
@@ -2150,7 +2200,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 92
+          "itemCount": 93
         }
       },
       {
@@ -2452,7 +2502,19 @@
         "contentDetails": {
           "itemCount": 9
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "U46pmJ-yxL2hyLTHBpsWMBmKjLA",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 115,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "oIqv8VRjK0x_ec0ksnOWa9HBLNw",
@@ -2502,19 +2564,7 @@
         "contentDetails": {
           "itemCount": 4
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "l20nfrUQ6TtQXFygSlideosVgqY",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 114,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "c70Q403rvaV8qRoxvv8LXSowATs",
@@ -4964,7 +5014,18 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "dGIoo7rCNlf_rR-jAsI3FsNdxjE",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 115,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "J7rFCBM1dPLlbjfKMb62oBcUs2I",
@@ -5014,18 +5075,7 @@
         "contentDetails": {
           "itemCount": 1
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "lMeG2veFSMhg0add6KYtTDpQkTY",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 114,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "tPOOnVG5g7Qj4ciwZNwxi5OPoyU",

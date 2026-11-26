@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "M0ihSTtR_RaOM6Yf7hMl_Kmy7qE",
+    "etag": "6xt6z8-v-GneqNYiHGkjRdm91pY",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
       "totalResults": 56,
@@ -10,7 +10,7 @@
     "items": [
       {
         "kind": "youtube#playlist",
-        "etag": "mgMVYrbadqYvHClwKfhgC8XvbA4",
+        "etag": "oWXWkRGZmR8LkNBBNg2dfJkk_60",
         "id": "PLW28qGxPmmbrZElca1SzLDg-AwqPCNxVh",
         "snippet": {
           "publishedAt": "2025-11-26T20:58:38.682502Z",
@@ -19,27 +19,27 @@
           "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/l5srL7r80TY/default.jpg",
+              "url": "https://i.ytimg.com/vi/M3EPYrKc64k/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/l5srL7r80TY/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3EPYrKc64k/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/l5srL7r80TY/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3EPYrKc64k/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/l5srL7r80TY/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3EPYrKc64k/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/l5srL7r80TY/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/M3EPYrKc64k/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -54,7 +54,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 41
+          "itemCount": 42
         }
       },
       {
@@ -108,7 +108,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "x44geHbm3GlH8Gr0ao-uqY7M7h8",
+        "etag": "3W45dZGXS1luSAUjV-8H5mTsjEc",
         "id": "PLW28qGxPmmbq4BmGgo058rN-vEuRqmYgR",
         "snippet": {
           "publishedAt": "2024-08-12T17:44:33.577274Z",
@@ -117,27 +117,27 @@
           "description": "",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/MvMLQB6hEus/default.jpg",
+              "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/MvMLQB6hEus/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/MvMLQB6hEus/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/MvMLQB6hEus/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/MvMLQB6hEus/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/7VIXZVrK6_Y/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -152,7 +152,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 94
+          "itemCount": 95
         }
       },
       {
