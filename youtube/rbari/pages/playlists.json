@@ -1,13 +1,117 @@
 [
   {
     "kind": "youtube#playlistListResponse",
-    "etag": "t-iG49pXrpRy0_l5j3qoaeWTNDQ",
+    "etag": "4m1IB7UPBXEREe_hWJkAr63oj9Q",
     "nextPageToken": "CDIQAA",
     "pageInfo": {
-      "totalResults": 115,
+      "totalResults": 117,
       "resultsPerPage": 50
     },
     "items": [
+      {
+        "kind": "youtube#playlist",
+        "etag": "IJ89AavZ8yk_cMi0GTTFnvVglT4",
+        "id": "PLF054Y4_3-BU",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:17:11.969369661Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[EN] Zohar Vayishlach | Rabbi Eliyahu Bari",
+          "description": "Why is Yaakov’s wrestling at night named after dust (avak)? What is the difference between barren ash and living earth?\n\nIn this 10-minute drashah, Rabbi Eliyahu Bari explores Zohar Vayishlach §§87–89 with Baal aSulam’s commentary: why avak never bears fruit while afar brings forth every blessing when united with Zeir Anpin, and why the accuser’s rule ends at dawn.\n\nClass:\n1. Dust and Earth: Wrestling Until Dawn\n\nSource: Zohar, Parshat Vayishlach, Section 5, §§87–89; printed pages 271–273.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "defaultLanguage": "en",
+          "localized": {
+            "title": "[EN] Zohar Vayishlach | Rabbi Eliyahu Bari",
+            "description": "Why is Yaakov’s wrestling at night named after dust (avak)? What is the difference between barren ash and living earth?\n\nIn this 10-minute drashah, Rabbi Eliyahu Bari explores Zohar Vayishlach §§87–89 with Baal aSulam’s commentary: why avak never bears fruit while afar brings forth every blessing when united with Zeir Anpin, and why the accuser’s rule ends at dawn.\n\nClass:\n1. Dust and Earth: Wrestling Until Dawn\n\nSource: Zohar, Parshat Vayishlach, Section 5, §§87–89; printed pages 271–273."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 2
+        }
+      },
+      {
+        "kind": "youtube#playlist",
+        "etag": "2gI0ywI4gTn3wZEfLGtH1HhTdIM",
+        "id": "PLdTk_jEHHUMI",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:08:47.756582167Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "[RU] Зоар Ваишлах — Борьба в ночи: от страха к имени Исраэль | Рав Элиягу Бари",
+          "description": "Сводная 10-минутная драша на русском языке по книге Зоар, глава Ваишлах (Берешит 32:4–33:10; Зоар I, 165б–171а) с комментарием Бааль aСулама. О ночной борьбе Яакова у реки Ябок, утрате власти тьмы на рассвете и о том, как внутренняя победа меняет внешнюю встречу.\n\nРав Элиягу Бари. Изучение книги Зоар на русском языке.",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "localized": {
+            "title": "[RU] Зоар Ваишлах — Борьба в ночи: от страха к имени Исраэль | Рав Элиягу Бари",
+            "description": "Сводная 10-минутная драша на русском языке по книге Зоар, глава Ваишлах (Берешит 32:4–33:10; Зоар I, 165б–171а) с комментарием Бааль aСулама. О ночной борьбе Яакова у реки Ябок, утрате власти тьмы на рассвете и о том, как внутренняя победа меняет внешнюю встречу.\n\nРав Элиягу Бари. Изучение книги Зоар на русском языке."
+          }
+        },
+        "status": {
+          "privacyStatus": "public"
+        },
+        "contentDetails": {
+          "itemCount": 2
+        }
+      },
       {
         "kind": "youtube#playlist",
         "etag": "3yt00VUwpwN2G-ohniuLQy9Wc48",
@@ -60,36 +164,36 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "UsXrOaEAaUZwdin2DRukHaTGteg",
+        "etag": "PSK2ienNfRwqHWi0iSPd6UoKIY4",
         "id": "PLI7DNuVBErJc",
         "snippet": {
-          "publishedAt": "2026-11-23T01:27:23.884257Z",
+          "publishedAt": "2026-11-23T01:27:23.884257845Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
           "description": "Выступления по недельным главам Торы о семье, воспитании детей и жизни общины с равом Элиягу Бари.",
           "thumbnails": {
             "default": {
-              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/default.jpg",
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/default.jpg",
               "width": 120,
               "height": 90
             },
             "medium": {
-              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/mqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/mqdefault.jpg",
               "width": 320,
               "height": 180
             },
             "high": {
-              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/hqdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/hqdefault.jpg",
               "width": 480,
               "height": 360
             },
             "standard": {
-              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/sddefault.jpg",
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/sddefault.jpg",
               "width": 640,
               "height": 480
             },
             "maxres": {
-              "url": "https://i.ytimg.com/vi/c7ldvYPaOKk/maxresdefault.jpg",
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/maxresdefault.jpg",
               "width": 1280,
               "height": 720
             }
@@ -105,7 +209,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 1
+          "itemCount": 2
         }
       },
       {
@@ -160,10 +264,10 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "C19kd4XF_AHPHZ6PEN_XittkPKQ",
+        "etag": "Bnas7bW0NWZ7fiqNn0BRKJriu5s",
         "id": "PLA5K_fTSz0L4",
         "snippet": {
-          "publishedAt": "2026-11-20T02:32:12.823034Z",
+          "publishedAt": "2026-11-20T02:32:12.823034453Z",
           "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
           "title": "[RU] Зоар Ваеце — лестница Яакова: сон, Тора и врата неба | Рав Элиягу Бари",
           "description": "Пять построчных уроков по Зоару, Ваеце, глава 11, Ситрей Тора. Сон и пророчество, лестница Яакова и Синай, служение ангелов, восхождение и нисхождение, врата неба. Арамейский оригинал, пояснения Сулама и наши примеры разграничены.\n\nУроки серии:\n1. Что связывает сон и пророчество\n2. Почему лестница ведёт к Синаю\n3. Кто ведёт ангелов по лестнице\n4. Почему ангелы поднимаются и спускаются\n5. Что такое врата неба\n\nРав Элиягу Бари. Изучение Зоара на русском языке.",
@@ -205,7 +309,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 4
+          "itemCount": 5
         }
       },
       {
@@ -2155,7 +2259,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "JkrhE-mPAaJNDOhYM-WJE6BX_eI",
+        "etag": "LLjBGo8WmhLLz6nlobdFGz5su3Y",
         "id": "PLUIXQYx0pcpM",
         "snippet": {
           "publishedAt": "2026-06-15T23:05:04.377737Z",
@@ -2200,12 +2304,12 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 93
+          "itemCount": 95
         }
       },
       {
         "kind": "youtube#playlist",
-        "etag": "w8hpBCiyN1so1au5mUrmexF8l7c",
+        "etag": "UrqimZZTY4A9EDt8BNP-x9N59gM",
         "id": "PLEpXRTckw6gw",
         "snippet": {
           "publishedAt": "2026-06-15T23:04:55.990129Z",
@@ -2250,7 +2354,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 112
+          "itemCount": 115
         }
       },
       {
@@ -2305,7 +2409,7 @@
       },
       {
         "kind": "youtube#playlist",
-        "etag": "b0-Yd4RSOU3rCyJpNwdzj53-yjA",
+        "etag": "LQbyAEgmLkKy-dMvnBBAccFy6zU",
         "id": "PLDKe3hTC3IludiafvzeX5e332vc69yG0T",
         "snippet": {
           "publishedAt": "2026-06-12T01:33:43.857992Z",
@@ -2350,7 +2454,7 @@
           "privacyStatus": "public"
         },
         "contentDetails": {
-          "itemCount": 60
+          "itemCount": 63
         }
       },
       {
@@ -2402,7 +2506,19 @@
         "contentDetails": {
           "itemCount": 7
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "kBd6gZsHRz-In-wDPIaSlSOGTTU",
+    "nextPageToken": "CGQQAA",
+    "prevPageToken": "CDIQAQ",
+    "pageInfo": {
+      "totalResults": 117,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "3S2VaAMm3EgxZcznhKTloCDk0ss",
@@ -2502,19 +2618,7 @@
         "contentDetails": {
           "itemCount": 9
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "U46pmJ-yxL2hyLTHBpsWMBmKjLA",
-    "nextPageToken": "CGQQAA",
-    "prevPageToken": "CDIQAQ",
-    "pageInfo": {
-      "totalResults": 115,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "oIqv8VRjK0x_ec0ksnOWa9HBLNw",
@@ -4914,7 +5018,18 @@
         "contentDetails": {
           "itemCount": 1
         }
-      },
+      }
+    ]
+  },
+  {
+    "kind": "youtube#playlistListResponse",
+    "etag": "OvZUJYdcLyG_T9rYbrIfU8NsV4g",
+    "prevPageToken": "CGQQAQ",
+    "pageInfo": {
+      "totalResults": 117,
+      "resultsPerPage": 50
+    },
+    "items": [
       {
         "kind": "youtube#playlist",
         "etag": "FaCqGJAanStrdVMblJ_AR0ZlCIo",
@@ -5014,18 +5129,7 @@
         "contentDetails": {
           "itemCount": 1
         }
-      }
-    ]
-  },
-  {
-    "kind": "youtube#playlistListResponse",
-    "etag": "dGIoo7rCNlf_rR-jAsI3FsNdxjE",
-    "prevPageToken": "CGQQAQ",
-    "pageInfo": {
-      "totalResults": 115,
-      "resultsPerPage": 50
-    },
-    "items": [
+      },
       {
         "kind": "youtube#playlist",
         "etag": "J7rFCBM1dPLlbjfKMb62oBcUs2I",

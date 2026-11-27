@@ -1,6 +1,286 @@
 [
   {
     "kind": "youtube#playlistItem",
+    "etag": "6kjhv0vpdXCl2DBijbWSr3IYQKk",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkJFdjdHR01pd3FN",
+    "snippet": {
+      "publishedAt": "2026-11-27T02:24:57Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Zohar Vayishlach: Wrestling the Night — From Fear to Israel | Rav Eliyahu Bari",
+      "description": "Why do our fears feel largest in the middle of the night—and what changes when morning comes? In this 10-minute consolidated English drashah on Zohar Parshat Vayishlach, Rav Eliyahu Bari brings the Zohar’s deep teaching on Yaakov’s nocturnal struggle into clear, relatable language while preserving the depth of the text and Baal aSulam’s commentary.\n\nIn this drashah:\n• Why Yaakov had to be 'left alone' across the Yabok even though he was surrounded by holiness\n• Why opposing spiritual forces only have power in the 'night' and flee at dawn\n• Why Yaakov refused to let go without a blessing—and became Israel\n• How winning the inner battle in the dark transforms the meeting with Esav in the daylight\n\nSource: Zohar, Parshat Vayishlach (Zohar I, 165b–171a; Bereshit 32:4–33:10), with Baal aSulam commentary.\nRav Eliyahu Bari.\n\n#Zohar #Vayishlach #RavEliyahuBari",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "BEv7GGMiwqM"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "BEv7GGMiwqM",
+      "videoPublishedAt": "2026-11-27T02:24:57Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "TXPOmmslE3jETSUFBvXrUmwiGXk",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmYxbkhjbi1OaVNN",
+    "snippet": {
+      "publishedAt": "2026-11-27T02:18:42Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Dust and Earth: Wrestling Until Dawn | Zohar Vayishlach | Rabbi Eliyahu Bari",
+      "description": "Why does the Torah call Yaakov’s night struggle ‘vaye’avek’—from the word avak (dust)?\n\nIn this 10-minute Zohar Vayishlach drashah, Rabbi Eliyahu Bari explores §§87–89 with Baal aSulam’s Perush HaSulam. Rabbi Shimon contrasts barren dust (avak—ash left from fire that never bears fruit) with living earth (afar—the humble vessel, Nukva, that brings forth every blessing when united with Zeir Anpin). We learn why Samael rides upon barren dust to accuse Yaakov in the night of exile, and why that dominion vanishes at daybreak.\n\nSource: Zohar, Parshat Vayishlach, Section 5, §§87–89; printed pages 271–273. Tanakh citations: Bereishit 32:25, I Shmuel 2:8, Kohelet 3:20, Daniel 7:27.\n\n#Zohar #Vayishlach #BaalHaSulam #RabbiEliyahuBari",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "f1nHcn-NiSM"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "f1nHcn-NiSM",
+      "videoPublishedAt": "2026-11-27T02:18:42Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "1WuLE5ZPRujkLjs7wzRLh-sFatY",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjltdjA4TEVJMllv",
+    "snippet": {
+      "publishedAt": "2026-11-27T02:12:01Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Пыль и земля: борьба до рассвета | Зоар Ваишлах | Рав Элиягу Бари",
+      "description": "Почему Тора называет ночную борьбу Яакова словом «вайеавек» — от корня «авак» (пыль)?\n\nВ этой 10-минутной драше по Зоару (глава Ваишлах §§87–89) с комментарием Бааль аСулама Рав Элиягу Бари раскрывает различие между бесплодной золой (авак) и живой землёй (афар). Узнаем, почему без Света Творца душа подобна тёмной луне, как в единстве с Зеир Анпином рождаются плоды благословения в семье и делах, и почему власть ночи исчезает на рассвете.\n\nИсточник: Зоар, Ваишлах, раздел 5, §§87–89; печатные страницы 271–273. Стихи Танаха: Берешит 32:25, Шмуэль I 2:8, Коэлет 3:20, Даниэль 7:27.\n\n#Зоар #Ваишлах #БаальАСулам #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9mv08LEI2Yo"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "9mv08LEI2Yo",
+      "videoPublishedAt": "2026-11-27T02:12:01Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "uRN_vSgL0xRtTFvV-RpfnimGqCU",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmZWcXZqSjR2dk93",
+    "snippet": {
+      "publishedAt": "2026-11-27T02:09:56Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Зоар Ваишлах: Борьба в ночи — от страха к имени Исраэль | Рав Элиягу Бари",
+      "description": "Почему страхи кажутся самыми большими посреди ночи — и что меняется с приходом утра? В этой 10-минутной сводной драше по книге Зоар на недельную главу Ваишлах рав Элиягу Бари раскрывает учение Зоара и Бааль aСулама о ночной борьбе Яакова простым и близким каждому языком.\n\nВ этом уроке:\n• Почему Яаков остался один у реки Ябок, хотя его окружали Шхина и ангелы\n• Почему силы страха и Ситра Ахра имеют власть только в ночи и отступают на рассвете\n• Почему Яаков не отпустил испытание без благословения и получил имя Исраэль\n• Как победа внутри в темноте изменила встречу с Эсавом при свете дня\n\nИсточник: Зоар, глава Ваишлах (Зоар I, 165б–171а; Берешит 32:4–33:10), комментарий Бааль aСулама.\nРав Элиягу Бари.\n\n#Зоар #Ваишлах #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        "fhd": {
+          "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/fhddefault.jpg",
+          "width": 1920,
+          "height": 1080
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "fVqvjJ4vvOw"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "fVqvjJ4vvOw",
+      "videoPublishedAt": "2026-11-27T02:09:56Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "bxeQlpiDhlpzwYWj4XZbiUyjwaw",
+    "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjViVlVKQk9XdVVF",
+    "snippet": {
+      "publishedAt": "2026-11-27T02:02:27Z",
+      "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+      "title": "Почему благодарность держит Престол | Престол стоит на благодарности · Ваеце | Рав Элиягу Бари",
+      "description": "В День благодарения миллионы людей садятся за стол и хотя бы на один вечер стараются сказать «спасибо». Для еврея благодарность — не праздник. Это наше имя: Йеуда, от слов «На этот раз возблагодарю Всевышнего».\n\nВ этой драше к неделе Дня благодарения, по главе Ваеце, рав Элиягу Бари раскрывает учение Зоара о ходае — благодарности: четыре сына Леи — четыре ножки Б-жественного Престола, и Престол встаёт только с Йеудой. Всевышний даёт через милость, строгость и гармонию, но Его Царство встаёт в мире тогда, когда получающий говорит: «Это от Тебя».\n\nО ЧЁМ ЭТА ДРАША:\n1. Наше имя — благодарность (Берешит 29:35; Брахот 7б)\nЛея называет четвёртого сына Йеудой, и Талмуд говорит: с сотворения мира никто не благодарил Всевышнего, пока не пришла Лея. Но ведь Ноах, Авраам и Элиэзер благодарили — что же нового принесла Лея?\n\n2. Сверх моей доли (Раши на Берешит 29:35)\nЛея знала, что у Яакова будет двенадцать сыновей от четырёх жён. Четвёртый сын был сверх её доли. Хвала говорит: «Всевышний велик»; благодарность говорит: «Я этого не заслужил».\n\n3. Престол встаёт на Йеуде (Зоар I:154б–155а; Зоар I:237а)\nРеувен, Шимон, Леви и Йеуда — Хесед, Гвура, Тиферет и Малхут. «Ватаамод» — «и встала»: с Йеудой Престол встал на свои опоры. Царство дано Йеуде, потому что он — четвёртая ножка, и «Йеуда, тебя восхвалят братья твои».\n\n4. Поклон в «Модим» (Брахот 12а; Зоар III:236б, Рая мегемна)\nКланяются на слове «Барух» и выпрямляются на Имени. Малхут вначале «падает», и Имя поднимает её. Поднять можно только того, кто склонился в благодарности.\n\n5. Ходаа: благодарить — значит признать (Берешит 38:26; рав Ицхак Хутнер, «Пахад Ицхак»)\nХодаа — это и благодарность, и признание. Йеуда говорит о Тамар: «Она праведнее меня». Кто умеет признать ошибку, сумеет сказать «спасибо».\n\n6. Жертва, которая не прекратится (Ваикра Раба 9:7)\nВ грядущем отменятся все жертвы, кроме благодарственной: всегда будут Дающий и получающий. В завершение — одно «а-паам оде» за праздничным столом и «Моде ани» утром.\n\nИСТОЧНИКИ:\n1. Берешит 29:35 и Раши там\n2. Талмуд, Брахот 7б\n3. Зоар I:154б–155а (Ваеце)\n4. Зоар I:237а (Ваехи)\n5. Талмуд, Брахот 12а; Шульхан Арух, Орах Хаим 113:1\n6. Зоар III:236б (Пинхас, Рая мегемна)\n7. Берешит 38:26; рав Ицхак Хутнер, «Пахад Ицхак» (Ханука)\n8. Ваикра Раба 9:7\n\nО ЛЕКТОРЕ:\nРав Элиягу Бари ведёт уроки Торы, беседы по недельной главе и занятия по книге Зоар — о том, как строить дом и общину на благодарности и близости.\n\n#ДеньБлагодарения #Благодарность #Зоар #Ваеце #НедельнаяГлава #РавЭлиягуБари",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Rabbi Eliyahu Bari",
+      "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5bVUJBOWuUE"
+      },
+      "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+      "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+    },
+    "contentDetails": {
+      "videoId": "5bVUJBOWuUE",
+      "videoPublishedAt": "2026-11-27T02:02:27Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
     "etag": "FIGj5g050DXGpjnYF3q2q-kDDZk",
     "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmo5SS00WnlCS0p3",
     "snippet": {

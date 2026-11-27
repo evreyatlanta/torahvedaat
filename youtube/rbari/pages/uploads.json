@@ -1,12 +1,292 @@
 [
   {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "X0RqTlZAZX9BsUxGSsioALmXiiI",
-    "nextPageToken": "EAAaHlBUOkNESWlFRUZETVVFeVJqVkJPRFE0TWtFM05EVQ",
+    "etag": "fH0t7f18xbq3vLnbhAbzgQcpXso",
+    "nextPageToken": "EAAaHlBUOkNESWlFRVpDTWpSQ016bENSRU5FTUVZMk1FUQ",
     "items": [
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ii8hZa9kgtRRk9skgjiH50DnZvs",
+        "etag": "6kjhv0vpdXCl2DBijbWSr3IYQKk",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkJFdjdHR01pd3FN",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:24:57Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Zohar Vayishlach: Wrestling the Night — From Fear to Israel | Rav Eliyahu Bari",
+          "description": "Why do our fears feel largest in the middle of the night—and what changes when morning comes? In this 10-minute consolidated English drashah on Zohar Parshat Vayishlach, Rav Eliyahu Bari brings the Zohar’s deep teaching on Yaakov’s nocturnal struggle into clear, relatable language while preserving the depth of the text and Baal aSulam’s commentary.\n\nIn this drashah:\n• Why Yaakov had to be 'left alone' across the Yabok even though he was surrounded by holiness\n• Why opposing spiritual forces only have power in the 'night' and flee at dawn\n• Why Yaakov refused to let go without a blessing—and became Israel\n• How winning the inner battle in the dark transforms the meeting with Esav in the daylight\n\nSource: Zohar, Parshat Vayishlach (Zohar I, 165b–171a; Bereshit 32:4–33:10), with Baal aSulam commentary.\nRav Eliyahu Bari.\n\n#Zohar #Vayishlach #RavEliyahuBari",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/BEv7GGMiwqM/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 0,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "BEv7GGMiwqM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "BEv7GGMiwqM",
+          "videoPublishedAt": "2026-11-27T02:24:57Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "TXPOmmslE3jETSUFBvXrUmwiGXk",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmYxbkhjbi1OaVNN",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:18:42Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Dust and Earth: Wrestling Until Dawn | Zohar Vayishlach | Rabbi Eliyahu Bari",
+          "description": "Why does the Torah call Yaakov’s night struggle ‘vaye’avek’—from the word avak (dust)?\n\nIn this 10-minute Zohar Vayishlach drashah, Rabbi Eliyahu Bari explores §§87–89 with Baal aSulam’s Perush HaSulam. Rabbi Shimon contrasts barren dust (avak—ash left from fire that never bears fruit) with living earth (afar—the humble vessel, Nukva, that brings forth every blessing when united with Zeir Anpin). We learn why Samael rides upon barren dust to accuse Yaakov in the night of exile, and why that dominion vanishes at daybreak.\n\nSource: Zohar, Parshat Vayishlach, Section 5, §§87–89; printed pages 271–273. Tanakh citations: Bereishit 32:25, I Shmuel 2:8, Kohelet 3:20, Daniel 7:27.\n\n#Zohar #Vayishlach #BaalHaSulam #RabbiEliyahuBari",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/f1nHcn-NiSM/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 1,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "f1nHcn-NiSM"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "f1nHcn-NiSM",
+          "videoPublishedAt": "2026-11-27T02:18:42Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "1WuLE5ZPRujkLjs7wzRLh-sFatY",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjltdjA4TEVJMllv",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:12:01Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Пыль и земля: борьба до рассвета | Зоар Ваишлах | Рав Элиягу Бари",
+          "description": "Почему Тора называет ночную борьбу Яакова словом «вайеавек» — от корня «авак» (пыль)?\n\nВ этой 10-минутной драше по Зоару (глава Ваишлах §§87–89) с комментарием Бааль аСулама Рав Элиягу Бари раскрывает различие между бесплодной золой (авак) и живой землёй (афар). Узнаем, почему без Света Творца душа подобна тёмной луне, как в единстве с Зеир Анпином рождаются плоды благословения в семье и делах, и почему власть ночи исчезает на рассвете.\n\nИсточник: Зоар, Ваишлах, раздел 5, §§87–89; печатные страницы 271–273. Стихи Танаха: Берешит 32:25, Шмуэль I 2:8, Коэлет 3:20, Даниэль 7:27.\n\n#Зоар #Ваишлах #БаальАСулам #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9mv08LEI2Yo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 2,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "9mv08LEI2Yo"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "9mv08LEI2Yo",
+          "videoPublishedAt": "2026-11-27T02:12:01Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "uRN_vSgL0xRtTFvV-RpfnimGqCU",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmZWcXZqSjR2dk93",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:09:56Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Зоар Ваишлах: Борьба в ночи — от страха к имени Исраэль | Рав Элиягу Бари",
+          "description": "Почему страхи кажутся самыми большими посреди ночи — и что меняется с приходом утра? В этой 10-минутной сводной драше по книге Зоар на недельную главу Ваишлах рав Элиягу Бари раскрывает учение Зоара и Бааль aСулама о ночной борьбе Яакова простым и близким каждому языком.\n\nВ этом уроке:\n• Почему Яаков остался один у реки Ябок, хотя его окружали Шхина и ангелы\n• Почему силы страха и Ситра Ахра имеют власть только в ночи и отступают на рассвете\n• Почему Яаков не отпустил испытание без благословения и получил имя Исраэль\n• Как победа внутри в темноте изменила встречу с Эсавом при свете дня\n\nИсточник: Зоар, глава Ваишлах (Зоар I, 165б–171а; Берешит 32:4–33:10), комментарий Бааль aСулама.\nРав Элиягу Бари.\n\n#Зоар #Ваишлах #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            },
+            "fhd": {
+              "url": "https://i.ytimg.com/vi/fVqvjJ4vvOw/fhddefault.jpg",
+              "width": 1920,
+              "height": 1080
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 3,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "fVqvjJ4vvOw"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "fVqvjJ4vvOw",
+          "videoPublishedAt": "2026-11-27T02:09:56Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "bxeQlpiDhlpzwYWj4XZbiUyjwaw",
+        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjViVlVKQk9XdVVF",
+        "snippet": {
+          "publishedAt": "2026-11-27T02:02:27Z",
+          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
+          "title": "Почему благодарность держит Престол | Престол стоит на благодарности · Ваеце | Рав Элиягу Бари",
+          "description": "В День благодарения миллионы людей садятся за стол и хотя бы на один вечер стараются сказать «спасибо». Для еврея благодарность — не праздник. Это наше имя: Йеуда, от слов «На этот раз возблагодарю Всевышнего».\n\nВ этой драше к неделе Дня благодарения, по главе Ваеце, рав Элиягу Бари раскрывает учение Зоара о ходае — благодарности: четыре сына Леи — четыре ножки Б-жественного Престола, и Престол встаёт только с Йеудой. Всевышний даёт через милость, строгость и гармонию, но Его Царство встаёт в мире тогда, когда получающий говорит: «Это от Тебя».\n\nО ЧЁМ ЭТА ДРАША:\n1. Наше имя — благодарность (Берешит 29:35; Брахот 7б)\nЛея называет четвёртого сына Йеудой, и Талмуд говорит: с сотворения мира никто не благодарил Всевышнего, пока не пришла Лея. Но ведь Ноах, Авраам и Элиэзер благодарили — что же нового принесла Лея?\n\n2. Сверх моей доли (Раши на Берешит 29:35)\nЛея знала, что у Яакова будет двенадцать сыновей от четырёх жён. Четвёртый сын был сверх её доли. Хвала говорит: «Всевышний велик»; благодарность говорит: «Я этого не заслужил».\n\n3. Престол встаёт на Йеуде (Зоар I:154б–155а; Зоар I:237а)\nРеувен, Шимон, Леви и Йеуда — Хесед, Гвура, Тиферет и Малхут. «Ватаамод» — «и встала»: с Йеудой Престол встал на свои опоры. Царство дано Йеуде, потому что он — четвёртая ножка, и «Йеуда, тебя восхвалят братья твои».\n\n4. Поклон в «Модим» (Брахот 12а; Зоар III:236б, Рая мегемна)\nКланяются на слове «Барух» и выпрямляются на Имени. Малхут вначале «падает», и Имя поднимает её. Поднять можно только того, кто склонился в благодарности.\n\n5. Ходаа: благодарить — значит признать (Берешит 38:26; рав Ицхак Хутнер, «Пахад Ицхак»)\nХодаа — это и благодарность, и признание. Йеуда говорит о Тамар: «Она праведнее меня». Кто умеет признать ошибку, сумеет сказать «спасибо».\n\n6. Жертва, которая не прекратится (Ваикра Раба 9:7)\nВ грядущем отменятся все жертвы, кроме благодарственной: всегда будут Дающий и получающий. В завершение — одно «а-паам оде» за праздничным столом и «Моде ани» утром.\n\nИСТОЧНИКИ:\n1. Берешит 29:35 и Раши там\n2. Талмуд, Брахот 7б\n3. Зоар I:154б–155а (Ваеце)\n4. Зоар I:237а (Ваехи)\n5. Талмуд, Брахот 12а; Шульхан Арух, Орах Хаим 113:1\n6. Зоар III:236б (Пинхас, Рая мегемна)\n7. Берешит 38:26; рав Ицхак Хутнер, «Пахад Ицхак» (Ханука)\n8. Ваикра Раба 9:7\n\nО ЛЕКТОРЕ:\nРав Элиягу Бари ведёт уроки Торы, беседы по недельной главе и занятия по книге Зоар — о том, как строить дом и общину на благодарности и близости.\n\n#ДеньБлагодарения #Благодарность #Зоар #Ваеце #НедельнаяГлава #РавЭлиягуБари",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/5bVUJBOWuUE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
+          "channelTitle": "Rabbi Eliyahu Bari",
+          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
+          "position": 4,
+          "resourceId": {
+            "kind": "youtube#video",
+            "videoId": "5bVUJBOWuUE"
+          },
+          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
+          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
+        },
+        "contentDetails": {
+          "videoId": "5bVUJBOWuUE",
+          "videoPublishedAt": "2026-11-27T02:02:27Z"
+        },
+        "status": {
+          "privacyStatus": "public"
+        }
+      },
+      {
+        "kind": "youtube#playlistItem",
+        "etag": "ArPzmXnuEZ4cs8d3ACmbxzagb5g",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmo5SS00WnlCS0p3",
         "snippet": {
           "publishedAt": "2026-11-26T01:40:17Z",
@@ -42,7 +322,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 0,
+          "position": 5,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "j9I-4ZyBKJw"
@@ -60,7 +340,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "uAzWjyTduwaGxzcjNNeAvwwuZ0A",
+        "etag": "YWA5180mRxA9qqEWzPnK8gGL0uI",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnk5Qk1VSmt3aTEw",
         "snippet": {
           "publishedAt": "2026-11-25T01:26:31Z",
@@ -96,7 +376,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 1,
+          "position": 6,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "y9BMUJkwi10"
@@ -114,7 +394,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QCsN_ayH1ZPLLSs_AwlMovGY844",
+        "etag": "cyUFMPjL5WzVr2m3cJ3MbeKuAAc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmM3bGR2WVBhT0tr",
         "snippet": {
           "publishedAt": "2026-11-23T01:30:22Z",
@@ -150,7 +430,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 2,
+          "position": 7,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "c7ldvYPaOKk"
@@ -168,7 +448,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "4fpZqJtlxwOM6O0FdLwwc7WTSNo",
+        "etag": "f1Z8aP_vecMyxC_OrkjifxXWlWs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkpqblhtZTd4TTFV",
         "snippet": {
           "publishedAt": "2026-11-23T01:15:22Z",
@@ -204,7 +484,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 3,
+          "position": 8,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "JjnXme7xM1U"
@@ -222,7 +502,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VzBXWGiMz5nCDpvCdvXV5RlEIWo",
+        "etag": "nSHcNu4F_5B97IGfY4EiKy6WjiQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkppSHRnV2JiWE5r",
         "snippet": {
           "publishedAt": "2026-11-20T03:08:49Z",
@@ -258,7 +538,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 4,
+          "position": 9,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "JiHtgWbbXNk"
@@ -276,7 +556,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "RN0SkaH6t6xWBm-phNqyJmt46uc",
+        "etag": "Ox8s2XPdlTxppmRicBZFL0-M4pI",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlhhbFVoLXBWdm9z",
         "snippet": {
           "publishedAt": "2026-11-20T02:40:42Z",
@@ -312,7 +592,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 5,
+          "position": 10,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "XalUh-pVvos"
@@ -330,7 +610,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "yainATXHlIZ7hfX8kQVRY9fz_JQ",
+        "etag": "Mn5XkbrbO4BHz0hDWEhXyz0AySU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjliWFlBa2RkcVpn",
         "snippet": {
           "publishedAt": "2026-11-20T02:38:12Z",
@@ -366,7 +646,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 6,
+          "position": 11,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "9bXYAkddqZg"
@@ -384,7 +664,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Tb6BZO6JAMoBuVnreaRnkcAhkEk",
+        "etag": "5uOKBtZSYA2cqFPyCnFeFSyLGv8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjB4SnI4SzRZNElv",
         "snippet": {
           "publishedAt": "2026-11-20T02:36:11Z",
@@ -420,7 +700,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 7,
+          "position": 12,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "0xJr8K4Y4Io"
@@ -438,7 +718,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "NSZVIubZJh8_l-qBSGkL-gqMruc",
+        "etag": "Urg9oRdCgpP5FWsQrPbsS4cDQzw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm1NZ05zanFnendF",
         "snippet": {
           "publishedAt": "2026-11-20T02:33:56Z",
@@ -474,7 +754,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 8,
+          "position": 13,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "mMgNsjqgzwE"
@@ -492,7 +772,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "rKXv8oGh1Eo5LEsuovTslKcS52c",
+        "etag": "Xxm8803EaUF1iRI3inPFXjqunGM",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmk4TnNoRmd2YkM4",
         "snippet": {
           "publishedAt": "2026-11-18T01:46:57Z",
@@ -528,7 +808,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 9,
+          "position": 14,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "i8NshFgvbC8"
@@ -546,7 +826,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1_zbNCDrn6UOjJnJ87mc4fug93E",
+        "etag": "uG--q8jvn5CDot-MRAp4cud19IA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmpSMVlzZExweUV3",
         "snippet": {
           "publishedAt": "2026-11-12T01:01:18Z",
@@ -582,7 +862,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 10,
+          "position": 15,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "jR1YsdLpyEw"
@@ -600,7 +880,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "b25njaMZdoHeZo_6m_JRb7PYV7E",
+        "etag": "OR-o-6WcgV0HAkqVqKr013yHIyA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlNKM3BuVGVwaXow",
         "snippet": {
           "publishedAt": "2026-11-12T00:57:26Z",
@@ -636,7 +916,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 11,
+          "position": 16,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "SJ3pnTepiz0"
@@ -654,7 +934,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "PbOPYqrp0uGKB2DYvKN5KbWHSKo",
+        "etag": "WKiX97yLS_eYJAlFd8ydX8pkago",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk80NnFQcEEyZW9F",
         "snippet": {
           "publishedAt": "2026-11-12T00:55:34Z",
@@ -690,7 +970,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 12,
+          "position": 17,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "O46qPpA2eoE"
@@ -708,7 +988,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "AvbR0AldM29MXffBzlLufZEFfpQ",
+        "etag": "0W7vE3uQRKEfPskIdDcnGSqlUOE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLi1NeVVRMFMwX2dz",
         "snippet": {
           "publishedAt": "2026-11-12T00:54:20Z",
@@ -744,7 +1024,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 13,
+          "position": 18,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "-MyUQ0S0_gs"
@@ -762,7 +1042,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Ls32UPn1ewFDBA73ENDhprowCm4",
+        "etag": "GRjv6WxyE_P-TrlqQ2LtAM6QhLs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmZfNGNsTjFDT3Jz",
         "snippet": {
           "publishedAt": "2026-11-12T00:50:40Z",
@@ -798,7 +1078,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 14,
+          "position": 19,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "f_4clN1COrs"
@@ -816,7 +1096,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "flYbC8tQMoNKNJAf6tM8mN2YFU8",
+        "etag": "hfltf9WbSwaw0Kyikr5DMrh6Nsg",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLi1aVHZzTHVOanpr",
         "snippet": {
           "publishedAt": "2026-11-11T01:40:35Z",
@@ -852,7 +1132,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 15,
+          "position": 20,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "-ZTvsLuNjzk"
@@ -870,7 +1150,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Oi4vdOXlFeogHV97qEJDkZ7Ums0",
+        "etag": "jkvMAL-IXAG3MIR5IyQKtET8-88",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLng1bDhYRFp0R2Zr",
         "snippet": {
           "publishedAt": "2026-11-06T02:33:10Z",
@@ -906,7 +1186,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 16,
+          "position": 21,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "x5l8XDZtGfk"
@@ -924,7 +1204,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "tIyp0NELk3ofI4GjkqVTAAhzKTk",
+        "etag": "IIO_iMSyeAeTjSJsMq_Y9AqIxpc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9Ba2VDT1dWc2F3",
         "snippet": {
           "publishedAt": "2026-11-06T02:31:02Z",
@@ -960,7 +1240,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 17,
+          "position": 22,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OAkeCOWVsaw"
@@ -978,7 +1258,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "_ACFJ7M5aTmjspGicCSKSH0Xbl0",
+        "etag": "VlIIEkFVOtUsZA5vfP3o6Ca3jz8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFpTEFwRWR5dDZ3",
         "snippet": {
           "publishedAt": "2026-11-06T02:28:59Z",
@@ -1014,7 +1294,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 18,
+          "position": 23,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qiLApEdyt6w"
@@ -1032,7 +1312,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OWW0MPpi2rirELdadwQz68QccOM",
+        "etag": "ia7nTtn1IfxoY1nxfFqNWOhyGHU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlQ0OXhKa1pDNEhF",
         "snippet": {
           "publishedAt": "2026-11-06T02:25:45Z",
@@ -1068,7 +1348,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 19,
+          "position": 24,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "T49xJkZC4HE"
@@ -1086,7 +1366,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "IkW1gzUE_XmWc54qU6-KzTgeHGg",
+        "etag": "-HaAD04Qd4cZucTvLhBljwqCusk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlA1SFpYWFFteXE0",
         "snippet": {
           "publishedAt": "2026-11-06T02:23:38Z",
@@ -1122,7 +1402,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 20,
+          "position": 25,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "P5HZXXQmyq4"
@@ -1140,7 +1420,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "mth9Cu4jZciRlP3e_cilRwdPNnM",
+        "etag": "6kigi916G-TIIm8GYIjAcUrJ-Y8",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpkTEZDZ2xUa1B3",
         "snippet": {
           "publishedAt": "2026-11-05T01:14:13Z",
@@ -1176,7 +1456,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 21,
+          "position": 26,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ZdLFCglTkPw"
@@ -1194,7 +1474,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "yrU2q-ylFOYnCghk9UaNKbFK_XY",
+        "etag": "QBvmyIFSloPjhRHnRi9RroKgAYI",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmQ1UFNsV1h6ZWpZ",
         "snippet": {
           "publishedAt": "2026-11-04T01:28:38Z",
@@ -1230,7 +1510,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 22,
+          "position": 27,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "d5PSlWXzejY"
@@ -1248,7 +1528,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "62rflU271sts6qK3pLLFvRw47-8",
+        "etag": "Nf86xuRJMehGrjlLEwSMHhiQYTw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9vc2x2UWJZaG9V",
         "snippet": {
           "publishedAt": "2026-10-22T11:20:25Z",
@@ -1284,7 +1564,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 23,
+          "position": 28,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OoslvQbYhoU"
@@ -1302,7 +1582,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "tBovGoXF4oo4xKzcDc_xSmF3oHs",
+        "etag": "Qr9q7nFQfXkj4AY5qW6InzIyihM",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk9VMWFockl2aEY4",
         "snippet": {
           "publishedAt": "2026-10-22T11:15:17Z",
@@ -1338,7 +1618,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 24,
+          "position": 29,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OU1ahrIvhF8"
@@ -1356,7 +1636,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "FTd5OhXsGqAICSuSgDr67N0b-VY",
+        "etag": "-KR9QS-OjPpeBA_jo39EZ_zHMew",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnYzU3pjbTJGVnJB",
         "snippet": {
           "publishedAt": "2026-10-22T11:10:16Z",
@@ -1392,7 +1672,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 25,
+          "position": 30,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "v3Szcm2FVrA"
@@ -1410,7 +1690,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "egCKE_mko3tc6rl3thKpCCUM6yg",
+        "etag": "EskzEwHUbPGSVY6pUk7sI3azi2w",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjdYMXVPQTE2QXVz",
         "snippet": {
           "publishedAt": "2026-10-22T11:05:26Z",
@@ -1446,7 +1726,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 26,
+          "position": 31,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "7X1uOA16Aus"
@@ -1464,7 +1744,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "6YVf2_OJVwA3v7WqNjl3aEj6gKE",
+        "etag": "aRNqPcptZi8N4ansh2cSnq7-rD4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkUyYURDNGhNbjRJ",
         "snippet": {
           "publishedAt": "2026-10-22T11:00:02Z",
@@ -1500,7 +1780,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 27,
+          "position": 32,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E2aDC4hMn4I"
@@ -1518,7 +1798,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "gFPR9gsrzVEGifTYeZ1pGm7Cd_s",
+        "etag": "V3DMCqLkkRl3uwmaakVIUgf7bGs",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkRxS3g2YzRabTc0",
         "snippet": {
           "publishedAt": "2026-10-16T02:02:55Z",
@@ -1554,7 +1834,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 28,
+          "position": 33,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "DqKx6c4Zm74"
@@ -1572,7 +1852,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "biZkBnirALgyUR8bAlylc9LvKT0",
+        "etag": "o7Hdid9RVknIzGavrdA-qM043ws",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmUzZl9XQlZwWGdF",
         "snippet": {
           "publishedAt": "2026-10-16T02:00:59Z",
@@ -1608,7 +1888,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 29,
+          "position": 34,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "e3f_WBVpXgE"
@@ -1626,7 +1906,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "NReMrJs3Vv0OOM_WP1lsYWJx3pw",
+        "etag": "jsg-ht6aVJCwfaTOMRulJLqm7EY",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndZWG56c2FLLUVN",
         "snippet": {
           "publishedAt": "2026-10-16T01:58:37Z",
@@ -1662,7 +1942,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 30,
+          "position": 35,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wYXnzsaK-EM"
@@ -1680,7 +1960,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "HJEQTGOVs1EvRcRrh_rKIum_CD8",
+        "etag": "2Keb1ATzRnghpnDYLxAneXfSPkM",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9iUXpJdktEc2ZZ",
         "snippet": {
           "publishedAt": "2026-10-16T01:55:11Z",
@@ -1716,7 +1996,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 31,
+          "position": 36,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_bQzIvKDsfY"
@@ -1734,7 +2014,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "JMLxF3vd3yDI_HC3S6pyiRDbzCU",
+        "etag": "HW8l_bWr0cet2YjAwnglPaG1Vs0",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnFGMURIQWNiczUw",
         "snippet": {
           "publishedAt": "2026-10-16T01:51:53Z",
@@ -1770,7 +2050,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 32,
+          "position": 37,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "qF1DHAcbs50"
@@ -1788,7 +2068,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "4m-gSI0wQXagBhMfaQkA8CJrR9U",
+        "etag": "ggD7M8bYnLfD959iI0y5OazydUQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkVwR3NqeTZmSVBR",
         "snippet": {
           "publishedAt": "2026-10-14T00:59:48Z",
@@ -1829,7 +2109,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 33,
+          "position": 38,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "EpGsjy6fIPQ"
@@ -1847,7 +2127,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "WciHT0Cw0U14mH2wBGwvWXS1nt4",
+        "etag": "Cmk11Vp2giuw_qOTvpeIDqFOJBA",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm53VVVlWHhBNE1n",
         "snippet": {
           "publishedAt": "2026-10-09T02:09:15Z",
@@ -1883,7 +2163,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 34,
+          "position": 39,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "nwUUeXxA4Mg"
@@ -1901,7 +2181,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "x-PXDuIHn3YQEZFsHo7Qn2TW7eg",
+        "etag": "PO3dtt63PnxoPdA2bzPwlvJ_XBE",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLktsUHBtTm8zODMw",
         "snippet": {
           "publishedAt": "2026-10-02T02:43:01Z",
@@ -1937,7 +2217,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 35,
+          "position": 40,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "KlPpmNo3830"
@@ -1955,7 +2235,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "-MyMd1HjZMoDp08w-u8CFLvmN5E",
+        "etag": "-5c1blMyaRqBpLRHyHJVR5f5cVU",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkZxUzgzTEJXVnJn",
         "snippet": {
           "publishedAt": "2026-10-02T01:59:51Z",
@@ -1991,7 +2271,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 36,
+          "position": 41,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "FqS83LBWVrg"
@@ -2009,7 +2289,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "zsMqQJnVI1lDrgIX2cK5xGRvrwY",
+        "etag": "31ao5cUZle7Aw2X1B6tZ7k7fDRc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnp4WEpfOGJfZ1JB",
         "snippet": {
           "publishedAt": "2026-10-02T01:16:30Z",
@@ -2045,7 +2325,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 37,
+          "position": 42,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zxXJ_8b_gRA"
@@ -2063,7 +2343,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VMqLPWHO7mmPlsBxhZlL3WhKFnw",
+        "etag": "iJqrFYxqnegOmioErXqbvkuLZBQ",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkJ3QzlMTnBDWVdn",
         "snippet": {
           "publishedAt": "2026-09-29T01:15:28Z",
@@ -2099,7 +2379,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 38,
+          "position": 43,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "BwC9LNpCYWg"
@@ -2117,7 +2397,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "MMyNaCXap75vy2IJNfLkBoRE9iU",
+        "etag": "YkdLSiMUEjlzKCAH7LEeNThnukc",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLl9yWUNCY3QwemFB",
         "snippet": {
           "publishedAt": "2026-09-29T01:10:42Z",
@@ -2153,7 +2433,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 39,
+          "position": 44,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_rYCBct0zaA"
@@ -2171,7 +2451,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bS9HtEkwKulE7UJZgdKjWt6KcAA",
+        "etag": "p07AU60CB12OOieEEq_KYVObgW4",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLmkyVUlXRTRkdktN",
         "snippet": {
           "publishedAt": "2026-09-29T01:06:30Z",
@@ -2207,7 +2487,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 40,
+          "position": 45,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "i2UIWE4dvKM"
@@ -2225,7 +2505,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "1tJ9idF6mw8XGde3OB3gWm0nbW4",
+        "etag": "YEvU9IeFFLCFMJToo5piqnVi4iw",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndyVFlYN1Y3TVpB",
         "snippet": {
           "publishedAt": "2026-09-29T01:01:35Z",
@@ -2261,7 +2541,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 41,
+          "position": 46,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wrTYX7V7MZA"
@@ -2279,7 +2559,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "n-wP4HAh8Y1YcwWlEDksyN8kg2c",
+        "etag": "4Wk5d08HCin5cefmdLFrGRnnz10",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLk4taEFWVlZpc1pj",
         "snippet": {
           "publishedAt": "2026-09-25T13:24:46Z",
@@ -2315,7 +2595,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 42,
+          "position": 47,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "N-hAVVVisZc"
@@ -2333,7 +2613,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "yS7hhlFmwvVUIQs64jDk5MZUsMA",
+        "etag": "1-jZ_0C23PGnTFHa7jwTwjYeYYk",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLndhdlBaZ2RudmFr",
         "snippet": {
           "publishedAt": "2026-09-25T01:16:02Z",
@@ -2369,7 +2649,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 43,
+          "position": 48,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wavPZgdnvak"
@@ -2387,7 +2667,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "3LWSZkz3uoMfPd66wypLCRlfUxw",
+        "etag": "OXcEPn2x-WGyRvhv1NN0XH_Ot9Q",
         "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLjRfWWF2Wm80R25v",
         "snippet": {
           "publishedAt": "2026-09-25T01:12:37Z",
@@ -2423,7 +2703,7 @@
           },
           "channelTitle": "Rabbi Eliyahu Bari",
           "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 44,
+          "position": 49,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "4_YavZo4Gno"
@@ -2438,280 +2718,10 @@
         "status": {
           "privacyStatus": "public"
         }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "cUqbPNvSEnPuG6qaQO53SAF0aMw",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLkxsdmt1QjhYcUJr",
-        "snippet": {
-          "publishedAt": "2026-09-23T01:14:00Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Суккот по Аризалю: от Неилы до Симхат Торы — Рав Элиягу Бари",
-          "description": "Суккот часто воспринимается как радостный праздник после напряжения Рош ха-Шана и Йом-Кипура. Но в учении Аризаля это не отдельная глава календаря. Это продолжение одного большого движения: от суда и тшувы — к близости, в которой человек уже может жить. \n \nВ этом цельном уроке Рав Элиягу Бари соединяет пять частей продвинутого курса по Суккоту в одну последовательность. Мы начинаем после Неилы, когда кажется, что всё уже завершено. Однако Аризаль показывает: прощение ещё должно стать реальностью отношений. Между Йом-Кипуром и Суккотом внутренние хасадим Имы входят постепенно, снизу вверх. Каждый уровень оставляет рошем — след, благодаря которому может раскрыться следующий. Поэтому Суккот не является просто наградой после поста. Это время, когда милость становится пространством жизни. \n \nПочему именно сукка? Аризаль связывает её с ор макиф — окружающим светом, и с правым объятием, о котором говорит Шир ха-Ширим. В сукку человек входит не только с одной заповедью в руке: он ест, учится, разговаривает, принимает гостей и проводит в ней обычную жизнь. Поэтому её стены и схах становятся не отвлечённым символом, а формой, в которой окружающие хасадим Имы охватывают Зеир Анпина и Нукву. Семь дней Суккота раскрывают семь окружающих хасадим — от Хеседа до Малхут. \n \nДалее урок переходит к арбаа миним. Три hадаса, две аравы и лулав образуют шесть качеств Зеир Анпина; лулав связан с Есодом. Этрог в рассматриваемой схеме соответствует Малхут внутри Зеир Анпина, а не Рахели и не Нукве как отдельному парцуфу. Это различие помогает увидеть точное направление движения: внутренние хасадим поднимаются к своему корню в Даат и затем возвращаются к Нукве. Движения лулава относятся к внутренним хасадим Зеир Анпина, а обходы с лулавом — к его окружающим хасадим. Один праздник раскрывает несколько уровней света, и у каждого из них своя работа. \n \nОтсюда мы приходим к Ошана Раба. Почему после Йом-Кипура снова говорится о печати, тшуве, семи обходах и пяти ветвях аравы? Аризаль различает внутреннюю печать Йом-Кипура и внешнюю печать Ошана Раба. Внутренняя относится к тому, что уже устроилось внутри; внешняя — к тому, чтобы это могло сохраниться, получить защиту и войти в жизнь. Чтение Дварим возвращает человека к завету, памяти и направлению. Семь обходов создают окружение, в котором полученное в Суккоте не исчезает сразу после праздника. Пять аравот связаны с пятью гвурот и с проведением гвурот к Малхут через майин нуквин. \n \nФинал пути — Шмини Ацерет и Симхат Тора. Построение Нуквы, несиру, получение хасадим и две печати Аризаль описывает как подготовку к самому единению. Особое единение Зеир Анпина и Рахели он относит к мусафу Шмини Ацерет. Здесь же раскрывается порядок «ор, маим, ракиа» — свет, вода, свод: духовное влияние становится шефой, способной питать и давать жизнь. Поэтому радость Симхат Торы — не просто красивое завершение праздника. Это радость связи, в которой Тора уже не остаётся знанием со стороны, а становится частью жизни. \n \nВ уроке рассматриваются: путь от Неилы к Суккоту; внутренние и окружающие хасадим; ор пними и ор макиф; сукка как правое объятие; арбаа миним, лулав, этрог и движение хасадим; различие между движениями и обходами; Ошана Раба, две печати, Дварим и пять аравот; Шмини Ацерет, Симхат Тора, Зеир Анпин и Рахель. \n \nЭтот урок рассчитан на слушателей, уже знакомых с языком Аризаля: Зеир Анпин, Нуква, Рахель, Има, хасадим, гвурот, Есод, Даат, ор пними и ор макиф. При этом объяснение построено как живая речь, чтобы точные различия не оставались сухой схемой. Главный вопрос всего занятия прост: что останется после праздников, когда сукку уберут и закончится танец со свитком Торы? Может быть, постоянный урок Торы, более бережный разговор дома или привычка благодарить до того, как требовать. \n \nВ первой части мы видим, почему после Неилы начинается не отдых от духовной работы, а её следующий этап. Во второй — почему окружающий свет не является чем-то внешним и далёким, а создаёт среду, в которой человек может быть целиком. В третьей части внимательно различаются этрог, Малхут, Нуква и Рахель, чтобы символика четырёх видов не превратилась в неточную общую метафору. В четвёртой раскрывается, каким образом Ошана Раба завершает процесс печати, не отменяя уникальности Йом-Кипура. В пятой Шмини Ацерет собирает весь путь в радость единения и Торы. \n \nОсновные источники: Аризаль, «Шаар ха-Каванот», кавванот Суккота и Шмини Ацерет; традиции о четырёх видах, Ошана Раба и Симхат Торе. \n \nПодписывайтесь, чтобы продолжать путь через праздники и источники внутренней Торы вместе с Равом Элиягу Бари. \n\n#Суккот #Аризаль #Каббала #ШминиАцерет #СимхатТора #ОшанаРаба #Лулав #Этрог #РавЭлиягуБари #Тора",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/LlvkuB8XqBk/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/LlvkuB8XqBk/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/LlvkuB8XqBk/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/LlvkuB8XqBk/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/LlvkuB8XqBk/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 45,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "LlvkuB8XqBk"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "LlvkuB8XqBk",
-          "videoPublishedAt": "2026-09-23T01:14:00Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "rsKrVx7cT_tJ_DuQi9_UiP76cTk",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLm9KVFhEX0R1NG1Z",
-        "snippet": {
-          "publishedAt": "2026-09-18T01:14:51Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Аризаль - Йом-Кипур 3/3: Капара, Неила и путь к Суккоту | Рав Элиягу Бари",
-          "description": "Что на самом деле означает капара — и почему Йом-Кипур заканчивается Неилой, Шма Исраэль, а затем почти сразу переходит в Суккот? \n \nВ заключительной части трёхсерийного цикла Рава Элиягу Бари о Йом-Кипуре по Аризалю весь процесс становится особенно личным. После построения Малхут, подъёма к Име, подслащения Диним и Аводы Коэна Гадоля мы возвращаемся к слову, с которым большинство людей прежде всего связывает этот день: капара. \n \nКапара обычно переводится как искупление или прощение. Но если грех повреждает духовную связь, тогда прощение не может означать только стирание записи в небесной книге или закрытие юридического дела. Необходимо исправить саму связь. \n \nИменно здесь соединяются тшува, капара и построение Малхут. Человек возвращается. Диним подслащаются. Повреждённая структура восстанавливается. Нижнее снова становится способным получать от высшего. Йом-Кипур даёт не просто отмену наказания, а возможность настоящего тикуна. \n \nЗатем мы приходим к Неиле. Обычно мы представляем, что ворота закрываются и нужно успеть войти. Но внутренняя традиция предлагает ещё один сильный образ: возможно, ворота закрываются не только перед нами — возможно, они закрываются за нами. \n \nВесь день мы двигались внутрь и вверх. Позднейшая хасидская традиция особенно связывает кульминацию дня с Ехидой — от слова яхид, «единственный», — самой внутренней и сущностной точкой души. На этом уровне связь с Ашемом глубже интеллектуального понимания, эмоционального вдохновения или даже текущего духовного состояния человека. Это сама принадлежность души своему Источнику. \n \nЭто меняет главный вопрос Неилы. Теперь он звучит не только: «Простит ли меня Ашем?» Более глубокий вопрос: «Кто я на самом деле?» И ответ состоит в том, что в самой глубокой точке души связь никогда полностью не исчезала. \n \nДалее мы разбираем, почему Йом-Кипур заканчивается Шма Исраэль, Барух Шем и семикратным провозглашением «Ашем hу hа-Элоким». После сложного языка Сфирот, Парцуфим, Мохин, Гвурот и духовных подъёмов всё приходит к одному слову: Эхад — Один. От разделения — к единству. От повреждения — к тикуну. От расстояния — к близости. \n \nНо на этом серия не может по-настоящему закончиться, потому что сам Тишрей не заканчивается Неилой. \n \nВсего через несколько дней Тора велит нам войти в сукку. Йом-Кипур двигался вверх: от обычной физической жизни — к внутреннему корню. Суккот начинает следующее движение. То, что было достигнуто наверху, теперь должно окружить человека и войти в его обычное физическое существование. Мы снова едим и пьём — но теперь внутри сукки. Здесь особенно важной становится тема ор макиф — окружающего света. \n \nПоэтому заключительное видео завершает цикл о Йом-Кипуре и одновременно открывает следующий этап: Суккот, четыре вида растений, Ошана Рабба, Шмини Ацерет и Симхат Тора. \n \nРош ха-Шана начал построение. Йом-Кипур принёс подъём, подслащение и внутреннее возвращение. Суккот покажет, как достигнутый свет начинает окружать саму жизнь. \n \nПродолжение пути праздников Тишрея — в следующей серии Рава Элиягу Бари о Суккоте по Аризалю.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/oJTXD_Du4mY/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/oJTXD_Du4mY/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/oJTXD_Du4mY/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/oJTXD_Du4mY/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/oJTXD_Du4mY/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 46,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "oJTXD_Du4mY"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "oJTXD_Du4mY",
-          "videoPublishedAt": "2026-09-18T01:14:51Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "mNYo9GUwiYY84I6zSXNyBjr-jDs",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlg3cFg3dV9IYUFB",
-        "snippet": {
-          "publishedAt": "2026-09-18T01:03:17Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Аризаль - Йом-Кипур 2/3: Подслащение суда и Авода | Рав Элиягу Бари",
-          "description": "Что значит «подсластить суд» и почему Авода Коэна Гадоля находится в самом центре Йом-Кипура? \n \nВо второй части трёхсерийного цикла Рава Элиягу Бари о Йом-Кипуре по Аризалю мы переходим от построения и подъёма Малхут к одной из самых глубоких тем этого дня: hамтакат hа-диним — подслащению Диним. \n \nЯзык Аризаля здесь очень точен. Йом-Кипур — это не просто день, когда суд исчезает. Гвура сама по себе не является злом. Творению необходимы границы, ограничения, дисциплина и суд. Проблема начинается тогда, когда Гвура становится чрезмерно жёсткой и отделяется от Хеседа. Тикун не уничтожает Дин; он возвращает Дин к правильному корню и структуре, благодаря чему суд может быть включён в милосердие. \n \nИменно поэтому важно различие между кануном Йом-Кипура и самим Йом-Кипуром. Аризаль связывает девятый Тишрея и капарот с одним уровнем подслащения Гвурот, тогда как десятый день достигает более глубокого уровня, связанного с Малхут. Цель — не убежать от суда, а поднять его туда, где он может быть преобразован. \n \nЗатем мы рассматриваем пять молитв — Маарив, Шахарит, Мусаф, Минха и Неила — не как повторение одной и той же просьбы, а как последовательные ступени духовного подъёма. День находится в движении. Каждая молитва строится на предыдущей. Неила — не просто «ещё одна молитва перед окончанием поста»; вся духовная архитектура Йом-Кипура направлена к ней. \n \nЦентральная часть урока — Мусаф и Аводат Коэн Гадоль. Один человек, один день, одно место: Коэн Гадоль, Йом-Кипур и Кодеш ха-Кодашим. То, что с исторической точки зрения выглядит как движение Коэна из одной части Бейт ха-Микдаша в другую, во внутреннем прочтении становится моделью всего дня: из внешнего — во внутреннее, от проявления — к корню, от множества — к единству. \n \nПосле этого мы переходим к одной из самых загадочных частей Аводы: двум козлам — одному ла-Шем и другому ла-Азазель. Их внешнее сходство и совершенно разная судьба раскрывают ещё один принцип тикуна. Исправление не всегда означает немедленно соединить всё вместе. Иногда сначала необходимо отделить святость от сил, которые получают от неё питание извне. \n \nЭто возвращает нас к теме, уже знакомой по серии о Рош ха-Шана: правильное разделение иногда необходимо именно ради более высокого соединения. \n \nК концу второй части начинает складываться единая картина: подъём, подслащение, молитва, Авода, разделение и возвращение к внутреннему источнику. \n \nВ третьей части мы зададим самый личный вопрос всей серии: что на самом деле означает капара? Отсюда мы перейдём к Неиле, Ехиде, Шма Исраэль и переходу от Йом-Кипура к Суккоту. \n \nЭтот урок продолжает связанную серию Рава Элиягу Бари по Аризалю и духовному процессу месяца Тишрей.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/X7pX7u_HaAA/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/X7pX7u_HaAA/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/X7pX7u_HaAA/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/X7pX7u_HaAA/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/X7pX7u_HaAA/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 47,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "X7pX7u_HaAA"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "X7pX7u_HaAA",
-          "videoPublishedAt": "2026-09-18T01:03:17Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "p0waJaIXkV5WJkfawC6SMJQobWk",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLnF0MTNqUHJ6eUUw",
-        "snippet": {
-          "publishedAt": "2026-09-18T00:59:43Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Аризаль - Йом-Кипур 1/3: От Рош ха-Шана к подъёму Малхут | Рав Элиягу Бари",
-          "description": "Что, согласно Аризалю, на самом деле происходит между Рош ха-Шана и Йом-Кипуром? \n \nВ первой части трёхсерийного цикла о Йом-Кипуре Рав Элиягу Бари продолжает духовный процесс, начавшийся на Рош ха-Шана и проходящий через Асерет Йемей Тшува — Десять дней раскаяния. Йом-Кипур здесь рассматривается не как отдельный день прощения, а как следующая стадия непрерывного построения и исправления Малхут/Нуквы. \n \nМы начинаем с связи с предыдущей серией о Рош ха-Шана: дормита, удаление Мохин, Нешира и начало самостоятельного построения Малхут. Главная мысль состоит в том, что этот процесс не заканчивается вместе с Рош ха-Шана. В течение Десяти дней раскаяния Нуква продолжает строиться, исправляться и становиться способной принять более высокий уровень духовного света. \n \nЭто даёт более глубокое понимание тшувы. Тшува — не только сожаление о прошлом. Само слово означает возвращение: восстановить то, что вышло из правильного положения, соединить то, что было разделено, и исправить связь с Источником. Человеческая тшува внизу соответствует процессу тикуна наверху. \n \nЗатем урок переходит к особому состоянию самого Йом-Кипура. Десятый день Тишрея связан с Имой/Биной — высшим источником, связанным с тшувой и передачей Мохин. Направление дня — вверх: физическое тело временно отходит от своего обычного центрального положения, чтобы душа могла двигаться к более внутреннему состоянию. \n \nМы также рассматриваем пять ограничений Йом-Кипура и позднейшую каббалистическую и хасидскую параллель с пятью уровнями души — Нефеш, Руах, Нешама, Хая и Ехида, — отдельно отмечая, где речь идёт о развитии более поздней традиции, а не о буквальной формулировке самого Аризаля. \n \nВ конце мы переходим к ночи Йом-Кипура. Аризаль связывает талит во время Коль Нидрей и Маарива с необычайным подъёмом Нуквы и получением ор макиф — окружающего света, связанного с Имой. То, что до этого строилось, теперь начинает подниматься. \n \nЭто первая стадия пути Йом-Кипура: построение, тшува, подъём и подготовка к ещё более глубокому процессу. \n \nВо второй части мы перейдём к hамтакат hа-диним — подслащению суда — и увидим, как пять молитв, Авода Коэна Гадоля, Кодеш ха-Кодашим и два козла соединяются в один духовный процесс. \n \nЭтот урок является частью продолжающейся серии Рава Элиягу Бари по Аризалю и праздникам Тишрея, связывающей Рош ха-Шана, Асерет Йемей Тшува, Йом-Кипур, Суккот, Ошана Рабба и Шмини Ацерет в один последовательный духовный путь.",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/qt13jPrzyE0/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/qt13jPrzyE0/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/qt13jPrzyE0/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/qt13jPrzyE0/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/qt13jPrzyE0/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 48,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "qt13jPrzyE0"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "qt13jPrzyE0",
-          "videoPublishedAt": "2026-09-18T00:59:43Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
-      },
-      {
-        "kind": "youtube#playlistItem",
-        "etag": "eyCWoFwZJFg7i2Indfw0lL3cm4k",
-        "id": "VVVaeDNMUGJRTGJuYVZSY2lVb0syczdnLlpJV0w3VXdKOU1V",
-        "snippet": {
-          "publishedAt": "2026-09-16T23:46:02Z",
-          "channelId": "UCZx3LPbQLbnaVRciUoK2s7g",
-          "title": "Arizal - Yom Kippur 3/3: Kapparah, Neilah & the Road to Sukkot | Rav Eliyahu Bari",
-          "description": "What does kapparah really mean — and why does Yom Kippur end with Neilah, Shema Yisrael, and then lead immediately toward Sukkot? \n \nIn the final part of Rav Eliyahu Bari’s three-video Yom Kippur series according to the Arizal, the entire process becomes personal. After the building of Malchut, the ascent toward Imma, the sweetening of the Dinim, and the Avodah of the Kohen Gadol, we return to the word that defines the day for most people: kapparah. \n \nKapparah is usually translated as atonement or forgiveness. But if a sin damages a spiritual relationship, then forgiveness cannot mean only that a heavenly record has been erased or that a legal case has been closed. The relationship itself has to be repaired. \n \nThis is where Teshuvah, kapparah, and the building of Malchut come together. The person returns. The Dinim are sweetened. The damaged structure is restored. The lower realm again becomes capable of receiving from the higher. Yom Kippur offers not merely cancellation of punishment, but the possibility of genuine tikkun. \n \nThen we arrive at Neilah. The usual image is that the gates are closing and we must enter before it is too late. The inner tradition gives us another powerful perspective: perhaps the gates are not only closing in front of us — perhaps they are closing behind us. \n \nAll day we have been moving inward and upward. Later Chassidic teaching especially associates the climax with Yechidah, from yachid — the unique, essential point of the soul. At that level, the relationship with Hashem is deeper than intellectual understanding, emotional inspiration, or even a person’s present spiritual performance. It is the essential belonging of the soul to its Source. \n \nThis changes the question of Neilah. It is no longer only, “Will Hashem forgive me?” It becomes, “Who am I really?” And the answer is that at the deepest point, the bond was never completely lost. \n \nWe then examine why Yom Kippur ends with Shema Yisrael, Baruch Shem, and seven declarations of Hashem Hu HaElokim. After the complex language of Sefirot, Partzufim, Mochin, Gevurot, and spiritual ascent, everything resolves into one word: Echad — One. From separation to unity. From damage to tikkun. From distance to closeness. \n \nBut the series does not end there, because Tishrei does not end at Neilah. \n \nOnly a few days later, the Torah tells us to enter the sukkah. Yom Kippur moved upward: away from normal physical life and toward the inner root. Sukkot begins the next movement. What was attained above must now surround us and enter ordinary physical existence. We eat and drink again — but inside the sukkah. The theme of or makif, encompassing light, becomes central. \n \nThis final episode therefore closes the Yom Kippur series while deliberately opening the next chapter: Sukkot, the Four Species, Hoshana Rabbah, Shemini Atzeret, and Simchat Torah. \n \nRosh Hashanah began the rebuilding. Yom Kippur brought ascent, sweetening, and inner return. Sukkot will show how that light begins to surround life itself. \n \nContinue the High Holidays journey with Rav Eliyahu Bari in the next series on Sukkot according to the Arizal. \n\n#YomKippur #Arizal #RavEliyahuBari #Neilah #Yechidah #Kapparah #Sukkot #Kabbalah #Tishrei",
-          "thumbnails": {
-            "default": {
-              "url": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/default.jpg",
-              "width": 120,
-              "height": 90
-            },
-            "medium": {
-              "url": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/mqdefault.jpg",
-              "width": 320,
-              "height": 180
-            },
-            "high": {
-              "url": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/hqdefault.jpg",
-              "width": 480,
-              "height": 360
-            },
-            "standard": {
-              "url": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/sddefault.jpg",
-              "width": 640,
-              "height": 480
-            },
-            "maxres": {
-              "url": "https://i.ytimg.com/vi/ZIWL7UwJ9MU/maxresdefault.jpg",
-              "width": 1280,
-              "height": 720
-            }
-          },
-          "channelTitle": "Rabbi Eliyahu Bari",
-          "playlistId": "UUZx3LPbQLbnaVRciUoK2s7g",
-          "position": 49,
-          "resourceId": {
-            "kind": "youtube#video",
-            "videoId": "ZIWL7UwJ9MU"
-          },
-          "videoOwnerChannelTitle": "Rabbi Eliyahu Bari",
-          "videoOwnerChannelId": "UCZx3LPbQLbnaVRciUoK2s7g"
-        },
-        "contentDetails": {
-          "videoId": "ZIWL7UwJ9MU",
-          "videoPublishedAt": "2026-09-16T23:46:02Z"
-        },
-        "status": {
-          "privacyStatus": "public"
-        }
       }
     ],
     "pageInfo": {
-      "totalResults": 373,
+      "totalResults": 378,
       "resultsPerPage": 50
     }
   }

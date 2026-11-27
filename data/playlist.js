@@ -12,6 +12,19 @@
         "items": [],
         "children": [
           {
+            "id": "PLdTk_jEHHUMI",
+            "title": "[RU] Зоар Ваишлах — Борьба в ночи: от страха к имени Исраэль | Рав Элиягу Бари",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "fVqvjJ4vvOw",
+              "9mv08LEI2Yo"
+            ],
+            "children": []
+          },
+          {
             "id": "PLI7DNuVBErJc",
             "title": "[RU] Речи для мероприятий | Рав Элиягу Бари",
             "tags": [
@@ -19,6 +32,7 @@
               "rbari"
             ],
             "items": [
+              "5bVUJBOWuUE",
               "c7ldvYPaOKk"
             ],
             "children": []
@@ -31,6 +45,7 @@
               "rbari"
             ],
             "items": [
+              "5bVUJBOWuUE",
               "9bXYAkddqZg",
               "0xJr8K4Y4Io",
               "mMgNsjqgzwE",
@@ -555,6 +570,9 @@
               "rbari"
             ],
             "items": [
+              "fVqvjJ4vvOw",
+              "5bVUJBOWuUE",
+              "9mv08LEI2Yo",
               "y9BMUJkwi10",
               "c7ldvYPaOKk",
               "i8NshFgvbC8",
@@ -698,6 +716,9 @@
               "rbari"
             ],
             "items": [
+              "fVqvjJ4vvOw",
+              "5bVUJBOWuUE",
+              "9mv08LEI2Yo",
               "9bXYAkddqZg",
               "0xJr8K4Y4Io",
               "mMgNsjqgzwE",
@@ -1784,6 +1805,19 @@
         "items": [],
         "children": [
           {
+            "id": "PLF054Y4_3-BU",
+            "title": "[EN] Zohar Vayishlach | Rabbi Eliyahu Bari",
+            "tags": [
+              "torah",
+              "rbari"
+            ],
+            "items": [
+              "f1nHcn-NiSM",
+              "BEv7GGMiwqM"
+            ],
+            "children": []
+          },
+          {
             "id": "PLQzIANYbzEIY",
             "title": "[EN] Vayetze",
             "tags": [
@@ -1943,6 +1977,8 @@
               "rbari"
             ],
             "items": [
+              "f1nHcn-NiSM",
+              "BEv7GGMiwqM",
               "j9I-4ZyBKJw",
               "JjnXme7xM1U",
               "_rYCBct0zaA",

@@ -1,7 +1,7 @@
 [
   {
     "kind": "youtube#playlistItemListResponse",
-    "etag": "ZpcwDa8DlClnMZ3sJ_vhQ-jRpNM",
+    "etag": "NYwVX3Vsx8IcYcxXKNKuuRfG708",
     "nextPageToken": "EAAaHlBUOkNESWlFRGM0UmpneVJUYzVPVEl4UkVJeE1VTQ",
     "items": [
       {
@@ -222,7 +222,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "flgGrkSTZWFWlGwCq9aZARL3OyY",
+        "etag": "0eKQqf65VSB-efk7kKaSeBklRvc",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LmZBaC1CcVh0MzBr",
         "snippet": {
           "publishedAt": "2026-11-13T16:12:07Z",
@@ -276,7 +276,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "7H5kEiyislV591YIzK-3IgSxoPk",
+        "etag": "QyFk3H2L3ei7ZO9FDxVZphB_HOI",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3Lmw1c3JMN3I4MFRZ",
         "snippet": {
           "publishedAt": "2026-11-12T03:57:48Z",
@@ -1518,7 +1518,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "sQcqI5J99x1rc6HkCPxo0y1F49A",
+        "etag": "owhwoObri07Fb8P1UkAeUEwbG-U",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LmZnRmc3akhVRjNJ",
         "snippet": {
           "publishedAt": "2026-07-23T01:21:44Z",
@@ -1896,7 +1896,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "07ojpZN-3IBJJUwIZbm8TEP9SJQ",
+        "etag": "WWGNNHsnoEfrPDaqlTkuORw7nBU",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LlYweU95YW5aMk9B",
         "snippet": {
           "publishedAt": "2026-06-25T02:09:05Z",
@@ -2166,7 +2166,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "Tlls0s1D1Dbjm7ntXc33ip4wrGU",
+        "etag": "psYuboZZPI9KxispgDf38Ey9744",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LmJlQ0dUT0d2ZDVB",
         "snippet": {
           "publishedAt": "2026-06-04T00:51:36Z",
@@ -2328,7 +2328,7 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "vsI2zqPyRbir1uMAVnTxgj9Wh78",
+        "etag": "Q9Io1wA5MyYfBZ-5s7JaLVKr8lg",
         "id": "VVVqLTJFN2hqS01iODBvVGhDV2pKM0R3LmlkcHpISUtLRDNr",
         "snippet": {
           "publishedAt": "2026-05-27T21:50:37Z",
