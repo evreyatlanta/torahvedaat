@@ -62601,1252 +62601,2697 @@
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "W7RzSzXeF8ijVFXa6wDG23Iqe4A",
+        "etag": "upwyD39pYFr0ZJFoADrqJY09XkA",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5ERENFNTk4Q0Q2MTZDMTA5",
         "snippet": {
           "publishedAt": "2018-10-31T19:25:34Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 283 Йешаяу гл 29 ч 7",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/NqcNPbmGuhc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/NqcNPbmGuhc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/NqcNPbmGuhc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/NqcNPbmGuhc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/NqcNPbmGuhc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 100,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "NqcNPbmGuhc"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "NqcNPbmGuhc"
+          "videoId": "NqcNPbmGuhc",
+          "videoPublishedAt": "2018-10-31T20:11:46Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VflLU8J8kJbEFiIt6mlUt056_Kw",
+        "etag": "sg7jdpxj23RZmLo5fLiARyBrNOM",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy41RDUzRjJFQ0Y0MUI3NzU1",
         "snippet": {
           "publishedAt": "2018-11-06T03:47:47Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 284 Йешаяу гл 30 ч 1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/C4MeqoGy84s/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/C4MeqoGy84s/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/C4MeqoGy84s/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/C4MeqoGy84s/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/C4MeqoGy84s/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 101,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "C4MeqoGy84s"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "C4MeqoGy84s"
+          "videoId": "C4MeqoGy84s",
+          "videoPublishedAt": "2018-11-06T03:47:46Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "cmIqsPLqGbXDCi9Jn3lcUPJbBow",
+        "etag": "lvoKkE1biRfijgMmTsGjXz--VGc",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5FRjdGNDMzN0I2RTI3MDlG",
         "snippet": {
           "publishedAt": "2018-11-13T18:20:22Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 285 Йешаяу гл 30 ч 2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/2pDTsXDGcow/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/2pDTsXDGcow/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/2pDTsXDGcow/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/2pDTsXDGcow/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/2pDTsXDGcow/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 102,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "2pDTsXDGcow"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "2pDTsXDGcow"
+          "videoId": "2pDTsXDGcow",
+          "videoPublishedAt": "2018-11-13T19:02:16Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "c8cSaP3ndb0cSEEN8b30qo0BU88",
+        "etag": "T6nAx8ydfP7GiPD1EkkZ7c7DhJk",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy41ODIyMTgwQzA4NjJCQkZC",
         "snippet": {
           "publishedAt": "2018-11-21T21:39:04Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 286 Йешаяу гл 30 ч 3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mBkSK3Gxsrg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mBkSK3Gxsrg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mBkSK3Gxsrg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mBkSK3Gxsrg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mBkSK3Gxsrg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 103,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "mBkSK3Gxsrg"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "mBkSK3Gxsrg"
+          "videoId": "mBkSK3Gxsrg",
+          "videoPublishedAt": "2018-11-21T21:59:17Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "i8uPW2bAZiCroQ9z9-iGUPyLud8",
+        "etag": "O8ZaXIcnh149kSvG6-eUSnWdbUU",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5CNEYyNTVBNDdGMDI1MDNC",
         "snippet": {
           "publishedAt": "2018-12-02T18:56:10Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 287 Йешаяу гл 30 ч 4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zQr0y-BViog/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zQr0y-BViog/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zQr0y-BViog/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zQr0y-BViog/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zQr0y-BViog/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 104,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zQr0y-BViog"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "zQr0y-BViog"
+          "videoId": "zQr0y-BViog",
+          "videoPublishedAt": "2018-12-02T18:56:08Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "DtVxJmS42uzB7hN-sg6xxkLffbU",
+        "etag": "FOrwcRtFA6NsxIjwRQOdcX6NxXw",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy40OTQ5QjlEMDgzN0FBNUIw",
         "snippet": {
           "publishedAt": "2019-01-29T20:38:10Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 288 Йешаяу гл 30 ч 5",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/AKz-6Bd8m7M/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/AKz-6Bd8m7M/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/AKz-6Bd8m7M/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/AKz-6Bd8m7M/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/AKz-6Bd8m7M/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 105,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "AKz-6Bd8m7M"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "AKz-6Bd8m7M"
+          "videoId": "AKz-6Bd8m7M",
+          "videoPublishedAt": "2018-12-29T23:25:18Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VlaUVuAHG9MU0P1R3ukpobty1eo",
+        "etag": "okbptgIlzdHpTwjGENY88GEsxGE",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5EMUJFNzRCNDRFQjE5RjM4",
         "snippet": {
           "publishedAt": "2018-12-30T00:13:45Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 289 Йешаяу гл  30 ч  6",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vpjkXyZ0fYI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vpjkXyZ0fYI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vpjkXyZ0fYI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vpjkXyZ0fYI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vpjkXyZ0fYI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 106,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "vpjkXyZ0fYI"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "vpjkXyZ0fYI"
+          "videoId": "vpjkXyZ0fYI",
+          "videoPublishedAt": "2018-12-30T00:20:41Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "wSJ1TrATNALrRwMn_208_3jZHLk",
+        "etag": "F57RLGiyZWTZh0bI3VOLL6AaOyY",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy44QjNCNkRENjNFQTBEMUND",
         "snippet": {
           "publishedAt": "2019-01-02T03:47:46Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 290 Йешаяу гл  30 ч  7",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TR8hWKpWVow/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TR8hWKpWVow/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TR8hWKpWVow/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TR8hWKpWVow/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TR8hWKpWVow/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 107,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "TR8hWKpWVow"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "TR8hWKpWVow"
+          "videoId": "TR8hWKpWVow",
+          "videoPublishedAt": "2019-01-02T04:38:52Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OYwkiA0grGoiOgQ84mf88Gnafhc",
+        "etag": "zdGqAqs3WuNQjp98lPMHAL0ECws",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5GNzk2RTlDQTNCQzJCQzJG",
         "snippet": {
           "publishedAt": "2019-01-04T16:17:42Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 291 Йешаяу гл  30 ч  8",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/E5CRcBrOJ2U/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/E5CRcBrOJ2U/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/E5CRcBrOJ2U/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/E5CRcBrOJ2U/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/E5CRcBrOJ2U/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 108,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "E5CRcBrOJ2U"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "E5CRcBrOJ2U"
+          "videoId": "E5CRcBrOJ2U",
+          "videoPublishedAt": "2019-01-04T16:57:34Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "sPDOjZIe9dgTtAJX0HQKhgGxKPI",
+        "etag": "RuM7ia1oCCbTAWbjHZfr_30sRok",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy43ODA2MDVCQzY5QzZDMjUw",
         "snippet": {
           "publishedAt": "2019-01-29T20:35:23Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 292 Йешаяу гл  30 ч  9",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0dqYuRQQ-5o/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0dqYuRQQ-5o/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0dqYuRQQ-5o/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0dqYuRQQ-5o/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0dqYuRQQ-5o/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 109,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "0dqYuRQQ-5o"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "0dqYuRQQ-5o"
+          "videoId": "0dqYuRQQ-5o",
+          "videoPublishedAt": "2019-01-18T15:49:09Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "g7JDxCRDOV7p96h_XXiSyxRKM-4",
+        "etag": "LSoEpIlI6v0dDgTxFfXo59w82bc",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5CQzUwREI3MzkxQjdBM0E0",
         "snippet": {
           "publishedAt": "2019-02-01T12:41:31Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 293 Йешаяу гл  30 ч  10",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/fy7OpN7HsMY/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/fy7OpN7HsMY/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/fy7OpN7HsMY/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/fy7OpN7HsMY/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/fy7OpN7HsMY/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 110,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "fy7OpN7HsMY"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "fy7OpN7HsMY"
+          "videoId": "fy7OpN7HsMY",
+          "videoPublishedAt": "2019-02-01T13:26:47Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "xFXfLZTU0yqtWUa6v8RPD8QPrlY",
+        "etag": "opLDmEUphGOZqXxhob8I5kBPA-Q",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4yOTZGRTNEQ0ZGNUM5RDgw",
         "snippet": {
           "publishedAt": "2019-02-21T02:25:40Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 294 Йешаяу гл  31 ч  1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/654TlJzGUM4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/654TlJzGUM4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/654TlJzGUM4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/654TlJzGUM4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/654TlJzGUM4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 111,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "654TlJzGUM4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "654TlJzGUM4"
+          "videoId": "654TlJzGUM4",
+          "videoPublishedAt": "2019-02-21T03:11:02Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "g-Bi3MkcipjUX_8sfc9VBWVC4gI",
+        "etag": "F8wk1R6XLe909UoZK1yT_4X6Jok",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4zNDIxRUJGQThFRTg1QzAy",
         "snippet": {
           "publishedAt": "2019-03-08T00:16:19Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 295 Йешаяу гл  31 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/gIvU1FzQA8A/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/gIvU1FzQA8A/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/gIvU1FzQA8A/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/gIvU1FzQA8A/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/gIvU1FzQA8A/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 112,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "gIvU1FzQA8A"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "gIvU1FzQA8A"
+          "videoId": "gIvU1FzQA8A",
+          "videoPublishedAt": "2019-03-08T01:05:24Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "qjzixpPF2hZXFSeaUJaz5DoXNv4",
+        "etag": "G4PtwyPiHCjdltMA1_txcQxDHTU",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wN0FBRUVFNEVBMTZBQ0Mx",
         "snippet": {
           "publishedAt": "2019-03-14T23:25:10Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 296 Йешаяу гл  31 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/0fz522cr3As/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/0fz522cr3As/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/0fz522cr3As/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/0fz522cr3As/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/0fz522cr3As/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 113,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "0fz522cr3As"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "0fz522cr3As"
+          "videoId": "0fz522cr3As",
+          "videoPublishedAt": "2019-03-15T00:03:30Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "DrwRB9iXHkcMEE4gat8A1iyuRX4",
+        "etag": "kzeb9dlL443M8ghaz9VqbGtzng8",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5EODgyNjY4MzA3QzY5RTkx",
         "snippet": {
           "publishedAt": "2019-03-18T20:36:38Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 297 Йешаяу гл  31 ч  4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/-hWbGB4n5no/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/-hWbGB4n5no/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/-hWbGB4n5no/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/-hWbGB4n5no/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/-hWbGB4n5no/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 114,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "-hWbGB4n5no"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "-hWbGB4n5no"
+          "videoId": "-hWbGB4n5no",
+          "videoPublishedAt": "2019-03-18T21:21:14Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "ni7ReX6D_sDtx1rxNiFGcDMHbDo",
+        "etag": "SUQlw7ohZuIvIXGMKhcysoTEl10",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5BNzdEQzY0REQzQTEyN0U3",
         "snippet": {
           "publishedAt": "2019-04-09T14:29:28Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 298 Йешаяу гл  33 ч  1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WEorlybjIiU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WEorlybjIiU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WEorlybjIiU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WEorlybjIiU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WEorlybjIiU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 115,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "WEorlybjIiU"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "WEorlybjIiU"
+          "videoId": "WEorlybjIiU",
+          "videoPublishedAt": "2019-04-09T15:05:28Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "0_V_2P1HTnh1VpEE-iEWWRao8qQ",
+        "etag": "s6Fq1TvYkl0kb8umpR27rJvqyeY",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy43RDg3MzJDMTRFMTZFOTAw",
         "snippet": {
           "publishedAt": "2019-04-12T16:54:37Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 299 Йешаяу гл  33 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TziKWhQmVrE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TziKWhQmVrE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TziKWhQmVrE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TziKWhQmVrE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TziKWhQmVrE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 116,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "TziKWhQmVrE"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "TziKWhQmVrE"
+          "videoId": "TziKWhQmVrE",
+          "videoPublishedAt": "2019-04-12T17:38:52Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "TSMesNq0SLMGF42FguwAFv_1Qd8",
+        "etag": "7e-mTEt5jyS5EyH9Qj4KAK1fEkQ",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy44NjIxNjc5OUQwQkJBODQ5",
         "snippet": {
           "publishedAt": "2019-05-05T13:37:25Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 300 Йешаяу гл  33 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OG9H2qf_IQo/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OG9H2qf_IQo/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OG9H2qf_IQo/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OG9H2qf_IQo/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OG9H2qf_IQo/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 117,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OG9H2qf_IQo"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "OG9H2qf_IQo"
+          "videoId": "OG9H2qf_IQo",
+          "videoPublishedAt": "2019-05-05T14:24:05Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "w9Gocw2naWOsFEKkOEAV_xG_sE8",
+        "etag": "-eom86Xonvfbgx-nPaBIWqkMyVI",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wRkVBNUY4OTkzN0JCNTA2",
         "snippet": {
           "publishedAt": "2019-05-12T19:33:26Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 301 Йешаяу гл  33 ч  4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/_WS_CkI8bm4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/_WS_CkI8bm4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/_WS_CkI8bm4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/_WS_CkI8bm4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/_WS_CkI8bm4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 118,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "_WS_CkI8bm4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "_WS_CkI8bm4"
+          "videoId": "_WS_CkI8bm4",
+          "videoPublishedAt": "2019-05-12T20:24:17Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "FIrSMIghbDI3vDrt4uBCUf1vUd0",
+        "etag": "RQlbXPW8n0KD03vLjK31dOqH-Vw",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy43NjE5NDdDRTdENjQ3RTkw",
         "snippet": {
           "publishedAt": "2019-05-20T15:49:08Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 302 Йешаяу гл  33 ч  8",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/JoUJtf_d7jU/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/JoUJtf_d7jU/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/JoUJtf_d7jU/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/JoUJtf_d7jU/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/JoUJtf_d7jU/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 119,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "JoUJtf_d7jU"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "JoUJtf_d7jU"
+          "videoId": "JoUJtf_d7jU",
+          "videoPublishedAt": "2019-05-20T16:33:47Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "MzrKz-va4IWSwpeJajiA7Rt9LvQ",
+        "etag": "q2jBgR0KGGrakQZG0WN7XAgSjd4",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5ENEEyOTIwNkY4NzFGMkQ2",
         "snippet": {
           "publishedAt": "2019-06-02T02:59:26Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 303 Йешаяу гл  33 ч  9",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/Rwr_0xWSmsA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/Rwr_0xWSmsA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/Rwr_0xWSmsA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/Rwr_0xWSmsA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/Rwr_0xWSmsA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 120,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "Rwr_0xWSmsA"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "Rwr_0xWSmsA"
+          "videoId": "Rwr_0xWSmsA",
+          "videoPublishedAt": "2019-06-02T03:34:21Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "OkuALO7fL5x_zfKYvyvPq5Ysruo",
+        "etag": "Rw8sOqO6RlSTgJ56Pqb3IE3TzK8",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy42NEZDNTU0RTRENDUzRjMz",
         "snippet": {
           "publishedAt": "2019-06-12T02:05:51Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 304 Йешаяу 33 гл  10 ч",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/K0YsMCqgo9k/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/K0YsMCqgo9k/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/K0YsMCqgo9k/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/K0YsMCqgo9k/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/K0YsMCqgo9k/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 121,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "K0YsMCqgo9k"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "K0YsMCqgo9k"
+          "videoId": "K0YsMCqgo9k",
+          "videoPublishedAt": "2019-06-12T02:05:49Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "3K0iQ8hKHLE4Z05Lnumyk48-qwM",
+        "etag": "GPRNZPcFkqpyGwDv9fll5yCxTxo",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5BRDg1NUY1OTY2QzgzOEM0",
         "snippet": {
           "publishedAt": "2019-07-18T22:15:54Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 305 Йешаяу 34 гл  1 ч",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OCUbhWVXcS4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OCUbhWVXcS4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OCUbhWVXcS4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OCUbhWVXcS4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OCUbhWVXcS4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 122,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OCUbhWVXcS4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "OCUbhWVXcS4"
+          "videoId": "OCUbhWVXcS4",
+          "videoPublishedAt": "2019-07-18T23:07:25Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "mjlXwrk7fjlCRlzk04MXaF59PK0",
+        "etag": "DbtqXOmGMZ2pWJVvQxXv15iMYdU",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5ERkRDQjY0N0Y0Q0VFOTdC",
         "snippet": {
           "publishedAt": "2019-07-25T15:11:34Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "урок 306 Йешаяу гл  34 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/wVCnUElCT1w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/wVCnUElCT1w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/wVCnUElCT1w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/wVCnUElCT1w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/wVCnUElCT1w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 123,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "wVCnUElCT1w"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "wVCnUElCT1w"
+          "videoId": "wVCnUElCT1w",
+          "videoPublishedAt": "2019-07-25T15:56:16Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "5qYrfDmmN5Y79Bz21KOxJJBC_Rw",
+        "etag": "oKpL1qqqdKa64rEIJRWk6OTZxTY",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wMDkwRkI3NzExODA2MTFG",
         "snippet": {
           "publishedAt": "2019-08-01T17:13:42Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "урок 307 Йешаяу гл  34 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/iTkNu2vFih4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/iTkNu2vFih4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/iTkNu2vFih4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/iTkNu2vFih4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/iTkNu2vFih4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 124,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "iTkNu2vFih4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "iTkNu2vFih4"
+          "videoId": "iTkNu2vFih4",
+          "videoPublishedAt": "2019-08-01T17:13:40Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "XlmkX42nByBZlO9GdLwwZMmlqps",
+        "etag": "TfLNCYAmlFir06R5cGXnGWtsaCY",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4xRDJGOTc4RkUxMzUwMUFG",
         "snippet": {
           "publishedAt": "2019-08-06T03:55:23Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "урок 308 Йешаяу гл  34 ч  4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/h9obJ2VdBoc/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/h9obJ2VdBoc/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/h9obJ2VdBoc/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/h9obJ2VdBoc/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/h9obJ2VdBoc/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 125,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "h9obJ2VdBoc"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "h9obJ2VdBoc"
+          "videoId": "h9obJ2VdBoc",
+          "videoPublishedAt": "2019-08-06T05:00:46Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "QAikyvDgbxexjrdzp_BDLi-GKnE",
+        "etag": "CaLAvTGazuZDtXaU2GnPcDAAVok",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wQTI4OEZFRUE0Q0Q3ODQw",
         "snippet": {
           "publishedAt": "2019-08-19T00:02:40Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 309 Йешаяу гл  35 ч  1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/VtZW-HFyFiE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/VtZW-HFyFiE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/VtZW-HFyFiE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/VtZW-HFyFiE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/VtZW-HFyFiE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 126,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "VtZW-HFyFiE"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "VtZW-HFyFiE"
+          "videoId": "VtZW-HFyFiE",
+          "videoPublishedAt": "2019-08-19T00:02:38Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "3x1GJxHnYDdDKXp3Vgp_5DXagik",
+        "etag": "Oo5Et7tXXK-6SFZviIpMYkovmPY",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy41NUMwNTVERDNBRDc4REM0",
         "snippet": {
           "publishedAt": "2019-08-29T14:56:59Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 310 Йешаяу гл  35 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/3x2XaJfBZD4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/3x2XaJfBZD4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/3x2XaJfBZD4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/3x2XaJfBZD4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/3x2XaJfBZD4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 127,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "3x2XaJfBZD4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "3x2XaJfBZD4"
+          "videoId": "3x2XaJfBZD4",
+          "videoPublishedAt": "2019-08-29T14:56:57Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "hNd6jRvLeawFHBL5Voh2OBzwLXk",
+        "etag": "jiLjaYp8xSDLSOzXWVNHY_SZ97Y",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5BRUVCN0E0MzEwQzAwNjMy",
         "snippet": {
           "publishedAt": "2019-09-05T18:54:38Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 311 Йешаяу гл  35 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/1HZ2wCSiJLk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/1HZ2wCSiJLk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/1HZ2wCSiJLk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/1HZ2wCSiJLk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/1HZ2wCSiJLk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 128,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "1HZ2wCSiJLk"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "1HZ2wCSiJLk"
+          "videoId": "1HZ2wCSiJLk",
+          "videoPublishedAt": "2019-09-05T19:10:11Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "AjUD4pWg5VsJA1vw2iGdAgUWdQk",
+        "etag": "UKlKLKFlp733noOPwWtcB5LH4JI",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5EODkyNDMzRkJBNkQ2NkMz",
         "snippet": {
           "publishedAt": "2019-09-10T14:04:23Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 312 Йешаяу гл  36 ч  1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/xI8-tk_KlC0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/xI8-tk_KlC0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/xI8-tk_KlC0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/xI8-tk_KlC0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/xI8-tk_KlC0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 129,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "xI8-tk_KlC0"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "xI8-tk_KlC0"
+          "videoId": "xI8-tk_KlC0",
+          "videoPublishedAt": "2019-09-10T14:50:16Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "HX_nO_qjxfHfNP0vrpT_Edqz8Xk",
+        "etag": "l7bOTNfn_FEd_4Uf1lHTVYbGdx8",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy41MzJFNEYxODEyNzA0QUUx",
         "snippet": {
           "publishedAt": "2019-10-07T01:00:15Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 313 Йешаяу гл  36 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/WLmj52mfHw4/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/WLmj52mfHw4/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/WLmj52mfHw4/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/WLmj52mfHw4/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/WLmj52mfHw4/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 130,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "WLmj52mfHw4"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "WLmj52mfHw4"
+          "videoId": "WLmj52mfHw4",
+          "videoPublishedAt": "2019-10-07T01:00:12Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bK4jF9ImEWm8UzHTn-auOExvcoU",
+        "etag": "IuGxtuwjkD4bWf1buzwAqUt4DX0",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5ENjg3MEUyQ0IzODMzQThB",
         "snippet": {
           "publishedAt": "2019-10-28T11:29:57Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 314 Йешаяу гл  37 ч  1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/DxJIsHZ6VxE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/DxJIsHZ6VxE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/DxJIsHZ6VxE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/DxJIsHZ6VxE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/DxJIsHZ6VxE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 131,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "DxJIsHZ6VxE"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "DxJIsHZ6VxE"
+          "videoId": "DxJIsHZ6VxE",
+          "videoPublishedAt": "2019-10-28T12:15:09Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "pd_aGfbiabmy7kGlcVQQQj4k-Z4",
+        "etag": "ATa7kcWbzBA2M9ySBDYgdHme5eA",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy45MEI3NjgzMTVFQkZGODYx",
         "snippet": {
           "publishedAt": "2019-11-01T20:55:43Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 315 Йешаяу гл  37 ч  2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/ijTitL7C2J0/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/ijTitL7C2J0/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/ijTitL7C2J0/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/ijTitL7C2J0/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/ijTitL7C2J0/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 132,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "ijTitL7C2J0"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "ijTitL7C2J0"
+          "videoId": "ijTitL7C2J0",
+          "videoPublishedAt": "2019-11-01T20:55:40Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "0vBXMJZErESEz6nL2CT9vJCefJg",
+        "etag": "j0k0nmlo6TKn2Nq_Pi_DEynPqX0",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4zNEMzQ0FDREY1MkE1RkQ1",
         "snippet": {
           "publishedAt": "2019-11-10T18:57:48Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 316 Йешаяу гл  37 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/zCuPyIhZrR8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/zCuPyIhZrR8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/zCuPyIhZrR8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/zCuPyIhZrR8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/zCuPyIhZrR8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 133,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "zCuPyIhZrR8"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "zCuPyIhZrR8"
+          "videoId": "zCuPyIhZrR8",
+          "videoPublishedAt": "2019-11-10T19:30:15Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "AC2ROlxLInlcqSzbIM0y17zgZx4",
+        "etag": "5irFldpGzL-ugIgaFFuEkSDSADI",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5BQzRBQzNEOTgzNTU2QkZB",
         "snippet": {
           "publishedAt": "2019-11-20T17:42:30Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 317 Йешаяу гл  37 ч  4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/yrki_p2LIxg/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/yrki_p2LIxg/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/yrki_p2LIxg/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/yrki_p2LIxg/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/yrki_p2LIxg/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 134,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "yrki_p2LIxg"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "yrki_p2LIxg"
+          "videoId": "yrki_p2LIxg",
+          "videoPublishedAt": "2019-11-20T18:33:25Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "FMgzswsH1xyvrcz-_W4VE9Fw-dc",
+        "etag": "qiL8LB3knN8mDfg-4ewf9HZePHI",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5EN0U0NTk3NzIwMjUxN0M3",
         "snippet": {
           "publishedAt": "2019-11-28T12:49:10Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 318 Йешаяу гл  37 ч  5",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/RZHlFgt7caI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/RZHlFgt7caI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/RZHlFgt7caI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/RZHlFgt7caI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/RZHlFgt7caI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 135,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "RZHlFgt7caI"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "RZHlFgt7caI"
+          "videoId": "RZHlFgt7caI",
+          "videoPublishedAt": "2019-11-28T13:22:13Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "M22RBsmpJDb04_muroUDfIVOVh8",
+        "etag": "Qv2PhU4PYQkxPMTepte7d2LoaNU",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy44M0Q5MzQ0QTcwQzFDMjc5",
         "snippet": {
           "publishedAt": "2019-12-20T04:06:36Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 320 Йешаяу гл 38 ч 2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CsMJmC10NbQ/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CsMJmC10NbQ/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CsMJmC10NbQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CsMJmC10NbQ/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CsMJmC10NbQ/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 136,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "CsMJmC10NbQ"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "CsMJmC10NbQ"
+          "videoId": "CsMJmC10NbQ",
+          "videoPublishedAt": "2019-12-20T04:49:25Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "cjb50C4nWdK2E4hLYEZqtHWDT9g",
+        "etag": "JoUzqMjOev7lBwf_GxmDGqXP2og",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wMEMyQTBBOTUwNTM0OUFG",
         "snippet": {
           "publishedAt": "2020-01-02T14:15:16Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 321 Йешаяу гл 38 ч 3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/hWY9KO2AwmI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/hWY9KO2AwmI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/hWY9KO2AwmI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/hWY9KO2AwmI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/hWY9KO2AwmI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 137,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "hWY9KO2AwmI"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "hWY9KO2AwmI"
+          "videoId": "hWY9KO2AwmI",
+          "videoPublishedAt": "2020-01-02T14:56:28Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "tPdhTAyUDUv6mW-MqmsBaPOhLY8",
+        "etag": "kmL2vAsSgIx0ZTIgD4PRx2ZkxUk",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5CRjBFOTUzQTE4Mjg3RUJF",
         "snippet": {
           "publishedAt": "2020-02-20T04:45:16Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 326 Йешаяу гл 40 ч 2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/OAhMxr24Lcs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/OAhMxr24Lcs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/OAhMxr24Lcs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/OAhMxr24Lcs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/OAhMxr24Lcs/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 138,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "OAhMxr24Lcs"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "OAhMxr24Lcs"
+          "videoId": "OAhMxr24Lcs",
+          "videoPublishedAt": "2020-02-20T05:40:32Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "C_TW-GtOc3UqzkhAhbcjmPCMPXQ",
+        "etag": "s_Cc4T5y9MH2PZmChhRgFZd5xQQ",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy41QTQ4QTIyM0Y1RTBGMUNE",
         "snippet": {
           "publishedAt": "2020-02-20T14:05:24Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 325 Йешаяу гл 40 ч 1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/vJ6A8AQdnWI/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/vJ6A8AQdnWI/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/vJ6A8AQdnWI/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/vJ6A8AQdnWI/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/vJ6A8AQdnWI/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 139,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "vJ6A8AQdnWI"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "vJ6A8AQdnWI"
+          "videoId": "vJ6A8AQdnWI",
+          "videoPublishedAt": "2020-02-20T14:46:58Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "jhpzCDTgssM2LoVjQBQfBTA19s8",
+        "etag": "VIDaCmalMlRHItiCv2_ZzU-ifpc",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wQjA4QkVEQ0RFREIzMjFC",
         "snippet": {
           "publishedAt": "2020-02-24T03:26:39Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 327 Йешаяу гл 40 ч 3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/CQE44gPgRtA/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/CQE44gPgRtA/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/CQE44gPgRtA/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/CQE44gPgRtA/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/CQE44gPgRtA/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 140,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "CQE44gPgRtA"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "CQE44gPgRtA"
+          "videoId": "CQE44gPgRtA",
+          "videoPublishedAt": "2020-02-24T04:05:24Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "lIUek_6QXuo-GAbKmkfmx6YwUZI",
+        "etag": "7tegiyk7R_ZGKFSwLR0ETNRpdU8",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4wNjIzRDA1OTQ2M0UyODEw",
         "snippet": {
           "publishedAt": "2020-03-04T14:31:58Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 328 Йешаяу гл 40 ч 4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/mI_ZvIp6z8w/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/mI_ZvIp6z8w/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/mI_ZvIp6z8w/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/mI_ZvIp6z8w/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/mI_ZvIp6z8w/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 141,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "mI_ZvIp6z8w"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "mI_ZvIp6z8w"
+          "videoId": "mI_ZvIp6z8w",
+          "videoPublishedAt": "2020-03-04T15:11:48Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "03njeE6aPj7_HZTYsVJzM_huIvY",
+        "etag": "9Sseb5-FAEl-dTu4qNJonuhXP54",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5EQTdFNDU3M0Y3MTM1QjlG",
         "snippet": {
           "publishedAt": "2020-03-15T17:42:17Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "урок 329 Йешаяу гл  40 ч  5",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/A9u2buK-vEE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/A9u2buK-vEE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/A9u2buK-vEE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/A9u2buK-vEE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/A9u2buK-vEE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 142,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "A9u2buK-vEE"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "A9u2buK-vEE"
+          "videoId": "A9u2buK-vEE",
+          "videoPublishedAt": "2020-03-15T18:26:54Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "bFBHlHIOsg9wi4bpPz_E7zXPjWI",
+        "etag": "imz4nee_Ny-3UGBtNmPeSt-hOR0",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4xRjE1NzQ4MjRCMUNFRDdB",
         "snippet": {
           "publishedAt": "2020-03-26T20:29:33Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 330 Йешаяу гл  41 ч 1",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/o8PDz6y_Vls/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/o8PDz6y_Vls/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/o8PDz6y_Vls/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/o8PDz6y_Vls/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/o8PDz6y_Vls/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 143,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "o8PDz6y_Vls"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "o8PDz6y_Vls"
+          "videoId": "o8PDz6y_Vls",
+          "videoPublishedAt": "2020-03-26T21:19:54Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "SV1nH4IRywXmuOrtB6vwgwaQIeI",
+        "etag": "7uiK0PhXfnzAqr9NKWPa2L60rWU",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5DNUEzOUFFNkIyOUUzOTRC",
         "snippet": {
           "publishedAt": "2020-03-27T17:04:24Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 331 Йешаяу гл.41 ч.2",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4_iiU8Xr7Zs/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4_iiU8Xr7Zs/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4_iiU8Xr7Zs/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4_iiU8Xr7Zs/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 144,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "4_iiU8Xr7Zs"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "4_iiU8Xr7Zs"
+          "videoId": "4_iiU8Xr7Zs",
+          "videoPublishedAt": "2020-03-27T17:14:20Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "NOlxMvCeiS9f2AFFQpENLztdhN4",
+        "etag": "d3T_yHFJK72vOVf9Ifrs5X9zY7Y",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy4zMkY2MjA3RDJERTkxNjkz",
         "snippet": {
           "publishedAt": "2020-04-20T00:07:41Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 332 Йешаяу гл  41 ч  3",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/4IPAxvqKr5E/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/4IPAxvqKr5E/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/4IPAxvqKr5E/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/4IPAxvqKr5E/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/4IPAxvqKr5E/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 145,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "4IPAxvqKr5E"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "4IPAxvqKr5E"
+          "videoId": "4IPAxvqKr5E",
+          "videoPublishedAt": "2020-04-20T00:51:01Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "TUdq40JuH0ao227fUzugLYmYT0w",
+        "etag": "q_yw616RaDO7D5fOlaE6_hgUEcA",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5FMjFERkYxMjI2NjkyMjg5",
         "snippet": {
           "publishedAt": "2020-05-01T00:59:55Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 333 Йешаяу гл  41 ч 4",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/TC2Bm7-RgwE/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/TC2Bm7-RgwE/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/TC2Bm7-RgwE/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/TC2Bm7-RgwE/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/TC2Bm7-RgwE/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 146,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "TC2Bm7-RgwE"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "TC2Bm7-RgwE"
+          "videoId": "TC2Bm7-RgwE",
+          "videoPublishedAt": "2020-05-01T01:46:38Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "pvY2E76QfLH9KM_HtwwsTEFVi24",
+        "etag": "haYp7VLalmJW4bOTGCR9tUHpjIg",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5FOTE3RTBFMjNFMDNEM0Yz",
         "snippet": {
           "publishedAt": "2020-05-07T14:11:31Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 334 Йешаяу гл 41 ч 5",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/jtpOgH92WNk/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/jtpOgH92WNk/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/jtpOgH92WNk/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/jtpOgH92WNk/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/jtpOgH92WNk/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 147,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "jtpOgH92WNk"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "jtpOgH92WNk"
+          "videoId": "jtpOgH92WNk",
+          "videoPublishedAt": "2020-05-07T14:55:09Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "prA4TuxP5NS3agPToXmu7HEAGOw",
+        "etag": "wHjFNKWtu6JEUtqQSnKrQqkSkF8",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy5BNTRGQTE1QjY2NUE5NTAz",
         "snippet": {
           "publishedAt": "2020-05-14T17:19:43Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 335 Йешаяу гл 41 ч 6",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/32JQh2zKB-8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/32JQh2zKB-8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/32JQh2zKB-8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/32JQh2zKB-8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/32JQh2zKB-8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 148,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "32JQh2zKB-8"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "32JQh2zKB-8"
+          "videoId": "32JQh2zKB-8",
+          "videoPublishedAt": "2020-05-14T18:02:56Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
         "kind": "youtube#playlistItem",
-        "etag": "VEtQNLXYgcC3uWRPC_OaAeOvgVU",
+        "etag": "LkckloyTsNSSfQh2gn4xSYc-MEQ",
         "id": "UExXMjhxR3hQbW1icjF1RUVQcXRicUQta1YtUWhKOS1pRy42NjBGMkRFNDcwMjM2NzYx",
         "snippet": {
           "publishedAt": "2020-05-20T19:44:47Z",
           "channelId": "UCj-2E7hjKMb80oThCWjJ3Dw",
-          "title": "Deleted video",
-          "description": "This video is unavailable.",
-          "thumbnails": {},
+          "title": "Урок 336 Йешаяу гл 41 ч 7",
+          "description": "",
+          "thumbnails": {
+            "default": {
+              "url": "https://i.ytimg.com/vi/9OZ4DjkcvA8/default.jpg",
+              "width": 120,
+              "height": 90
+            },
+            "medium": {
+              "url": "https://i.ytimg.com/vi/9OZ4DjkcvA8/mqdefault.jpg",
+              "width": 320,
+              "height": 180
+            },
+            "high": {
+              "url": "https://i.ytimg.com/vi/9OZ4DjkcvA8/hqdefault.jpg",
+              "width": 480,
+              "height": 360
+            },
+            "standard": {
+              "url": "https://i.ytimg.com/vi/9OZ4DjkcvA8/sddefault.jpg",
+              "width": 640,
+              "height": 480
+            },
+            "maxres": {
+              "url": "https://i.ytimg.com/vi/9OZ4DjkcvA8/maxresdefault.jpg",
+              "width": 1280,
+              "height": 720
+            }
+          },
           "channelTitle": "Тора ве-Даат",
           "playlistId": "PLW28qGxPmmbr1uEEPqtbqD-kV-QhJ9-iG",
           "position": 149,
           "resourceId": {
             "kind": "youtube#video",
             "videoId": "9OZ4DjkcvA8"
-          }
+          },
+          "videoOwnerChannelTitle": "Тора ве-Даат",
+          "videoOwnerChannelId": "UCj-2E7hjKMb80oThCWjJ3Dw"
         },
         "contentDetails": {
-          "videoId": "9OZ4DjkcvA8"
+          "videoId": "9OZ4DjkcvA8",
+          "videoPublishedAt": "2020-05-20T20:32:49Z"
         },
         "status": {
-          "privacyStatus": "privacyStatusUnspecified"
+          "privacyStatus": "public"
         }
       },
       {
